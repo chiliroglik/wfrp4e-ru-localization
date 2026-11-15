@@ -1,0 +1,169 @@
+{
+  "collection": "wfrp4e-wom.actors",
+  "sourceSha256": "ff01e99f2e2060c6ad0d49de01d2f01607e44a9d8da41b60a5f5fc065f67131c",
+  "entries": {
+    "06edHNTIJFOTKH9w.gmnotes": {
+      "actorId": "06edHNTIJFOTKH9w",
+      "field": "system.details.gmnotes.value",
+      "source": "<p>@UUID[Compendium.wfrp4e-wom.journals.j72t0e5BVIgeOMB4.JournalEntryPage.qry4tzxt30ROrH2V]{Raphael Julevno}</p><p><strong>Motivation</strong>: Decrease factionalism within the Celestial College.</p><p><strong>Short-Term Ambition</strong>: Become indispensable to Lord Glazend.</p><p><strong>Long-Term Ambition</strong>: Delegate tasks that prevent him from achieving his priorities to a group of trustworthy and talented agents.</p><p>Julevno is a rising prodigy in the @UUID[JournalEntry.j72t0e5BVIgeOMB4.JournalEntryPage.N8s4rKsTaQ8rRUU3#the-celestial-college]{Celestial College}, apparently destined to become High Celestial. However, he is not ambitious and would rather spend his time researching his own talents than intriguing his way to the top of the order. Julevno looks younger than his 47 years, clean-shaven and attired in the lavish robes typical of the college. He has already quite a reputation in the order. He was the youngest accepted magister in history and his mastery of <em>Azyr</em> is instinctive and effortless. Julevno was born with an innate ability to see the blue wind and experience brief intimations of possible futures.</p>",
+      "translation": "<p>@UUID[Compendium.wfrp4e-wom.journals.j72t0e5BVIgeOMB4.JournalEntryPage.qry4tzxt30ROrH2V]{Рафаэль Юлевно}</p><p><strong>Побуждение</strong>: Уменьшить раскол внутри Небесной коллегии.</p><p><strong>Краткосрочная цель</strong>: Стать незаменимым для лорда Глазенда.</p><p><strong>Долгосрочная цель</strong>: Передать мешающие главным целям дела группе надёжных талантливых агентов.</p><p>Юлевно — восходящий талант @UUID[JournalEntry.j72t0e5BVIgeOMB4.JournalEntryPage.N8s4rKsTaQ8rRUU3#the-celestial-college]{Небесной коллегии}, будто предназначенный стать её главой. Но он не честолюбив и предпочитает изучать собственный дар, а не прокладывать интригами дорогу наверх. Он выглядит моложе своих 47 лет, гладко выбрит и носит пышные одеяния Коллегии. Его репутация уже значительна: он стал самым молодым магистром в истории, а его владение <em>Азиром</em> инстинктивно и непринуждённо. Он родился со способностью видеть Синий Ветер и улавливать краткие предчувствия возможного будущего.</p>",
+      "pdfPages": [
+        139
+      ]
+    },
+    "1Fw8roY9zezj0jAn.gmnotes": {
+      "actorId": "1Fw8roY9zezj0jAn",
+      "field": "system.details.gmnotes.value",
+      "source": "<p>@UUID[Compendium.wfrp4e-wom.journals.7xFrgrOyYX4SVrBL.JournalEntryPage.x7CnGtdKM9pTxuT6]{Immanuel-Ferrand Holswig-Schliestein}</p><p><strong>Motivation</strong>: Actualise his vision of a centrally controlled Empire.</p><p><strong>Short-Term Ambition</strong>: Regain the favour he lost due to his rash counsel.</p><p><strong>Long-Term Ambition</strong>: Weaken the influence of foreign embassies and the Prime Estates in Altdorf.</p><p>Immanuel-Ferrand is a powerful man, an uncle of the Emperor and at home in high society. As a royal personage he can gain admittance to the Emperor’s privy council on request. An active political player and member of the Council of State, he holds the office of High Chancellor of the Realm. Most folk know that this grandiose title is a euphemism for ‘spymaster’, for Immanuel-Ferrand heads the Graukappen, an arm of Altdorf’s notorious secret service responsible for gathering intelligence and acting against hostile forces outside Altdorf.</p>",
+      "translation": "<p>@UUID[Compendium.wfrp4e-wom.journals.7xFrgrOyYX4SVrBL.JournalEntryPage.x7CnGtdKM9pTxuT6]{Иммануэль-Ферран Хольсвиг-Шлиштайн}</p><p><strong>Побуждение</strong>: Воплотить идею централизованно управляемой Империи.</p><p><strong>Краткосрочная цель</strong>: Вернуть расположение, утраченное из-за опрометчивого совета.</p><p><strong>Долгосрочная цель</strong>: Ослабить влияние иностранных посольств и Высших сословий в Альтдорфе.</p><p>Иммануэль-Ферран — могущественный человек, дядя Императора, свой в высшем обществе. Член императорского рода, он по желанию получает доступ к тайному совету. Активный политик и участник Государственного совета, он занимает пост Верховного канцлера державы. Большинство понимает: пышный титул означает «глава разведки». Он возглавляет Граукаппен, подразделение печально известной альтдорфской тайной службы, собирающее сведения и действующее против враждебных сил за пределами столицы.</p>",
+      "pdfPages": [
+        151
+      ]
+    },
+    "2ODxoEtEl6ZMzE0j.biography": {
+      "actorId": "2ODxoEtEl6ZMzE0j",
+      "field": "system.details.biography.value",
+      "source": "<section id=\"secret-DWYva8n04zwCIZcF\" class=\"secret\"><p>Those who seek to summon an Incarnate Elemental of Death risk their own destruction, for to conjure this entity is to beckon Death itself into the world. The Incarnate Elemental of Death is a terrifying apparition, bearing the heads of lean and hungry Dragons at either end of a massive and twisted serpentine body.</p><p>Although it is monstrous in proportion the elemental makes no sound, save for a soft susurrus, the eerie whisperings of the grave, following in its wake. Unlike other Incarnate Elementals, the Incarnate Elemental of Death is known by no other names, for it is rarely conjured and those who know how to call it forth (the spiriters of the @UUID[JournalEntry.hFQtvGpxh0D8Xfcl.JournalEntryPage.daD4ol3xeaOgeizW]{Amethyst Order}) are too respectful of it to refer to it as anything other than what it is.</p><p>The Incarnate Elemental of Death is bound to the mortal realm by the power held within a rare <em>Shyish</em> horologe — an enchanted hourglass that contains the dust of a monarch’s bones. It serves as a powerful arcane focus and this artefact alone can contain the straining power of such an unnatural entity.</p><p>Those versed in the Lore of <em>Shyish</em> claim that anyone who meets the gaze of an Incarnate Elemental of Death witnesses their own destruction — but those who get so close are surely lost already. Rearing up on its sinuous body the elemental strikes with a speed few can escape, crushing its foes beneath the coils of its twisting body or ripping them apart with its monstrous jaws.</p></section>",
+      "translation": "<section id=\"secret-DWYva8n04zwCIZcF\" class=\"secret\"><p>Призывающий воплощённого элементаля Смерти рискует собственной гибелью: он зовёт в мир саму Смерть. Это ужасающее явление с головами тощих голодных драконов на обоих концах огромного извивающегося змеиного тела.</p><p>Несмотря на чудовищный размер, элементаль почти беззвучен: за ним тянется лишь тихий шелест, жуткий могильный шёпот. В отличие от других элементалей у него нет иных имён. Его редко призывают, а знающие ритуал спиритисты @UUID[JournalEntry.hFQtvGpxh0D8Xfcl.JournalEntryPage.daD4ol3xeaOgeizW]{Аметистового ордена} слишком почитают его, чтобы звать иначе.</p><p>Его привязывает к миру смертных редкий артефакт <em>Шаиша</em> — зачарованные песочные часы с прахом костей монарха. Это могущественный магический фокус; лишь он способен удержать рвущуюся наружу силу столь неестественной сущности.</p><p>Знатоки школы <em>Смерти</em> утверждают: встретивший взгляд элементаля видит собственную гибель, но подошедший так близко наверняка уже обречён. Вздымаясь на извилистом теле, элементаль бьёт с почти неуловимой скоростью, давит врагов кольцами или рвёт чудовищными челюстями.</p></section>",
+      "pdfPages": [
+        64
+      ]
+    },
+    "33wOqP0s7ANviU1e.biography": {
+      "actorId": "33wOqP0s7ANviU1e",
+      "field": "system.details.biography.value",
+      "source": "<p>@UUID[Compendium.wfrp4e-wom.journals.PFnvyXX7in5YvVbk.JournalEntryPage.q6buibTm8J7mvxAS]{Combat Familiar}</p>",
+      "translation": "<p>@UUID[Compendium.wfrp4e-wom.journals.PFnvyXX7in5YvVbk.JournalEntryPage.q6buibTm8J7mvxAS]{Боевой фамильяр}</p>",
+      "pdfPages": []
+    },
+    "47AVLmEhgioAt7O3.gmnotes": {
+      "actorId": "47AVLmEhgioAt7O3",
+      "field": "system.details.gmnotes.value",
+      "source": "<p>@UUID[Compendium.wfrp4e-wom.journals.Q9sQhbDN8NUHXYdA.JournalEntryPage.vc000lXgYSy5ZLgg]{Tochter Grunfeld}</p><p><strong>Motivation</strong>: Use her powers to keep the Empire safe.</p><p><strong>Short-Term Ambition</strong>: Gather information about the vampiric influence in Sylvania.</p><p><strong>Long-Term Ambition</strong>: Destroy the Vampires of Sylvania.</p><p>Tochter Grunfeld is an ageless force of nature, whose appearance changes with her mood. At times she gives the impression of a green-skinned tree-spirit, hard and implacable, and at others a young woman with flowing white hair entwined with ivy, and even sometimes as a round, grandmotherly figure. No one knows, or could even guess her age but she was well known around the east of Stirland more than fifty years ago. There she laboured against encroaching blights and the depredation of Vampires. Recently, however, she has been drawn to Altdorf. Though she has no love for political manoeuvring she has emerged as a senior figure in the @UUID[JournalEntry.Q9sQhbDN8NUHXYdA.JournalEntryPage.ncaIbmNtJrNfVfZh]{Jade Order} and many believe that she would make a fine matriarch should Magister Arburg leave his post while she still lives.</p>",
+      "translation": "<p>@UUID[Compendium.wfrp4e-wom.journals.Q9sQhbDN8NUHXYdA.JournalEntryPage.vc000lXgYSy5ZLgg]{Тохтер Грюнфельд}</p><p><strong>Побуждение</strong>: Защищать Империю своей силой.</p><p><strong>Краткосрочная цель</strong>: Собрать сведения о влиянии вампиров в Сильвании.</p><p><strong>Долгосрочная цель</strong>: Уничтожить вампиров Сильвании.</p><p>Тохтер Грюнфельд — нестареющая сила природы, меняющая облик с настроением. То она напоминает сурового неумолимого зеленокожего древесного духа, то молодую женщину с белыми волосами, оплетёнными плющом, то округлую бабушку. Никто даже не берётся угадать её возраст, но на востоке Штирланда её знали более полувека назад. Она боролась с порчей земель и вампирскими разорениями. Недавно её привлёк Альтдорф. Не любя политических манёвров, она всё же стала старшей фигурой @UUID[JournalEntry.Q9sQhbDN8NUHXYdA.JournalEntryPage.ncaIbmNtJrNfVfZh]{Нефритового ордена}. Многие видят в ней достойную матриархиню, если магистр Арбург уйдёт при её жизни.</p>",
+      "pdfPages": [
+        126
+      ]
+    },
+    "8Ct3OotoGRqV4nkd.biography": {
+      "actorId": "8Ct3OotoGRqV4nkd",
+      "field": "system.details.biography.value",
+      "source": "<section id=\"secret-V80mf0YYoasDb1r2\" class=\"secret\"><p><em>Aqshy</em> is the most wantonly destructive of all the Winds of Magic, all-consuming and insatiably hungry. It is said that the Incarnate Elementals of Fire born from it possess a terrible wrath and fury only matched by Daemons.</p><p>Known in magical lore as the Charred Ones, the Black Harvestmen, and Jack O’Cinders, the Incarnate Elemental of Fire towers over the battlefield. It possesses a lean and terrible form, cinder black and ash strewn, from which phenomenal heat radiates. Few can withstand the elemental’s wrath and it can unleash a fire storm that turns armour into molten slag and causes artillery to explode, sending red hot shards of metal slicing through the air and the flesh of those who stand nearby.</p><p>Incarnate Elementals of Fire are so destructive and difficult to control that they are rarely seen. Even the more reckless magisters of the @UUID[JournalEntry.wjJ2wq1bzzON74vV.JournalEntryPage.QHqglxxZ0Ii2mPRy]{Bright Order}, an organisation with no shortage of rash practitioners, are reluctant to summon one even in dire circumstances. Despite their reputation, these towering monsters enjoy the curious affection of many peasants who live on the Bretonnian side of the @UUID[Compendium.wfrp4e-core.journals.ozE2DMCMK64eE5pD.JournalEntryPage.w0YfGxsBuLoODCgc]{Grey Mountains}.</p><p>They place effigies of burned wood outside their hovels in thanks to a mysterious warlock who once summoned a score of Black Harvestmen to defeat a horde of rampaging Undead horrors. Local barons tear down the effigies if they find them. They claim the tales are seditious lies, but the scorched and blackened fortresses that dot the region provide evidence to the contrary.</p></section>",
+      "translation": "<section id=\"secret-V80mf0YYoasDb1r2\" class=\"secret\"><p><em>Акши</em> — самый безрассудно разрушительный Ветер, всепожирающий и ненасытный. Говорят, порождённые им элементали Огня обладают яростью, сравнимой лишь с демонической.</p><p>В магических преданиях их зовут Обугленными, Чёрными жнецами и Джеком Угольком. Тощий страшный элементаль возвышается над полем боя, чёрный от угля и присыпанный пеплом, излучая невероятный жар. Немногие выдержат его гнев: огненная буря плавит доспехи и взрывает артиллерию, рассылая раскалённые осколки сквозь воздух и плоть.</p><p>Элементали Огня столь разрушительны и трудноуправляемы, что появляются редко. Даже безрассудные магистры @UUID[JournalEntry.wjJ2wq1bzzON74vV.JournalEntryPage.QHqglxxZ0Ii2mPRy]{Сияющего ордена}, где и так хватает опрометчивых практиков, неохотно призывают их в крайней нужде. Тем любопытнее любовь крестьян бретонской стороны @UUID[Compendium.wfrp4e-core.journals.ozE2DMCMK64eE5pD.JournalEntryPage.w0YfGxsBuLoODCgc]{Серых гор} к этим чудовищам.</p><p>Крестьяне ставят у хижин обугленные деревянные фигуры в благодарность таинственному колдуну, некогда призвавшему два десятка Чёрных жнецов против орды нежити. Бароны уничтожают найденные фигуры, называя сказания мятежной ложью, но обгоревшие крепости региона свидетельствуют об обратном.</p></section>",
+      "pdfPages": [
+        63
+      ]
+    },
+    "9u5V79gIzWHDLWqH.gmnotes": {
+      "actorId": "9u5V79gIzWHDLWqH",
+      "field": "system.details.gmnotes.value",
+      "source": "<p>@UUID[Compendium.wfrp4e-wom.journals.kLTWtoz5d7Yt2zAJ.JournalEntryPage.FtKYmBEuLSrtLtRG]{Balthasar Gelt}</p><p><strong>Note</strong>: Balthasar’s library contains grimoires containing all Arcane and Lore spells that he has not memorised.</p><h3><em>Patriarch of the Gold Order</em></h3><p><strong>Motivation</strong>: Become the greatest of living wizards.</p><p><strong>Short-Term Ambition</strong>: Depose Thyrus Gormann as Supreme Patriarch.</p><p><strong>Long-Term Ambition</strong>: Perfect magical techniques to suppress the next Chaos incursion.</p><blockquote><p>Who is that masked man?’</p><p style=\"text-align: right\"><em>— Gold Apprentice making a joke people have heard before</em></p><p>‘His eyes peering from behind that mask give me the shivers every time. Is he even human?”</p><p style=\"text-align: right\"><em>— Gold Adept Kadmus Kaldtwell, quietly</em></p></blockquote><p>According to his official biography, Magister Patriarch Balthasar Gelt was born the son of a master apothecary and doctor in the court of a Border Kingdom prince. As a youth he showed an exceptional talent for compounding medicines and an understanding of the properties of minerals and herbs that surpassed the skill of men with many decades of experience.</p>",
+      "translation": "<p>@UUID[Compendium.wfrp4e-wom.journals.kLTWtoz5d7Yt2zAJ.JournalEntryPage.FtKYmBEuLSrtLtRG]{Бальтазар Гельт}</p><p><strong>Примечание</strong>: Библиотека Бальтазара содержит гримуары со всеми тайными и школьными заклинаниями, которые он не выучил.</p><h3><em>Патриарх Золотого ордена</em></h3><p><strong>Побуждение</strong>: Стать величайшим из живущих волшебников.</p><p><strong>Краткосрочная цель</strong>: Сместить Тируса Горманна с поста Верховного патриарха.</p><p><strong>Долгосрочная цель</strong>: Усовершенствовать магические приёмы для подавления следующего вторжения Хаоса.</p><blockquote><p>«Кто этот человек в маске?»</p><p style=\"text-align: right\"><em>— Ученик Золотого ордена повторяет старую шутку</em></p><p>«Каждый раз мороз по коже от его глаз за маской. Он вообще человек?»</p><p style=\"text-align: right\"><em>— Золотой адепт Кадмус Колдуэлл, шёпотом</em></p></blockquote><p>Согласно официальной биографии, магистр-патриарх Бальтазар Гельт родился в семье мастера-аптекаря, врача при дворе князя Пограничных королевств. Юношей он проявил исключительный дар приготовления лекарств и понимание минералов и трав, превосходящее искусство специалистов с десятилетиями опыта.</p>",
+      "pdfPages": [
+        114
+      ]
+    },
+    "A3CyaqarDZyEET5k.biography": {
+      "actorId": "A3CyaqarDZyEET5k",
+      "field": "system.details.biography.value",
+      "source": "<p>@UUID[Compendium.wfrp4e-wom.journals.QHdHDll8yI5CSNQl.JournalEntryPage.Jo04mUcvCEvHyiVf]{The Blue Scribes of Tzeentch}</p>",
+      "translation": "<p>@UUID[Compendium.wfrp4e-wom.journals.QHdHDll8yI5CSNQl.JournalEntryPage.Jo04mUcvCEvHyiVf]{Синие писцы Тзинча}</p>",
+      "pdfPages": []
+    },
+    "HKSn8iNSS9WcAuJc.biography": {
+      "actorId": "HKSn8iNSS9WcAuJc",
+      "field": "system.details.biography.value",
+      "source": "<section id=\"secret-UotH6C0fP5xmn37q\" class=\"secret\"><p>Raised by spellcasters from the filth of marshes and bogs, Fenbeasts are seemingly mindless automatons held together by magic. Vaguely humanoid, they are comprised of mud, bones, branches, and slime, and require significant quantities of magic to retain their integrity. Occasionally, they are raised by wizards skilled in Jade magic to act as a bodyguard or to fulfil a specific task requiring brute strength or mindless killing. Sometimes they rise independently, spawned in stagnant festering pools where the ﬂow of magic has been corrupted. The @UUID[JournalEntry.Q9sQhbDN8NUHXYdA.JournalEntryPage.MVwOuM2YKhUvA1E1#the-jade-college]{Jade College} in @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.V6tkgQ9A2skppjyl]{Altdorf} is said to maintain a score of the creatures as drudges, fetching and carrying for senior Magisters, maintained by the ceaseless channeling of dozens of apprentices.</p></section>",
+      "translation": "<section id=\"secret-UotH6C0fP5xmn37q\" class=\"secret\"><p>Поднятые магами из грязи болот и топей, болотники — кажущиеся безмозглыми автоматы, скреплённые магией. Смутно человекоподобные тела из грязи, костей, ветвей и слизи требуют значительных магических сил для сохранения формы. Нефритовые маги порой создают их как телохранителей или для задач, требующих грубой силы и бездумного убийства. Иногда они сами рождаются в застойных гниющих водоёмах с осквернённым потоком магии. Говорят, @UUID[JournalEntry.Q9sQhbDN8NUHXYdA.JournalEntryPage.MVwOuM2YKhUvA1E1#the-jade-college]{Нефритовая коллегия} в @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.V6tkgQ9A2skppjyl]{Альтдорфе} держит два десятка таких слуг для поручений старших магистров; их поддерживает непрерывная концентрация десятков учеников.</p></section>",
+      "pdfPages": [
+        67
+      ]
+    },
+    "JrH67vCaUXSF7YQq.gmnotes": {
+      "actorId": "JrH67vCaUXSF7YQq",
+      "field": "system.details.gmnotes.value",
+      "source": "<p>@UUID[Compendium.wfrp4e-wom.journals.4hwftTG3PqNnmUfK.JournalEntryPage.aYLoTGlJDjlTCm2U]{Ashamira Dib}</p><p><strong>Short-Term Ambition</strong>: Reach the @UUID[Compendium.wfrp4e-altdorf.journals.EmhvOkkzAir6pzCB.JournalEntryPage.DZjpSLYGD7mTKNmP]{Light College in Altdorf}.</p><p><strong>Long-Term Ambition</strong>: Master her art to the best of her abilities.</p><p>Ashamira Dib grew up in a small village at the foot of the Atalan mountains, which separates the Great Desert from the more settled lands along the coast. She never felt at home in Arabyan society, though, for she could see things that others couldn’t. When she talked about clouds of light, others couldn’t understand what she was talking about and took her to be addled. She wasn’t, though — she had the Sight. Perhaps it was a talent she had inherited from her great-great-great-grandfather, Immanuel Rauenscheid, who would become patriarch of the Order of Light, and who became her ancestor during his travels through Araby. But whatever the source of the gift, it made her feel separated from society, unwanted, a misfit.</p>",
+      "translation": "<p>@UUID[Compendium.wfrp4e-wom.journals.4hwftTG3PqNnmUfK.JournalEntryPage.aYLoTGlJDjlTCm2U]{Ашамира Диб}</p><p><strong>Краткосрочная цель</strong>: Добраться до @UUID[Compendium.wfrp4e-altdorf.journals.EmhvOkkzAir6pzCB.JournalEntryPage.DZjpSLYGD7mTKNmP]{Коллегии Света в Альтдорфе}.</p><p><strong>Долгосрочная цель</strong>: Освоить своё искусство до предела возможностей.</p><p>Ашамира Диб выросла в маленькой деревне у Аталанских гор, отделяющих Великую пустыню от обжитого побережья. Она не чувствовала себя своей в арабийском обществе, поскольку видела невидимое другим. Говоря об облаках света, она встречала непонимание; её считали помешанной. Но у неё было Второе зрение. Возможно, дар пришёл от прапрапрадеда Имануила Раунчеда, будущего патриарха Ордена Света, ставшего её предком во время странствий по Арабии. Каково бы ни было происхождение дара, он делал её одинокой, ненужной и чужой обществу.</p>",
+      "pdfPages": [
+        102
+      ]
+    },
+    "OtBqhr035Qdf3XNo.gmnotes": {
+      "actorId": "OtBqhr035Qdf3XNo",
+      "field": "system.details.gmnotes.value",
+      "source": "<p>@UUID[Compendium.wfrp4e-wom.journals.QHdHDll8yI5CSNQl.JournalEntryPage.FzslF56xVepqMZFm]{Egrimm van Horstmann}</p>",
+      "translation": "<p>@UUID[Compendium.wfrp4e-wom.journals.QHdHDll8yI5CSNQl.JournalEntryPage.FzslF56xVepqMZFm]{Эгрим ван Хорстман}</p>",
+      "pdfPages": []
+    },
+    "SljLp1V7fW2QR7PW.biography": {
+      "actorId": "SljLp1V7fW2QR7PW",
+      "field": "system.details.biography.value",
+      "source": "<p>@UUID[Compendium.wfrp4e-wom.journals.PFnvyXX7in5YvVbk.JournalEntryPage.Xsikkjo2hxid0eWR]{Spell Familiar}</p><p><strong>Spells</strong>: A Spell Familiar knows up to four spells, depending on their master’s Wizard Career Level. The wizard teaches these spells to their familiar, so the wizard must already know them. A familiar can learn a new spell each time the wizard gains a Career Level.</p>",
+      "translation": "<p>@UUID[Compendium.wfrp4e-wom.journals.PFnvyXX7in5YvVbk.JournalEntryPage.Xsikkjo2hxid0eWR]{Фамильяр-заклинатель}</p><p><strong>Заклинания</strong>: Фамильяр-заклинатель знает до четырёх заклинаний в зависимости от ступени карьеры создателя-волшебника. Создатель обучает его, поэтому должен сам знать эти заклинания. Каждая новая ступень карьеры волшебника позволяет фамильяру изучить ещё одно.</p>",
+      "pdfPages": [
+        68,
+        72
+      ]
+    },
+    "iqlpIrzHyaIoxlMZ.biography": {
+      "actorId": "iqlpIrzHyaIoxlMZ",
+      "field": "system.details.biography.value",
+      "source": "<p>@UUID[Compendium.wfrp4e-wom.journals.QHdHDll8yI5CSNQl.JournalEntryPage.Jo04mUcvCEvHyiVf]{The Blue Scribes of Tzeentch}</p><p><strong>Trappings</strong>: The Disc is piled high with all manner of grimoires and scrolls. If a Character should acquire one of the texts on the disc, roll on the @UUID[Compendium.wfrp4e-wom.macros.GO3IdVTlWAbTEtAp]{Random Grimoire table}</p>",
+      "translation": "<p>@UUID[Compendium.wfrp4e-wom.journals.QHdHDll8yI5CSNQl.JournalEntryPage.Jo04mUcvCEvHyiVf]{Синие писцы Тзинча}</p><p><strong>Снаряжение</strong>: Диск завален гримуарами и свитками. Если персонаж добудет один из этих текстов, бросьте по @UUID[Compendium.wfrp4e-wom.macros.GO3IdVTlWAbTEtAp]{таблице случайного гримуара}.</p>",
+      "pdfPages": [
+        202
+      ]
+    },
+    "kjfBuKJKt3u3sQQz.biography": {
+      "actorId": "kjfBuKJKt3u3sQQz",
+      "field": "system.details.biography.value",
+      "source": "<p>@UUID[Compendium.wfrp4e-wom.journals.QHdHDll8yI5CSNQl.JournalEntryPage.724V3zFVhoeCTc6p]{Mòna Mimn}</p>",
+      "translation": "<p>@UUID[Compendium.wfrp4e-wom.journals.QHdHDll8yI5CSNQl.JournalEntryPage.724V3zFVhoeCTc6p]{Мона Мимн}</p>",
+      "pdfPages": []
+    },
+    "oldtgeL8W8JqlmMA.gmnotes": {
+      "actorId": "oldtgeL8W8JqlmMA",
+      "field": "system.details.gmnotes.value",
+      "source": "<p>@UUID[Compendium.wfrp4e-wom.journals.hFQtvGpxh0D8Xfcl.JournalEntryPage.KHdKVGnogfOfcGcA]{Elspeth von Draken}</p><p><strong>Motivation</strong>: Be the best, on her own terms.</p><p><strong>Short-Term Ambition</strong>: Maintain alliances with the rulers of Nuln and the @UUID[Compendium.wfrp4e-core.journals.NcH9OhleJFfaUdon.JournalEntryPage.HfmrIexylrgxIz2x]{Cult of Morr}.</p><p><strong>Long-Term Ambition</strong>: Rise to such heights of power that she requires no licence for her activities from anyone but herself.</p><p>The grim tower of Magisterix Elspeth von Draken has loomed over the Garden of Morr on the outskirts of Nuln for over a century. Citizens of the city threaten their recalcitrant children with tales of the ‘Graveyard Rose’, saying that if they don’t get home before nightfall she will descend upon them and snatch them away. Despite these fears few consider what the presence of von Draken truly means, and fewer guess the extent of her power.</p>",
+      "translation": "<p>@UUID[Compendium.wfrp4e-wom.journals.hFQtvGpxh0D8Xfcl.JournalEntryPage.KHdKVGnogfOfcGcA]{Эльспет фон Дракен}</p><p><strong>Побуждение</strong>: Быть лучшей на собственных условиях.</p><p><strong>Краткосрочная цель</strong>: Поддерживать союзы с правителями Нульна и @UUID[Compendium.wfrp4e-core.journals.NcH9OhleJFfaUdon.JournalEntryPage.HfmrIexylrgxIz2x]{культом Морра}.</p><p><strong>Долгосрочная цель</strong>: Достичь силы, при которой никакая лицензия, кроме собственной воли, не нужна.</p><p>Мрачная башня магистрессы Эльспет фон Дракен больше века возвышается над Садом Морра на окраине Нульна. Горожане пугают непослушных детей «Кладбищенской розой»: не вернётесь до темноты — она налетит и утащит. Но немногие задумываются об истинном значении её присутствия и ещё меньше догадываются о её могуществе.</p>",
+      "pdfPages": [
+        162,
+        163
+      ]
+    },
+    "u2tiVh3bjxz8pBxb.gmnotes": {
+      "actorId": "u2tiVh3bjxz8pBxb",
+      "field": "system.details.gmnotes.value",
+      "source": "<p>@UUID[Compendium.wfrp4e-wom.journals.wjJ2wq1bzzON74vV.JournalEntryPage.JnSAUMukQSp1hEbd]{Sergov Pfeiffer}</p><p><strong>Motivation</strong>: Become a renowned innovator of military magic.</p><p><strong>Short-Term Ambition</strong>: Research the fundamentals of Bright Magic while still managing to have fun.</p><p><strong>Long-Term Ambition</strong>: Create the most destructive battlefield spell the Empire has ever known.</p><p>Sergov Pfeiffer is a rambunctious, fiery, red-headed wizard of the Bright College. His undoubted natural talent is being hidden under a bushel of frivolity and carousing. There is nothing Pfeiffer likes more than to leave the Bright College of an evening, slip into something more comfortable — or at least less betraying of his vocation — and head to the Street of One Hundred Taverns.</p>",
+      "translation": "<p>@UUID[Compendium.wfrp4e-wom.journals.wjJ2wq1bzzON74vV.JournalEntryPage.JnSAUMukQSp1hEbd]{Сергов Пфайффер}</p><p><strong>Побуждение</strong>: Прославиться новатором военной магии.</p><p><strong>Краткосрочная цель</strong>: Исследовать основы Сияющей магии и не забывать веселиться.</p><p><strong>Долгосрочная цель</strong>: Создать самое разрушительное боевое заклинание в истории Империи.</p><p>Сергов Пфайффер — буйный пылкий рыжеволосый маг Сияющей коллегии. Бесспорный природный талант скрыт за легкомыслием и кутежами. Нет ему большей радости, чем вечером покинуть Коллегию, переодеться удобнее — или хотя бы так, чтобы одежда не выдавала профессию, — и отправиться на Улицу сотни таверн.</p>",
+      "pdfPages": [
+        175
+      ]
+    },
+    "vAIvEmLRcPjg5GOv.biography": {
+      "actorId": "vAIvEmLRcPjg5GOv",
+      "field": "system.details.biography.value",
+      "source": "<section id=\"secret-QkG3HylVoLvjThZ4\" class=\"secret\"><p>Incarnate Elementals of Beasts are summoned into the world through powerful and complicated rituals enacted by practitioners of Amber magic. A great totem formed of beast skulls and freshly flensed pelts is required to power these rituals, leading Amber Wizards to refer to the creature as The Bloody Hidesman. Other names for this titanic entity are the Horned Man and the Faceless Hunter.</p><p>The elemental is a gigantic humanoid figure swollen with powerful muscles and crisscrossed with sinews like whipcords. Its head is a skull armed with sabre teeth and sweeping antlers. Its foreclaws are an eagle’s talons and it rears up on hind legs like those of a lion.</p><p>The elemental contains within it the spirit of numberless predators — animalistic and cruel, unrestrained and bloodthirsty. It seeks to chase down anything that it regards as entering its territory, maul them until their struggles cease, and then glut itself upon their body and blood. The elemental’s howling fills those who hear it with terror, awakening in them an ancestral memory of the might of primal predators.</p></section>",
+      "translation": "<section id=\"secret-QkG3HylVoLvjThZ4\" class=\"secret\"><p>Воплощённых элементалей Зверей призывают сложными могущественными обрядами Янтарной магии. Для их питания нужен большой тотем из звериных черепов и свежеснятых шкур; отсюда имя Кровавый Шкурник. Другие имена этого исполина — Рогатый Человек и Безликий Охотник.</p><p>Элементаль — огромная человекоподобная фигура с могучими мышцами и тугими сухожилиями. Голова — череп с сабельными зубами и раскидистыми рогами. Передние когти орлиные, а задние ноги львиные.</p><p>В нём живут духи бесчисленных хищников — жестокие, необузданные и кровожадные. Он преследует всякого, кого считает нарушителем территории, терзает до прекращения сопротивления и насыщается плотью и кровью. Его вой вселяет ужас, пробуждая память предков о силе первобытных хищников.</p></section>",
+      "pdfPages": [
+        65
+      ]
+    },
+    "vErRQ0QEVapPSdkM.gmnotes": {
+      "actorId": "vErRQ0QEVapPSdkM",
+      "field": "system.details.gmnotes.value",
+      "source": "<p>@UUID[Compendium.wfrp4e-wom.journals.DND7iNuVrCXgTXki.JournalEntryPage.fWox4v7eQmND1Qit]{Gregor Martak}</p><p><strong>Motivation</strong>: Wander where he may.</p><p><strong>Short-Term Ambition</strong>: Strike a balance between his wandering and preparation for the cataclysm he fears is coming.</p><p><strong>Long-Term Ambition</strong>: Do what he can to mitigate his prophetic visions.</p><p>Wandering the wilderness, mostly to the north and east of Altdorf, Gregor Martak looks every inch the typical Amber Wizard. His hair is long and unkempt, his beard straggly, his fingernails honed, and his skin a ruddy brown testament to a lifetime exposed to the elements. Dressed in animal skins and furs, he wields a wooden staff topped with the skull of an eagle, his totem animal.</p><p>Growing up in the Middenland countryside, Martak always felt drawn to the wild places and though he has little time for the people of the towns and villages he skirts on his travels, he is happy enough to meet other wanderers and those who survive in the wilderness. Though he has a reputation for terseness and introversion, Martak can be joyful and garrulous when in his element, and possesses a bellowing, heartfelt laugh.</p>",
+      "translation": "<p>@UUID[Compendium.wfrp4e-wom.journals.DND7iNuVrCXgTXki.JournalEntryPage.fWox4v7eQmND1Qit]{Грегор Мартак}</p><p><strong>Побуждение</strong>: Странствовать где вздумается.</p><p><strong>Краткосрочная цель</strong>: Совмещать странствия с подготовкой к пугающей его грядущей катастрофе.</p><p><strong>Долгосрочная цель</strong>: Сделать всё возможное для смягчения пророческих видений.</p><p>Странствующий преимущественно к северу и востоку от Альтдорфа Грегор Мартак выглядит типичным Янтарным магом: длинные спутанные волосы, всклокоченная борода, заострённые ногти и смуглая обветренная кожа. Он носит шкуры и меха, а деревянный посох венчает череп его тотемного орла.</p><p>Выросшего в деревнях Мидденланда Мартака всегда тянуло в глушь. Он мало интересуется жителями городов и деревень, мимо которых проходит, но рад другим странникам и умеющим выживать в дикой природе. Несмотря на репутацию немногословного затворника, в своей стихии он бывает весёлым и разговорчивым и смеётся громко и от души.</p>",
+      "pdfPages": [
+        189
+      ]
+    },
+    "xtMKRZwrbINYGph2.biography": {
+      "actorId": "xtMKRZwrbINYGph2",
+      "field": "system.details.biography.value",
+      "source": "<p>@UUID[Compendium.wfrp4e-wom.journals.QHdHDll8yI5CSNQl.JournalEntryPage.Jo04mUcvCEvHyiVf]{The Blue Scribes of Tzeentch}</p>",
+      "translation": "<p>@UUID[Compendium.wfrp4e-wom.journals.QHdHDll8yI5CSNQl.JournalEntryPage.Jo04mUcvCEvHyiVf]{Синие писцы Тзинча}</p>",
+      "pdfPages": []
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "nativeVersion": "7.2.0",
+  "entries": {
+    "wfrp4e-helf.actors": {
+      "5DzD0QYQPyXYFdQ6": {
+        "sourceName": "Vehicles",
+        "name": "Транспорт",
+        "parent": "gNfax1zKWbpZr1db"
+      },
+      "h2n0k6TFhOVDEOHQ": {
+        "sourceName": "High Elf Warships",
+        "name": "Боевые корабли высших эльфов",
+        "parent": "q8oGT73dy2hNPdQT"
+      },
+      "nvtP6ifxMCR2ktqT": {
+        "sourceName": "NPCs",
+        "name": "Персонажи ведущего",
+        "parent": "gNfax1zKWbpZr1db"
+      },
+      "rrOxhNQS4Uz7CXdg": {
+        "sourceName": "Wild Beasts",
+        "name": "Дикие звери",
+        "parent": "gNfax1zKWbpZr1db"
+      },
+      "uebKSzlrIEfeL0Qg": {
+        "sourceName": "High Elf Merchant Vessels",
+        "name": "Торговые суда высших эльфов",
+        "parent": "q8oGT73dy2hNPdQT"
+      },
+      "q8oGT73dy2hNPdQT": {
+        "sourceName": "High Elf Player Guide",
+        "name": "Высшие эльфы: руководство игрока",
+        "parent": null
+      },
+      "gNfax1zKWbpZr1db": {
+        "sourceName": "Sea Wardens of Cothique",
+        "name": "Морские стражи Котика",
+        "parent": null
+      }
+    },
+    "wfrp4e-helf.items": {
+      "3oI1iXKz7FThnmNq": {
+        "sourceName": "Herbs, Draughts and Drinks",
+        "name": "Травы, снадобья и напитки",
+        "parent": "gRhal2ttUJMC2TXH"
+      },
+      "89uR2pKUJkKIOOZC": {
+        "sourceName": "Magic of Hoeth",
+        "name": "Магия Хоэта",
+        "parent": "NcQFlNQn5HiW0Sxp"
+      },
+      "FjsmTmJMgcN97ECq": {
+        "sourceName": "Sea Guard",
+        "name": "Морской страж",
+        "parent": "QQ23eLzdxH6haFnT"
+      },
+      "OT1i42mvW5vlVJ9Q": {
+        "sourceName": "Merchant Adventurer",
+        "name": "Купец-путешественник",
+        "parent": "QQ23eLzdxH6haFnT"
+      },
+      "Ok4Uk5BKcDDfKFPd": {
+        "sourceName": "Loremaster of Hoeth",
+        "name": "Хранитель знаний Хоэта",
+        "parent": "QQ23eLzdxH6haFnT"
+      },
+      "VPafG4SIvYH450V3": {
+        "sourceName": "High Elf Sea Magic",
+        "name": "Морская магия высших эльфов",
+        "parent": "NcQFlNQn5HiW0Sxp"
+      },
+      "VyF9J7jBvCCzyEMe": {
+        "sourceName": "Storm Weaver",
+        "name": "Ткач бурь",
+        "parent": "QQ23eLzdxH6haFnT"
+      },
+      "XW2dJM6sx4kPZLMM": {
+        "sourceName": "Swordmaster",
+        "name": "Мастер меча",
+        "parent": "QQ23eLzdxH6haFnT"
+      },
+      "Z89mXLld3BMCgONo": {
+        "sourceName": "High Magic",
+        "name": "Высшая магия",
+        "parent": "NcQFlNQn5HiW0Sxp"
+      },
+      "aREyRjmTbjmGyykQ": {
+        "sourceName": "Enchanted Items",
+        "name": "Зачарованные предметы",
+        "parent": "gRhal2ttUJMC2TXH"
+      },
+      "cyiDul4syGk8CIoY": {
+        "sourceName": "Mage",
+        "name": "Маг",
+        "parent": "QQ23eLzdxH6haFnT"
+      },
+      "e00Y8hKJJfvqjPQW": {
+        "sourceName": "Elven Arcane Spells",
+        "name": "Эльфийские заклинания тайной магии",
+        "parent": "NcQFlNQn5HiW0Sxp"
+      },
+      "ioZw6fh3IC31lrbm": {
+        "sourceName": "Smith-priest of Vaul",
+        "name": "Жрец-кузнец Ваула",
+        "parent": "QQ23eLzdxH6haFnT"
+      },
+      "oZ7Q4IonaI9W7Cvt": {
+        "sourceName": "Magic of Vaul",
+        "name": "Магия Ваула",
+        "parent": "NcQFlNQn5HiW0Sxp"
+      },
+      "sauAZtPui8edIjZF": {
+        "sourceName": "Petty Magic",
+        "name": "Простейшая магия",
+        "parent": "NcQFlNQn5HiW0Sxp"
+      },
+      "uQYRF6BxVA0cfArn": {
+        "sourceName": "Aestheticist",
+        "name": "Эстет",
+        "parent": "QQ23eLzdxH6haFnT"
+      },
+      "xHVijyzyoZWSWmqR": {
+        "sourceName": "Shadow Warrior",
+        "name": "Воин Тени",
+        "parent": "QQ23eLzdxH6haFnT"
+      },
+      "8VmtuvGFZ6zJ5jV7": {
+        "sourceName": "Armour",
+        "name": "Доспехи",
+        "parent": "gRhal2ttUJMC2TXH"
+      },
+      "srDHvl8PYHImRrAl": {
+        "sourceName": "Vehicle Modifications",
+        "name": "Улучшения транспорта",
+        "parent": null
+      },
+      "1rs914Q91iQWWKtn": {
+        "sourceName": "Talents",
+        "name": "Таланты",
+        "parent": null
+      },
+      "je6IYEJc49LeUfwn": {
+        "sourceName": "Weapons",
+        "name": "Оружие",
+        "parent": "gRhal2ttUJMC2TXH"
+      },
+      "30BMpW4EHdMJ88Jz": {
+        "sourceName": "Sword Dancing Techniques",
+        "name": "Приёмы танца меча",
+        "parent": null
+      },
+      "NcQFlNQn5HiW0Sxp": {
+        "sourceName": "Spells",
+        "name": "Заклинания",
+        "parent": null
+      },
+      "sDUOFvuNMSKacGHi": {
+        "sourceName": "Skills",
+        "name": "Навыки",
+        "parent": null
+      },
+      "gRhal2ttUJMC2TXH": {
+        "sourceName": "Items",
+        "name": "Предметы",
+        "parent": null
+      },
+      "QQ23eLzdxH6haFnT": {
+        "sourceName": "Careers",
+        "name": "Карьеры",
+        "parent": null
+      }
+    },
+    "wfrp4e-helf.journals": {
+      "ehPw3tmM2kv90rKU": {
+        "sourceName": "High Elf Player Guide",
+        "name": "Высшие эльфы: руководство игрока",
+        "parent": null
+      },
+      "mUC4O8cJtCS6FxqT": {
+        "sourceName": "Sea Wardens of Cothique",
+        "name": "Морские стражи Котика",
+        "parent": null
+      }
+    },
+    "wfrp4e-helf.tables": {
+      "TzCaYkoPl9sCtzgD": {
+        "sourceName": "Inner Kingdoms",
+        "name": "Внутренние королевства",
+        "parent": "JuqM4t1xjfb4Moi9"
+      },
+      "zIrL5ERmvBbRf7Ip": {
+        "sourceName": "Outer Kingdoms",
+        "name": "Внешние королевства",
+        "parent": "JuqM4t1xjfb4Moi9"
+      },
+      "JuqM4t1xjfb4Moi9": {
+        "sourceName": "Careers",
+        "name": "Карьеры",
+        "parent": null
+      }
+    },
+    "wfrp4e-helf.scenes": {}
+  }
+}

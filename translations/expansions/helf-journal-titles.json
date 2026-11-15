@@ -1,0 +1,674 @@
+{
+  "collection": "wfrp4e-helf.journals",
+  "sourceSha256": "3ad19ce5176cd95fa5e8e9f3d0860ed5d46b864ac15aa53ddb8f3a3df8254d87",
+  "entries": {
+    "9MmeMma6S0Oe6N4y": {
+      "sourceName": "High Elf Religion",
+      "name": "Религия высших эльфов",
+      "pages": {
+        "7yR3tTDQ7DAi2YXT": {
+          "sourceName": "High Elf Religion",
+          "name": "Религия высших эльфов"
+        },
+        "lpE3ZbTGg02lKOxw": {
+          "sourceName": "The Pleasure Cults",
+          "name": "Культы наслаждения"
+        },
+        "1meufLUgtkZItECp": {
+          "sourceName": "Cults of Khaine",
+          "name": "Культы Кхейна"
+        },
+        "ZIwKSB6hyTSTwVaN": {
+          "sourceName": "Smith-priest of Vaul",
+          "name": "Кузнец-жрец Ваула"
+        },
+        "4woegs5UylXO1b6D": {
+          "sourceName": "Storm Weaver",
+          "name": "Ткач бурь"
+        },
+        "G0tC34I8HsS4pXCy": {
+          "sourceName": "Loremaster of Hoeth",
+          "name": "Хранитель знаний Хоэта"
+        }
+      }
+    },
+    "KpKpHwoyGmA5QNHm": {
+      "sourceName": "Intrigue and Adventure",
+      "name": "Интриги и приключения",
+      "pages": {
+        "YUxdDz1w1aanmvQU": {
+          "sourceName": "Intrigue and Adventure",
+          "name": "Интриги и приключения"
+        },
+        "2ieinxJ52g3gRd4k": {
+          "sourceName": "Intriguing Themes Throughout Ulthuan",
+          "name": "Темы интриг в Ултуане"
+        },
+        "OyaJVHgqJz5LXnqk": {
+          "sourceName": "Intrigues Between Kingdoms",
+          "name": "Интриги между королевствами"
+        },
+        "B7tthDkuLWWl6pUW": {
+          "sourceName": "Cothiqui Intrigues",
+          "name": "Интриги Котика"
+        },
+        "lMJmIUcr60eLZxMt": {
+          "sourceName": "Intrigue Beyond Ulthuan",
+          "name": "Интриги за пределами Ултуана"
+        },
+        "Yis7rBakK4JZI3c1": {
+          "sourceName": "Additional Considerations",
+          "name": "Дополнительные соображения"
+        },
+        "DbbLm5CZG9js2bxq": {
+          "sourceName": "Intrigue and Trade",
+          "name": "Интриги и торговля"
+        },
+        "Naeg79f1MMeGVPo6": {
+          "sourceName": "Intrigue Endeavours",
+          "name": "Занятия для интриганов"
+        },
+        "fzuTzaVWI0paNm4V": {
+          "sourceName": "Intriguing NPCs",
+          "name": "Персонажи ведущего в интригах"
+        },
+        "4N9Bg0NrnuZON5Iw": {
+          "sourceName": "Getting the Best from High Elf NPCs",
+          "name": "Как раскрыть персонажей высших эльфов"
+        },
+        "0GsLz9WpQwmVSRTc": {
+          "sourceName": "Older Elf NPCs",
+          "name": "Престарелые эльфы ведущего"
+        }
+      }
+    },
+    "L9mROLTlNHFeoYpn": {
+      "sourceName": "Intrigues",
+      "name": "Интриги",
+      "pages": {
+        "d78CloacakKp97h8": {
+          "sourceName": "Intrigues",
+          "name": "Интриги"
+        },
+        "KRQmlDsLwc4ElB5H": {
+          "sourceName": "Players and Intrigues",
+          "name": "Игроки и интриги"
+        },
+        "JROasuKSBJ7XMCuH": {
+          "sourceName": "Is the Intrigue Concluded?",
+          "name": "Завершена ли интрига?"
+        }
+      }
+    },
+    "aO6QAfMxAEIe4HM3": {
+      "sourceName": "High Magic",
+      "name": "Высокая магия",
+      "pages": {
+        "FZUFeWjrKNdfSfDU": {
+          "sourceName": "High Magic",
+          "name": "Высокая магия"
+        },
+        "9NKLds8BnZOgDAmN": {
+          "sourceName": "Asur Magehood",
+          "name": "Маги асуров"
+        },
+        "TDeI2o2QqBJxR1EK": {
+          "sourceName": "Petty Magic Spells",
+          "name": "Простейшие заклинания"
+        },
+        "snY3KV7uyb2L2w6z": {
+          "sourceName": "Elven Arcane Spells",
+          "name": "Эльфийские общие заклинания"
+        },
+        "KgYmc0ZSiuUzsZ3t": {
+          "sourceName": "High Magic Skills and Talents",
+          "name": "Навыки и таланты Высокой магии"
+        },
+        "YdflOTwhAkha7fba": {
+          "sourceName": "Casting High Magic",
+          "name": "Сотворение Высокой магии"
+        },
+        "6fHPMYXe3FpqkPhA": {
+          "sourceName": "Runes of the Cadai",
+          "name": "Руны кадай"
+        },
+        "qLb8J6MaxGhW6ZyZ": {
+          "sourceName": "High Magic Questions and Answers",
+          "name": "Вопросы и ответы о Высокой магии"
+        },
+        "me0ASo3eSFQ4KqeL": {
+          "sourceName": "The Lore of High Magic",
+          "name": "Школа Высокой магии"
+        },
+        "5FJsrLYUhmkbkNEU": {
+          "sourceName": "Mage",
+          "name": "Маг"
+        }
+      }
+    },
+    "aZtrnIuCwtBIhf3x": {
+      "sourceName": "Charioteering",
+      "name": "Управление колесницами",
+      "pages": {
+        "3ZvkpFbRlYI9ToGJ": {
+          "sourceName": "Charioteering",
+          "name": "Управление колесницами"
+        }
+      }
+    },
+    "cw4DCtAJmKwrlGDD": {
+      "sourceName": "Wild Beasts of Ulthuan",
+      "name": "Дикие звери Ултуана",
+      "pages": {
+        "4OxXyDC8eQOoGnzj": {
+          "sourceName": "White Lion",
+          "name": "Белый лев"
+        },
+        "ij8c7EMMnICHJsDk": {
+          "sourceName": "Great Eagle",
+          "name": "Великий орёл"
+        },
+        "5utZtNEM48GYW5Cw": {
+          "sourceName": "Kraken",
+          "name": "Кракен"
+        },
+        "lny7TbNaX5XCLTfU": {
+          "sourceName": "Flamespyre Phoenix",
+          "name": "Пламенный феникс"
+        },
+        "LpiMbps8NQRP7qBM": {
+          "sourceName": "Frostheart Phoenix",
+          "name": "Феникс Ледяного Сердца"
+        }
+      }
+    },
+    "hjBEThe1yy71LC6h": {
+      "sourceName": "The Defenders of Order",
+      "name": "Защитники Порядка",
+      "pages": {
+        "Vg4qcGtwXhDrefvn": {
+          "sourceName": "The Defenders of Order",
+          "name": "Защитники Порядка"
+        },
+        "rtmXaSTotkvPvvs7": {
+          "sourceName": "The Old Ones, Chaos, and the Great Vortex",
+          "name": "Древние, Хаос и Великий Вихрь"
+        },
+        "J4y0ZFSUOwIqjZqu": {
+          "sourceName": "My Lord von Holzkrug",
+          "name": "Мой господин фон Хольцкруг"
+        }
+      }
+    },
+    "nj3fnvfsO2owJe2o": {
+      "sourceName": "High Elf Characters",
+      "name": "Персонажи высших эльфов",
+      "pages": {
+        "HSHxnLBeb1zcISiW": {
+          "sourceName": "High Elf Characters",
+          "name": "Персонажи высших эльфов"
+        },
+        "6UtAaMaLAqxcgASa": {
+          "sourceName": "Yenlui",
+          "name": "Йенлуй"
+        },
+        "twan8HhOz6eClDC1": {
+          "sourceName": "Obsessions",
+          "name": "Навязчивые стремления"
+        },
+        "RgkWcEZpwlWdlbzo": {
+          "sourceName": "Dreams",
+          "name": "Сновидения"
+        },
+        "mkI5RU10zNBGuqWH": {
+          "sourceName": "Blood of Aenarion",
+          "name": "Кровь Аэнариона"
+        },
+        "7EdoHZKQpROJRBSs": {
+          "sourceName": "Elders of the Asur",
+          "name": "Старейшины асуров"
+        },
+        "B5tCjroIMaEqsy9S": {
+          "sourceName": "High Elves from the Inner Kingdoms",
+          "name": "Высшие эльфы Внутренних королевств"
+        },
+        "j9QdQpWTd6KAyDlL": {
+          "sourceName": "High Elves from the Outer Kingdoms",
+          "name": "Высшие эльфы Внешних королевств"
+        },
+        "iqlq8EmYJ6Jo9DT2": {
+          "sourceName": "Sea Elf Characters",
+          "name": "Персонажи морских эльфов"
+        },
+        "TufOfQPEMB5xk8cn": {
+          "sourceName": "Playing a Sea Elf",
+          "name": "Как играть морского эльфа"
+        },
+        "VCczJeycV03DMMx7": {
+          "sourceName": "High Elf Careers",
+          "name": "Карьеры высших эльфов"
+        },
+        "lwe33TDx1k4cdr6U": {
+          "sourceName": "Adapting Careers",
+          "name": "Адаптация карьер"
+        },
+        "w49BE9J5TuEZIDl5": {
+          "sourceName": "The Way of the Warrior",
+          "name": "Путь воина"
+        },
+        "ILOyi9tQOhx4xuXd": {
+          "sourceName": "Sea Guard",
+          "name": "Морской страж"
+        },
+        "G6d301czAFlX2Wmb": {
+          "sourceName": "Swordmaster",
+          "name": "Мастер меча"
+        },
+        "UK8X3ibOfzqOTjCz": {
+          "sourceName": "Shadow Warrior",
+          "name": "Воин Тени"
+        },
+        "yQ0W1fqtYeP5glYX": {
+          "sourceName": "Merchant Adventurer",
+          "name": "Купец-путешественник"
+        },
+        "FOGtVHbPCI6sWuGQ": {
+          "sourceName": "Aestheticist",
+          "name": "Эстет"
+        }
+      }
+    },
+    "oBIuOCAhiZ7VSViE": {
+      "sourceName": "A Poisonous Plot",
+      "name": "Ядовитый заговор",
+      "pages": {
+        "iuLeogFzVdKv15MM": {
+          "sourceName": "A Poisonous Plot",
+          "name": "Ядовитый заговор"
+        },
+        "KqiXWOQ7ZRmJ0ER1": {
+          "sourceName": "Framework of the Plot",
+          "name": "Схема заговора"
+        },
+        "4ERAUstHheGL5uKy": {
+          "sourceName": "Shadowblade",
+          "name": "Клинок Тени"
+        }
+      }
+    },
+    "rgmnc6cyvSCdaoKT": {
+      "sourceName": "The Port City of Tor Koruali",
+      "name": "Портовый город Тор-Коруали",
+      "pages": {
+        "BLRlQTISuj8EHSnm": {
+          "sourceName": "The Port City of Tor Koruali",
+          "name": "Портовый город Тор-Коруали"
+        },
+        "suqlb4cHotmJ0GeZ": {
+          "sourceName": "History of the City",
+          "name": "История города"
+        },
+        "3ixkeuFpbv5ULBCK": {
+          "sourceName": "Politics",
+          "name": "Политика"
+        },
+        "qCthK9QFjiKlrJ7C": {
+          "sourceName": "Districts of Tor Koruali",
+          "name": "Районы Тор-Коруали"
+        },
+        "T8JTAWmSEP3Q74fj": {
+          "sourceName": "Council of Princes",
+          "name": "Совет принцев"
+        },
+        "d4Jix0ZibCmxSOR1": {
+          "sourceName": "Palaces and Mansions",
+          "name": "Дворцы и особняки"
+        },
+        "WMhkCXVLGqxR9uF9": {
+          "sourceName": "Crown Prince Dalloran of Cothique",
+          "name": "Наследный принц Даллоран Котикский"
+        },
+        "y91ABhKquwpgczC9": {
+          "sourceName": "Courtly Intrigues",
+          "name": "Придворные интриги"
+        },
+        "mCan0ene0dLavFAV": {
+          "sourceName": "The Scions of Mathlann",
+          "name": "Отпрыски Матланна"
+        },
+        "4ZZoHlVhBjeCciIp": {
+          "sourceName": "Cult Intrigues",
+          "name": "Интриги культов"
+        },
+        "xOlPds6kFxQ5o3TO": {
+          "sourceName": "Shrines and Temples",
+          "name": "Святилища и храмы"
+        },
+        "zPZjOL0vwZJbSaTH": {
+          "sourceName": "The Harbour",
+          "name": "Гавань"
+        },
+        "5yL9Yv9ZHlxihHO4": {
+          "sourceName": "Harbour Locations",
+          "name": "Места гавани"
+        },
+        "0OhifEx2RlgKA6OS": {
+          "sourceName": "Princess Litharys of Elisia",
+          "name": "Принцесса Литарис Элизийская"
+        },
+        "4ALEy4GgFL04MQKj": {
+          "sourceName": "Princes Dalroth and Dannor",
+          "name": "Принцы Далрот и Даннор"
+        },
+        "jJBNurXsyITOaHOf": {
+          "sourceName": "Swiftfeather Roc",
+          "name": "Быстрокрылый рух"
+        },
+        "TmuT2X0DAnnIPSZ4": {
+          "sourceName": "Illorahin Seabrow",
+          "name": "Иллорахин Морское Чело"
+        },
+        "XDjkoAnWjhul6g0F": {
+          "sourceName": "Torrelain Moonrose",
+          "name": "Торрелайн Лунная Роза"
+        },
+        "yqgZ6cF1WZcgn0EP": {
+          "sourceName": "High Receiver Fialthra Swiftprow",
+          "name": "Верховная приёмщица Фиальтра Быстрый Нос"
+        },
+        "lspQ7F1fyCGGcwPq": {
+          "sourceName": "Herwig Algnar",
+          "name": "Хервиг Альгнар"
+        },
+        "d62RxBTxZjaiGdFJ": {
+          "sourceName": "Tor Koruali Environs",
+          "name": "Окрестности Тор-Коруали"
+        },
+        "vooWaochp3FRgtCd": {
+          "sourceName": "Parks, Green Spaces, and Spites",
+          "name": "Парки, зелёные пространства и духи"
+        },
+        "6aWGsoRfLRK2xRbV": {
+          "sourceName": "Ceyluii — Spite Patron or Nemesis",
+          "name": "Кейлуи — покровитель или враг"
+        },
+        "KKGgu4G1P22xo1Ge": {
+          "sourceName": "Monuments",
+          "name": "Памятники"
+        },
+        "Sf4OfJQgTtArCWni": {
+          "sourceName": "Underground Grottos",
+          "name": "Подземные гроты"
+        },
+        "Jc0UmoQlmnPNNvHY": {
+          "sourceName": "Cireon Fleetcrest",
+          "name": "Киреон Быстрый Гребень"
+        },
+        "2uESbw11jVlAnofk": {
+          "sourceName": "Revna Tharvig",
+          "name": "Ревна Тарвиг"
+        },
+        "1B8vfVDGwBQIkSmb": {
+          "sourceName": "Royal Palace",
+          "name": "Королевский дворец"
+        },
+        "5WfoTef7g4t5PkBd": {
+          "sourceName": "Fish Market",
+          "name": "Рыбный рынок"
+        },
+        "JHkPbdGftlgww888": {
+          "sourceName": "Naval Base",
+          "name": "Военно-морская база"
+        },
+        "cmbK0sT6NwsIxXfq": {
+          "sourceName": "Palace of Respite",
+          "name": "Дворец отдыха"
+        },
+        "Vuvec3LCVYHbQ0wo": {
+          "sourceName": "House of Reflection (Aroth na Ildra)",
+          "name": "Дом размышлений (Aroth na Ildra)"
+        },
+        "1nOl7SkMgb2BDm6X": {
+          "sourceName": "Celestial Observatory",
+          "name": "Небесная обсерватория"
+        },
+        "jbvkYEigQ7ZpBl04": {
+          "sourceName": "Reservoir Park",
+          "name": "Парк водохранилища"
+        },
+        "vLQxwlIqoWjYBeBD": {
+          "sourceName": "Temple of Mathlann",
+          "name": "Храм Матланна"
+        },
+        "L91chyLuXs7VO8qV": {
+          "sourceName": "Gymnasium",
+          "name": "Гимнасий"
+        },
+        "eKIUOZx1iZCIryQt": {
+          "sourceName": "Lighthouse Gallery",
+          "name": "Галерея маяка"
+        },
+        "wCaGGgE1fTTYQQfe": {
+          "sourceName": "Rocs’ Roost",
+          "name": "Гнездовье рухов"
+        },
+        "Hr6EgOe8VgqkFfio": {
+          "sourceName": "The Flying Fish (Eldoir-iasg)",
+          "name": "Летучая рыба (Eldoir-iasg)"
+        },
+        "PSUIOLvDfucdDjLB": {
+          "sourceName": "House of Law (Taigh na Ceyl)",
+          "name": "Дом закона (Taigh na Ceyl)"
+        },
+        "P35vFIJvECB4Tvt4": {
+          "sourceName": "Hall of Sea Trade (Senthoi na Ytharinar)",
+          "name": "Палата морской торговли (Senthoi na Ytharinar)"
+        },
+        "7GptiuN5qGvJCAmB": {
+          "sourceName": "Halls of Solace (Daro’roth na Cynath)",
+          "name": "Чертоги утешения (Daro’roth na Cynath)"
+        },
+        "1uPiVqf9g3vFChQY": {
+          "sourceName": "Cultural Centre (Qyl-Kirior)",
+          "name": "Культурный центр (Qyl-Kirior)"
+        },
+        "ybL015lYiaeW2bak": {
+          "sourceName": "The Grey Oak (Yn Edri Ar)",
+          "name": "Серый дуб (Yn Edri Ar)"
+        },
+        "qj1Sn6L9tEpBlx0m": {
+          "sourceName": "Seasong Naval Academy",
+          "name": "Военно-морская академия Морской Песни"
+        },
+        "h9ix08upEdbT9NoP": {
+          "sourceName": "The Azure Halls (Ima’llian Ulathir)",
+          "name": "Лазурные чертоги (Ima’llian Ulathir)"
+        },
+        "Tbu8p2PFdn2LYXQq": {
+          "sourceName": "Galineth Amphitheatre",
+          "name": "Амфитеатр Галинет"
+        },
+        "a9jFU4mCs1M6YgIf": {
+          "sourceName": "The Chamber of Accords",
+          "name": "Палата соглашений"
+        },
+        "ZR78t1WlwCeJ61rW": {
+          "sourceName": "Shipyard of House Silverwave (Ithilytha Hadrinar’Avalu)",
+          "name": "Верфь дома Серебряной Волны (Ithilytha Hadrinar’Avalu)"
+        },
+        "BHrM3gNzLXD1WHzd": {
+          "sourceName": "Cadai Temple",
+          "name": "Храм кадай"
+        },
+        "Rs25EVe1Mc2rjZK1": {
+          "sourceName": "Sub-shrines",
+          "name": "Малые святилища"
+        }
+      }
+    },
+    "tPiUe9ZF08MSH4h9": {
+      "sourceName": "Asur Society",
+      "name": "Общество асуров",
+      "pages": {
+        "tDVrOegv0HwZBRO3": {
+          "sourceName": "Asur Society",
+          "name": "Общество асуров"
+        },
+        "gYwCUJUa2OuUAODZ": {
+          "sourceName": "Upbringing",
+          "name": "Воспитание"
+        },
+        "D1eQJs9bmebvJpQj": {
+          "sourceName": "Naggaroth, Nagarythe, and the Kinstrife",
+          "name": "Наггарот, Нагарит и братоубийственная война"
+        },
+        "DwOIfzNgCpQM4ti5": {
+          "sourceName": "Attitude to Other Species",
+          "name": "Отношение к другим народам"
+        },
+        "SUqE5lnn2R65kIYM": {
+          "sourceName": "High Elf Outposts",
+          "name": "Форпосты высших эльфов"
+        },
+        "vyiYYdANBcVg1ayD": {
+          "sourceName": "Armoury of the High Elves",
+          "name": "Вооружение высших эльфов"
+        },
+        "KD8525Bns05jVZm8": {
+          "sourceName": "Maintaining Order",
+          "name": "Поддержание порядка"
+        },
+        "zF8fU3dwTi7dcFLA": {
+          "sourceName": "Naval Power",
+          "name": "Морское могущество"
+        },
+        "DH7yLJSZpENZ2ZGq": {
+          "sourceName": "The Importance of Trade",
+          "name": "Значение торговли"
+        },
+        "04grtc4Rp7Qr706d": {
+          "sourceName": "Dragons and the Asur",
+          "name": "Драконы и асуры"
+        }
+      }
+    },
+    "tsNxz9aTnD2C5Z4U": {
+      "sourceName": "The Kingdom of Cothique",
+      "name": "Королевство Котик",
+      "pages": {
+        "AuY6UaKEFileskTk": {
+          "sourceName": "The Kingdom of Cothique",
+          "name": "Королевство Котик"
+        },
+        "PU6wivqM3opO2XbZ": {
+          "sourceName": "The Kingdom’s Geography",
+          "name": "География королевства"
+        },
+        "q7GGnyhbtvxsK3gj": {
+          "sourceName": "The Culture of the Kingdom",
+          "name": "Культура королевства"
+        },
+        "BmTAuZiSJBSN3g5s": {
+          "sourceName": "The Kingdom’s Princes",
+          "name": "Принцы королевства"
+        },
+        "q9WiVBuVMXavuXX6": {
+          "sourceName": "Military and Navy",
+          "name": "Армия и флот"
+        },
+        "q5JIBsVjrup8wult": {
+          "sourceName": "Magic and Religion",
+          "name": "Магия и религия"
+        },
+        "P6uv6R9KDTuRimG9": {
+          "sourceName": "The Cults of Pleasure and Luxury",
+          "name": "Культы наслаждения и роскоши"
+        },
+        "xtpA2ZUQkbzDYhAg": {
+          "sourceName": "Craggy Coastal Plains",
+          "name": "Скалистые прибрежные равнины"
+        },
+        "sgknCtKv3TwI2SYl": {
+          "sourceName": "The Seven Sisters",
+          "name": "Семь Сестёр"
+        },
+        "LE6Cw2jS01MwXtBi": {
+          "sourceName": "Tor Dynal",
+          "name": "Тор-Динал"
+        },
+        "WI3r2wZq0qMlW4me": {
+          "sourceName": "Elisia",
+          "name": "Элизия"
+        },
+        "nPiA6KLfB3cHtE6t": {
+          "sourceName": "Mistnar",
+          "name": "Мистнар"
+        },
+        "aXp7keSLjOsR0xm1": {
+          "sourceName": "Tor Andar",
+          "name": "Тор-Андар"
+        },
+        "tKRg3rIMuVsu5GRj": {
+          "sourceName": "Tor Vael",
+          "name": "Тор-Ваэль"
+        },
+        "SVklAXW2vXtOOVOl": {
+          "sourceName": "Tor Alin",
+          "name": "Тор-Алин"
+        },
+        "qINi9hw8gpYCT0LU": {
+          "sourceName": "Ruins of Anirain",
+          "name": "Руины Анирайна"
+        },
+        "s4k6QGlxvcnw77b0": {
+          "sourceName": "Tor Koruali",
+          "name": "Тор-Коруали"
+        },
+        "9ObDBDNxjpdXTVDd": {
+          "sourceName": "Sky Forge",
+          "name": "Небесная кузница"
+        },
+        "OYfg5cdtruIwsz50": {
+          "sourceName": "Isle of Endless Chill",
+          "name": "Остров Вечного Холода"
+        },
+        "cZ41kn5ffw5LA2H1": {
+          "sourceName": "Rokhame",
+          "name": "Рокхейм"
+        },
+        "ZwajTFDVAX7dmcwd": {
+          "sourceName": "Starwood Groves",
+          "name": "Рощи Звёздного Леса"
+        },
+        "QuifNowkFei94gOK": {
+          "sourceName": "The Burned Glades",
+          "name": "Выжженные поляны"
+        },
+        "SnlXXlHnXBxfvC84": {
+          "sourceName": "Chasm of Sorrows",
+          "name": "Ущелье Скорбей"
+        },
+        "UfZJEswnE0Z0HjYP": {
+          "sourceName": "The Forest of Cothique",
+          "name": "Лес Котика"
+        },
+        "kDW5cYrYzEsqtw5S": {
+          "sourceName": "The Shifting Isles",
+          "name": "Блуждающие острова"
+        },
+        "8M6rNj3cworP6XWa": {
+          "sourceName": "The Dead Shale Sea",
+          "name": "Мёртвое Сланцевое Море"
+        },
+        "ODBOIiMmClzMwfTG": {
+          "sourceName": "Whitereach Bay",
+          "name": "Бухта Белого Предела"
+        },
+        "4bp8fBOCD6wJDEFE": {
+          "sourceName": "The Kingdom’s Geography",
+          "name": "География королевства"
+        }
+      }
+    }
+  }
+}

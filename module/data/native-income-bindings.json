@@ -1,0 +1,1794 @@
+{
+  "0KNI4TzKqL2ZQfVl": [
+    {
+      "index": 7,
+      "original": "Haggle",
+      "name": "Торговля",
+      "skillId": "pKLMbmG3Ivt6mzMf",
+      "uuid": "Compendium.wfrp4e-core.items.pKLMbmG3Ivt6mzMf"
+    }
+  ],
+  "0Y29f5H8h6lyfT9f": [
+    {
+      "index": 6,
+      "original": "Trade (Apothecary)",
+      "name": "Ремесло (аптекарь)",
+      "skillId": "0qQqFANTRUDTDpRg",
+      "uuid": "Compendium.wfrp4e-core.items.0qQqFANTRUDTDpRg"
+    }
+  ],
+  "0e98xv2tfsDRZ9kU": [
+    {
+      "index": 5,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "0r2H2xtQ21MqHlRv": [],
+  "1DIMUn1Cj5rohWJV": [
+    {
+      "index": 3,
+      "original": "Language (Magick)",
+      "name": "Язык (магический)",
+      "skillId": "e3McIND4Rrsn5cE6",
+      "uuid": "Compendium.wfrp4e-core.items.e3McIND4Rrsn5cE6"
+    }
+  ],
+  "1N1QMGBQJUV072w4": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "1ZCpJlq7SU5Cj3te": [],
+  "1cjF3aoozvxnOMb1": [],
+  "20R2NFpiGkiyhwdE": [
+    {
+      "index": 4,
+      "original": "Leadership",
+      "name": "Лидерство",
+      "skillId": "oMaJZ5cvCJeOUq9H",
+      "uuid": "Compendium.wfrp4e-core.items.oMaJZ5cvCJeOUq9H"
+    }
+  ],
+  "2Ee9cU6fSa4Vecn7": [],
+  "2aKiMpKfVnXWNfmy": [
+    {
+      "index": 7,
+      "original": "Haggle",
+      "name": "Торговля",
+      "skillId": "pKLMbmG3Ivt6mzMf",
+      "uuid": "Compendium.wfrp4e-core.items.pKLMbmG3Ivt6mzMf"
+    }
+  ],
+  "2ye9gbPW4QIR8HYY": [
+    {
+      "index": 1,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "33COmPgYTVuXXIpK": [],
+  "3UCjABRxB1GhbThg": [
+    {
+      "index": 3,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "3VkgBaW5wgaSXlyS": [
+    {
+      "index": 4,
+      "original": "Haggle",
+      "name": "Торговля",
+      "skillId": "pKLMbmG3Ivt6mzMf",
+      "uuid": "Compendium.wfrp4e-core.items.pKLMbmG3Ivt6mzMf"
+    }
+  ],
+  "3qe5qu3es4bnKwwR": [],
+  "4TgG1CMJ0zoVPbiZ": [],
+  "4YnbaP9MXqU4NBpt": [
+    {
+      "index": 4,
+      "original": "Gossip",
+      "name": "Сплетничество",
+      "skillId": "RLQHm1s4IuY9RSr2",
+      "uuid": "Compendium.wfrp4e-core.items.RLQHm1s4IuY9RSr2"
+    }
+  ],
+  "4a69lleVImbw3JhI": [
+    {
+      "index": 6,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "4bCFwNAaudD9wb40": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "4mlbPdEWU4d7Lh7Y": [],
+  "4xxp72XMEqj6y25g": [
+    {
+      "index": 7,
+      "original": "Stealth (Urban)",
+      "name": "Скрытность (города)",
+      "skillId": "zkI6tIqbyAZvh0Th",
+      "uuid": "Compendium.wfrp4e-core.items.zkI6tIqbyAZvh0Th"
+    }
+  ],
+  "5C8dpF6YYiz7clnl": [
+    {
+      "index": 5,
+      "original": "Intuition",
+      "name": "Интуиция",
+      "skillId": "cYtU0ORRFCOpQLWz",
+      "uuid": "Compendium.wfrp4e-core.items.cYtU0ORRFCOpQLWz"
+    }
+  ],
+  "5WR3ZoMOeEzz5iPc": [
+    {
+      "index": 4,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "5hmNqNxXRy3RjcFV": [
+    {
+      "index": 2,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "6846o00SGHkRuZB8": [
+    {
+      "index": 4,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "6Abdn6XfJCSI2rWJ": [
+    {
+      "index": 5,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "6D6FQRqfc6F3L5vZ": [
+    {
+      "index": 4,
+      "original": "Leadership",
+      "name": "Лидерство",
+      "skillId": "oMaJZ5cvCJeOUq9H",
+      "uuid": "Compendium.wfrp4e-core.items.oMaJZ5cvCJeOUq9H"
+    }
+  ],
+  "7A4HCcddeMYG3EZ6": [
+    {
+      "index": 3,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "7LERztK8LMIMwo4l": [
+    {
+      "index": 2,
+      "original": "Intuition",
+      "name": "Интуиция",
+      "skillId": "cYtU0ORRFCOpQLWz",
+      "uuid": "Compendium.wfrp4e-core.items.cYtU0ORRFCOpQLWz"
+    }
+  ],
+  "7w3Y5lZXMBa7N0uV": [
+    {
+      "index": 3,
+      "original": "Evaluate",
+      "name": "Оценка",
+      "skillId": "bSWoV1IiS5qWNw39",
+      "uuid": "Compendium.wfrp4e-core.items.bSWoV1IiS5qWNw39"
+    }
+  ],
+  "8bbV2yHKeT6QeOKd": [
+    {
+      "index": 5,
+      "original": "Heal",
+      "name": "Лечение",
+      "skillId": "HXZaV1CJhmTvcAz4",
+      "uuid": "Compendium.wfrp4e-core.items.HXZaV1CJhmTvcAz4"
+    }
+  ],
+  "8llxzvd0M3P59ctr": [
+    {
+      "index": 7,
+      "original": "Haggle",
+      "name": "Торговля",
+      "skillId": "pKLMbmG3Ivt6mzMf",
+      "uuid": "Compendium.wfrp4e-core.items.pKLMbmG3Ivt6mzMf"
+    }
+  ],
+  "8rVR4gVhsWeLo5Sf": [
+    {
+      "index": 3,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "8vPHNztfk9x7K2Na": [
+    {
+      "index": 6,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "91unnpsRgrNFLZ18": [
+    {
+      "index": 6,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "9631KpCQa7jvhmgS": [
+    {
+      "index": 5,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "9PTQfMr98E3ei3Fo": [
+    {
+      "index": 4,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "9UWoLPwYyPV2TRnz": [
+    {
+      "index": 5,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "9XJ7Qs6pY6IO01u6": [
+    {
+      "index": 5,
+      "original": "Heal",
+      "name": "Лечение",
+      "skillId": "HXZaV1CJhmTvcAz4",
+      "uuid": "Compendium.wfrp4e-core.items.HXZaV1CJhmTvcAz4"
+    }
+  ],
+  "9q1yLMpfhX1bqvth": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "9xszp5m5KRmj3bxX": [],
+  "AFv0J8Mq9cbmNEVc": [],
+  "AJTl72JcueF1YGgg": [
+    {
+      "index": 3,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "APKQuY39j7RHzJZD": [],
+  "AQmofCPcdFZNXCV6": [
+    {
+      "index": 5,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "Ahe89KQIXpeadscI": [
+    {
+      "index": 7,
+      "original": "Stealth (Urban)",
+      "name": "Скрытность (города)",
+      "skillId": "zkI6tIqbyAZvh0Th",
+      "uuid": "Compendium.wfrp4e-core.items.zkI6tIqbyAZvh0Th"
+    }
+  ],
+  "AtWEBwIobFnhbQy7": [
+    {
+      "index": 6,
+      "original": "Pray",
+      "name": "Молитвословие",
+      "skillId": "9xR9uO8FIvi4YsJp",
+      "uuid": "Compendium.wfrp4e-core.items.9xR9uO8FIvi4YsJp"
+    }
+  ],
+  "B0RRDSUqaCVp6P7h": [
+    {
+      "index": 5,
+      "original": "Language (Magick)",
+      "name": "Язык (магический)",
+      "skillId": "e3McIND4Rrsn5cE6",
+      "uuid": "Compendium.wfrp4e-core.items.e3McIND4Rrsn5cE6"
+    }
+  ],
+  "BLHdxZVBGTrrGdxO": [
+    {
+      "index": 1,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "BmttbXNr3ZwydNUo": [
+    {
+      "index": 4,
+      "original": "Leadership",
+      "name": "Лидерство",
+      "skillId": "oMaJZ5cvCJeOUq9H",
+      "uuid": "Compendium.wfrp4e-core.items.oMaJZ5cvCJeOUq9H"
+    }
+  ],
+  "Bn5MHz2G7LJZxtpo": [
+    {
+      "index": 7,
+      "original": "Haggle",
+      "name": "Торговля",
+      "skillId": "pKLMbmG3Ivt6mzMf",
+      "uuid": "Compendium.wfrp4e-core.items.pKLMbmG3Ivt6mzMf"
+    }
+  ],
+  "C8pqV1AJgqS6vUd6": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "CJDvhhZbQ0UxxZKc": [
+    {
+      "index": 4,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "CNoXG2ZZUudm8paf": [
+    {
+      "index": 5,
+      "original": "Language (Magick)",
+      "name": "Язык (магический)",
+      "skillId": "e3McIND4Rrsn5cE6",
+      "uuid": "Compendium.wfrp4e-core.items.e3McIND4Rrsn5cE6"
+    }
+  ],
+  "CXSKOpjA7a2kqWSq": [
+    {
+      "index": 3,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "CZByQsYSeVyCVbzO": [
+    {
+      "index": 4,
+      "original": "Outdoor Survival",
+      "name": "Выживание",
+      "skillId": "os4NKy5Oy6sRt1eh",
+      "uuid": "Compendium.wfrp4e-core.items.os4NKy5Oy6sRt1eh"
+    }
+  ],
+  "D8Bx5CgvvMpIkwSq": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "DWAc2CYtbwx7zMwl": [],
+  "E3z0o7AJ8cAFYKda": [
+    {
+      "index": 1,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "ET4PZxqQ4RyBBWgN": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "Esy17RVOZQw2gShT": [
+    {
+      "index": 5,
+      "original": "Melee (Cavalry)",
+      "name": "Рукопашный бой (кавалерийское)",
+      "skillId": "rt1yfcjZoeSulddW",
+      "uuid": "Compendium.wfrp4e-core.items.rt1yfcjZoeSulddW"
+    }
+  ],
+  "F6Q1mrBHZvKzHDkT": [
+    {
+      "index": 3,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "FA6vYposVbL3caNR": [
+    {
+      "index": 3,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "FLdR3uEEdQxkZiaP": [
+    {
+      "index": 1,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "FOGWbyemEGAkK746": [
+    {
+      "index": 3,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "FaAdpduKD4aUWAOg": [],
+  "FbtA6PFHSH6iWaZk": [
+    {
+      "index": 3,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "FgVH1pPS9oRq0o2Z": [
+    {
+      "index": 6,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "FhK6JOd3LSTlHwoa": [
+    {
+      "index": 5,
+      "original": "Melee (Cavalry)",
+      "name": "Рукопашный бой (кавалерийское)",
+      "skillId": "rt1yfcjZoeSulddW",
+      "uuid": "Compendium.wfrp4e-core.items.rt1yfcjZoeSulddW"
+    }
+  ],
+  "FrPCbQ7fq1Fchthn": [
+    {
+      "index": 5,
+      "original": "Melee (Cavalry)",
+      "name": "Рукопашный бой (кавалерийское)",
+      "skillId": "rt1yfcjZoeSulddW",
+      "uuid": "Compendium.wfrp4e-core.items.rt1yfcjZoeSulddW"
+    }
+  ],
+  "G6o2q7tPhw4sgdOY": [
+    {
+      "index": 3,
+      "original": "Drive",
+      "name": "Вождение",
+      "skillId": "iYan4z52v7HYM9u9",
+      "uuid": "Compendium.wfrp4e-core.items.iYan4z52v7HYM9u9"
+    }
+  ],
+  "G9PT2bovEv02sVJJ": [],
+  "GPhqluMBhCeTnyNJ": [
+    {
+      "index": 5,
+      "original": "Melee (Cavalry)",
+      "name": "Рукопашный бой (кавалерийское)",
+      "skillId": "rt1yfcjZoeSulddW",
+      "uuid": "Compendium.wfrp4e-core.items.rt1yfcjZoeSulddW"
+    }
+  ],
+  "GPruqXhcAaHQYucf": [
+    {
+      "index": 3,
+      "original": "Drive",
+      "name": "Вождение",
+      "skillId": "iYan4z52v7HYM9u9",
+      "uuid": "Compendium.wfrp4e-core.items.iYan4z52v7HYM9u9"
+    }
+  ],
+  "GYIOEWXugK9Dofg7": [
+    {
+      "index": 4,
+      "original": "Leadership",
+      "name": "Лидерство",
+      "skillId": "oMaJZ5cvCJeOUq9H",
+      "uuid": "Compendium.wfrp4e-core.items.oMaJZ5cvCJeOUq9H"
+    }
+  ],
+  "Gwp6K1rKShTQshqB": [
+    {
+      "index": 7,
+      "original": "Haggle",
+      "name": "Торговля",
+      "skillId": "pKLMbmG3Ivt6mzMf",
+      "uuid": "Compendium.wfrp4e-core.items.pKLMbmG3Ivt6mzMf"
+    }
+  ],
+  "H9NZXz02SZXca8xp": [
+    {
+      "index": 4,
+      "original": "Outdoor Survival",
+      "name": "Выживание",
+      "skillId": "os4NKy5Oy6sRt1eh",
+      "uuid": "Compendium.wfrp4e-core.items.os4NKy5Oy6sRt1eh"
+    }
+  ],
+  "HN1cbMIPZ25m7ABR": [
+    {
+      "index": 3,
+      "original": "Evaluate",
+      "name": "Оценка",
+      "skillId": "bSWoV1IiS5qWNw39",
+      "uuid": "Compendium.wfrp4e-core.items.bSWoV1IiS5qWNw39"
+    }
+  ],
+  "HVa2264i6PF7C8hz": [
+    {
+      "index": 1,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "HoIgGN5ORog5dkIl": [
+    {
+      "index": 2,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "HtN6uHPj7sK6EWMZ": [],
+  "ISxI2dNkiRQn0P4n": [],
+  "IeHydxYWUYrmEdPy": [],
+  "ImUesrX52TXQyzvM": [],
+  "J02PRoX8q5e0cDv6": [
+    {
+      "index": 5,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "JeWuOwm0nM4V1brh": [
+    {
+      "index": 3,
+      "original": "Language (Magick)",
+      "name": "Язык (магический)",
+      "skillId": "e3McIND4Rrsn5cE6",
+      "uuid": "Compendium.wfrp4e-core.items.e3McIND4Rrsn5cE6"
+    }
+  ],
+  "KEEmMZK5mpcoRU69": [
+    {
+      "index": 7,
+      "original": "Stealth (Urban)",
+      "name": "Скрытность (города)",
+      "skillId": "zkI6tIqbyAZvh0Th",
+      "uuid": "Compendium.wfrp4e-core.items.zkI6tIqbyAZvh0Th"
+    }
+  ],
+  "KVAOh3zmvzqAbhBr": [],
+  "KsiV56hwdm5dZ1RO": [
+    {
+      "index": 3,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "KuG92SPVmXnbtdF5": [
+    {
+      "index": 2,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "L4FGhEguFJVNWk6O": [
+    {
+      "index": 5,
+      "original": "Intuition",
+      "name": "Интуиция",
+      "skillId": "cYtU0ORRFCOpQLWz",
+      "uuid": "Compendium.wfrp4e-core.items.cYtU0ORRFCOpQLWz"
+    }
+  ],
+  "LYBKDZ0AhutYewfD": [
+    {
+      "index": 4,
+      "original": "Outdoor Survival",
+      "name": "Выживание",
+      "skillId": "os4NKy5Oy6sRt1eh",
+      "uuid": "Compendium.wfrp4e-core.items.os4NKy5Oy6sRt1eh"
+    }
+  ],
+  "Lkk2NQC1dkUb6yOS": [
+    {
+      "index": 6,
+      "original": "Lore (Theology)",
+      "name": "Знание (теология)",
+      "skillId": "d9bGxy6Y3u3rOHIN",
+      "uuid": "Compendium.wfrp4e-core.items.d9bGxy6Y3u3rOHIN"
+    }
+  ],
+  "LobXt1Wa3x3EogpB": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "MNaGRYlkySIdA6Nj": [],
+  "MR0d08qmDDbqujmS": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "MsrHDvVgAb8tUJec": [
+    {
+      "index": 5,
+      "original": "Language (Magick)",
+      "name": "Язык (магический)",
+      "skillId": "e3McIND4Rrsn5cE6",
+      "uuid": "Compendium.wfrp4e-core.items.e3McIND4Rrsn5cE6"
+    }
+  ],
+  "MvMAvys9IhMIgNqX": [
+    {
+      "index": 2,
+      "original": "Intuition",
+      "name": "Интуиция",
+      "skillId": "cYtU0ORRFCOpQLWz",
+      "uuid": "Compendium.wfrp4e-core.items.cYtU0ORRFCOpQLWz"
+    }
+  ],
+  "NIom9HWXYywyGMLR": [],
+  "NcLVAmFCMddUGUl3": [
+    {
+      "index": 5,
+      "original": "Language (Magick)",
+      "name": "Язык (магический)",
+      "skillId": "e3McIND4Rrsn5cE6",
+      "uuid": "Compendium.wfrp4e-core.items.e3McIND4Rrsn5cE6"
+    }
+  ],
+  "O0FIdOQphDl9hozq": [
+    {
+      "index": 4,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "OERQpwcRziRTeQRb": [
+    {
+      "index": 4,
+      "original": "Leadership",
+      "name": "Лидерство",
+      "skillId": "oMaJZ5cvCJeOUq9H",
+      "uuid": "Compendium.wfrp4e-core.items.oMaJZ5cvCJeOUq9H"
+    }
+  ],
+  "OecIbh44q1oXuOAT": [
+    {
+      "index": 2,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "Ot8ZcvD78wPnJzkE": [],
+  "PGhUdEZmFUe7vTWK": [],
+  "PIPU1glIR4jx1Z2E": [],
+  "PiHjiktsOzTTn6U7": [],
+  "PmyKqVD6NOb2RzYh": [
+    {
+      "index": 2,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "Q1sXSEtjvMVxd5xi": [
+    {
+      "index": 1,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "QM906gNihyYSbJQ8": [
+    {
+      "index": 1,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "QUjbPexRsKhqVDgq": [],
+  "QXZoHPoHFmDuTHpy": [
+    {
+      "index": 4,
+      "original": "Gossip",
+      "name": "Сплетничество",
+      "skillId": "RLQHm1s4IuY9RSr2",
+      "uuid": "Compendium.wfrp4e-core.items.RLQHm1s4IuY9RSr2"
+    }
+  ],
+  "QdEWdjfjIdrQAKUO": [],
+  "QreTSlhgK9IfwTJa": [
+    {
+      "index": 2,
+      "original": "Intuition",
+      "name": "Интуиция",
+      "skillId": "cYtU0ORRFCOpQLWz",
+      "uuid": "Compendium.wfrp4e-core.items.cYtU0ORRFCOpQLWz"
+    }
+  ],
+  "QvPzxossG9zDSB2o": [
+    {
+      "index": 4,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "RGrmA9jAFzrR5tH5": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "RK264JugQroGklvh": [
+    {
+      "index": 7,
+      "original": "Ride (Horse)",
+      "name": "Верховая езда (лошади)",
+      "skillId": "oSbEE6eXH1S3LfUU",
+      "uuid": "Compendium.wfrp4e-core.items.oSbEE6eXH1S3LfUU"
+    }
+  ],
+  "RdnDGTwpYFhCID6N": [
+    {
+      "index": 2,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "RjhqM27l48WfRepK": [
+    {
+      "index": 6,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "RqHOwFXhYtTWKiNP": [
+    {
+      "index": 3,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "RrZQrPRkSUvqkn8R": [],
+  "S0jyd05NzckWVstu": [],
+  "S8MLQJK4n7pTGKHn": [
+    {
+      "index": 4,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "SM95bBsq3ZUFo3YB": [],
+  "SZLtCpySoeyZ6Sgw": [
+    {
+      "index": 5,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "Sb0vJ3jB6n4wJwwy": [
+    {
+      "index": 6,
+      "original": "Trade (Apothecary)",
+      "name": "Ремесло (аптекарь)",
+      "skillId": "0qQqFANTRUDTDpRg",
+      "uuid": "Compendium.wfrp4e-core.items.0qQqFANTRUDTDpRg"
+    }
+  ],
+  "SxQH3QslvNQaDZQK": [
+    {
+      "index": 4,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "TDErU66ZoIirO2dF": [
+    {
+      "index": 6,
+      "original": "Lore (Theology)",
+      "name": "Знание (теология)",
+      "skillId": "d9bGxy6Y3u3rOHIN",
+      "uuid": "Compendium.wfrp4e-core.items.d9bGxy6Y3u3rOHIN"
+    }
+  ],
+  "TolERlCR35zIf9G4": [],
+  "TvTXvNwAR0hYz0FM": [
+    {
+      "index": 3,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "UPATU6CmkbK1mNBe": [],
+  "UPF7jOq9bqc6ABgb": [],
+  "UQMYUKgXAi2QFhFn": [
+    {
+      "index": 6,
+      "original": "Melee (Flail)",
+      "name": "Рукопашный бой (цепы)",
+      "skillId": "ZqYYWZuWwqMb3wVf",
+      "uuid": "Compendium.wfrp4e-core.items.ZqYYWZuWwqMb3wVf"
+    }
+  ],
+  "USvstPFloo15DIJ1": [
+    {
+      "index": 5,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "UptqmlN6znCIOxNW": [
+    {
+      "index": 6,
+      "original": "Pray",
+      "name": "Молитвословие",
+      "skillId": "9xR9uO8FIvi4YsJp",
+      "uuid": "Compendium.wfrp4e-core.items.9xR9uO8FIvi4YsJp"
+    }
+  ],
+  "VIEEddQ4IW7Fjq2b": [
+    {
+      "index": 3,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "VPKFN1VePTy3CY7V": [
+    {
+      "index": 4,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "VeKZTgIQSXEDte4i": [],
+  "WBA0vgLdGsJ32ccS": [],
+  "WCS3mz3qmQbCc9j4": [
+    {
+      "index": 4,
+      "original": "Leadership",
+      "name": "Лидерство",
+      "skillId": "oMaJZ5cvCJeOUq9H",
+      "uuid": "Compendium.wfrp4e-core.items.oMaJZ5cvCJeOUq9H"
+    }
+  ],
+  "WO6jKc1N37H2ZzwN": [
+    {
+      "index": 4,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "WctdOXFfi2ShQLNh": [
+    {
+      "index": 5,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "WiMLDa950d9wsbbZ": [
+    {
+      "index": 3,
+      "original": "Language (Magick)",
+      "name": "Язык (магический)",
+      "skillId": "e3McIND4Rrsn5cE6",
+      "uuid": "Compendium.wfrp4e-core.items.e3McIND4Rrsn5cE6"
+    }
+  ],
+  "WpZ7nJsXYukA4hQ9": [
+    {
+      "index": 1,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "WuNc5hU1HoUS5gPa": [
+    {
+      "index": 7,
+      "original": "Haggle",
+      "name": "Торговля",
+      "skillId": "pKLMbmG3Ivt6mzMf",
+      "uuid": "Compendium.wfrp4e-core.items.pKLMbmG3Ivt6mzMf"
+    }
+  ],
+  "WvEHWvF7hoyNChqj": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "XCfd7wimn69mZW9T": [],
+  "XV2OQCwhnLVdAgON": [
+    {
+      "index": 6,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "XYkcst2gjS4QUyZI": [],
+  "XseDIYgXCdNuV0pL": [
+    {
+      "index": 4,
+      "original": "Haggle",
+      "name": "Торговля",
+      "skillId": "pKLMbmG3Ivt6mzMf",
+      "uuid": "Compendium.wfrp4e-core.items.pKLMbmG3Ivt6mzMf"
+    }
+  ],
+  "XuIDL2gpiFMleuVV": [
+    {
+      "index": 7,
+      "original": "Ride (Horse)",
+      "name": "Верховая езда (лошади)",
+      "skillId": "oSbEE6eXH1S3LfUU",
+      "uuid": "Compendium.wfrp4e-core.items.oSbEE6eXH1S3LfUU"
+    }
+  ],
+  "YCyo4r3rZ2gMUz9Q": [],
+  "ZRS6U3ECK8n4mFZ4": [],
+  "ZSet34kUw1Bu1PDx": [
+    {
+      "index": 4,
+      "original": "Lore (Law)",
+      "name": "Знание (закон)",
+      "skillId": "2LDCVJQWkTFszMok",
+      "uuid": "Compendium.wfrp4e-core.items.2LDCVJQWkTFszMok"
+    }
+  ],
+  "Zst72kU4epCqabW9": [
+    {
+      "index": 6,
+      "original": "Lore (Theology)",
+      "name": "Знание (теология)",
+      "skillId": "d9bGxy6Y3u3rOHIN",
+      "uuid": "Compendium.wfrp4e-core.items.d9bGxy6Y3u3rOHIN"
+    }
+  ],
+  "ZydFv9TTPvmihnR1": [],
+  "a5B7FYYaSarc95Xc": [
+    {
+      "index": 5,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "aOVRZJopZeR0acJs": [
+    {
+      "index": 4,
+      "original": "Gossip",
+      "name": "Сплетничество",
+      "skillId": "RLQHm1s4IuY9RSr2",
+      "uuid": "Compendium.wfrp4e-core.items.RLQHm1s4IuY9RSr2"
+    }
+  ],
+  "aUb8sUfqyVyjGYO5": [
+    {
+      "index": 5,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "albRTMyj0Fsr2u6A": [
+    {
+      "index": 5,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "bNwRfl5P64gXgZON": [],
+  "bO6PkXjLPKCwK4QC": [
+    {
+      "index": 3,
+      "original": "Evaluate",
+      "name": "Оценка",
+      "skillId": "bSWoV1IiS5qWNw39",
+      "uuid": "Compendium.wfrp4e-core.items.bSWoV1IiS5qWNw39"
+    }
+  ],
+  "bTPBxrayfzeVmGsh": [
+    {
+      "index": 3,
+      "original": "Language (Magick)",
+      "name": "Язык (магический)",
+      "skillId": "e3McIND4Rrsn5cE6",
+      "uuid": "Compendium.wfrp4e-core.items.e3McIND4Rrsn5cE6"
+    }
+  ],
+  "bVzgXlt8eRGyXLLC": [
+    {
+      "index": 5,
+      "original": "Heal",
+      "name": "Лечение",
+      "skillId": "HXZaV1CJhmTvcAz4",
+      "uuid": "Compendium.wfrp4e-core.items.HXZaV1CJhmTvcAz4"
+    }
+  ],
+  "c6OwfEq0g8FcpxxC": [
+    {
+      "index": 3,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "cd8BJlDQUF1xoiSm": [
+    {
+      "index": 4,
+      "original": "Gossip",
+      "name": "Сплетничество",
+      "skillId": "RLQHm1s4IuY9RSr2",
+      "uuid": "Compendium.wfrp4e-core.items.RLQHm1s4IuY9RSr2"
+    }
+  ],
+  "cxwio1lR9eZdrQiy": [
+    {
+      "index": 4,
+      "original": "Lore (Law)",
+      "name": "Знание (закон)",
+      "skillId": "2LDCVJQWkTFszMok",
+      "uuid": "Compendium.wfrp4e-core.items.2LDCVJQWkTFszMok"
+    }
+  ],
+  "d0uT5dtFmIbkbJ7l": [
+    {
+      "index": 7,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "dNd0JKvUqjP3kiuy": [],
+  "eBirX8K2qBxdOB45": [],
+  "eFMNueIi3zp6vs6e": [
+    {
+      "index": 7,
+      "original": "Haggle",
+      "name": "Торговля",
+      "skillId": "pKLMbmG3Ivt6mzMf",
+      "uuid": "Compendium.wfrp4e-core.items.pKLMbmG3Ivt6mzMf"
+    }
+  ],
+  "eI3ibXzGlozn6GqV": [],
+  "eIPqpYlN3H3CVCe4": [
+    {
+      "index": 7,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "eyKlEVLcSOvemRzp": [
+    {
+      "index": 4,
+      "original": "Haggle",
+      "name": "Торговля",
+      "skillId": "pKLMbmG3Ivt6mzMf",
+      "uuid": "Compendium.wfrp4e-core.items.pKLMbmG3Ivt6mzMf"
+    }
+  ],
+  "fGwpty6AE9ZmRs9B": [
+    {
+      "index": 5,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "fa7YavtVsSc8QI7Q": [
+    {
+      "index": 2,
+      "original": "Intuition",
+      "name": "Интуиция",
+      "skillId": "cYtU0ORRFCOpQLWz",
+      "uuid": "Compendium.wfrp4e-core.items.cYtU0ORRFCOpQLWz"
+    }
+  ],
+  "fiHq2JGODlbQRdKh": [
+    {
+      "index": 5,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "fixdd2ulR5HUyeoi": [
+    {
+      "index": 3,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "fyeFolXwsxNfU30b": [
+    {
+      "index": 6,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "g2vYtD3Mu7ujYTVF": [
+    {
+      "index": 5,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "g7Sts6Gzrcg4oDDI": [
+    {
+      "index": 3,
+      "original": "Drive",
+      "name": "Вождение",
+      "skillId": "iYan4z52v7HYM9u9",
+      "uuid": "Compendium.wfrp4e-core.items.iYan4z52v7HYM9u9"
+    }
+  ],
+  "gTxHixydLdCoWRmj": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "gWvUkc6mXh8LbsR9": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "gb3Dy4ZgfB7VfBTM": [
+    {
+      "index": 3,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "gmQjHw6wYJu4gd7b": [
+    {
+      "index": 3,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "hUZ9lx9v2AGrfHWU": [],
+  "ho9cOHfrG2Zbeb7q": [
+    {
+      "index": 5,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "huYKd0sYPnF4ReB0": [
+    {
+      "index": 4,
+      "original": "Leadership",
+      "name": "Лидерство",
+      "skillId": "oMaJZ5cvCJeOUq9H",
+      "uuid": "Compendium.wfrp4e-core.items.oMaJZ5cvCJeOUq9H"
+    }
+  ],
+  "iW9bvaUXQ4QsZ3Re": [
+    {
+      "index": 2,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "j3PetZr6vZXRutml": [
+    {
+      "index": 6,
+      "original": "Melee (Flail)",
+      "name": "Рукопашный бой (цепы)",
+      "skillId": "ZqYYWZuWwqMb3wVf",
+      "uuid": "Compendium.wfrp4e-core.items.ZqYYWZuWwqMb3wVf"
+    }
+  ],
+  "jGYtrDe0sNACF2pB": [
+    {
+      "index": 5,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "jyfMHnPojhZVwF07": [
+    {
+      "index": 5,
+      "original": "Intuition",
+      "name": "Интуиция",
+      "skillId": "cYtU0ORRFCOpQLWz",
+      "uuid": "Compendium.wfrp4e-core.items.cYtU0ORRFCOpQLWz"
+    }
+  ],
+  "kOmgIJIYcylhEUWK": [
+    {
+      "index": 5,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "lfRarot8alDa1WjG": [
+    {
+      "index": 6,
+      "original": "Pray",
+      "name": "Молитвословие",
+      "skillId": "9xR9uO8FIvi4YsJp",
+      "uuid": "Compendium.wfrp4e-core.items.9xR9uO8FIvi4YsJp"
+    }
+  ],
+  "loPti7wWf1qN01zO": [
+    {
+      "index": 1,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "ltGl3eXxujQ23al3": [
+    {
+      "index": 7,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "m2viFvv0MaXuxRit": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "mE6PJ1yIScBu6Tye": [
+    {
+      "index": 7,
+      "original": "Haggle",
+      "name": "Торговля",
+      "skillId": "pKLMbmG3Ivt6mzMf",
+      "uuid": "Compendium.wfrp4e-core.items.pKLMbmG3Ivt6mzMf"
+    }
+  ],
+  "mVx5unQ28vIpavOo": [
+    {
+      "index": 7,
+      "original": "Ride (Horse)",
+      "name": "Верховая езда (лошади)",
+      "skillId": "oSbEE6eXH1S3LfUU",
+      "uuid": "Compendium.wfrp4e-core.items.oSbEE6eXH1S3LfUU"
+    }
+  ],
+  "mokSUD62vhpKue2Z": [
+    {
+      "index": 4,
+      "original": "Outdoor Survival",
+      "name": "Выживание",
+      "skillId": "os4NKy5Oy6sRt1eh",
+      "uuid": "Compendium.wfrp4e-core.items.os4NKy5Oy6sRt1eh"
+    }
+  ],
+  "nCijLyJxZ8UfeNfV": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "nWFtlLdrGOhIJsMd": [
+    {
+      "index": 7,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "nh8fc9wESGUgOnIh": [],
+  "oA7LO3muxy9LNEJD": [
+    {
+      "index": 6,
+      "original": "Trade (Apothecary)",
+      "name": "Ремесло (аптекарь)",
+      "skillId": "0qQqFANTRUDTDpRg",
+      "uuid": "Compendium.wfrp4e-core.items.0qQqFANTRUDTDpRg"
+    }
+  ],
+  "oVOBKzVocBrnrpZX": [],
+  "oce4kxrsImFS7zlW": [
+    {
+      "index": 4,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "p2PKXr5CDwln9AWS": [
+    {
+      "index": 4,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "pI8vGV2VqT3BvnE8": [
+    {
+      "index": 1,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "pUf4a817P7iydsbN": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "pVOuGshzCvWjNv2q": [],
+  "pru2uoIq7hM13pYm": [],
+  "qG1ICjU4hcAhrpmW": [
+    {
+      "index": 6,
+      "original": "Lore (Theology)",
+      "name": "Знание (теология)",
+      "skillId": "d9bGxy6Y3u3rOHIN",
+      "uuid": "Compendium.wfrp4e-core.items.d9bGxy6Y3u3rOHIN"
+    }
+  ],
+  "qGgpt1BH2y3Q3J0A": [
+    {
+      "index": 4,
+      "original": "Lore (Law)",
+      "name": "Знание (закон)",
+      "skillId": "2LDCVJQWkTFszMok",
+      "uuid": "Compendium.wfrp4e-core.items.2LDCVJQWkTFszMok"
+    }
+  ],
+  "qLoFG3o3tIgiYJOv": [
+    {
+      "index": 5,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "qMZiB9eBUEr7omX0": [],
+  "qXOceBlJefsWFlUI": [
+    {
+      "index": 5,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "qwNXUbgbXcegmh8l": [
+    {
+      "index": 5,
+      "original": "Heal",
+      "name": "Лечение",
+      "skillId": "HXZaV1CJhmTvcAz4",
+      "uuid": "Compendium.wfrp4e-core.items.HXZaV1CJhmTvcAz4"
+    }
+  ],
+  "rAfHb0jmWhNfXaBl": [
+    {
+      "index": 7,
+      "original": "Perception",
+      "name": "Наблюдательность",
+      "skillId": "Fs06sr7y9JKpVQmB",
+      "uuid": "Compendium.wfrp4e-core.items.Fs06sr7y9JKpVQmB"
+    }
+  ],
+  "rCoMyLXDnggBFqUB": [],
+  "rxWdmv2tUL0hoAc3": [],
+  "rydO4uzu7Ehatm5t": [
+    {
+      "index": 5,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "s6I8dderSh1Iu3fe": [
+    {
+      "index": 1,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "s9BcRjM1u2nE0JRD": [
+    {
+      "index": 7,
+      "original": "Stealth (Urban)",
+      "name": "Скрытность (города)",
+      "skillId": "zkI6tIqbyAZvh0Th",
+      "uuid": "Compendium.wfrp4e-core.items.zkI6tIqbyAZvh0Th"
+    }
+  ],
+  "t1TD7YCRFbjiicvi": [
+    {
+      "index": 5,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "t87v2oOpnztzrBPW": [
+    {
+      "index": 3,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "tJEgkiklMFep6FMN": [],
+  "taJXX3aaKZfoNCBs": [
+    {
+      "index": 5,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "txoNWW53klRbo49P": [],
+  "u2DMz1B0DyUHBi6Z": [
+    {
+      "index": 6,
+      "original": "Pray",
+      "name": "Молитвословие",
+      "skillId": "9xR9uO8FIvi4YsJp",
+      "uuid": "Compendium.wfrp4e-core.items.9xR9uO8FIvi4YsJp"
+    }
+  ],
+  "uNG01MDCaG4zcs6U": [
+    {
+      "index": 3,
+      "original": "Evaluate",
+      "name": "Оценка",
+      "skillId": "bSWoV1IiS5qWNw39",
+      "uuid": "Compendium.wfrp4e-core.items.bSWoV1IiS5qWNw39"
+    }
+  ],
+  "ufAAH4fyE4qfkH2c": [],
+  "un8r6R9QLrACK2pv": [],
+  "v6OhQFxpriyKJyVO": [],
+  "vXxw8seyOyGKaFGf": [
+    {
+      "index": 5,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "vcHUiputmUcPem6f": [
+    {
+      "index": 4,
+      "original": "Lore (Law)",
+      "name": "Знание (закон)",
+      "skillId": "2LDCVJQWkTFszMok",
+      "uuid": "Compendium.wfrp4e-core.items.2LDCVJQWkTFszMok"
+    }
+  ],
+  "vguGSNyf0hfxZ6RM": [],
+  "vkfLXwz3Vpi13LqP": [
+    {
+      "index": 4,
+      "original": "Haggle",
+      "name": "Торговля",
+      "skillId": "pKLMbmG3Ivt6mzMf",
+      "uuid": "Compendium.wfrp4e-core.items.pKLMbmG3Ivt6mzMf"
+    }
+  ],
+  "vmFzpNOoQfMELqdM": [],
+  "vsfAkV0SktCjFgKA": [
+    {
+      "index": 3,
+      "original": "Intimidate",
+      "name": "Запугивание",
+      "skillId": "I0yPc4PH5erWJLmu",
+      "uuid": "Compendium.wfrp4e-core.items.I0yPc4PH5erWJLmu"
+    }
+  ],
+  "w5rHYhqw0bT15LCr": [],
+  "wPYrDuwdW4nJRcJt": [
+    {
+      "index": 7,
+      "original": "Ride (Horse)",
+      "name": "Верховая езда (лошади)",
+      "skillId": "oSbEE6eXH1S3LfUU",
+      "uuid": "Compendium.wfrp4e-core.items.oSbEE6eXH1S3LfUU"
+    }
+  ],
+  "wSEGXXkc6swDkuJJ": [
+    {
+      "index": 6,
+      "original": "Melee (Basic)",
+      "name": "Рукопашный бой (основное)",
+      "skillId": "rOPmyLWa37e7s9v6",
+      "uuid": "Compendium.wfrp4e-core.items.rOPmyLWa37e7s9v6"
+    }
+  ],
+  "wlH2GnvZKA4zvdn8": [
+    {
+      "index": 3,
+      "original": "Endurance",
+      "name": "Стойкость",
+      "skillId": "CcNJsS4jSwB6Ug1J",
+      "uuid": "Compendium.wfrp4e-core.items.CcNJsS4jSwB6Ug1J"
+    }
+  ],
+  "wwt4F5amY5sxbXsq": [],
+  "xyIZu4DfQSMtdH2t": [
+    {
+      "index": 3,
+      "original": "Drive",
+      "name": "Вождение",
+      "skillId": "iYan4z52v7HYM9u9",
+      "uuid": "Compendium.wfrp4e-core.items.iYan4z52v7HYM9u9"
+    }
+  ],
+  "xzfS4Gm90R7ViMI6": [
+    {
+      "index": 1,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "y0V0xRFindJiBUDz": [
+    {
+      "index": 6,
+      "original": "Trade (Apothecary)",
+      "name": "Ремесло (аптекарь)",
+      "skillId": "0qQqFANTRUDTDpRg",
+      "uuid": "Compendium.wfrp4e-core.items.0qQqFANTRUDTDpRg"
+    }
+  ],
+  "y8XGpUCRkxdnn0ys": [
+    {
+      "index": 4,
+      "original": "Leadership",
+      "name": "Лидерство",
+      "skillId": "oMaJZ5cvCJeOUq9H",
+      "uuid": "Compendium.wfrp4e-core.items.oMaJZ5cvCJeOUq9H"
+    }
+  ],
+  "yRRDOZ82C4ZLR6ju": [
+    {
+      "index": 2,
+      "original": "Charm",
+      "name": "Обаяние",
+      "skillId": "exLrBrn2mjb6x2Cq",
+      "uuid": "Compendium.wfrp4e-core.items.exLrBrn2mjb6x2Cq"
+    }
+  ],
+  "yzgbXappuN7MRXUy": [],
+  "zDdI21hXufHuDarS": [
+    {
+      "index": 6,
+      "original": "Melee (Flail)",
+      "name": "Рукопашный бой (цепы)",
+      "skillId": "ZqYYWZuWwqMb3wVf",
+      "uuid": "Compendium.wfrp4e-core.items.ZqYYWZuWwqMb3wVf"
+    }
+  ],
+  "zOfGEVtocyprCAZU": [],
+  "zS1aRUvoj8fJIF3P": [
+    {
+      "index": 5,
+      "original": "Intuition",
+      "name": "Интуиция",
+      "skillId": "cYtU0ORRFCOpQLWz",
+      "uuid": "Compendium.wfrp4e-core.items.cYtU0ORRFCOpQLWz"
+    }
+  ],
+  "zZ2QaJ9EHJlh1QbW": [
+    {
+      "index": 6,
+      "original": "Melee (Flail)",
+      "name": "Рукопашный бой (цепы)",
+      "skillId": "ZqYYWZuWwqMb3wVf",
+      "uuid": "Compendium.wfrp4e-core.items.ZqYYWZuWwqMb3wVf"
+    }
+  ],
+  "zmC4qBprmNxFNo2W": []
+}

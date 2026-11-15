@@ -1,0 +1,61 @@
+{
+  "label": "Сцены (Высшие эльфы)",
+  "mapping": {
+    "navName": "navName",
+    "notes": {
+      "path": "notes",
+      "converter": "ruOverlayHighElfSceneNotes"
+    }
+  },
+  "entries": {
+    "9CKHdNcZwV06b3C8": {
+      "name": "Тор-Коруали",
+      "navName": "Тор-Коруали"
+    },
+    "O5UiLRdYF1Ut6SS0": {
+      "name": "Котик",
+      "navName": "Котик",
+      "notes": {
+        "scene": "O5UiLRdYF1Ut6SS0",
+        "notes": {
+          "ePhCZsaUa9tw2333": {
+            "source": "Shirne of Kurnous",
+            "translation": "Святилище Курноуса"
+          },
+          "B7AWfAfJNFZa3ZO5": {
+            "source": "Chrace",
+            "translation": "Крейс"
+          },
+          "uSateILX6yX91uDg": {
+            "source": "Cothique",
+            "translation": "Котик"
+          },
+          "BfiitF10X2cKx28q": {
+            "source": "Yvresse",
+            "translation": "Иврессе"
+          },
+          "JjZ8dTtvoKXfdznb": {
+            "source": "Tor Achare",
+            "translation": "Тор-Ахаре"
+          },
+          "6Pj6kKN7CgO2ll4x": {
+            "source": "Annulii Mountains",
+            "translation": "Горы Аннулии"
+          },
+          "r6lh54cLeRl6YqRx": {
+            "source": "Elendro Mere",
+            "translation": "Озеро Элендро"
+          },
+          "FqbCpu6B4s40JnmG": {
+            "source": "Analdar’s  Shrine",
+            "translation": "Святилище Анальдар"
+          }
+        }
+      }
+    },
+    "tQWkVrXnyeLJymCM": {
+      "name": "Ултуан",
+      "navName": "Ултуан"
+    }
+  }
+}

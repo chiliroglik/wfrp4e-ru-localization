@@ -1,0 +1,331 @@
+{
+  "schemaVersion": 1,
+  "scope": "config display names only",
+  "runtimeSnapshot": "build/core-translation/SUBSPECIES_BEFORE_DEV27.json",
+  "runtimeSnapshotSha256": "57eb0e2e5d9afa1ce27daa6c1bf810baebd07b43c425a99827b5ab96af38bb9c",
+  "subspecies": {
+    "welf": {
+      "harioth": {
+        "sourceName": "Хариоты",
+        "name": "Хариоты"
+      },
+      "toriour": {
+        "sourceName": "Ториур",
+        "name": "Ториур"
+      },
+      "faniour": {
+        "sourceName": "Фаниур",
+        "name": "Фаниур"
+      }
+    },
+    "halfling": {
+      "ashfield": {
+        "sourceName": "Эшфилд",
+        "name": "Эшфилд"
+      },
+      "brambledown": {
+        "sourceName": "Бремблдаун",
+        "name": "Бремблдаун"
+      },
+      "brandysnap": {
+        "sourceName": "Брендиснап",
+        "name": "Брендиснап"
+      },
+      "hayfoot": {
+        "sourceName": "Хайфут",
+        "name": "Хайфут"
+      },
+      "hollyfoot": {
+        "sourceName": "Холлифут",
+        "name": "Холлифут"
+      },
+      "hayfoot—hollyfoot": {
+        "sourceName": "Хайфут-Холлифут",
+        "name": "Хайфут-Холлифут"
+      },
+      "lostpockets": {
+        "sourceName": "Лостпокетс",
+        "name": "Лостпокетс"
+      },
+      "lowhaven": {
+        "sourceName": "Лоухевен",
+        "name": "Лоухевен"
+      },
+      "rumster": {
+        "sourceName": "Румстер",
+        "name": "Румстер"
+      },
+      "skelfsider": {
+        "sourceName": "Скелфсайдер",
+        "name": "Скелфсайдер"
+      },
+      "thorncobble": {
+        "sourceName": "Торнкоббл",
+        "name": "Торнкоббл"
+      },
+      "tumbleberry": {
+        "sourceName": "Тамблберри",
+        "name": "Тамблберри"
+      }
+    },
+    "human": {
+      "reiklander": {
+        "sourceName": "Рейкландец",
+        "name": "Рейкландец"
+      },
+      "middenheimer": {
+        "sourceName": "Мидденхеймец",
+        "name": "Мидденхеймец"
+      },
+      "middenlander": {
+        "sourceName": "Мидденландец",
+        "name": "Мидденландец"
+      },
+      "nordlander": {
+        "sourceName": "Нордландец",
+        "name": "Нордландец"
+      },
+      "salzenmunder": {
+        "sourceName": "Сальзенмундец",
+        "name": "Сальзенмундец"
+      },
+      "bjornling": {
+        "sourceName": "Bjornling Norse",
+        "name": "Норсы — бьёрнлинги"
+      },
+      "sarl": {
+        "sourceName": "Sarl Norse",
+        "name": "Норсы — сарлы"
+      },
+      "skaeling": {
+        "sourceName": "Skaeling Norse",
+        "name": "Норсы — скэлинги"
+      },
+      "tilean": {
+        "sourceName": "Тилиец",
+        "name": "Тилиец"
+      },
+      "imperial-tilean": {
+        "sourceName": "Имперский тилиец",
+        "name": "Имперский тилиец"
+      },
+      "southbanker": {
+        "sourceName": "Altdorfer — South Banker",
+        "name": "Альтдорфец — Южный Берег"
+      },
+      "eastender": {
+        "sourceName": "Altdorfer — Eastender",
+        "name": "Альтдорфец — Восточный Конец"
+      },
+      "hexxerbezrik": {
+        "sourceName": "Altdorfer — Hexxerbezrik",
+        "name": "Альтдорфец — Хексербезрик"
+      },
+      "docklands": {
+        "sourceName": "Altdorfer — Docklands",
+        "name": "Альтдорфец — Портовый район"
+      }
+    },
+    "dwarf": {
+      "karaz-a-karak": {
+        "sourceName": "Karaz-a-Karak",
+        "name": "Караз-а-Карак"
+      },
+      "barak-varr": {
+        "sourceName": "Barak Varr",
+        "name": "Барак-Варр"
+      },
+      "karak-azul": {
+        "sourceName": "Karak Azul",
+        "name": "Карак Азул"
+      },
+      "karak-eight-peaks": {
+        "sourceName": "Karak Eight Peaks",
+        "name": "Карак Восемь Пиков"
+      },
+      "karak-kadrin": {
+        "sourceName": "Karak Kadrin",
+        "name": "Карак Кадрин"
+      },
+      "zhufbar": {
+        "sourceName": "Zhufbar",
+        "name": "Жуфбар"
+      },
+      "karak-hirn": {
+        "sourceName": "Karak Hirn / Black Mountains",
+        "name": "Карак Хирн / Чёрные горы"
+      },
+      "karak-izor": {
+        "sourceName": "Karak Izor / The Vaults",
+        "name": "Карак Изор / Крепи"
+      },
+      "karak-norn": {
+        "sourceName": "Karak Norn / Grey Mountains",
+        "name": "Карак Норн / Серые горы"
+      },
+      "norse": {
+        "sourceName": "норс",
+        "name": "норс"
+      },
+      "imperial": {
+        "sourceName": "Imperial",
+        "name": "Имперские гномы"
+      },
+      "cragforge": {
+        "sourceName": "Клан Горной кузни",
+        "name": "Клан Горной кузни"
+      },
+      "grumsson": {
+        "sourceName": "Клан Грумсон",
+        "name": "Клан Грумсон"
+      },
+      "altdorfer": {
+        "sourceName": "Altdorfer",
+        "name": "Альтдорфский гном"
+      }
+    },
+    "familiar": {
+      "badger": {
+        "sourceName": "барсук",
+        "name": "барсук"
+      },
+      "cat": {
+        "sourceName": "Cat",
+        "name": "Кошка"
+      },
+      "crow": {
+        "sourceName": "Crow",
+        "name": "Ворон"
+      },
+      "fox": {
+        "sourceName": "Fox",
+        "name": "Лиса"
+      },
+      "owl": {
+        "sourceName": "Owl",
+        "name": "Сова"
+      },
+      "stoat": {
+        "sourceName": "Stoat",
+        "name": "Горностай"
+      }
+    },
+    "helf": {
+      "caledor": {
+        "sourceName": "Caledor",
+        "name": "Каледор"
+      },
+      "ellyrion": {
+        "sourceName": "Ellyrion",
+        "name": "Эллирион"
+      },
+      "avelorn": {
+        "sourceName": "Avelorn",
+        "name": "Авелорн"
+      },
+      "saphery": {
+        "sourceName": "Saphery",
+        "name": "Сафери"
+      },
+      "eataine": {
+        "sourceName": "Eataine",
+        "name": "Эатайн"
+      },
+      "tiranoc": {
+        "sourceName": "Tiranoc",
+        "name": "Тиранок"
+      },
+      "nagarythe": {
+        "sourceName": "Nagarythe",
+        "name": "Нагарит"
+      },
+      "chrace": {
+        "sourceName": "Chrace",
+        "name": "Крейс"
+      },
+      "cothique": {
+        "sourceName": "Cothique",
+        "name": "Котик"
+      },
+      "yvresse": {
+        "sourceName": "Yvresse",
+        "name": "Ивресс"
+      },
+      "uranai": {
+        "sourceName": "Uranai",
+        "name": "Уранаи"
+      }
+    }
+  },
+  "species": {
+    "human": {
+      "sourceName": "Человек",
+      "name": "Человек"
+    },
+    "dwarf": {
+      "sourceName": "Гном",
+      "name": "Гном"
+    },
+    "halfling": {
+      "sourceName": "Полурослик",
+      "name": "Полурослик"
+    },
+    "helf": {
+      "sourceName": "Высший эльф",
+      "name": "Высший эльф"
+    },
+    "welf": {
+      "sourceName": "Лесной эльф",
+      "name": "Лесной эльф"
+    },
+    "gnome": {
+      "sourceName": "Карлик",
+      "name": "Карлик"
+    },
+    "ogre": {
+      "sourceName": "Огр",
+      "name": "Огр"
+    },
+    "familiar": {
+      "sourceName": "Animal Familiar",
+      "name": "Фамильяр-животное"
+    },
+    "badger": {
+      "sourceName": "барсук",
+      "name": "барсук"
+    },
+    "cat": {
+      "sourceName": "Cat",
+      "name": "Кошка"
+    },
+    "crow": {
+      "sourceName": "Crow",
+      "name": "Ворон"
+    },
+    "fox": {
+      "sourceName": "Fox",
+      "name": "Лиса"
+    },
+    "owl": {
+      "sourceName": "Owl",
+      "name": "Сова"
+    },
+    "stoat": {
+      "sourceName": "Stoat",
+      "name": "Горностай"
+    },
+    "skink": {
+      "sourceName": "Skink",
+      "name": "Сцинк"
+    },
+    "chameleonskink": {
+      "sourceName": "Chameleon Skink",
+      "name": "Сцинк-хамелеон"
+    }
+  },
+  "sourceNotes": {
+    "altdorf": "Owner OCR Altdorf, pages 3/6/20: Южный Берег, Восточный Конец, Хексербезрик.",
+    "dwarf": "Owner OCR Dwarf Player Guide, pages 2/16: Караз-а-Карак, Барак-Варр, Жуфбар, Карак Изор / Крепи.",
+    "uranai": "Transliteration of the native Uranai label; no owner Russian edition found."
+  }
+}

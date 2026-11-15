@@ -1,0 +1,22 @@
+﻿name: Localization checks
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.14'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: python tools/package_release.py
+      - run: python tools/validate_helf_inputs.py
+      - run: node --test tests/helf-translation.test.mjs tests/runtime/native-specialisation.test.mjs tests/runtime/paranoth-wheel.test.mjs
+      - uses: actions/upload-artifact@v4
+        with:
+          name: wfrp4e-ru-overlay
+          path: dist/

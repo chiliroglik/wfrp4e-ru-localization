@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "wfrp4e-archives1": {
+      "sourceTitle": "WFRP4e - Archives of the Empire Vol. I",
+      "title": "WFRP4e — Архивы Империи I",
+      "folderName": "Архивы Империи I",
+      "folderSourceNames": [
+        "Archives of the Empire Vol. I",
+        "Архивы Империи I"
+      ],
+      "packs": {
+        "wfrp4e-archives1.actors": {
+          "sourceLabel": "Бестиарий (Архивы Империи I)",
+          "label": "Бестиарий (Архивы Империи I)",
+          "sourceLabels": [
+            "Бестиарий (Архивы Империи I)",
+            "Actors (Archives Vol. I)"
+          ]
+        },
+        "wfrp4e-archives1.items": {
+          "sourceLabel": "Предметы (Архивы Империи I)",
+          "label": "Предметы (Архивы Империи I)",
+          "sourceLabels": [
+            "Предметы (Архивы Империи I)",
+            "Items (Archives Vol. I)"
+          ]
+        },
+        "wfrp4e-archives1.journals": {
+          "sourceLabel": "Журналы (Архивы Империи I)",
+          "label": "Журналы (Архивы Империи I)",
+          "sourceLabels": [
+            "Журналы (Архивы Империи I)",
+            "Journals (Archives Vol. I)"
+          ]
+        },
+        "wfrp4e-archives1.tables": {
+          "sourceLabel": "Таблицы (Архивы Империи I)",
+          "label": "Таблицы (Архивы Империи I)",
+          "sourceLabels": [
+            "Таблицы (Архивы Империи I)",
+            "Tables (Archives Vol. I)"
+          ]
+        },
+        "wfrp4e-archives1.scenes": {
+          "sourceLabel": "Scenes (Archives Vol. I)",
+          "label": "Сцены (Архивы Империи I)",
+          "sourceLabels": [
+            "Scenes (Archives Vol. I)"
+          ]
+        }
+      }
+    },
+    "wfrp4e-archives2": {
+      "sourceTitle": "WFRP4e - Archives of the Empire Vol. II",
+      "title": "WFRP4e — Архивы Империи II",
+      "folderName": "Архивы Империи II",
+      "folderSourceNames": [
+        "Archives of the Empire Vol. II",
+        "Архивы Империи II"
+      ],
+      "packs": {
+        "wfrp4e-archives2.actors": {
+          "sourceLabel": "Бестиарий (Архивы Империи II)",
+          "label": "Бестиарий (Архивы Империи II)",
+          "sourceLabels": [
+            "Бестиарий (Архивы Империи II)",
+            "Actors (Archives Vol. II)"
+          ]
+        },
+        "wfrp4e-archives2.items": {
+          "sourceLabel": "Предметы (Архивы Империи II)",
+          "label": "Предметы (Архивы Империи II)",
+          "sourceLabels": [
+            "Предметы (Архивы Империи II)",
+            "Items (Archives Vol. II)"
+          ]
+        },
+        "wfrp4e-archives2.journals": {
+          "sourceLabel": "Журналы (Архивы Империи II)",
+          "label": "Журналы (Архивы Империи II)",
+          "sourceLabels": [
+            "Журналы (Архивы Империи II)",
+            "Journals (Archives Vol. II)"
+          ]
+        },
+        "wfrp4e-archives2.tables": {
+          "sourceLabel": "Таблицы (Архивы Империи II)",
+          "label": "Таблицы (Архивы Империи II)",
+          "sourceLabels": [
+            "Таблицы (Архивы Империи II)",
+            "Tables (Archives Vol. II)"
+          ]
+        },
+        "wfrp4e-archives2.macros": {
+          "sourceLabel": "Макросы (Архивы Империи II)",
+          "label": "Макросы (Архивы Империи II)",
+          "sourceLabels": [
+            "Макросы (Архивы Империи II)",
+            "Macros (Archives Vol. II)"
+          ]
+        },
+        "wfrp4e-archives2.scenes": {
+          "sourceLabel": "Scenes (Archives Vol. II)",
+          "label": "Сцены (Архивы Империи II)",
+          "sourceLabels": [
+            "Scenes (Archives Vol. II)"
+          ]
+        }
+      }
+    },
+    "wfrp4e-archives3": {
+      "sourceTitle": "WFRP4e - Archives of the Empire Vol. III",
+      "title": "WFRP4e — Архивы Империи III",
+      "folderName": "Архивы Империи III",
+      "folderSourceNames": [
+        "Archives of the Empire Vol. III",
+        "Архивы Империи III"
+      ],
+      "packs": {
+        "wfrp4e-archives3.actors": {
+          "sourceLabel": "Бестиарий (Архивы Империи III)",
+          "label": "Бестиарий (Архивы Империи III)",
+          "sourceLabels": [
+            "Бестиарий (Архивы Империи III)",
+            "Actors (Archives Vol. III)"
+          ]
+        },
+        "wfrp4e-archives3.items": {
+          "sourceLabel": "Предметы (Архивы Империи III)",
+          "label": "Предметы (Архивы Империи III)",
+          "sourceLabels": [
+            "Предметы (Архивы Империи III)",
+            "Items (Archives Vol. III)"
+          ]
+        },
+        "wfrp4e-archives3.journals": {
+          "sourceLabel": "Журналы (Архивы Империи III)",
+          "label": "Журналы (Архивы Империи III)",
+          "sourceLabels": [
+            "Журналы (Архивы Империи III)",
+            "Journals (Archives Vol. III)"
+          ]
+        },
+        "wfrp4e-archives3.tables": {
+          "sourceLabel": "Таблицы (Архивы Империи III)",
+          "label": "Таблицы (Архивы Империи III)",
+          "sourceLabels": [
+            "Таблицы (Архивы Империи III)",
+            "Tables (Archives Vol. III)"
+          ]
+        }
+      }
+    },
+    "wfrp4e-core": {
+      "sourceTitle": "WFRP4e - Core Rulebook",
+      "title": "WFRP4e — Книга правил",
+      "folderName": "Книга правил",
+      "folderSourceNames": [
+        "Core Rulebook",
+        "Книга правил"
+      ],
+      "packs": {
+        "wfrp4e-core.actors": {
+          "sourceLabel": "Бестиарий (Книга правил)",
+          "label": "Бестиарий (Книга правил)",
+          "sourceLabels": [
+            "Бестиарий (Книга правил)",
+            "Bestiary (Core Rulebook)"
+          ]
+        },
+        "wfrp4e-core.items": {
+          "sourceLabel": "Предметы (Книга правил)",
+          "label": "Предметы (Книга правил)",
+          "sourceLabels": [
+            "Предметы (Книга правил)",
+            "Items (Core Rulebook)"
+          ]
+        },
+        "wfrp4e-core.journals": {
+          "sourceLabel": "Журналы (Книга правил)",
+          "label": "Журналы (Книга правил)",
+          "sourceLabels": [
+            "Журналы (Книга правил)",
+            "Journals (Core Rulebook)"
+          ]
+        },
+        "wfrp4e-core.tables": {
+          "sourceLabel": "Таблицы (Книга правил)",
+          "label": "Таблицы (Книга правил)",
+          "sourceLabels": [
+            "Таблицы (Книга правил)",
+            "Tables (Core Rulebook)"
+          ]
+        },
+        "wfrp4e-core.scenes": {
+          "sourceLabel": "Сцены (Книга правил)",
+          "label": "Сцены (Книга правил)",
+          "sourceLabels": [
+            "Сцены (Книга правил)",
+            "Scenes (Core Rulebook)"
+          ]
+        }
+      }
+    },
+    "wfrp4e-helf": {
+      "sourceTitle": "WFRP4e - High Elf Bundle",
+      "title": "WFRP4e — Высшие эльфы",
+      "folderName": "Высшие эльфы",
+      "folderSourceNames": [
+        "High Elf Bundle",
+        "Высшие эльфы"
+      ],
+      "packs": {
+        "wfrp4e-helf.actors": {
+          "sourceLabel": "Бестиарий (Высшие эльфы)",
+          "label": "Бестиарий (Высшие эльфы)",
+          "sourceLabels": [
+            "Бестиарий (Высшие эльфы)",
+            "Actors (High Elf Bundle)"
+          ]
+        },
+        "wfrp4e-helf.items": {
+          "sourceLabel": "Предметы (Высшие эльфы)",
+          "label": "Предметы (Высшие эльфы)",
+          "sourceLabels": [
+            "Предметы (Высшие эльфы)",
+            "Items (High Elf Bundle)"
+          ]
+        },
+        "wfrp4e-helf.journals": {
+          "sourceLabel": "Журналы (Высшие эльфы)",
+          "label": "Журналы (Высшие эльфы)",
+          "sourceLabels": [
+            "Журналы (Высшие эльфы)",
+            "Journals (High Elf Bundle)"
+          ]
+        },
+        "wfrp4e-helf.tables": {
+          "sourceLabel": "Таблицы (Высшие эльфы)",
+          "label": "Таблицы (Высшие эльфы)",
+          "sourceLabels": [
+            "Таблицы (Высшие эльфы)",
+            "Tables (High Elf Bundle)"
+          ]
+        },
+        "wfrp4e-helf.scenes": {
+          "sourceLabel": "Сцены (Высшие эльфы)",
+          "label": "Сцены (Высшие эльфы)",
+          "sourceLabels": [
+            "Сцены (Высшие эльфы)",
+            "Scenes (High Elf Bundle)"
+          ]
+        }
+      }
+    },
+    "wfrp4e-wom": {
+      "sourceTitle": "WFRP4e - Winds of Magic",
+      "title": "WFRP4e — Ветра магии",
+      "folderName": "Ветра магии",
+      "folderSourceNames": [
+        "Winds of Magic",
+        "Ветра магии"
+      ],
+      "packs": {
+        "wfrp4e-wom.actors": {
+          "sourceLabel": "Бестиарий (Ветра магии)",
+          "label": "Бестиарий (Ветра магии)",
+          "sourceLabels": [
+            "Бестиарий (Ветра магии)",
+            "Actors (Winds of Magic)"
+          ]
+        },
+        "wfrp4e-wom.items": {
+          "sourceLabel": "Предметы (Ветра магии)",
+          "label": "Предметы (Ветра магии)",
+          "sourceLabels": [
+            "Предметы (Ветра магии)",
+            "Items (Winds of Magic)"
+          ]
+        },
+        "wfrp4e-wom.journals": {
+          "sourceLabel": "Журналы (Ветра магии)",
+          "label": "Журналы (Ветра магии)",
+          "sourceLabels": [
+            "Журналы (Ветра магии)",
+            "Journals (Winds of Magic)"
+          ]
+        },
+        "wfrp4e-wom.tables": {
+          "sourceLabel": "Таблицы (Ветра магии)",
+          "label": "Таблицы (Ветра магии)",
+          "sourceLabels": [
+            "Таблицы (Ветра магии)",
+            "Tables (Winds of Magic)"
+          ]
+        },
+        "wfrp4e-wom.macros": {
+          "sourceLabel": "Макросы (Ветра магии)",
+          "label": "Макросы (Ветра магии)",
+          "sourceLabels": [
+            "Макросы (Ветра магии)",
+            "Macros (Winds of Magic)"
+          ]
+        }
+      }
+    }
+  }
+}

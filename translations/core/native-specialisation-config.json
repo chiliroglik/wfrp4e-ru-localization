@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "arcaneMagicId": "3O9clK7LGyuLTHPW",
+  "requiredSkillIds": [
+    "e3McIND4Rrsn5cE6",
+    "ZQzRZkB9JK1CveMW"
+  ],
+  "schools": [
+    {
+      "key": "beasts",
+      "wind": "Ghur",
+      "skillId": "ssCqvqr2ORFX6lPL",
+      "sourceId": "Compendium.wfrp4e-wom.journals.DND7iNuVrCXgTXki"
+    },
+    {
+      "key": "death",
+      "wind": "Shyish",
+      "skillId": "IQ5MxF1XlWoRomfj",
+      "sourceId": "Compendium.wfrp4e-wom.journals.hFQtvGpxh0D8Xfcl"
+    },
+    {
+      "key": "fire",
+      "wind": "Aqshy",
+      "skillId": "gh91jaxzTBgbMoi5",
+      "sourceId": "Compendium.wfrp4e-wom.journals.wjJ2wq1bzzON74vV"
+    },
+    {
+      "key": "heavens",
+      "wind": "Azyr",
+      "skillId": "hpc8g8Z9rl3fJECS",
+      "sourceId": "Compendium.wfrp4e-wom.journals.j72t0e5BVIgeOMB4"
+    },
+    {
+      "key": "metal",
+      "wind": "Chamon",
+      "skillId": "QJ1sfMkNmIh04nky",
+      "sourceId": "Compendium.wfrp4e-wom.journals.kLTWtoz5d7Yt2zAJ"
+    },
+    {
+      "key": "shadow",
+      "wind": "Ulgu",
+      "skillId": "e6uURn9IFt09beNU",
+      "sourceId": "Compendium.wfrp4e-wom.journals.7xFrgrOyYX4SVrBL"
+    },
+    {
+      "key": "light",
+      "wind": "Hysh",
+      "skillId": "ChI09rjm2afh1bqI",
+      "sourceId": "Compendium.wfrp4e-wom.journals.4hwftTG3PqNnmUfK"
+    },
+    {
+      "key": "life",
+      "wind": "Ghyran",
+      "skillId": "RLSVcLqPvnd1cg4U",
+      "sourceId": "Compendium.wfrp4e-wom.journals.Q9sQhbDN8NUHXYdA"
+    }
+  ],
+  "talents": {
+    "3O9clK7LGyuLTHPW": {
+      "mode": "school"
+    },
+    "580fwhKfOZJFxMID": {
+      "mode": "skill",
+      "group": "Lore",
+      "aliases": [
+        "Эрудит"
+      ]
+    },
+    "GHmXS9zGNx3PWYZc": {
+      "mode": "skill",
+      "group": "Trade",
+      "aliases": [
+        "Мастер-ремесленник"
+      ]
+    },
+    "GRRN3XAKIpEVCY7z": {
+      "mode": "skill",
+      "group": "Trade"
+    },
+    "9h82z72XGo9tfgQS": {
+      "mode": "text"
+    },
+    "sYbgpSnRqSZWgwFP": {
+      "mode": "text"
+    },
+    "8pVzgPkgWpTJvfhG": {
+      "mode": "text"
+    },
+    "E98mVLZgE8bX5vQW": {
+      "mode": "text"
+    },
+    "1dUizIgLBgn4jICC": {
+      "mode": "text"
+    },
+    "vMYEkrWj0ip6ZOdv": {
+      "mode": "text"
+    }
+  }
+}

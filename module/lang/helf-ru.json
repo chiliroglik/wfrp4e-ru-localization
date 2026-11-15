@@ -1,0 +1,17 @@
+{
+  "TYPES.Item.wfrp4e-helf.technique": "Танец меча",
+  "WFRP4E.SwordDance": "Танец меча",
+  "WFRP4E.SwordDances": "Танцы меча",
+  "WFRP4E.SwordDanceSuccess": "Приём танца меча выполнен успешно!",
+  "WFRP4E.SwordDanceSuccessExcess": "Приём танца меча выполнен успешно с {excessSL} избыточными УУ!",
+  "WFRP4E.SwordDanceFailure": "Приём танца меча не удался.",
+  "WFRP4E.YenluiBalanced": "Йенлуй (равновесие)",
+  "WFRP4E.YenluiLight": "Йенлуй (Светлое)",
+  "WFRP4E.YenluiDark": "Йенлуй (Тёмное)",
+  "WFRP4E.YenluiBalancedDesc": "<p>Совершенное равновесие.</p>",
+  "WFRP4E.YenluiLightDesc": "<p>Чрезмерное воздействие света кадай грозит пресыщением или фатализмом. Это можно отыгрывать как склонность к нерешительности, отчуждённости или бесчувственности.</p>",
+  "WFRP4E.YenluiDarkDesc": "<p>Чрезмерное воздействие тьмы ситарай сделало вас жестоким или порочным. Это можно отыгрывать как склонность к садизму, распутству или социопатическому поведению.</p>",
+  "WFRP4E.MagicLores.high": "Высшая магия",
+  "WFRP4E.MagicWind.high": "Кхайш",
+  "WFRP4E.Availability.Unique": "Уникальное"
+}

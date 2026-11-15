@@ -1,0 +1,378 @@
+{
+  "pack": "wfrp4e-core.actors",
+  "translationSource": "ru-wfrp4e/compendium/wfrp4e-core.actors.json",
+  "bindings": [
+    {
+      "actor": "28MwFcDPwpcO12kt",
+      "sourceName": "Slenderthigh Whiptongue",
+      "sourceNameSha256": "ddcd67f76cf8f31b267c8588e1a6d4d7354ded7a8a2ce2238ff5b77fe7d2f20a",
+      "russianName": "Тонконог Бичующий Язык"
+    },
+    {
+      "actor": "2lvE7Ypir9uuRjVT",
+      "sourceName": "Black Bella",
+      "sourceNameSha256": "47bcaa310327205f3725acccfaad5cfc193c5aa0196b3804ae386b1cb5d0ea4a",
+      "russianName": "Чёрная Белла"
+    },
+    {
+      "actor": "5wl3KH6hXsGwUcZa",
+      "sourceName": "Wood Elf",
+      "sourceNameSha256": "d6748071c4f3f01e3e8da08b14e3f411bd3830cab512c2dcd3955ab2812f57b0",
+      "russianName": "Лесной эльф"
+    },
+    {
+      "actor": "6B7LMdYtunAftsFN",
+      "sourceName": "Crypt Ghoul",
+      "sourceNameSha256": "cabd678f220d6e3ba1cd50e1fd8b83a9f042cba77d5129750d965bdfd15516c1",
+      "russianName": "Упырь"
+    },
+    {
+      "actor": "7629Eaow3acVS59H",
+      "sourceName": "Boar",
+      "sourceNameSha256": "bf10a5ee1fab92a8db98dc937e5368b046eea1e95ff4d9fdcbdf61534a3f8406",
+      "russianName": "Кабан"
+    },
+    {
+      "actor": "7ihBjcHcewZ2Obul",
+      "sourceName": "Human",
+      "sourceNameSha256": "9ffa865f2bc6e850157bb454ef3e00fa789e3f8cc631552941a99ba3fcddde51",
+      "russianName": "Человек"
+    },
+    {
+      "actor": "7qslmdLa7so3BmFk",
+      "sourceName": "Troll",
+      "sourceNameSha256": "9bac25686c53aa859d6179d914be697db510e5dfa7513cad362d76b1c86c9d3b",
+      "russianName": "Тролль"
+    },
+    {
+      "actor": "8g9rnHLiZ1pJcPPt",
+      "sourceName": "Griffon",
+      "sourceNameSha256": "80e8f4b84b7d74fe6e76069c484058cd0368208115da5ccdd14dd2356fc9fb2b",
+      "russianName": "Грифон"
+    },
+    {
+      "actor": "8gG2Wim6wAlJWRax",
+      "sourceName": "Daemonette of Slaanesh",
+      "sourceNameSha256": "9d41a906e6b220c3eadca966592e54a58452b12075f553cdfab9f5aa654a19c1",
+      "russianName": "Демонетка Слаанеш"
+    },
+    {
+      "actor": "9q8QzWB4o7aj6ZxL",
+      "sourceName": "Jabberslythe",
+      "sourceNameSha256": "e2035861eade79c0a0982f0387c7c56fc6f2dcbc20d113d4bfceb42aa73ebfd5",
+      "russianName": "Бормохват"
+    },
+    {
+      "actor": "A4G4bTYxot3ZygZO",
+      "sourceName": "Hydra",
+      "sourceNameSha256": "0815efe9d8ce8046c3845f72b910f153581f25a399849df8c228b939847618d7",
+      "russianName": "Гидра"
+    },
+    {
+      "actor": "AAiKqD1IoweDpJI7",
+      "sourceName": "Snake",
+      "sourceNameSha256": "aaa73ac7721342eac5212f15feb2d5f7631e28222d8b79ffa835def1b81ff620",
+      "russianName": "Змея"
+    },
+    {
+      "actor": "E7BiDqsB55BrOQut",
+      "sourceName": "Orc",
+      "sourceNameSha256": "3907af2e3409c8737e09736dee955306c798dc0c1ce5a728d2d806278f4d8e0b",
+      "russianName": "Орк"
+    },
+    {
+      "actor": "F1vAZZcmVKkRw8xn",
+      "sourceName": "Clanrat",
+      "sourceNameSha256": "afc9d736f79b4007ba59a015cff6890b252f4385c6f310b05ec771f4f3ecb191",
+      "russianName": "Крысородичи"
+    },
+    {
+      "actor": "FmEDHnfAe2iIugpt",
+      "sourceName": "Bog Octopus",
+      "sourceNameSha256": "988a2b6731fdda7a5d1862fb07e366010fcb5ed0ba7090dc9182ab01fd20e28e",
+      "russianName": "Болотный осьминог"
+    },
+    {
+      "actor": "GgSxlomoV220kd3G",
+      "sourceName": "Ghost",
+      "sourceNameSha256": "df1bc4984a055e10b2863eb03abf11701cb63a1e2371dc398889e8291812fb80",
+      "russianName": "Привидение"
+    },
+    {
+      "actor": "HKSn8iNSS9WcAuJc",
+      "sourceName": "Fenbeast",
+      "sourceNameSha256": "1cbb05616fff8cf78296cc9320834ded4cd530635a1e98e2cdb35afc91c83d2d",
+      "russianName": "Торфяное чудище"
+    },
+    {
+      "actor": "HZfZaCjdniz5Z4CP",
+      "sourceName": "Giant",
+      "sourceNameSha256": "db5bea376a0dc01a0dc3d3389ed02651eb2ad23d4789c44560d60985974d296a",
+      "russianName": "Великан"
+    },
+    {
+      "actor": "ImdVnI8mEiOmKriI",
+      "sourceName": "Dwarf",
+      "sourceNameSha256": "b528f9d1a283287ee3e1e93968211f7e59410dd7310bd08996bc77b19523441a",
+      "russianName": "Гном"
+    },
+    {
+      "actor": "KZkuwdOYmE3nwB2n",
+      "sourceName": "Bloodletter of Khorne",
+      "sourceNameSha256": "189dc5cb851457ea5880b64b2aba7988379ea210f422cf8d9dedec117e891951",
+      "russianName": "Кровопускатель Кхорна"
+    },
+    {
+      "actor": "KeB0khEeq462qTJw",
+      "sourceName": "Wyvern",
+      "sourceNameSha256": "d8e7ff4df59742f5aa3fd162217d2a0450b97b28b48db58fa114c5c0e2c42810",
+      "russianName": "Виверна"
+    },
+    {
+      "actor": "KtYgLHcSLpHmnGI2",
+      "sourceName": "Bear",
+      "sourceNameSha256": "8c578ed3e9d5fec6f0f1f46402fdb52e4b6174ae74aef1487b1905d0b666c168",
+      "russianName": "Медведь"
+    },
+    {
+      "actor": "LZttdCIxmFr1sGsS",
+      "sourceName": "Dragon",
+      "sourceNameSha256": "bbe963c645f060d61857b416b39ec5dcf63f659a960bb2dc164b7faad2897783",
+      "russianName": "Дракон"
+    },
+    {
+      "actor": "MLtDY4bwzGQpaABN",
+      "sourceName": "Demigryph",
+      "sourceNameSha256": "cede9f264375a2aa469e69ad7a3886c8524dcb9ac69d5a23c8c318aae4a3e830",
+      "russianName": "Демигриф"
+    },
+    {
+      "actor": "Mt5JAoOSaEH1PdcP",
+      "sourceName": "Skeleton",
+      "sourceNameSha256": "ea5f6bdc79b884c397d6163ed999deafd3908d8c928097911d4085a99ef1b575",
+      "russianName": "Скелет"
+    },
+    {
+      "actor": "P0GkA7DPaLbeOTkf",
+      "sourceName": "Mutant",
+      "sourceNameSha256": "7804c6fd2c1ac6d0afdb5964b2ad8e1ddf4fa6a08952433c58e6e1faa6d3f64a",
+      "russianName": "Мутант"
+    },
+    {
+      "actor": "QutqbzpxKqsjQ6yN",
+      "sourceName": "High Elf",
+      "sourceNameSha256": "2a8e80c97798a59afc89a7bd5e570117a17b6e815db9ad63561ce92ec952639d",
+      "russianName": "Высший эльф"
+    },
+    {
+      "actor": "R1iWvfV9EvgIc8bJ",
+      "sourceName": "Dog",
+      "sourceNameSha256": "0eb129bf94594aaeee66e38361d7be212cd927c3df4dd92e3ded2e0da0c7ad88",
+      "russianName": "Собака"
+    },
+    {
+      "actor": "R37OtN5gmPWCYOP3",
+      "sourceName": "Gor",
+      "sourceNameSha256": "52e0f0094b0d5247ace9a7bbb388bf8d0e6ca49f7c1fe2b796bbc41a486bed42",
+      "russianName": "Гор"
+    },
+    {
+      "actor": "RiXpMLex8SZf6gaQ",
+      "sourceName": "Hippogryph",
+      "sourceNameSha256": "91bf198e33908c683b154c6c08f99432c0b8ac4a5dbee2ac4ee8ae8d8d43f93a",
+      "russianName": "Гиппогриф"
+    },
+    {
+      "actor": "Rs3lMA5UavTlTiJW",
+      "sourceName": "Kastor Erichson",
+      "sourceNameSha256": "d87d14d40058683b190f891a716242e1d0179245955e83cca50819e118220e2a",
+      "russianName": "Кастор Эрихсон"
+    },
+    {
+      "actor": "T5qAtpoKtB8iwTBd",
+      "sourceName": "Vampire",
+      "sourceNameSha256": "ef177717b2d61a6ac74a239f5c3eae9634b65091e35031cebf5d18f0c17b55b4",
+      "russianName": "Вампир"
+    },
+    {
+      "actor": "T79RqnDOAQLn3I1s",
+      "sourceName": "Zombie",
+      "sourceNameSha256": "4c876e938c74ff4d6ee0e587623abf3c4a399188742b9318a786b2dd108489ba",
+      "russianName": "Зомби"
+    },
+    {
+      "actor": "TWy5l4uYTRAtjfit",
+      "sourceName": "Tomb Banshee",
+      "sourceNameSha256": "a5d6b3ee39ba36629fafc935b1e714d64d252c3b37cc42663d3801665c81939e",
+      "russianName": "Баньши"
+    },
+    {
+      "actor": "VMceSpLje0J7lfP0",
+      "sourceName": "Cave Squig",
+      "sourceNameSha256": "bf928578995b55ab6faaa2277f70ca632aacfd105baf75039637256944e204ef",
+      "russianName": "Пещерный сквиг"
+    },
+    {
+      "actor": "VPVnyae6VHeD9cEP",
+      "sourceName": "Giant Spider",
+      "sourceNameSha256": "b2349263cfa5d2db2edd80a76d04aad21f3955ab2a820ee286f7026bf9c1e6e5",
+      "russianName": "Гигантский паук"
+    },
+    {
+      "actor": "VfJgGmCTWqb0IDSW",
+      "sourceName": "Rat Ogre",
+      "sourceNameSha256": "0827d67905f12ac64d18d778b19f7c63212ffa533dfde7beb26f3e25772d8b08",
+      "russianName": "Крысоогр"
+    },
+    {
+      "actor": "XoSSlIsqXkiBlycn",
+      "sourceName": "Varghulf",
+      "sourceNameSha256": "8442d050fd5f33f80720e3d63549b5b842cbf736debf3fe551d41c5ba859dcdd",
+      "russianName": "Варгульф"
+    },
+    {
+      "actor": "XtVkAVgZRIIgrBXb",
+      "sourceName": "Manticore",
+      "sourceNameSha256": "f571571f5f2d4c33f83156a5b3cf07a62ee960e9a84c613468cd2f759051efbc",
+      "russianName": "Мантикора"
+    },
+    {
+      "actor": "YavXt2NP9N8Puxse",
+      "sourceName": "Pol Dankels",
+      "sourceNameSha256": "4e1b291bf0fbfb04619e46dc2e33dc880199942513afea9599b5bf71c6834078",
+      "russianName": "Поль Данкельс"
+    },
+    {
+      "actor": "Yee9gwxJUceGbnO2",
+      "sourceName": "Pegasus",
+      "sourceNameSha256": "2023bb247b5e7154a872a877de417189d5c2f61651ca258a94195744b5f3c9c0",
+      "russianName": "Пегас"
+    },
+    {
+      "actor": "a05lQsGjSv62wF0U",
+      "sourceName": "Chaos Warrior",
+      "sourceNameSha256": "cb855bb47e8208778b99a931931ef505713629d017855eb67c3c66d938e3a39b",
+      "russianName": "Воин хаоса"
+    },
+    {
+      "actor": "b1R5sW6lYIViJ2ki",
+      "sourceName": "Horse",
+      "sourceNameSha256": "edc5134033662b11f124eb353016838b04709f972e27355d7ed1c5686671e47f",
+      "russianName": "Лошадь"
+    },
+    {
+      "actor": "cAK1bMj1ne7HPcxI",
+      "sourceName": "Minotaur",
+      "sourceNameSha256": "8b60504d140cee2ea97eb00cdee759af8b3551866ceb5a7a8c4d824bf52b629e",
+      "russianName": "Минотавр"
+    },
+    {
+      "actor": "cHVOdcEkuatqjYV1",
+      "sourceName": "Bray-Shaman",
+      "sourceNameSha256": "2c082c59cdd4b2e894216acaee02a8306d983ada8bd883196f21d21fd22a8544",
+      "russianName": "Ревучий шаман"
+    },
+    {
+      "actor": "ePPk15Vxu9RxPtYV",
+      "sourceName": "Dieter Käsegeier",
+      "sourceNameSha256": "c969ed646514f448404e1082a6685cb9962d22f89f27542dd2989d003dd69f6e",
+      "russianName": "Дитер Кезегайер"
+    },
+    {
+      "actor": "ge5zXH2qboxaac7v",
+      "sourceName": "Pigeon",
+      "sourceNameSha256": "513a6ac2bc19523ee0ff041fb8a781f462ebb53bf2c13b53c8dd34570b905918",
+      "russianName": "Голубь"
+    },
+    {
+      "actor": "hMbcLVjk7eUdxtqC",
+      "sourceName": "Cairn Wraith",
+      "sourceNameSha256": "e3255c72851f14a7f97c1d02dfc588aa2c6f948a16d7cc46aaac0bd4cb05a8ed",
+      "russianName": "Могильный призрак"
+    },
+    {
+      "actor": "jfMhkQGzjFWDxVOm",
+      "sourceName": "Cultist",
+      "sourceNameSha256": "2787ea728b28387177aae2b57ce0e2c073d9777407c2baeaad951eeeae6459bc",
+      "russianName": "Хаосопоклонник"
+    },
+    {
+      "actor": "kl4qHg0mqWOApBqH",
+      "sourceName": "Stormvermin",
+      "sourceNameSha256": "9839a335518d1d427162c83373b1b4befb2ceb8c23e87c9578c085e6c4e1c242",
+      "russianName": "Штурмовой грызень"
+    },
+    {
+      "actor": "kt9ob9BdK6zLDWxn",
+      "sourceName": "Fimir",
+      "sourceNameSha256": "cdfda15079742f0f50e97d4b5f1591a2c7f5624640bee594077ea713fbd27d40",
+      "russianName": "Фимир"
+    },
+    {
+      "actor": "lSvYEInG8sZ03vqd",
+      "sourceName": "Wolf",
+      "sourceNameSha256": "ea858afbf837aae714617e89a36524aced28f7de921f7798e72810fd8839a462",
+      "russianName": "Волк"
+    },
+    {
+      "actor": "nPvDzBcqDGuRaS7x",
+      "sourceName": "Ogre",
+      "sourceNameSha256": "a8d2d8de5215444c317db3275e9fb6291aa2c53f519691c4d750e4cb49047b40",
+      "russianName": "Огр"
+    },
+    {
+      "actor": "nRJxtciIhTHKqAvY",
+      "sourceName": "Stellemar",
+      "sourceNameSha256": "9a76770a542f3cc997264f556bee3da2762817b4604726b41593e55f3debfa05",
+      "russianName": "Штеллемар"
+    },
+    {
+      "actor": "oenbbB0PitRWUBfZ",
+      "sourceName": "Giant Rat",
+      "sourceNameSha256": "3d927167b438baded45bbc27df7063dca15c9f06aa28e564c0b770ba2dc06243",
+      "russianName": "Гигантская крыса"
+    },
+    {
+      "actor": "r70e6JNM3MjWIb7N",
+      "sourceName": "Halfling",
+      "sourceNameSha256": "5806c79980acdd8edda0b985bd487808806b44659f8fececfe95bcb680a4a82c",
+      "russianName": "Полурослик"
+    },
+    {
+      "actor": "sbQ5mDvNZ7qQm8YY",
+      "sourceName": "Fr'hough Mournbreath",
+      "sourceNameSha256": "5e8c3a923279b5bf38ad912a0e4763aa188a318f509dcf86c7e2a9e664079598",
+      "russianName": "Фр'хоф Поветрие Скорби"
+    },
+    {
+      "actor": "umddAQkmxVYG0AzO",
+      "sourceName": "Dire Wolf",
+      "sourceNameSha256": "d1efddfeacd78b616b412a34cc10a0b5e66bf331f9e848534b9e6d799dbd1563",
+      "russianName": "Жуткий волк"
+    },
+    {
+      "actor": "vrYs3cbxvXtre6rv",
+      "sourceName": "Ungor",
+      "sourceNameSha256": "14092fec33cda2ba8364a7f6984fddd103defe3752de8b6d419eca53dee3624b",
+      "russianName": "Унгор"
+    },
+    {
+      "actor": "wdnXbjtKK7MtsZzc",
+      "sourceName": "Snotling",
+      "sourceNameSha256": "52849fa55f7cea6cd06432753727c4773c5d8e7b8661d9352a8a70e5dd9f276a",
+      "russianName": "Снотлинг"
+    },
+    {
+      "actor": "z8f3vySKIpTxGr62",
+      "sourceName": "Basilisk",
+      "sourceNameSha256": "5fac2c3826942f50c8017db46b5152e013352bb06388a82932e9994882b661d8",
+      "russianName": "Василиск"
+    },
+    {
+      "actor": "zzdOpKqBC28J66Mn",
+      "sourceName": "Goblin",
+      "sourceNameSha256": "47b56f5cc6399dfb42358163f01156882f07e8ac717110fa054f0f1010d47a2c",
+      "russianName": "Гоблин"
+    }
+  ]
+}

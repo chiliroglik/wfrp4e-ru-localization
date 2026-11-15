@@ -1,0 +1,9 @@
+﻿dist/
+build/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+!.env.example

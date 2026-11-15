@@ -1,0 +1,4610 @@
+{
+  "sourceSha256": "3ad19ce5176cd95fa5e8e9f3d0860ed5d46b864ac15aa53ddb8f3a3df8254d87",
+  "entries": {
+    "items.0WBVdLnfKQvc1zZ0": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Initiative Bonus yards (maximum)",
+          "translation": "бонус Инициативы ярдов (максимум)"
+        },
+        "target": {
+          "source": "1 forge or campfire (maximum)",
+          "translation": "1 кузница или костёр (максимум)"
+        },
+        "duration": {
+          "source": "Intelligence Bonus hours",
+          "translation": "бонус Интеллекта часов"
+        }
+      }
+    },
+    "items.2DD5BA65GshCNtPX": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Fellowship yards",
+          "translation": "Харизма ярдов"
+        },
+        "target": {
+          "source": "Special",
+          "translation": "особая"
+        },
+        "duration": {
+          "source": "Fellowship Bonus Rounds",
+          "translation": "бонус Харизмы раундов"
+        }
+      }
+    },
+    "items.3QHlAOZNbpgwzTES": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1 arrow",
+          "translation": "1 стрела"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "items.4IR2j4HL7m8wPeOH": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "1 boat or ship",
+          "translation": "1 лодка или корабль"
+        },
+        "duration": {
+          "source": "Willpower minutes",
+          "translation": "Сила воли минут"
+        }
+      }
+    },
+    "items.77u8Hh0YwLzEoiSs": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Intelligence Bonus yards",
+          "translation": "бонус Интеллекта ярдов"
+        },
+        "target": {
+          "source": "Special",
+          "translation": "особая"
+        },
+        "duration": {
+          "source": "Intelligence Bonus hours",
+          "translation": "бонус Интеллекта часов"
+        }
+      }
+    },
+    "items.7EOLQmu6IModnbEd": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.7W6lQ9imZGEcj88o": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.8n5PBGOAvPTOsLp5": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "items.8z0AXb0oUy67D58u": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Initiative miles",
+          "translation": "Инициатива миль"
+        },
+        "target": {
+          "source": "Special",
+          "translation": "особая"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.9VEuwsMvVCvY6zms": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "Fellowship Bonus yards",
+          "translation": "бонус Харизмы ярдов"
+        },
+        "duration": {
+          "source": "1 Round",
+          "translation": "1 раунд"
+        }
+      }
+    },
+    "items.B6FHVChA6TRdLpnN": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.BmeuogcdzZnRe0gN": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1 item",
+          "translation": "1 предмет"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.CKYVEowhqM0eFfaw": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Fellowship minutes",
+          "translation": "Харизма минут"
+        }
+      }
+    },
+    "items.D4dTx2nmAiuZHgTQ": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "target": {
+          "source": "Initiative Bonus yards",
+          "translation": "бонус Инициативы ярдов"
+        },
+        "duration": {
+          "source": "Willpower Bonus hours",
+          "translation": "бонус Силы воли часов"
+        }
+      }
+    },
+    "items.DorJHWhPe7BYbwRF": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "items.G8ERFuAgAWmyDYlZ": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "1 Round",
+          "translation": "1 раунд"
+        }
+      }
+    },
+    "items.GO1QeDOGyo7D6mvO": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "target": {
+          "source": "1 forge chamber or building (maximum)",
+          "translation": "1 кузнечный зал или здание (максимум)"
+        },
+        "duration": {
+          "source": "Willpower Bonus hours",
+          "translation": "бонус Силы воли часов"
+        }
+      }
+    },
+    "items.HcrUyXQ2LHd1U8Gb": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.HzZk3GbP6QOJ60s3": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1 item",
+          "translation": "1 предмет"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.JKG0BKdsMfRN6hCi": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "1 boat or ship",
+          "translation": "1 лодка или корабль"
+        },
+        "duration": {
+          "source": "Willpower minutes",
+          "translation": "Сила воли минут"
+        }
+      }
+    },
+    "items.KYkMouu2dV54zJDv": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Special",
+          "translation": "особая"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "items.KisdmvV6XCp4cjBj": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Channelling (Qhaysh)",
+          "translation": "Концентрация (Кхайш)"
+        }
+      }
+    },
+    "items.Kric2YAqUi6ubqsJ": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "2 * Fellowship yards",
+          "translation": "2 * Харизма ярдов"
+        },
+        "target": {
+          "source": "2 * Fellowship Bonus yards",
+          "translation": "2 * бонус Харизмы ярдов"
+        },
+        "duration": {
+          "source": "Fellowship Bonus minutes",
+          "translation": "бонус Харизмы минут"
+        }
+      }
+    },
+    "items.Mo6Le2AZPGchm4gf": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Half Willpower yards",
+          "translation": "половина Силы воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "instant",
+          "translation": "мгновенно"
+        }
+      }
+    },
+    "items.PJa7PkUBGYopJdzg": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Willpower Bonus minutes",
+          "translation": "бонус Силы воли минут"
+        }
+      }
+    },
+    "items.PVGGIKvqkqjBgxcQ": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.RXkgk17XePvpSbYg": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.SIq4yahb8qqymTec": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "target": {
+          "source": "1 Ghost",
+          "translation": "1 призрак"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.SNwmNxHummqHr1r9": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "2 * Willpower Bonus yards",
+          "translation": "2 * бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "1 Round",
+          "translation": "1 раунд"
+        }
+      }
+    },
+    "items.UNxTMo2VMhwCzQEB": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus minutes",
+          "translation": "бонус Силы воли минут"
+        }
+      }
+    },
+    "items.VR0VXCITCRNbV9qA": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Intelligence Bonus yards",
+          "translation": "бонус Интеллекта ярдов"
+        },
+        "duration": {
+          "source": "Intelligence Bonus Rounds",
+          "translation": "бонус Интеллекта раундов"
+        }
+      }
+    },
+    "items.VxRm1O3ATE9UcHS9": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "items.VyrMIcDUQoQUeWD6": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1 Plant",
+          "translation": "1 растение"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.Xa4iEKBvXRHlqriN": {
+      "type": "disease",
+      "fields": {
+        "duration": {
+          "source": "5d10",
+          "translation": "5d10"
+        }
+      }
+    },
+    "items.XdcSE7pDCi64mkGv": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Willpower Bonus hours",
+          "translation": "бонус Силы воли часов"
+        }
+      }
+    },
+    "items.YK9d7Zg0YNd2QJub": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Half Toughness yards",
+          "translation": "половина Выносливости ярдов"
+        },
+        "target": {
+          "source": "1 spellcaster, spell, or item",
+          "translation": "1 заклинатель, заклинание или предмет"
+        },
+        "duration": {
+          "source": "Willpower Bonus minutes",
+          "translation": "бонус Силы воли минут"
+        }
+      }
+    },
+    "items.b1QRjBgZ7l7OMLDE": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "Special",
+          "translation": "особая"
+        },
+        "duration": {
+          "source": "Willpower Bonus minutes",
+          "translation": "бонус Силы воли минут"
+        }
+      }
+    },
+    "items.bEDNIkanFqjYJ5g7": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "items.bKVFTq5lFVNizq7y": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1 object",
+          "translation": "1 предмет"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.iL2rlK4POdO7AJtJ": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Intelligence minutes",
+          "translation": "Интеллект минут"
+        }
+      }
+    },
+    "items.jZyDgjMgZSlpD95a": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "target": {
+          "source": "1 forge or campfire (maximum)",
+          "translation": "1 кузница или костёр (максимум)"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.oObKdtDzbhnreAXa": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower miles",
+          "translation": "Сила воли миль"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.pADrJvopjJi92AEm": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1 item",
+          "translation": "1 предмет"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.rNjPigBydbTN8eV8": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1 item",
+          "translation": "1 предмет"
+        },
+        "duration": {
+          "source": "1 Endeavour",
+          "translation": "1 дело"
+        }
+      }
+    },
+    "items.rTHZkpsu4rhCujSQ": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "Intelligence Bonus yards",
+          "translation": "бонус Интеллекта ярдов"
+        },
+        "duration": {
+          "source": "Intelligence Bonus hours",
+          "translation": "бонус Интеллекта часов"
+        }
+      }
+    },
+    "items.rV5z3ltwOUA6CgT9": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "150",
+          "translation": "150"
+        }
+      }
+    },
+    "items.s4DBGENwNQoahfTY": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus hours",
+          "translation": "бонус Силы воли часов"
+        }
+      }
+    },
+    "items.syjawgXmxVjQZOqz": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "target": {
+          "source": "1 animal",
+          "translation": "1 животное"
+        },
+        "duration": {
+          "source": "Intelligence Bonus minutes",
+          "translation": "бонус Интеллекта минут"
+        }
+      }
+    },
+    "items.tQVmI8kFNG5tWAEa": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Intelligence Bonus hours",
+          "translation": "бонус Интеллекта часов"
+        }
+      }
+    },
+    "items.tW4BYtRIZh9IUNt3": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Ballistic Skill Bonus yards",
+          "translation": "бонус Дистанционного боя ярдов"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "items.tXwshTgw4ZxeDelK": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "Willpower Bonus miles",
+          "translation": "бонус Силы воли миль"
+        },
+        "duration": {
+          "source": "3 * Willpower Bonus minutes (see below)",
+          "translation": "3 * бонус Силы воли минут (см. ниже)"
+        }
+      }
+    },
+    "items.umonMA0bhOBswj5c": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.v0Xjb9DBtisWGEYi": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Intelligence Bonus miles",
+          "translation": "бонус Интеллекта миль"
+        },
+        "target": {
+          "source": "Special",
+          "translation": "особая"
+        },
+        "duration": {
+          "source": "Intelligence Bonus hours",
+          "translation": "бонус Интеллекта часов"
+        }
+      }
+    },
+    "items.v4wCCpa4xiDRskxH": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1 item",
+          "translation": "1 предмет"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.vIufnnVfY1w5TiYK": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "1 Round",
+          "translation": "1 раунд"
+        }
+      }
+    },
+    "items.wMluS2gVBBdNXA17": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.wTJG0RALaE8yK56P": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Willpower minutes",
+          "translation": "Сила воли минут"
+        }
+      }
+    },
+    "items.wdub64aIwcls7nhY": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1 sword",
+          "translation": "1 меч"
+        },
+        "duration": {
+          "source": "Intelligence Bonus minutes",
+          "translation": "бонус Интеллекта минут"
+        }
+      }
+    },
+    "items.wh9J3Ay8JYjAOlNE": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "Willpower / 2 yards",
+          "translation": "Сила воли / 2 ярдов"
+        },
+        "duration": {
+          "source": "1 Round",
+          "translation": "1 раунд"
+        }
+      }
+    },
+    "items.xZd2giAUYZKwM8GI": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus hours",
+          "translation": "бонус Силы воли часов"
+        }
+      }
+    },
+    "items.yGAt2CkXB4kzghw2": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Half Willpower yards",
+          "translation": "половина Силы воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus Yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "items.z7cdnI2zbtivmbIO": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Half Willpower yards",
+          "translation": "половина Силы воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "1 Round",
+          "translation": "1 раунд"
+        }
+      }
+    },
+    "actors.0GL1ZbVBmJqwII5d.rV5z3ltwOUA6CgT9": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "150",
+          "translation": "150"
+        }
+      }
+    },
+    "actors.0Hte5dcS23lyYXTR.7ZKUPERaZXSSmJok": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Vision)",
+          "translation": "Наблюдательность (зрение)"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.CdPaahuSMfvu4kOx": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Sight)",
+          "translation": "Наблюдательность (зрение)"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.lO8Lyr8DNsiYCbpp": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm to Blather",
+          "translation": "Обаяние для заговаривания зубов"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.psRZGVOuM4IBdtDz": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Bribery",
+          "translation": "Подкуп"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.XcfP4St1iKa0l9Fw": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm at Parties, Gossip at Parties, Consume Alcohol",
+          "translation": "Обаяние и Сплетничество на приёмах, Кутёж"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.JYTgq8zT4I5SMxIo": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm when lying",
+          "translation": "Обаяние при лжи"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.N37e84WzMfKQJDVN": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Leadership",
+          "translation": "Лидерство"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.d0yYnRMfDpdHcCh4": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Haggle",
+          "translation": "Торговля"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.xYLmciAeOtWeeaiu": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm and Gossip (Guilder, Nobles, Soldiers)",
+          "translation": "Обаяние и Сплетничество (гильдейцы, знать, солдаты)"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.Lz3f6uU8R4xDjB28": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Endurance tests to resist Stunned",
+          "translation": "Стойкость (сопротивление Оглушению)"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.RYrDegpTHuWl3ofL": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Cool Tests to oppose Intimidate",
+          "translation": "Хладнокровие против Запугивания"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.kRuFmmouc9yP9LW2": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception tests in low–light conditions",
+          "translation": "Наблюдательность (слабое освещение)"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.ju6HOfxKeCky4mVH": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Any Test influenced by your Status",
+          "translation": "Любые проверки под влиянием вашего статуса"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.vblgxIZRkOTzkABt": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Evaluate to establish the worth of coins",
+          "translation": "Оценка (определение ценности монет)"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.CV2TUwSPe6HLQWaU": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Navigation",
+          "translation": "Ориентирование"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.1pbHqNuoDTyIvVnj": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Row or Sail Tests while navigating unsure waters",
+          "translation": "Гребля или Хождение под парусом (плавание по опасным водам)"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.FboFFOWxJ2GgIXcc": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Any Lore Test concerning local detail",
+          "translation": "Любая проверка Знания о местных подробностях"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.aKIs04uHJUOg3tv3": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intuition Tests involving your Sixth Sense",
+          "translation": "Интуиция с применением Шестого чувства"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.fpRZ8trrXI31hdRe": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Swim",
+          "translation": "Плавание"
+        }
+      }
+    },
+    "actors.2CT2uhohQqRsrYrg.zAhuoQ3MvXKW62em": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Leadership Tests during War",
+          "translation": "Лидерство (во время войны)"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.7KWODimjcVHzopqz": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Sight)",
+          "translation": "Наблюдательность (зрение)"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.iUU4pXPBS4vthPQA": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm Tests to influence those attracted to you",
+          "translation": "Обаяние при воздействии на испытывающих к вам влечение"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.rlalkRdbHjCBXJDd": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Channeling (Any)",
+          "translation": "Концентрация (любой Ветер)"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.BNjPSmyHaYG1Dcud": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm to Blather",
+          "translation": "Обаяние для заговаривания зубов"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.qCPQOWKDoHqQc8Wd": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Bribery",
+          "translation": "Подкуп"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.qariqSMfIwiLya4b": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm at Parties, Gossip at Parties, Consume Alcohol",
+          "translation": "Обаяние и Сплетничество на приёмах, Кутёж"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.RKFSwcjXyRowTDWy": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Haggle",
+          "translation": "Торговля"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.cXmAHALJlv2eiW0h": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm and Gossip (Ulthuan)",
+          "translation": "Обаяние и Сплетничество (Ултуан)"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.fgmffDOXJoqKJU9l": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Gossip Tests with travelers",
+          "translation": "Сплетничество с путешественниками"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.OYtVgAJCil5ugMgo": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Willpower (Resist Group)",
+          "translation": "Сила воли (сопротивление группе)"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.i8CPsThudj8xwjqc": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception tests in low–light conditions",
+          "translation": "Наблюдательность (слабое освещение)"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.D9e78I3D7VK0mg2L": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intuition Tests involving your Sixth Sense",
+          "translation": "Интуиция с применением Шестого чувства"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.GR0Z5T1QgWKuXZv3": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Swim",
+          "translation": "Плавание"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.2ysE1VbjAD6QY1e2": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Intelligence Bonus minutes",
+          "translation": "бонус Интеллекта минут"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.ALf0iKxn2s5BcVVM": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Initiative Bonus yards",
+          "translation": "бонус Инициативы ярдов"
+        },
+        "duration": {
+          "source": "Willpower minutes",
+          "translation": "Сила воли минут"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.VQu7zzEdQsaRWLIp": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "1 yard",
+          "translation": "1 ярд"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Willpower minutes",
+          "translation": "Сила воли минут"
+        }
+      }
+    },
+    "actors.4VSxcaCwbE3BAaID.dzao6zDRBrc2GVua": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.ky7iEvEOQT7pOvpZ": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Channeling (Any)",
+          "translation": "Концентрация (любой Ветер)"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.WSVYM0Bi5W5SQdnB": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm to Blather",
+          "translation": "Обаяние для заговаривания зубов"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.TehqE1AmiwjFEyJa": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee on a Round when you Charge",
+          "translation": "Рукопашный бой (в раунд Натиска)"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.WWUJ9APLD8IlsTRO": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception during melee",
+          "translation": "Наблюдательность в ближнем бою"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.X4n6znrAwwv6oBcb": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intuition tests to detect magical artefacts",
+          "translation": "Интуиция для обнаружения магических артефактов"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.yeEvFsOzwxqaH6iU": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Athletics when Fleeing",
+          "translation": "Атлетика (бегство)"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.JhDyuntLE6HV5wQe": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Language (Magick) when casting",
+          "translation": "Язык (магический) при сотворении"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.9dipDaq4W87wvYmP": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Language (Magick) when casting",
+          "translation": "Язык (магический) при сотворении"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.n31BddDzXmGvizna": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Language (Magick) when casting",
+          "translation": "Язык (магический) при сотворении"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.uqgpxds6Y9CdGDvN": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Cool Tests to oppose Intimidate",
+          "translation": "Хладнокровие против Запугивания"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.uPokopGOUhUv1qwj": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intuition Tests to detect Wizards",
+          "translation": "Интуиция для обнаружения магов"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.Qdd4UCZWjzpUdcBB": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intimidate",
+          "translation": "Запугивание"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.sFLHCpEF4wb5lg52": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception tests in low–light conditions",
+          "translation": "Наблюдательность (слабое освещение)"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.It6WqCVe3aIFRICG": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Stealth Tests in a Rural environment",
+          "translation": "Скрытность в сельской местности"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.IHZBRik36DZh9Xga": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Any Test to detect the Winds of Magic",
+          "translation": "Любые проверки обнаружения Ветров магии"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.1cJnPASNafYg0nBN": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intuition Tests involving your Sixth Sense",
+          "translation": "Интуиция с применением Шестого чувства"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.ZUJhqy1egUTNxlZf": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.cQt0obzptoNMefGD": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "WIllpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.e4FzODyzHRXMs5Sk": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.8Z2OsNjr8ETVRIbA": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.F4xeFCjQAKyj8GjK": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.uwr7BLkPTzO0FVhk": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Fellowship Bonus minutes",
+          "translation": "бонус Харизмы минут"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.8wjKXAKF41T2a7Qu": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.NgSfaAOVjinS4wWR": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.bMnUyZP8xUGhXfKW": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Bonus Miles",
+          "translation": "бонус Силы воли миль"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Willpower Bonus days",
+          "translation": "бонус Силы воли дней"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.0gZ5fenp3vwa2Ldn": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.ODj3dJW5zIIuKw9s": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "a single location",
+          "translation": "одно место"
+        },
+        "duration": {
+          "source": "Willpower days",
+          "translation": "Сила воли дней"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.QYQjr4IOyx3mkuPO": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Special",
+          "translation": "особая"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.4dqwU9xCaVja7P5J.P0KNxkzrzRcn01OC": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.4uY1FIM3XeFmpqtT.1RZQKI83CPJaBH2Y": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm Tests to influence those attracted to you",
+          "translation": "Обаяние при воздействии на испытывающих к вам влечение"
+        }
+      }
+    },
+    "actors.4uY1FIM3XeFmpqtT.LdCT0n58X6Mv83z3": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm to Blather",
+          "translation": "Обаяние для заговаривания зубов"
+        }
+      }
+    },
+    "actors.4uY1FIM3XeFmpqtT.2wBH0NGmiSVJDk12": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Bribery",
+          "translation": "Подкуп"
+        }
+      }
+    },
+    "actors.4uY1FIM3XeFmpqtT.eDbuUxkDB1CivL8M": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm when lying",
+          "translation": "Обаяние при лжи"
+        }
+      }
+    },
+    "actors.4uY1FIM3XeFmpqtT.HWSemXqcY62PsgsF": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Haggle",
+          "translation": "Торговля"
+        }
+      }
+    },
+    "actors.4uY1FIM3XeFmpqtT.duMCr8yZprQuIvSP": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intelligence (Embezzling)",
+          "translation": "Интеллект (растрата)"
+        }
+      }
+    },
+    "actors.4uY1FIM3XeFmpqtT.DCyxk0kCcchFVSfB": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm and Gossip (Guilder, High Elves)",
+          "translation": "Обаяние и Сплетничество (гильдейцы, высшие эльфы)"
+        }
+      }
+    },
+    "actors.4uY1FIM3XeFmpqtT.k0XF4hkoir7wg2XB": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Evaluate, Gamble",
+          "translation": "Оценка, Азартные игры"
+        }
+      }
+    },
+    "actors.BWFq9Q3GP8Zs4EH6.towgopetifhuQLav": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Sight)",
+          "translation": "Наблюдательность (зрение)"
+        }
+      }
+    },
+    "actors.BWFq9Q3GP8Zs4EH6.Uks6ecDgtOkhW6IM": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm Animal",
+          "translation": "Усмирение животных"
+        }
+      }
+    },
+    "actors.BWFq9Q3GP8Zs4EH6.s2VR0JXZSAosZDjV": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Any Test involving fishing",
+          "translation": "Любая проверка, связанная с рыбной ловлей"
+        }
+      }
+    },
+    "actors.BWFq9Q3GP8Zs4EH6.fgdrmZCi0lZZD4aX": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception tests in low–light conditions",
+          "translation": "Наблюдательность (слабое освещение)"
+        }
+      }
+    },
+    "actors.BWFq9Q3GP8Zs4EH6.xrqpfiJMbixzPU6h": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Navigation",
+          "translation": "Ориентирование"
+        }
+      }
+    },
+    "actors.BWFq9Q3GP8Zs4EH6.wSyhpmYEUM8dDASi": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intuition Tests involving your Sixth Sense",
+          "translation": "Интуиция с применением Шестого чувства"
+        }
+      }
+    },
+    "actors.BWFq9Q3GP8Zs4EH6.WWaYiMcT4OADnwax": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Athletics Tests to traverse Coastal",
+          "translation": "Атлетика (передвижение по побережью)"
+        }
+      }
+    },
+    "actors.BWFq9Q3GP8Zs4EH6.CcbZfGkRK7zfSA2p": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Swim",
+          "translation": "Плавание"
+        }
+      }
+    },
+    "actors.BWFq9Q3GP8Zs4EH6.PZ6wkX4T4VQR42GU": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Row and Swim",
+          "translation": "Гребля и Плавание"
+        }
+      }
+    },
+    "actors.BWFq9Q3GP8Zs4EH6.i0ZTJ63hNOG5NaOy": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "150",
+          "translation": "150"
+        }
+      }
+    },
+    "actors.BWFq9Q3GP8Zs4EH6.lHC4Q2PrbLLApnBQ": {
+      "type": "ammunition",
+      "fields": {
+        "range": {
+          "source": "+50",
+          "translation": "+50"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.orjMvLycICOZ5VP4": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Hearing, Sight)",
+          "translation": "Наблюдательность (слух, зрение)"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.H0Oq6lWcVUL0DsDs": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Channeling (Any)",
+          "translation": "Концентрация (любой Ветер)"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.tVJKaVrmGTGGo0YW": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception during melee",
+          "translation": "Наблюдательность в ближнем бою"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.N1c0oDlvgvI2z0Wy": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception during melee",
+          "translation": "Наблюдательность в ближнем бою"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.w7uxHnZSDPgDkHr1": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Athletics to Distract",
+          "translation": "Атлетика (отвлечение внимания)"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.3nKIH3Xk6oenIRc1": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm and Gossip (Crew, Nobles, Scholars, Soldiers)",
+          "translation": "Обаяние и Сплетничество (команда, знать, учёные, солдаты)"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.trBtlbFgWPNuYxJP": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee when making extra attacks",
+          "translation": "Рукопашный бой (дополнительные атаки)"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.He1JAao1SXwU7WlS": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Leadership during war",
+          "translation": "Лидерство (во время войны)"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.eoXrDbWuHSOLGmB4": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Language (Magick) when casting",
+          "translation": "Язык (магический) при сотворении"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.cr5KUAb47guWTbEF": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Leadership",
+          "translation": "Лидерство"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.ooUJat63Bejf895B": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception tests in low–light conditions",
+          "translation": "Наблюдательность (слабое освещение)"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.HwzeyhVD0dygcxQi": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Any Test influenced by your Status",
+          "translation": "Любые проверки под влиянием вашего статуса"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.3d3LSdlIXPhtNqOs": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Sail (any Sea-worthy Vessels)",
+          "translation": "Хождение под парусом (любые мореходные суда)"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.zjm6OCu6rYVp2HcV": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Navigation",
+          "translation": "Ориентирование"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.PJ7siYZfOmv7FPwo": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Row or Sail Tests while navigating unsure waters",
+          "translation": "Гребля или Хождение под парусом (плавание по опасным водам)"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.KVF0LzGpI6REzuJS": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Lore (Astrology, Oceans)",
+          "translation": "Знание (астрология, океаны)"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.fZG262BgYqv6NeZX": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Any Test to detect the Winds of Magic",
+          "translation": "Любые проверки обнаружения Ветров магии"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.fU861ECDOXrOC1A4": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intuition Tests involving your Sixth Sense",
+          "translation": "Интуиция с применением Шестого чувства"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.ffLqfXu6ywOUTubP": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Ranged (Long-Extreme Range)",
+          "translation": "Стрельба (дальняя–предельная дистанция)"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.fwPgbYWtJFYpNvqb": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Swim",
+          "translation": "Плавание"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.ymGFmgEq49QimrJO": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Swim",
+          "translation": "Плавание"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.mUZI9h6hSZNjsHlr": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Leadership Tests during War",
+          "translation": "Лидерство (во время войны)"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.oDjXXBqXVYEbakrm": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "150",
+          "translation": "150"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.WJE3akdHPxLUenbt": {
+      "type": "ammunition",
+      "fields": {
+        "range": {
+          "source": "+50",
+          "translation": "+50"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.6efPNAFvbync7Icv": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.lEcdJTzGjcAWd4YS": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.ULk2nNXcG3hDu94N": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Special",
+          "translation": "особая"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.y5Pgiu77v4bAM7z3": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Toughness Bonus hours",
+          "translation": "бонус Выносливости часов"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.CyUHWOOdUFcyjSsv": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "1 yard",
+          "translation": "1 ярд"
+        },
+        "target": {
+          "source": "Special",
+          "translation": "особая"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.ZjThp5KKAGHGenHE": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "Self",
+          "translation": "на себя"
+        },
+        "duration": {
+          "source": "1 day",
+          "translation": "1 день"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.ivJuPoMZ697BGaKH": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.jYeTHXmCCSnBCY7c": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Special",
+          "translation": "особая"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.h3C9Q279bTYd0BAK": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.Rl2oYkNkFqKUc8wy": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "target": {
+          "source": "One ship",
+          "translation": "один корабль"
+        },
+        "duration": {
+          "source": "1 round",
+          "translation": "1 раунд"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.HUKs4LrvPh8prWnD": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Initiative Bonus Rounds",
+          "translation": "бонус Инициативы раундов"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.poksNYrXOdAtKetX": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Initiative Bonus Rounds",
+          "translation": "бонус Инициативы раундов"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.an2ocpn0gnKgNi7O": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Initiative Bonus Rounds",
+          "translation": "бонус Инициативы раундов"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.VUjFhfb2j8a4g6MP": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1 arrow",
+          "translation": "1 стрела"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.cVaPJSB8i67PMT8L": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.ug0nHFTWrlZ2wgoW": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.Vvew28j4iSaYVmAR": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.vUF02TmSMWeywvPu": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus minutes",
+          "translation": "бонус Силы воли минут"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.CEn7PJqfyrTOZH23": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Initiative Bonus minutes",
+          "translation": "бонус Инициативы минут"
+        }
+      }
+    },
+    "actors.CE67JgruYzg19N9M.tWJAotiQyPwi8f9s": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "4 Willpower Bonus yards (AoE)",
+          "translation": "4 бонус Силы воли ярдов (область)"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.CNn3E19A4Ia9ySsr.X9A4I0K3OJuJfLPl": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Sight)",
+          "translation": "Наблюдательность (зрение)"
+        }
+      }
+    },
+    "actors.CNn3E19A4Ia9ySsr.YkfmedWy8xFE3hUk": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception during melee",
+          "translation": "Наблюдательность в ближнем бою"
+        }
+      }
+    },
+    "actors.CNn3E19A4Ia9ySsr.nGtPT9ITXVSWj9eI": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee Tests when beside an ally with Drilled",
+          "translation": "Рукопашный бой (рядом с союзником с талантом Строевая подготовка)"
+        }
+      }
+    },
+    "actors.CNn3E19A4Ia9ySsr.iy6AW46NBaKnpH5s": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm and Gossip (Soldiers)",
+          "translation": "Обаяние и Сплетничество (солдаты)"
+        }
+      }
+    },
+    "actors.CNn3E19A4Ia9ySsr.ClUGuwrGjNNRePZ8": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception tests in low–light conditions",
+          "translation": "Наблюдательность (слабое освещение)"
+        }
+      }
+    },
+    "actors.CNn3E19A4Ia9ySsr.BiHcnNO9b6a12I5l": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Sail (any Sea-worthy Vessels)",
+          "translation": "Хождение под парусом (любые мореходные суда)"
+        }
+      }
+    },
+    "actors.CNn3E19A4Ia9ySsr.DrVhNJK6xye1WPr4": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Navigation",
+          "translation": "Ориентирование"
+        }
+      }
+    },
+    "actors.CNn3E19A4Ia9ySsr.lIG0gwxSfoNSSFOo": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Swim",
+          "translation": "Плавание"
+        }
+      }
+    },
+    "actors.CNn3E19A4Ia9ySsr.czkG7ERHgoXFWRlk": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Leadership Tests during War",
+          "translation": "Лидерство (во время войны)"
+        }
+      }
+    },
+    "actors.NEL426sbtjS0NT51.sZtuaASXWPfSgnEH": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Sight)",
+          "translation": "Наблюдательность (зрение)"
+        }
+      }
+    },
+    "actors.NEL426sbtjS0NT51.xoPVBixYMybNQoP7": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm Tests to influence those attracted to you",
+          "translation": "Обаяние при воздействии на испытывающих к вам влечение"
+        }
+      }
+    },
+    "actors.NEL426sbtjS0NT51.NZXJctOa25qCMMl0": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Bribery",
+          "translation": "Подкуп"
+        }
+      }
+    },
+    "actors.NEL426sbtjS0NT51.ww0foibU8f9mgAcb": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm at Parties, Gossip at Parties, Consume Alcohol",
+          "translation": "Обаяние и Сплетничество на приёмах, Кутёж"
+        }
+      }
+    },
+    "actors.NEL426sbtjS0NT51.ZhzPLx3jTqIOQb1w": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm and Gossip (Nobles)",
+          "translation": "Обаяние и Сплетничество (знать)"
+        }
+      }
+    },
+    "actors.NEL426sbtjS0NT51.fhXFrukXqC0NikbK": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee (Fencing) for Feints",
+          "translation": "Рукопашный бой (фехтование, финты)"
+        }
+      }
+    },
+    "actors.NEL426sbtjS0NT51.gmFG8DQ0X11b7oIF": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception tests in low–light conditions",
+          "translation": "Наблюдательность (слабое освещение)"
+        }
+      }
+    },
+    "actors.NEL426sbtjS0NT51.yZcgY46X9l48V81S": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Any Test influenced by your Status",
+          "translation": "Любые проверки под влиянием вашего статуса"
+        }
+      }
+    },
+    "actors.NEL426sbtjS0NT51.ZHMljzDmWaJovwNm": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Sail (any Sea-worthy Vessels)",
+          "translation": "Хождение под парусом (любые мореходные суда)"
+        }
+      }
+    },
+    "actors.NEL426sbtjS0NT51.VscIDjOO0QoCWSfz": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee when defending",
+          "translation": "Рукопашный бой (защита)"
+        }
+      }
+    },
+    "actors.NEL426sbtjS0NT51.OXDCEbarQkBk1fum": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Stealth Tests in a Rural environment",
+          "translation": "Скрытность в сельской местности"
+        }
+      }
+    },
+    "actors.NEL426sbtjS0NT51.TGLa7AV5YECqok4F": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intuition Tests involving your Sixth Sense",
+          "translation": "Интуиция с применением Шестого чувства"
+        }
+      }
+    },
+    "actors.NEL426sbtjS0NT51.QbRUt3O0A5Yy2OVI": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Dodge Tests to activate this Talent",
+          "translation": "Уклонение (активация этого таланта)"
+        }
+      }
+    },
+    "actors.NEL426sbtjS0NT51.4GU6M4sDBjtV77Jf": {
+      "type": "ammunition",
+      "fields": {
+        "range": {
+          "source": "+50",
+          "translation": "+50"
+        }
+      }
+    },
+    "actors.NEL426sbtjS0NT51.SHzHryr1oLZd6Tz6": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "150",
+          "translation": "150"
+        }
+      }
+    },
+    "actors.OMw1PwI0tYzH7Aev.o8E3WrCGBAuW9tzx": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Hearing)",
+          "translation": "Наблюдательность (слух)"
+        }
+      }
+    },
+    "actors.OMw1PwI0tYzH7Aev.7kmetERHANpTlc65": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Athletics when Fleeing",
+          "translation": "Атлетика (бегство)"
+        }
+      }
+    },
+    "actors.OMw1PwI0tYzH7Aev.4Kpfn7bWYHun2CHN": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Language (All)",
+          "translation": "Язык (все)"
+        }
+      }
+    },
+    "actors.OMw1PwI0tYzH7Aev.Op487HkgwSnKDWQo": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception Tests concerning this Talent",
+          "translation": "Наблюдательность (проверки этого таланта)"
+        }
+      }
+    },
+    "actors.OMw1PwI0tYzH7Aev.UD8IQ3nQsC1BM4uV": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "All those to resist Chaos",
+          "translation": "Все проверки сопротивления Хаосу"
+        }
+      }
+    },
+    "actors.OMw1PwI0tYzH7Aev.wPe6ZkgmSJ8xP8GD": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Stealth Tests in a Rural environment",
+          "translation": "Скрытность в сельской местности"
+        }
+      }
+    },
+    "actors.OMw1PwI0tYzH7Aev.CKVBJuVwYFI4ztGI": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "All those taken to resist Sea Sickness",
+          "translation": "Все проверки сопротивления морской болезни"
+        }
+      }
+    },
+    "actors.OMw1PwI0tYzH7Aev.6BZtBbKVH8R9aDgR": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Entertain (Acting) Tests to support your secret identities",
+          "translation": "Артистизм (актёрство, поддержание тайных личностей)"
+        }
+      }
+    },
+    "actors.OMw1PwI0tYzH7Aev.sEEvAUaFJiEClAnO": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intuition Tests involving your Sixth Sense",
+          "translation": "Интуиция с применением Шестого чувства"
+        }
+      }
+    },
+    "actors.OMw1PwI0tYzH7Aev.bDoYtTkRkABZ5rtK": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm when lying",
+          "translation": "Обаяние при лжи"
+        }
+      }
+    },
+    "actors.OMw1PwI0tYzH7Aev.RweVKNp2CtxrjLpy": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "60",
+          "translation": "60"
+        }
+      }
+    },
+    "actors.OMw1PwI0tYzH7Aev.m4LQ0j5DqUV6nDUQ": {
+      "type": "ammunition",
+      "fields": {
+        "range": {
+          "source": "As weapon",
+          "translation": "как у оружия"
+        }
+      }
+    },
+    "actors.Q0cizVXin30Qg7UE.sZAOsUiltgqS9MYz": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Vision)",
+          "translation": "Наблюдательность (зрение)"
+        }
+      }
+    },
+    "actors.TRvYepVRfyQ8DlMq.rV5z3ltwOUA6CgT9": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "150",
+          "translation": "150"
+        }
+      }
+    },
+    "actors.UG0mPWZM06nKOxar.rV5z3ltwOUA6CgT9": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "150",
+          "translation": "150"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.tHBYb2lT2fnlFXAc": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Sight)",
+          "translation": "Наблюдательность (зрение)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.oZY6L3gm7MVeE3j2": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee Tests concerning this Talent",
+          "translation": "Рукопашный бой (проверки этого таланта)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.jSET2qLAwWJqSn2z": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Athletics to Distract",
+          "translation": "Атлетика (отвлечение внимания)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.OukJta0ydk9ufKIO": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee or Ranged when attacking with two weapons",
+          "translation": "Рукопашный бой или Стрельба (атаки двумя оружиями)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.TI81gu9PmxxvtlGA": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Dodge in enclosed environments",
+          "translation": "Уклонение (тесные помещения)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.fAXnY23M6wiT38Mb": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee when making extra attacks",
+          "translation": "Рукопашный бой (дополнительные атаки)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.ATYSi229gqrCLd6e": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee when making extra attacks",
+          "translation": "Рукопашный бой (дополнительные атаки)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.3yPSlakFORTQZ1mO": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee when making extra attacks",
+          "translation": "Рукопашный бой (дополнительные атаки)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.Sx6mBLZDUcqFzNVY": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Willpower (Resist Group)",
+          "translation": "Сила воли (сопротивление группе)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.7lFh5KSs7PHlhmEu": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee when in–fighting, or to enter in–fighting",
+          "translation": "Рукопашный бой (бой вплотную или сближение для него)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.LdKd7en0pSZ80Vk8": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Entertain (Acting) when being someone else",
+          "translation": "Артистизм (актёрство, изображение другого человека)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.zrePvicbowu2yvxz": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Entertain (Acting) Tests where accents are important",
+          "translation": "Артистизм (актёрство, когда важен акцент)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.g1nnm9cpcPPzV63U": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception tests in low–light conditions",
+          "translation": "Наблюдательность (слабое освещение)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.jhgHohsBEevoZsMP": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Any Test to detect the Winds of Magic",
+          "translation": "Любые проверки обнаружения Ветров магии"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.wouTuGrsOQeDbAoN": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Entertain (Acting) Tests to support your secret identities",
+          "translation": "Артистизм (актёрство, поддержание тайных личностей)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.5gTFOc63Jx4Af4cV": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee when defending",
+          "translation": "Рукопашный бой (защита)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.USYnUfBPaJc2MMwL": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Any Test involving Shadowing",
+          "translation": "Любая проверка, связанная со слежкой"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.5VH5Y5hEqV9O71kq": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee Tests when Striking to Stun",
+          "translation": "Рукопашный бой (удар для оглушения)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.1OriPEmOwnJBuRFh": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee Tests when Striking to Stun",
+          "translation": "Рукопашный бой (удар для оглушения)"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.6NVJry0gZqRDEL8x": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "SBx2",
+          "translation": "SBx2"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.DyqqfWADxtpCy7zy": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "SBx4",
+          "translation": "SBx4"
+        }
+      }
+    },
+    "actors.bBhULglK79IOtlvq.A0OQ3zEnVmjJYXPS": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "SB",
+          "translation": "SB"
+        }
+      }
+    },
+    "actors.chmELOla2Z2vVHsd.TaveFXROV6jYD7XJ": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Sight)",
+          "translation": "Наблюдательность (зрение)"
+        }
+      }
+    },
+    "actors.chmELOla2Z2vVHsd.yLteSWuU5HqiuJp5": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee Tests when beside an ally with Drilled",
+          "translation": "Рукопашный бой (рядом с союзником с талантом Строевая подготовка)"
+        }
+      }
+    },
+    "actors.chmELOla2Z2vVHsd.OrBksGB1a3uXrKSK": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm and Gossip (Soldiers)",
+          "translation": "Обаяние и Сплетничество (солдаты)"
+        }
+      }
+    },
+    "actors.chmELOla2Z2vVHsd.2WrrUd9zCI7OlwWr": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception tests in low–light conditions",
+          "translation": "Наблюдательность (слабое освещение)"
+        }
+      }
+    },
+    "actors.chmELOla2Z2vVHsd.62oEbY9fPTqYKcHz": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Sail (any Sea-worthy Vessels)",
+          "translation": "Хождение под парусом (любые мореходные суда)"
+        }
+      }
+    },
+    "actors.chmELOla2Z2vVHsd.GvdI8mod75UxzmqM": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Navigation",
+          "translation": "Ориентирование"
+        }
+      }
+    },
+    "actors.chmELOla2Z2vVHsd.cOwWWm3CcWCFz2lZ": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Swim",
+          "translation": "Плавание"
+        }
+      }
+    },
+    "actors.e2R3JRFErV8vVtmw.rV5z3ltwOUA6CgT9": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "150",
+          "translation": "150"
+        }
+      }
+    },
+    "actors.fIK6mhivTfEaxxKN.NRuOcCdSGc7iYyAh": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Sight)",
+          "translation": "Наблюдательность (зрение)"
+        }
+      }
+    },
+    "actors.fIK6mhivTfEaxxKN.XR2zb3BPk5u30AI9": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Melee for a Beat Blade",
+          "translation": "Рукопашный бой (сбивание клинка)"
+        }
+      }
+    },
+    "actors.fIK6mhivTfEaxxKN.crHHlnRudAQHgzNu": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Athletics to Distract",
+          "translation": "Атлетика (отвлечение внимания)"
+        }
+      }
+    },
+    "actors.fIK6mhivTfEaxxKN.hhW9bjktucvcnJ7I": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm and Gossip (Nobles)",
+          "translation": "Обаяние и Сплетничество (знать)"
+        }
+      }
+    },
+    "actors.fIK6mhivTfEaxxKN.MdXXxY7K4ZC49ola": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception tests in low–light conditions",
+          "translation": "Наблюдательность (слабое освещение)"
+        }
+      }
+    },
+    "actors.fIK6mhivTfEaxxKN.INoTB3FHhB25OZ3B": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Any Test influenced by your Status",
+          "translation": "Любые проверки под влиянием вашего статуса"
+        }
+      }
+    },
+    "actors.fIK6mhivTfEaxxKN.uVtyg4rCq8QvBL10": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Sail (any Sea-worthy Vessels)",
+          "translation": "Хождение под парусом (любые мореходные суда)"
+        }
+      }
+    },
+    "actors.fIK6mhivTfEaxxKN.rwKlQhwICWPuZkcZ": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intuition Tests involving your Sixth Sense",
+          "translation": "Интуиция с применением Шестого чувства"
+        }
+      }
+    },
+    "actors.fIK6mhivTfEaxxKN.6e7APbKq0V2rbGhP": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "150",
+          "translation": "150"
+        }
+      }
+    },
+    "actors.fIK6mhivTfEaxxKN.NFNVsjYdtSWmJaEe": {
+      "type": "ammunition",
+      "fields": {
+        "range": {
+          "source": "+50",
+          "translation": "+50"
+        }
+      }
+    },
+    "actors.hwxY7Bb1Vjnlyydt.rV5z3ltwOUA6CgT9": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "150",
+          "translation": "150"
+        }
+      }
+    },
+    "actors.l9L7KmbEZToSDpIy.rV5z3ltwOUA6CgT9": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "150",
+          "translation": "150"
+        }
+      }
+    },
+    "actors.ltnWBR9Q1fFufUlf.tOrTLhzQQxY0PAiQ": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Vision)",
+          "translation": "Наблюдательность (зрение)"
+        }
+      }
+    },
+    "actors.lzOIAkAgr6wssyKT.FqaOZ11XZZ1GhQr5": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Vision)",
+          "translation": "Наблюдательность (зрение)"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.Ei1o495E4H0c2u2Y": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Sight)",
+          "translation": "Наблюдательность (зрение)"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.HODlzDcBiBX2G23S": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Channeling (Any)",
+          "translation": "Концентрация (любой Ветер)"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.WvVGcxoBXY2tGuij": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm to Blather",
+          "translation": "Обаяние для заговаривания зубов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.JUgMhb4GfL0Mc1rM": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Research",
+          "translation": "Книжные изыскания"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.DWD6Dskp8ndRDjxk": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Leadership",
+          "translation": "Лидерство"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.Eq6N6Ng8eS8oUdiN": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intuition tests to detect magical artefacts",
+          "translation": "Интуиция для обнаружения магических артефактов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.Gt34kHRUdWg0f1Qh": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm and Gossip (Nobles)",
+          "translation": "Обаяние и Сплетничество (знать)"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.EmN8aIpXORsP8IXA": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Sleight of Hand, Melee (Brawling) to touch an opponent",
+          "translation": "Ловкость рук, Рукопашный бой (кулачное) для касания противника"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.psjYYUhXg3sAPahx": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Channelling (Qhaysh)",
+          "translation": "Концентрация (Кхайш)"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.TRArS5p3dBQkjw0v": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Channelling (Qhaysh)",
+          "translation": "Концентрация (Кхайш)"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.mNdScQMjCktht1gk": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Channelling (Qhaysh)",
+          "translation": "Концентрация (Кхайш)"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.1R2md31kpAJEVAb5": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Cool Tests to oppose Intimidate",
+          "translation": "Хладнокровие против Запугивания"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.o2Dyr2PhedZvZeid": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intuition Tests to detect Wizards",
+          "translation": "Интуиция для обнаружения магов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.UTKv0GTa52MFZFw8": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception tests in low–light conditions",
+          "translation": "Наблюдательность (слабое освещение)"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.5KtjVwPDn62lSy3a": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Lore (Law, Magic)",
+          "translation": "Знание (закон, магия)"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.pJAIKtUrz0KzxVkN": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Any Test to detect the Winds of Magic",
+          "translation": "Любые проверки обнаружения Ветров магии"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.oJdtOIIqTxpNP5Dw": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intuition Tests involving your Sixth Sense",
+          "translation": "Интуиция с применением Шестого чувства"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.9DKXhMrwsePPTftm": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Research and Language Tests where speed of reading is Important",
+          "translation": "Книжные изыскания и Язык (когда важна скорость чтения)"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.rHWWpZ5gXxRa1ZBi": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Swim",
+          "translation": "Плавание"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.amhK24NYLwFaOaKY": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1 arrow",
+          "translation": "1 стрела"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.owYCDGquVV1e8IFs": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.Ss26GLO4qGrnx0CH": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.MvfKiqsKDIU307vx": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Toughness Bonus hours",
+          "translation": "бонус Выносливости часов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.TIxx1Kaiq5cRgFTQ": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "1 yard",
+          "translation": "1 ярд"
+        },
+        "target": {
+          "source": "Special",
+          "translation": "особая"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.vbfnPWHeq8pywKTC": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.EZMq1f8bmFxOXB3j": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.lgFOAupcPOvFbxzR": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.iPBjF2OLSBfUGRJt": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Willpower Bonus days",
+          "translation": "бонус Силы воли дней"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.uwj0gXTZEzi0AT9E": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower minutes",
+          "translation": "Сила воли минут"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.3WrknXJssJjzBL61": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.MQQ1ummENWLdejCh": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Willpower minutes",
+          "translation": "Сила воли минут"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.sp1r2gt3FBV66Rfa": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.huZs0iMBYGmBlAhp": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.rLmGeKlov4iMdgtb": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.PucSF72PTrVog2FU": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.lsaajLjG24ByhbLI": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.RWxhMDUV7w8g3NX0": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.7pJbTsRnmyDV5Ccf": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.IoYul8yZIsyQOO2X": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Special",
+          "translation": "особая"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.tqmVtU4MNqrL1nGz": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Willpower Bonus rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.FdqyziD3yTgq8xTn": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.BnDZMokqoAS7jbuN": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.OkAWkqJHLtT0jnoM": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.8h6SrqrwFikMKari": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.n6f4O2YDe6DO93um": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Initiative yards",
+          "translation": "Инициатива ярдов"
+        },
+        "target": {
+          "source": "Initiative Bonus yards",
+          "translation": "бонус Инициативы ярдов"
+        },
+        "duration": {
+          "source": "Special",
+          "translation": "особая"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.0rliWVxpjl4SXVib": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Initiative Bonus Rounds",
+          "translation": "бонус Инициативы раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.EVJYl707w11TFEcs": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Initiative Bonus Rounds",
+          "translation": "бонус Инициативы раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.GMTS7VQjIwXoPtio": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.Vj0u5nOlmzee4RXR": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.RP9XkWZZE6djfoso": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "Special",
+          "translation": "особая"
+        },
+        "duration": {
+          "source": "Willpower Bonus rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.98gwWLJmej0lTRhq": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Willpower Minutes",
+          "translation": "Сила воли минут"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.Ja2BJzrgMnytRlCj": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Toughness Bonus Rounds",
+          "translation": "бонус Выносливости раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.Y1r29LbvMPz9Rddn": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.dEaZZeLE2ZkdItDB": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "see description",
+          "translation": "См. описание"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.nf2e3kap8Wp6rdM0": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "WIllpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.DlOco7AQzUiUkAO9": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.iZCUE1Iegy6JTNws": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.lMJALlPO9gdQQao1": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.Moa6PMdB0bMav7Oq": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Initiative Bonus miles",
+          "translation": "бонус Инициативы миль"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Special",
+          "translation": "особая"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.XbCEOHyJjLMLbAbm": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "target": {
+          "source": "Special",
+          "translation": "особая"
+        },
+        "duration": {
+          "source": "Special",
+          "translation": "особая"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.UAj1wL38C2JVA4o1": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.q8O1YfIr2WbiaOVz": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.5l30TSxpqASzxjBz": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.zgNQuagsmSg79m13": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Intelligence minutes",
+          "translation": "Интеллект минут"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.87j2WxJlXhxKpgDc": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.4ULYHtHIoeESqRGP": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.uNi7j2xDuKWwwrM8": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Intelligence Bonus minutes",
+          "translation": "бонус Интеллекта минут"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.5YB6AlHT1bTBiYCW": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Initiative Bonus yards",
+          "translation": "бонус Инициативы ярдов"
+        },
+        "duration": {
+          "source": "Willpower minutes",
+          "translation": "Сила воли минут"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.R31d4wuAOhtUZphY": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "1 yard",
+          "translation": "1 ярд"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Willpower minutes",
+          "translation": "Сила воли минут"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.uvUrYBfgilOS0Zut": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Until the next sunrise",
+          "translation": "до следующего восхода"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.MHM1O0kzs6keI2dv": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.AtkqFDbMAUhb0z15": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.xSoWiwvDRG6WRmL8": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Ballistic Skill Bonus yards",
+          "translation": "бонус Дистанционного боя ярдов"
+        },
+        "duration": {
+          "source": "Willpower Bonus Rounds",
+          "translation": "бонус Силы воли раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.vf2ulCfea1sVMGTN": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Half Toughness yards",
+          "translation": "половина Выносливости ярдов"
+        },
+        "target": {
+          "source": "1 spellcaster, spell, or item",
+          "translation": "1 заклинатель, заклинание или предмет"
+        },
+        "duration": {
+          "source": "Willpower Bonus minutes",
+          "translation": "бонус Силы воли минут"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.CWCqTyYdtYyAOz09": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Half Willpower yards",
+          "translation": "половина Силы воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus Yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.g7i6KOamTg2sKWtl": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "Intelligence Bonus yards",
+          "translation": "бонус Интеллекта ярдов"
+        },
+        "duration": {
+          "source": "Intelligence Bonus Rounds",
+          "translation": "бонус Интеллекта раундов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.Y5mwyyuCz5epTRJY": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Half Willpower yards",
+          "translation": "половина Силы воли ярдов"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "instant",
+          "translation": "мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.VXlRWIrzxBjaLMRY": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower yards",
+          "translation": "Сила воли ярдов"
+        },
+        "target": {
+          "source": "2 * Willpower Bonus yards",
+          "translation": "2 * бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "1 Round",
+          "translation": "1 раунд"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.MApbmyBK22TaWJMl": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "1 object",
+          "translation": "1 предмет"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.WR3BAoCl3dozOxMJ": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Willpower Bonus minutes",
+          "translation": "бонус Силы воли минут"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.tRgekdB816Meezwa": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "target": {
+          "source": "1 animal",
+          "translation": "1 животное"
+        },
+        "duration": {
+          "source": "Intelligence Bonus minutes",
+          "translation": "бонус Интеллекта минут"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.mkAZkP4t4evSkNam": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Willpower miles",
+          "translation": "Сила воли миль"
+        },
+        "target": {
+          "source": "1",
+          "translation": "1"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.1zlJMWj7jGIMFEIy": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "target": {
+          "source": "You",
+          "translation": "Персонаж"
+        },
+        "duration": {
+          "source": "Intelligence Bonus hours",
+          "translation": "бонус Интеллекта часов"
+        }
+      }
+    },
+    "actors.oGttkUXADEeZjO83.7KFWKwKmeJThaHWQ": {
+      "type": "spell",
+      "fields": {
+        "range": {
+          "source": "Touch",
+          "translation": "Касание"
+        },
+        "target": {
+          "source": "Willpower Bonus yards",
+          "translation": "бонус Силы воли ярдов"
+        },
+        "duration": {
+          "source": "Instant",
+          "translation": "Мгновенно"
+        }
+      }
+    },
+    "actors.x3kMXqdz0X9TAYRK.rV5z3ltwOUA6CgT9": {
+      "type": "weapon",
+      "fields": {
+        "range": {
+          "source": "150",
+          "translation": "150"
+        }
+      }
+    },
+    "actors.xTg3dGSRlDvc4YPn.aNORGW0qZpTnRzKI": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception (Sight)",
+          "translation": "Наблюдательность (зрение)"
+        }
+      }
+    },
+    "actors.xTg3dGSRlDvc4YPn.Xl4stLH1B7hHgQed": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Art (Any)",
+          "translation": "Искусство (любое)"
+        }
+      }
+    },
+    "actors.xTg3dGSRlDvc4YPn.E9PNMaiitU8UgQ51": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Stealth when in plain sight",
+          "translation": "Скрытность (на виду)"
+        }
+      }
+    },
+    "actors.xTg3dGSRlDvc4YPn.AYurSs8JlmT2kR1h": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Charm at Parties, Gossip at Parties, Consume Alcohol",
+          "translation": "Обаяние и Сплетничество на приёмах, Кутёж"
+        }
+      }
+    },
+    "actors.xTg3dGSRlDvc4YPn.XUP0svXzjlr3LD53": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intuition tests to detect magical artefacts",
+          "translation": "Интуиция для обнаружения магических артефактов"
+        }
+      }
+    },
+    "actors.xTg3dGSRlDvc4YPn.ykMdtactRDH6U2a4": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Gossip Tests with travelers",
+          "translation": "Сплетничество с путешественниками"
+        }
+      }
+    },
+    "actors.xTg3dGSRlDvc4YPn.6qbHl4putU7tR6eN": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Perception tests in low–light conditions",
+          "translation": "Наблюдательность (слабое освещение)"
+        }
+      }
+    },
+    "actors.xTg3dGSRlDvc4YPn.cRe1iBrrCHwg2GOs": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Intuition Tests involving your Sixth Sense",
+          "translation": "Интуиция с применением Шестого чувства"
+        }
+      }
+    },
+    "actors.xTg3dGSRlDvc4YPn.LaYr7a9LSZX6x6PQ": {
+      "type": "talent",
+      "fields": {
+        "tests": {
+          "source": "Swim",
+          "translation": "Плавание"
+        }
+      }
+    }
+  }
+}

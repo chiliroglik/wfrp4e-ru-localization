@@ -1,0 +1,2827 @@
+{
+  "sourceSha256": "3ad19ce5176cd95fa5e8e9f3d0860ed5d46b864ac15aa53ddb8f3a3df8254d87",
+  "entries": {
+    "items.3V7U4XmYwiTF9wTx": {
+      "type": "career",
+      "sourceName": "Blademaster",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Painting or  Sculpture)",
+            "Athletics",
+            "Dodge",
+            "Lore (Any)",
+            "Melee (Basic)",
+            "Melee (Brawling)",
+            "Melee (Two-handed)",
+            "Perception",
+            "Perform (Acrobatics)",
+            "Play (Any)",
+            "Art (Poetry)",
+            "Cool",
+            "Endurance",
+            "Gossip",
+            "Intuition",
+            "Lore (Any)",
+            "Art (Painting or Sculpture)",
+            "Heal",
+            "Leadership",
+            "Ranged (Bow)"
+          ],
+          "translation": [
+            "Искусство (живопись или скульптура)",
+            "Атлетика",
+            "Уклонение",
+            "Знание (любое)",
+            "Рукопашный бой (основное)",
+            "Рукопашный бой (кулачное)",
+            "Рукопашный бой (двуручное)",
+            "Наблюдательность",
+            "Выступление (акробатика)",
+            "Музыка (любая)",
+            "Искусство (поэзия)",
+            "Хладнокровие",
+            "Стойкость",
+            "Сплетничество",
+            "Интуиция",
+            "Знание (любое)",
+            "Искусство (живопись или скульптура)",
+            "Лечение",
+            "Лидерство",
+            "Стрельба (луки)"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Combat Master",
+            "Reaction Strike",
+            "Second Sight",
+            "Strike Mighty Blow"
+          ],
+          "translation": [
+            "Мастер боя",
+            "Упреждающий удар",
+            "Второе зрение",
+            "Могучий удар"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Book on the Art of War",
+            "Combs in Hair",
+            "Symbol of Rank"
+          ],
+          "translation": [
+            "Книга о военном искусстве",
+            "Гребни в волосах",
+            "Знак звания"
+          ]
+        },
+        "class.value": {
+          "source": "Warriors",
+          "translation": "Воины"
+        },
+        "careergroup.value": {
+          "source": "Swordmaster",
+          "translation": "Мастер меча"
+        }
+      }
+    },
+    "items.5q7qpnNYvZZSqTiR": {
+      "type": "career",
+      "sourceName": "Swordmaster",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Painting or  Sculpture)",
+            "Athletics",
+            "Dodge",
+            "Lore (Any)",
+            "Melee (Basic)",
+            "Melee (Brawling)",
+            "Melee (Two-handed)",
+            "Perception",
+            "Perform (Acrobatics)",
+            "Play (Any)",
+            "Art (Poetry)",
+            "Cool",
+            "Endurance",
+            "Gossip",
+            "Intuition",
+            "Lore (Any)"
+          ],
+          "translation": [
+            "Искусство (живопись или скульптура)",
+            "Атлетика",
+            "Уклонение",
+            "Знание (любое)",
+            "Рукопашный бой (основное)",
+            "Рукопашный бой (кулачное)",
+            "Рукопашный бой (двуручное)",
+            "Наблюдательность",
+            "Выступление (акробатика)",
+            "Музыка (любая)",
+            "Искусство (поэзия)",
+            "Хладнокровие",
+            "Стойкость",
+            "Сплетничество",
+            "Интуиция",
+            "Знание (любое)"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Beat Blade",
+            "Reversal",
+            "Strike to Injure",
+            "Sword-dancing"
+          ],
+          "translation": [
+            "Батман",
+            "Рокировка",
+            "Безжалостный удар",
+            "Танец меча"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Book on Philosophy",
+            "Greatsword of Hoeth",
+            "Mail Shirt",
+            "Tall Helmet",
+            "Travelling Clothes"
+          ],
+          "translation": [
+            "Книга по философии",
+            "Двуручный меч Хоэта",
+            "Кольчужная рубаха",
+            "Высокий шлем",
+            "Дорожная одежда"
+          ]
+        },
+        "class.value": {
+          "source": "Warriors",
+          "translation": "Воины"
+        },
+        "careergroup.value": {
+          "source": "Swordmaster",
+          "translation": "Мастер меча"
+        }
+      }
+    },
+    "items.6QCRhhlo0cyAbXP6": {
+      "type": "career",
+      "sourceName": "Loremaster",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Calligraphy or Engraving)",
+            "Channelling (Any Colour)",
+            "Charm",
+            "Gossip",
+            "Intuition",
+            "Language (Magick)",
+            "Lore (Magic)",
+            "Lore (Theology)",
+            "Perception",
+            "Pray",
+            "Channelling (Any Colour)",
+            "Cool",
+            "Intimidate",
+            "Language (Any One)",
+            "Lore (Any One)",
+            "Research",
+            "Channelling (Qhaysh)",
+            "Language (Any)",
+            "Lore (Any)",
+            "Melee (Basic)",
+            "Pray",
+            "Research"
+          ],
+          "translation": [
+            "Искусство (каллиграфия или гравировка)",
+            "Концентрация (любой Ветер)",
+            "Обаяние",
+            "Сплетничество",
+            "Интуиция",
+            "Язык (магический)",
+            "Знание (магия)",
+            "Знание (теология)",
+            "Наблюдательность",
+            "Молитвословие",
+            "Концентрация (любой Ветер)",
+            "Хладнокровие",
+            "Запугивание",
+            "Язык (любой один)",
+            "Знание (любое одно)",
+            "Книжные изыскания",
+            "Концентрация (Кхайш)",
+            "Язык (любой)",
+            "Знание (любое)",
+            "Рукопашный бой (основное)",
+            "Молитвословие",
+            "Книжные изыскания"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Blessed by Isha",
+            "Cadai Meditation",
+            "High Magic",
+            "Sanctuary of the Mind"
+          ],
+          "translation": [
+            "Благословение Иши",
+            "Медитация кадай",
+            "Высокая магия",
+            "Убежище разума"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Prayer Book",
+            "Religious Symbol (Hoeth)",
+            "Writing Kit"
+          ],
+          "translation": [
+            "Молитвенник",
+            "Религиозный символ (Хоэт)",
+            "Писчий набор"
+          ]
+        },
+        "class.value": {
+          "source": "Academics",
+          "translation": "Книгочеи"
+        },
+        "careergroup.value": {
+          "source": "Loremaster of Hoeth",
+          "translation": "Хранитель знаний Хоэта"
+        }
+      }
+    },
+    "items.7MZNgfpPDQ6BrWFR": {
+      "type": "career",
+      "sourceName": "Sea Guard",
+      "fields": {
+        "skills": {
+          "source": [
+            "Animal Care (Swiftfeather Roc)",
+            "Consume Alcohol",
+            "Dodge",
+            "Gossip",
+            "Melee (Basic)",
+            "Melee (Polearm)",
+            "Ranged (Bow)",
+            "Ranged (Crossbow)",
+            "Sail (Bloodhawk, Falconship, Hawkship or Dragonship)",
+            "Swim",
+            "Athletics",
+            "Sail (Bloodhawk, Falconship, Hawkship or Dragonship)",
+            "Endurance",
+            "Gamble",
+            "Outdoor Survival",
+            "Climb"
+          ],
+          "translation": [
+            "Обращение с животными (быстрокрылый рух)",
+            "Кутёж",
+            "Уклонение",
+            "Сплетничество",
+            "Рукопашный бой (основное)",
+            "Рукопашный бой (древковое)",
+            "Стрельба (луки)",
+            "Стрельба (арбалеты)",
+            "Хождение под парусом (кровавый ястреб, корабль-сокол, корабль-ястреб или корабль-дракон)",
+            "Плавание",
+            "Атлетика",
+            "Хождение под парусом (кровавый ястреб, корабль-сокол, корабль-ястреб или корабль-дракон)",
+            "Стойкость",
+            "Азартные игры",
+            "Выживание",
+            "Лазание"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Enclosed Fighter",
+            "Lightning Reflexes",
+            "Shieldsman",
+            "Strong Swimmer"
+          ],
+          "translation": [
+            "Тесный контакт",
+            "Молниеносная реакция",
+            "Щитоносец",
+            "Отличный пловец"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Breastplate",
+            "Helmet",
+            "Mail Shirt",
+            "Shield"
+          ],
+          "translation": [
+            "Латная кираса",
+            "Шлем",
+            "Кольчужная рубаха",
+            "Щит"
+          ]
+        },
+        "class.value": {
+          "source": "Warriors",
+          "translation": "Воины"
+        },
+        "careergroup.value": {
+          "source": "Sea Guard",
+          "translation": "Морской страж"
+        }
+      }
+    },
+    "items.BP4yFNGw2vYZCePg": {
+      "type": "career",
+      "sourceName": "Sea Monster Hunter",
+      "fields": {
+        "skills": {
+          "source": [
+            "Athletics",
+            "Charm Animal",
+            "Climb",
+            "Drive",
+            "Gossip",
+            "Melee (Basic)",
+            "Navigation",
+            "Ranged (Bow)",
+            "Sail (Any)",
+            "Swim",
+            "Charm",
+            "Consume Alcohol",
+            "Evaluate",
+            "Haggle or Gamble",
+            "Language (Any)",
+            "Melee (Brawling)",
+            "Bribery",
+            "Cool",
+            "Endurance",
+            "Language (Any)",
+            "Intimidate",
+            "Leadership"
+          ],
+          "translation": [
+            "Атлетика",
+            "Усмирение животных",
+            "Лазание",
+            "Вождение",
+            "Сплетничество",
+            "Рукопашный бой (основное)",
+            "Ориентирование",
+            "Стрельба (луки)",
+            "Хождение под парусом (любое)",
+            "Плавание",
+            "Обаяние",
+            "Кутёж",
+            "Оценка",
+            "Торговля или Азартные игры",
+            "Язык (любой)",
+            "Рукопашный бой (кулачное)",
+            "Подкуп",
+            "Хладнокровие",
+            "Стойкость",
+            "Язык (любой)",
+            "Запугивание",
+            "Лидерство"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Commanding Presence",
+            "Fearless (Sea Monsters)",
+            "Sure Shot",
+            "Very Resilient"
+          ],
+          "translation": [
+            "Аура величия",
+            "Бесстрашие (морские чудовища)",
+            "Верный выстрел",
+            "Закалка"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Albatross and Crew",
+            "Flotilla of Ships",
+            "Warehouses in Two Ports"
+          ],
+          "translation": [
+            "Альбатрос с командой",
+            "Флотилия кораблей",
+            "Склады в двух портах"
+          ]
+        },
+        "class.value": {
+          "source": "Burghers",
+          "translation": "Горожане"
+        },
+        "careergroup.value": {
+          "source": "Merchant Adventurer",
+          "translation": "Купец-путешественник"
+        }
+      }
+    },
+    "items.GCN9mMfVeqyhUCT4": {
+      "type": "career",
+      "sourceName": "Shadow Novice",
+      "fields": {
+        "skills": {
+          "source": [
+            "Athletics",
+            "Climb",
+            "Endurance",
+            "Melee (Basic)",
+            "Navigation",
+            "Outdoor Survival",
+            "Ranged (Bow)",
+            "Set Trap",
+            "Stealth (Rural)",
+            "Swim"
+          ],
+          "translation": [
+            "Атлетика",
+            "Лазание",
+            "Стойкость",
+            "Рукопашный бой (основное)",
+            "Ориентирование",
+            "Выживание",
+            "Стрельба (луки)",
+            "Обращение с ловушками",
+            "Скрытность (дикая природа)",
+            "Плавание"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Deadeye Shot",
+            "Rover",
+            "Scale Sheer Surface",
+            "Strider (Woodlands)"
+          ],
+          "translation": [
+            "Меткий выстрел",
+            "Скиталец",
+            "Цепкость",
+            "Проходимец (леса)"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Bedroll",
+            "Elf Bow and 10 Barbed Arrows",
+            "Rope and Grappling Hook"
+          ],
+          "translation": [
+            "Спальный мешок",
+            "Эльфийский лук и 10 зазубренных стрел",
+            "Верёвка и абордажный крюк"
+          ]
+        },
+        "class.value": {
+          "source": "Rangers",
+          "translation": "Странники"
+        },
+        "careergroup.value": {
+          "source": "Shadow Warrior",
+          "translation": "Воин теней"
+        }
+      }
+    },
+    "items.H7outg7dcJHztdv8": {
+      "type": "career",
+      "sourceName": "Sea Warden",
+      "fields": {
+        "skills": {
+          "source": [
+            "Animal Care (Swiftfeather Roc)",
+            "Consume Alcohol",
+            "Dodge",
+            "Gossip",
+            "Melee (Basic)",
+            "Melee (Polearm)",
+            "Ranged (Bow)",
+            "Ranged (Crossbow)",
+            "Sail (Bloodhawk, Falconship, Hawkship or Dragonship)",
+            "Swim"
+          ],
+          "translation": [
+            "Обращение с животными (быстрокрылый рух)",
+            "Кутёж",
+            "Уклонение",
+            "Сплетничество",
+            "Рукопашный бой (основное)",
+            "Рукопашный бой (древковое)",
+            "Стрельба (луки)",
+            "Стрельба (арбалеты)",
+            "Хождение под парусом (кровавый ястреб, корабль-сокол, корабль-ястреб или корабль-дракон)",
+            "Плавание"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Drilled",
+            "Fisherman",
+            "Hardy",
+            "Warrior Born"
+          ],
+          "translation": [
+            "Строевая подготовка",
+            "Рыбак",
+            "Здоровяк",
+            "Прирождённый воин"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Elf Bow and 10 Arrows",
+            "Spear",
+            "Uniform"
+          ],
+          "translation": [
+            "Эльфийский лук и 10 стрел",
+            "Копьё",
+            "Ливрея/мундир/форменная одежда"
+          ]
+        },
+        "class.value": {
+          "source": "Warriors",
+          "translation": "Воины"
+        },
+        "careergroup.value": {
+          "source": "Sea Guard",
+          "translation": "Морской страж"
+        }
+      }
+    },
+    "items.KhtRpiGjDFDfmQ4f": {
+      "type": "career",
+      "sourceName": "Mage",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Calligraphy or Engraving)",
+            "Channelling (Any Colour)",
+            "Charm",
+            "Gossip",
+            "Intuition",
+            "Language (Magick)",
+            "Lore (Magic)",
+            "Lore (Theology)",
+            "Perception",
+            "Pray",
+            "Channelling (Any Colour)",
+            "Cool",
+            "Intimidate",
+            "Language (Any One)",
+            "Lore (Any One)",
+            "Research",
+            "Channelling (Qhaysh)",
+            "Evaluate",
+            "Melee (Polearm)",
+            "Ride (Horse)"
+          ],
+          "translation": [
+            "Искусство (каллиграфия или гравировка)",
+            "Концентрация (любой Ветер)",
+            "Обаяние",
+            "Сплетничество",
+            "Интуиция",
+            "Язык (магический)",
+            "Знание (магия)",
+            "Знание (теология)",
+            "Наблюдательность",
+            "Молитвословие",
+            "Концентрация (любой Ветер)",
+            "Хладнокровие",
+            "Запугивание",
+            "Язык (любой один)",
+            "Знание (любое одно)",
+            "Книжные изыскания",
+            "Концентрация (Кхайш)",
+            "Оценка",
+            "Рукопашный бой (древковое)",
+            "Верховая езда (лошади)"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Blessed by Isha",
+            "Dual Wielder",
+            "High Magic",
+            "Lileath’s Blessing"
+          ],
+          "translation": [
+            "Благословение Иши",
+            "Двойная атака",
+            "Высокая магия",
+            "Благословение Лилеат"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Hand Weapon (Sword)",
+            "Light Warhorse",
+            "Religious Symbol (Lileath)",
+            "Staff",
+            "Wayshard"
+          ],
+          "translation": [
+            "Одноручное оружие (меч)",
+            "Боевой конь",
+            "Религиозный символ (Лилеат)",
+            "Посох",
+            "Путевой осколок"
+          ]
+        },
+        "class.value": {
+          "source": "Academics",
+          "translation": "Книгочеи"
+        },
+        "careergroup.value": {
+          "source": "Mage",
+          "translation": "Маг"
+        }
+      }
+    },
+    "items.LxGJ9eFGG9YPW12l": {
+      "type": "career",
+      "sourceName": "Shadow-walker",
+      "fields": {
+        "skills": {
+          "source": [
+            "Athletics",
+            "Climb",
+            "Endurance",
+            "Melee (Basic)",
+            "Navigation",
+            "Outdoor Survival",
+            "Ranged (Bow)",
+            "Set Trap",
+            "Stealth (Rural)",
+            "Swim",
+            "Cool",
+            "Dodge",
+            "Intimidate",
+            "Melee (Brawling)",
+            "Secret Signs (Shadow Warriors)",
+            "Track",
+            "Charm",
+            "Gossip",
+            "Heal",
+            "Leadership",
+            "Pick Lock",
+            "Stealth (Urban)"
+          ],
+          "translation": [
+            "Атлетика",
+            "Лазание",
+            "Стойкость",
+            "Рукопашный бой (основное)",
+            "Ориентирование",
+            "Выживание",
+            "Стрельба (луки)",
+            "Обращение с ловушками",
+            "Скрытность (дикая природа)",
+            "Плавание",
+            "Хладнокровие",
+            "Уклонение",
+            "Запугивание",
+            "Рукопашный бой (кулачное)",
+            "Тайные знаки (Воины Тени)",
+            "Выслеживание",
+            "Обаяние",
+            "Сплетничество",
+            "Лечение",
+            "Лидерство",
+            "Взлом",
+            "Скрытность (города)"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Cat Fall",
+            "Seasoned Traveller",
+            "Sharpshooter",
+            "Well-prepared"
+          ],
+          "translation": [
+            "Кошачье падение",
+            "Бывалый путешественник",
+            "Меткий стрелок",
+            "Предусмотрительный"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Lockpick",
+            "Ring of Contacts"
+          ],
+          "translation": [
+            "Отмычка",
+            "Круг связей"
+          ]
+        },
+        "class.value": {
+          "source": "Rangers",
+          "translation": "Странники"
+        },
+        "careergroup.value": {
+          "source": "Shadow Warrior",
+          "translation": "Воин теней"
+        }
+      }
+    },
+    "items.NZtT1dAB1A7aB4hi": {
+      "type": "career",
+      "sourceName": "Storm Weaver",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Calligraphy or Engraving)",
+            "Channelling (Any Colour)",
+            "Charm",
+            "Gossip",
+            "Intuition",
+            "Language (Magick)",
+            "Lore (Magic)",
+            "Lore (Theology)",
+            "Perception",
+            "Pray",
+            "Channelling (Any Colour)",
+            "Cool",
+            "Intimidate",
+            "Language (Any One)",
+            "Lore (Any One)",
+            "Research",
+            "Channelling (Qhaysh)",
+            "Row",
+            "Sail (Any)",
+            "Swim",
+            "Melee (Basic)",
+            "Navigation"
+          ],
+          "translation": [
+            "Искусство (каллиграфия или гравировка)",
+            "Концентрация (любой Ветер)",
+            "Обаяние",
+            "Сплетничество",
+            "Интуиция",
+            "Язык (магический)",
+            "Знание (магия)",
+            "Знание (теология)",
+            "Наблюдательность",
+            "Молитвословие",
+            "Концентрация (любой Ветер)",
+            "Хладнокровие",
+            "Запугивание",
+            "Язык (любой один)",
+            "Знание (любое одно)",
+            "Книжные изыскания",
+            "Концентрация (Кхайш)",
+            "Гребля",
+            "Хождение под парусом (любое)",
+            "Плавание",
+            "Рукопашный бой (основное)",
+            "Ориентирование"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Aethyric Attunement",
+            "Fearless (Sea Monsters)",
+            "Orientation",
+            "Strong Swimmer"
+          ],
+          "translation": [
+            "Эфирный унисон",
+            "Бесстрашие (морские чудовища)",
+            "Чувство направления",
+            "Отличный пловец"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Sea Charts",
+            "Sextant"
+          ],
+          "translation": [
+            "Морские карты",
+            "Секстант"
+          ]
+        },
+        "class.value": {
+          "source": "Academics",
+          "translation": "Книгочеи"
+        },
+        "careergroup.value": {
+          "source": "Storm Weaver",
+          "translation": "Ткач бурь"
+        }
+      }
+    },
+    "items.Ok66kMWXWD9G7pTT": {
+      "type": "career",
+      "sourceName": "Student Mage",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Calligraphy or Engraving)",
+            "Channelling (Any Colour)",
+            "Charm",
+            "Gossip",
+            "Intuition",
+            "Language (Magick)",
+            "Lore (Magic)",
+            "Lore (Theology)",
+            "Perception",
+            "Pray",
+            "Channelling (Any Colour)",
+            "Cool",
+            "Intimidate",
+            "Language (Any One)",
+            "Lore (Any One)",
+            "Research"
+          ],
+          "translation": [
+            "Искусство (каллиграфия или гравировка)",
+            "Концентрация (любой Ветер)",
+            "Обаяние",
+            "Сплетничество",
+            "Интуиция",
+            "Язык (магический)",
+            "Знание (магия)",
+            "Знание (теология)",
+            "Наблюдательность",
+            "Молитвословие",
+            "Концентрация (любой Ветер)",
+            "Хладнокровие",
+            "Запугивание",
+            "Язык (любой один)",
+            "Знание (любое одно)",
+            "Книжные изыскания"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Arcane Magic (Any Arcane Lore)",
+            "Coolheaded",
+            "Instinctive Diction",
+            "Savvy"
+          ],
+          "translation": [
+            "Школа магии (любая Стихия)",
+            "Самообладание",
+            "Безупречная дикция",
+            "Смекалка"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Grimoire",
+            "Religious Symbol (Hoeth)"
+          ],
+          "translation": [
+            "Гримуар",
+            "Религиозный символ (Хоэт)"
+          ]
+        },
+        "class.value": {
+          "source": "Academics",
+          "translation": "Книгочеи"
+        },
+        "careergroup.value": {
+          "source": "Mage",
+          "translation": "Маг"
+        }
+      }
+    },
+    "items.SMiSG9LkKHs4fuFm": {
+      "type": "career",
+      "sourceName": "Master Smith-priest",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Calligraphy or Engraving)",
+            "Channelling (Any Colour)",
+            "Charm",
+            "Gossip",
+            "Intuition",
+            "Language (Magick)",
+            "Lore (Magic)",
+            "Lore (Theology)",
+            "Perception",
+            "Pray",
+            "Channelling (Any Colour)",
+            "Cool",
+            "Intimidate",
+            "Language (Any One)",
+            "Lore (Any One)",
+            "Research",
+            "Art (Engraving)",
+            "Channelling (Qhaysh)",
+            "Evaluate",
+            "Trade (Smith)",
+            "Haggle",
+            "Intuition"
+          ],
+          "translation": [
+            "Искусство (каллиграфия или гравировка)",
+            "Концентрация (любой Ветер)",
+            "Обаяние",
+            "Сплетничество",
+            "Интуиция",
+            "Язык (магический)",
+            "Знание (магия)",
+            "Знание (теология)",
+            "Наблюдательность",
+            "Молитвословие",
+            "Концентрация (любой Ветер)",
+            "Хладнокровие",
+            "Запугивание",
+            "Язык (любой один)",
+            "Знание (любое одно)",
+            "Книжные изыскания",
+            "Искусство (гравировка)",
+            "Концентрация (Кхайш)",
+            "Оценка",
+            "Ремесло (кузнец)",
+            "Торговля",
+            "Интуиция"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Artistic",
+            "Master Tradesman (Smith)",
+            "Mind over Body",
+            "Tenacious"
+          ],
+          "translation": [
+            "Искусник",
+            "Мастер-ремесленник (кузнец)",
+            "Разум над телом",
+            "Упрямство"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Blindness",
+            "Forge"
+          ],
+          "translation": [
+            "Слепота",
+            "Кузница"
+          ]
+        },
+        "class.value": {
+          "source": "Academics",
+          "translation": "Книгочеи"
+        },
+        "careergroup.value": {
+          "source": "Smith-priest",
+          "translation": "Жрец-кузнец"
+        }
+      }
+    },
+    "items.UZ9VPAdwWMLB0RLu": {
+      "type": "career",
+      "sourceName": "Caller of the Maelstrom",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Calligraphy or Engraving)",
+            "Channelling (Any Colour)",
+            "Charm",
+            "Gossip",
+            "Intuition",
+            "Language (Magick)",
+            "Lore (Magic)",
+            "Lore (Theology)",
+            "Perception",
+            "Pray",
+            "Channelling (Any Colour)",
+            "Cool",
+            "Intimidate",
+            "Language (Any One)",
+            "Lore (Any One)",
+            "Research",
+            "Channelling (Qhaysh)",
+            "Row",
+            "Sail (Any)",
+            "Swim",
+            "Melee (Basic)",
+            "Navigation",
+            "Leadership"
+          ],
+          "translation": [
+            "Искусство (каллиграфия или гравировка)",
+            "Концентрация (любой Ветер)",
+            "Обаяние",
+            "Сплетничество",
+            "Интуиция",
+            "Язык (магический)",
+            "Знание (магия)",
+            "Знание (теология)",
+            "Наблюдательность",
+            "Молитвословие",
+            "Концентрация (любой Ветер)",
+            "Хладнокровие",
+            "Запугивание",
+            "Язык (любой один)",
+            "Знание (любое одно)",
+            "Книжные изыскания",
+            "Концентрация (Кхайш)",
+            "Гребля",
+            "Хождение под парусом (любое)",
+            "Плавание",
+            "Рукопашный бой (основное)",
+            "Ориентирование",
+            "Лидерство"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Holy Visions",
+            "Old Salt",
+            "Seasoned Traveller",
+            "War Wizard"
+          ],
+          "translation": [
+            "Видения свыше",
+            "Морской волк",
+            "Бывалый путешественник",
+            "Боевой маг"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Sailing Ship and Crew",
+            "Spyglass"
+          ],
+          "translation": [
+            "Парусный корабль с командой",
+            "Подзорная труба"
+          ]
+        },
+        "class.value": {
+          "source": "Academics",
+          "translation": "Книгочеи"
+        },
+        "careergroup.value": {
+          "source": "Storm Weaver",
+          "translation": "Ткач бурь"
+        }
+      }
+    },
+    "items.VlYfmJICiXsbIsmb": {
+      "type": "career",
+      "sourceName": "Outfitter",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Any)",
+            "Charm",
+            "Cool",
+            "Entertain (Any)",
+            "Evaluate",
+            "Intuition",
+            "Gossip",
+            "Haggle",
+            "Perception",
+            "Trade (Jeweller)"
+          ],
+          "translation": [
+            "Искусство (любое)",
+            "Обаяние",
+            "Хладнокровие",
+            "Артистизм (любой)",
+            "Оценка",
+            "Интуиция",
+            "Сплетничество",
+            "Торговля",
+            "Наблюдательность",
+            "Ремесло (ювелир)"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Acute Sense (Any)",
+            "Artistic (Any)",
+            "Second Sight",
+            "Suave"
+          ],
+          "translation": [
+            "Обострённое восприятие (любое)",
+            "Искусник (любое)",
+            "Второе зрение",
+            "Учтивость"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Bottle of Perfume",
+            "Charms",
+            "Colourful Scarves",
+            "Comb"
+          ],
+          "translation": [
+            "Флакон духов",
+            "Обереги",
+            "Пёстрые шарфы",
+            "Гребень"
+          ]
+        },
+        "class.value": {
+          "source": "Courtiers",
+          "translation": "Придворные"
+        },
+        "careergroup.value": {
+          "source": "Aestheticist",
+          "translation": "Эстет"
+        }
+      }
+    },
+    "items.WQWeQ45eR6Z7qhqy": {
+      "type": "career",
+      "sourceName": "Swordwarden",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Painting or  Sculpture)",
+            "Athletics",
+            "Dodge",
+            "Lore (Any)",
+            "Melee (Basic)",
+            "Melee (Brawling)",
+            "Melee (Two-handed)",
+            "Perception",
+            "Perform (Acrobatics)",
+            "Play (Any)"
+          ],
+          "translation": [
+            "Искусство (живопись или скульптура)",
+            "Атлетика",
+            "Уклонение",
+            "Знание (любое)",
+            "Рукопашный бой (основное)",
+            "Рукопашный бой (кулачное)",
+            "Рукопашный бой (двуручное)",
+            "Наблюдательность",
+            "Выступление (акробатика)",
+            "Музыка (любая)"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Acute Sense (Any)",
+            "Careful Strike",
+            "Disarm",
+            "Martial Arts"
+          ],
+          "translation": [
+            "Обострённое восприятие (любое)",
+            "Выверенное попадание",
+            "Разоружение",
+            "Боевые искусства"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Clay Set or Painting Set",
+            "Loose Robes"
+          ],
+          "translation": [
+            "Набор для лепки или живописи",
+            "Свободные одежды"
+          ]
+        },
+        "class.value": {
+          "source": "Warriors",
+          "translation": "Воины"
+        },
+        "careergroup.value": {
+          "source": "Swordmaster",
+          "translation": "Мастер меча"
+        }
+      }
+    },
+    "items.ZxEozPNBzL6LUdx2": {
+      "type": "career",
+      "sourceName": "High Loremaster",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Calligraphy or Engraving)",
+            "Channelling (Any Colour)",
+            "Charm",
+            "Gossip",
+            "Intuition",
+            "Language (Magick)",
+            "Lore (Magic)",
+            "Lore (Theology)",
+            "Perception",
+            "Pray",
+            "Channelling (Any Colour)",
+            "Cool",
+            "Intimidate",
+            "Language (Any One)",
+            "Lore (Any One)",
+            "Research",
+            "Channelling (Qhaysh)",
+            "Language (Any)",
+            "Lore (Any)",
+            "Melee (Basic)",
+            "Pray",
+            "Research",
+            "Language (Any)",
+            "Lore (Any)",
+            "Lore (Any)"
+          ],
+          "translation": [
+            "Искусство (каллиграфия или гравировка)",
+            "Концентрация (любой Ветер)",
+            "Обаяние",
+            "Сплетничество",
+            "Интуиция",
+            "Язык (магический)",
+            "Знание (магия)",
+            "Знание (теология)",
+            "Наблюдательность",
+            "Молитвословие",
+            "Концентрация (любой Ветер)",
+            "Хладнокровие",
+            "Запугивание",
+            "Язык (любой один)",
+            "Знание (любое одно)",
+            "Книжные изыскания",
+            "Концентрация (Кхайш)",
+            "Язык (любой)",
+            "Знание (любое)",
+            "Рукопашный бой (основное)",
+            "Молитвословие",
+            "Книжные изыскания",
+            "Язык (любой)",
+            "Знание (любое)",
+            "Знание (любое)"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Combat Aware",
+            "Magical Sense",
+            "Holy Visions",
+            "Pure Soul"
+          ],
+          "translation": [
+            "Бдительность",
+            "Магическое чутьё",
+            "Видения свыше",
+            "Духовная чистота"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Library",
+            "Office"
+          ],
+          "translation": [
+            "Библиотека",
+            "Кабинет"
+          ]
+        },
+        "class.value": {
+          "source": "Academics",
+          "translation": "Книгочеи"
+        },
+        "careergroup.value": {
+          "source": "Loremaster of Hoeth",
+          "translation": "Хранитель знаний Хоэта"
+        }
+      }
+    },
+    "items.ameaJFULHLa6HI9o": {
+      "type": "career",
+      "sourceName": "Taste Maker",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Any)",
+            "Charm",
+            "Cool",
+            "Entertain (Any)",
+            "Evaluate",
+            "Intuition",
+            "Gossip",
+            "Haggle",
+            "Perception",
+            "Trade (Jeweller)",
+            "Art (Any)",
+            "Consume Alcohol",
+            "Lore (Local)",
+            "Lore (Magic)",
+            "Stealth (Urban)",
+            "Trade (Any)",
+            "Bribery",
+            "Language (Any)",
+            "Lore (Heraldry)",
+            "Perform (Any)"
+          ],
+          "translation": [
+            "Искусство (любое)",
+            "Обаяние",
+            "Хладнокровие",
+            "Артистизм (любой)",
+            "Оценка",
+            "Интуиция",
+            "Сплетничество",
+            "Торговля",
+            "Наблюдательность",
+            "Ремесло (ювелир)",
+            "Искусство (любое)",
+            "Кутёж",
+            "Знание (местные края)",
+            "Знание (магия)",
+            "Скрытность (города)",
+            "Ремесло (любое)",
+            "Подкуп",
+            "Язык (любой)",
+            "Знание (геральдика)",
+            "Выступление (любое)"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Carouser",
+            "Detect Artefact",
+            "Gregarious",
+            "Master Tradesman (Any)"
+          ],
+          "translation": [
+            "Заядлый кутила",
+            "Распознание артефакта",
+            "Общительность",
+            "Мастер-ремесленник (любой)"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Essential Oils",
+            "Incense Sticks",
+            "Tuning fork"
+          ],
+          "translation": [
+            "Эфирные масла",
+            "Палочки благовоний",
+            "Камертон"
+          ]
+        },
+        "class.value": {
+          "source": "Courtiers",
+          "translation": "Придворные"
+        },
+        "careergroup.value": {
+          "source": "Aestheticist",
+          "translation": "Эстет"
+        }
+      }
+    },
+    "items.bFHNBP2ve1G9pOV0": {
+      "type": "career",
+      "sourceName": "Harmony Master",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Any)",
+            "Charm",
+            "Cool",
+            "Entertain (Any)",
+            "Evaluate",
+            "Intuition",
+            "Gossip",
+            "Haggle",
+            "Perception",
+            "Trade (Jeweller)",
+            "Art (Any)",
+            "Consume Alcohol",
+            "Lore (Local)",
+            "Lore (Magic)",
+            "Stealth (Urban)",
+            "Trade (Any)",
+            "Bribery",
+            "Language (Any)",
+            "Lore (Heraldry)",
+            "Perform (Any)",
+            "Heal",
+            "Leadership"
+          ],
+          "translation": [
+            "Искусство (любое)",
+            "Обаяние",
+            "Хладнокровие",
+            "Артистизм (любой)",
+            "Оценка",
+            "Интуиция",
+            "Сплетничество",
+            "Торговля",
+            "Наблюдательность",
+            "Ремесло (ювелир)",
+            "Искусство (любое)",
+            "Кутёж",
+            "Знание (местные края)",
+            "Знание (магия)",
+            "Скрытность (города)",
+            "Ремесло (любое)",
+            "Подкуп",
+            "Язык (любой)",
+            "Знание (геральдика)",
+            "Выступление (любое)",
+            "Лечение",
+            "Лидерство"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Argumentative",
+            "Holy Visions",
+            "Magnum Opus",
+            "Pure Soul"
+          ],
+          "translation": [
+            "Спорщик",
+            "Видения свыше",
+            "Великое произведение",
+            "Духовная чистота"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Aethyrolabe",
+            "Plain High-Quality Robes"
+          ],
+          "translation": [
+            "Эфиролябия",
+            "Простые высококачественные одежды"
+          ]
+        },
+        "class.value": {
+          "source": "Courtiers",
+          "translation": "Придворные"
+        },
+        "careergroup.value": {
+          "source": "Aestheticist",
+          "translation": "Эстет"
+        }
+      }
+    },
+    "items.eHc9O6QHrkESakTQ": {
+      "type": "career",
+      "sourceName": "Merchant Adventurer",
+      "fields": {
+        "skills": {
+          "source": [
+            "Athletics",
+            "Charm Animal",
+            "Climb",
+            "Drive",
+            "Gossip",
+            "Melee (Basic)",
+            "Navigation",
+            "Ranged (Bow)",
+            "Sail (Any)",
+            "Swim",
+            "Charm",
+            "Consume Alcohol",
+            "Evaluate",
+            "Haggle or Gamble",
+            "Language (Any)",
+            "Melee (Brawling)"
+          ],
+          "translation": [
+            "Атлетика",
+            "Усмирение животных",
+            "Лазание",
+            "Вождение",
+            "Сплетничество",
+            "Рукопашный бой (основное)",
+            "Ориентирование",
+            "Стрельба (луки)",
+            "Хождение под парусом (любое)",
+            "Плавание",
+            "Обаяние",
+            "Кутёж",
+            "Оценка",
+            "Торговля или Азартные игры",
+            "Язык (любой)",
+            "Рукопашный бой (кулачное)"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Dirty Fighting",
+            "Old Salt",
+            "Pilot",
+            "Seasoned Traveller"
+          ],
+          "translation": [
+            "Грязные приёмы",
+            "Морской волк",
+            "Рулевой",
+            "Бывалый путешественник"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Bloodhawk or Razorbill and Crew",
+            "Hand Weapon (Sword)",
+            "Leather Jack",
+            "Shipping Charts and Sextant",
+            "Three Barrels of Goods"
+          ],
+          "translation": [
+            "Кровавый ястреб или Гагарка с командой",
+            "Одноручное оружие (меч)",
+            "Кожаная куртка",
+            "Морские карты и секстант",
+            "Три бочки товаров"
+          ]
+        },
+        "class.value": {
+          "source": "Burghers",
+          "translation": "Горожане"
+        },
+        "careergroup.value": {
+          "source": "Merchant Adventurer",
+          "translation": "Купец-путешественник"
+        }
+      }
+    },
+    "items.jJ4S1h3aWfi5bSzO": {
+      "type": "career",
+      "sourceName": "Aestheticist",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Any)",
+            "Charm",
+            "Cool",
+            "Entertain (Any)",
+            "Evaluate",
+            "Intuition",
+            "Gossip",
+            "Haggle",
+            "Perception",
+            "Trade (Jeweller)",
+            "Art (Any)",
+            "Consume Alcohol",
+            "Lore (Local)",
+            "Lore (Magic)",
+            "Stealth (Urban)",
+            "Trade (Any)"
+          ],
+          "translation": [
+            "Искусство (любое)",
+            "Обаяние",
+            "Хладнокровие",
+            "Артистизм (любой)",
+            "Оценка",
+            "Интуиция",
+            "Сплетничество",
+            "Торговля",
+            "Наблюдательность",
+            "Ремесло (ювелир)",
+            "Искусство (любое)",
+            "Кутёж",
+            "Знание (местные края)",
+            "Знание (магия)",
+            "Скрытность (города)",
+            "Ремесло (любое)"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Coolheaded",
+            "Craftsman (Any)",
+            "Etiquette (Nobles)",
+            "Nimble Fingered"
+          ],
+          "translation": [
+            "Самообладание",
+            "Умелец (любое)",
+            "Этикет (дворяне)",
+            "Ловкие пальцы"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Crystal Pendulum",
+            "Flamboyant Clothing",
+            "Selection of Amulets"
+          ],
+          "translation": [
+            "Хрустальный маятник",
+            "Броская одежда",
+            "Подборка амулетов"
+          ]
+        },
+        "class.value": {
+          "source": "Courtiers",
+          "translation": "Придворные"
+        },
+        "careergroup.value": {
+          "source": "Aestheticist",
+          "translation": "Эстет"
+        }
+      }
+    },
+    "items.kDVTRWHoo7Eua1P3": {
+      "type": "career",
+      "sourceName": "Shadow Master",
+      "fields": {
+        "skills": {
+          "source": [
+            "Athletics",
+            "Climb",
+            "Endurance",
+            "Melee (Basic)",
+            "Navigation",
+            "Outdoor Survival",
+            "Ranged (Bow)",
+            "Set Trap",
+            "Stealth (Rural)",
+            "Swim",
+            "Cool",
+            "Dodge",
+            "Intimidate",
+            "Melee (Brawling)",
+            "Secret Signs (Shadow Warriors)",
+            "Track",
+            "Charm",
+            "Gossip",
+            "Heal",
+            "Leadership"
+          ],
+          "translation": [
+            "Атлетика",
+            "Лазание",
+            "Стойкость",
+            "Рукопашный бой (основное)",
+            "Ориентирование",
+            "Выживание",
+            "Стрельба (луки)",
+            "Обращение с ловушками",
+            "Скрытность (дикая природа)",
+            "Плавание",
+            "Хладнокровие",
+            "Уклонение",
+            "Запугивание",
+            "Рукопашный бой (кулачное)",
+            "Тайные знаки (Воины Тени)",
+            "Выслеживание",
+            "Обаяние",
+            "Сплетничество",
+            "Лечение",
+            "Лидерство"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Accurate Shot",
+            "Dual Wielder",
+            "Secret Identity",
+            "Strike to Injure"
+          ],
+          "translation": [
+            "Точный выстрел",
+            "Двойная атака",
+            "Альтер эго",
+            "Безжалостный удар"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Cadre of Shadow Warriors",
+            "Caltrops",
+            "Disguise Kit"
+          ],
+          "translation": [
+            "Отряд Воинов Тени",
+            "Чеснок",
+            "Набор для маскировки"
+          ]
+        },
+        "class.value": {
+          "source": "Rangers",
+          "translation": "Странники"
+        },
+        "careergroup.value": {
+          "source": "Shadow Warrior",
+          "translation": "Воин теней"
+        }
+      }
+    },
+    "items.l05Un7jTEwAmvtNK": {
+      "type": "career",
+      "sourceName": "Novitiate",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Calligraphy or Engraving)",
+            "Channelling (Any Colour)",
+            "Charm",
+            "Gossip",
+            "Intuition",
+            "Language (Magick)",
+            "Lore (Magic)",
+            "Lore (Theology)",
+            "Perception",
+            "Pray"
+          ],
+          "translation": [
+            "Искусство (каллиграфия или гравировка)",
+            "Концентрация (любой Ветер)",
+            "Обаяние",
+            "Сплетничество",
+            "Интуиция",
+            "Язык (магический)",
+            "Знание (магия)",
+            "Знание (теология)",
+            "Наблюдательность",
+            "Молитвословие"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Aethyric Attunement",
+            "Detect Artefact",
+            "Petty Magic",
+            "Second Sight"
+          ],
+          "translation": [
+            "Эфирный унисон",
+            "Распознание артефакта",
+            "Простейшая магия",
+            "Второе зрение"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Chalk or Chisel",
+            "Religious Symbol (Isha)",
+            "Robes"
+          ],
+          "translation": [
+            "Мел или резец",
+            "Религиозный символ (Иша)",
+            "Ряса/мантия"
+          ]
+        },
+        "class.value": {
+          "source": "Academics",
+          "translation": "Книгочеи"
+        },
+        "careergroup.value": {
+          "source": "Mage",
+          "translation": "Маг"
+        }
+      }
+    },
+    "items.lANf8dYpyRsEwTft": {
+      "type": "career",
+      "sourceName": "Grand Loremaster",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Calligraphy or Engraving)",
+            "Channelling (Any Colour)",
+            "Charm",
+            "Gossip",
+            "Intuition",
+            "Language (Magick)",
+            "Lore (Magic)",
+            "Lore (Theology)",
+            "Perception",
+            "Pray",
+            "Channelling (Any Colour)",
+            "Cool",
+            "Intimidate",
+            "Language (Any One)",
+            "Lore (Any One)",
+            "Research",
+            "Channelling (Qhaysh)",
+            "Language (Any)",
+            "Lore (Any)",
+            "Melee (Basic)",
+            "Pray",
+            "Research",
+            "Language (Any)",
+            "Lore (Any)"
+          ],
+          "translation": [
+            "Искусство (каллиграфия или гравировка)",
+            "Концентрация (любой Ветер)",
+            "Обаяние",
+            "Сплетничество",
+            "Интуиция",
+            "Язык (магический)",
+            "Знание (магия)",
+            "Знание (теология)",
+            "Наблюдательность",
+            "Молитвословие",
+            "Концентрация (любой Ветер)",
+            "Хладнокровие",
+            "Запугивание",
+            "Язык (любой один)",
+            "Знание (любое одно)",
+            "Книжные изыскания",
+            "Концентрация (Кхайш)",
+            "Язык (любой)",
+            "Знание (любое)",
+            "Рукопашный бой (основное)",
+            "Молитвословие",
+            "Книжные изыскания",
+            "Язык (любой)",
+            "Знание (любое)"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Bookish",
+            "Linguistics",
+            "Speedreader",
+            "Tower of Memories"
+          ],
+          "translation": [
+            "Книжный червь",
+            "Полиглот",
+            "Скорочтение",
+            "Башня памяти"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Fine Quality Robes",
+            "Rare Books"
+          ],
+          "translation": [
+            "Добротные одежды",
+            "Редкие книги"
+          ]
+        },
+        "class.value": {
+          "source": "Academics",
+          "translation": "Книгочеи"
+        },
+        "careergroup.value": {
+          "source": "Loremaster of Hoeth",
+          "translation": "Хранитель знаний Хоэта"
+        }
+      }
+    },
+    "items.lXoPQ4Mis6f3lfWF": {
+      "type": "career",
+      "sourceName": "High Mage",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Calligraphy or Engraving)",
+            "Channelling (Any Colour)",
+            "Charm",
+            "Gossip",
+            "Intuition",
+            "Language (Magick)",
+            "Lore (Magic)",
+            "Lore (Theology)",
+            "Perception",
+            "Pray",
+            "Channelling (Any Colour)",
+            "Cool",
+            "Intimidate",
+            "Language (Any One)",
+            "Lore (Any One)",
+            "Research",
+            "Channelling (Qhaysh)",
+            "Evaluate",
+            "Melee (Polearm)",
+            "Ride (Horse)",
+            "Lore (Any)",
+            "Dodge"
+          ],
+          "translation": [
+            "Искусство (каллиграфия или гравировка)",
+            "Концентрация (любой Ветер)",
+            "Обаяние",
+            "Сплетничество",
+            "Интуиция",
+            "Язык (магический)",
+            "Знание (магия)",
+            "Знание (теология)",
+            "Наблюдательность",
+            "Молитвословие",
+            "Концентрация (любой Ветер)",
+            "Хладнокровие",
+            "Запугивание",
+            "Язык (любой один)",
+            "Знание (любое одно)",
+            "Книжные изыскания",
+            "Концентрация (Кхайш)",
+            "Оценка",
+            "Рукопашный бой (древковое)",
+            "Верховая езда (лошади)",
+            "Знание (любое)",
+            "Уклонение"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Fast Hands",
+            "Iron Will",
+            "Magical Sense",
+            "Menacing"
+          ],
+          "translation": [
+            "Быстрые руки",
+            "Железная воля",
+            "Магическое чутьё",
+            "Грозный вид"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Magical Item"
+          ],
+          "translation": [
+            "Волшебная вещь"
+          ]
+        },
+        "class.value": {
+          "source": "Academics",
+          "translation": "Книгочеи"
+        },
+        "careergroup.value": {
+          "source": "Mage",
+          "translation": "Маг"
+        }
+      }
+    },
+    "items.olPMirqvqrPyw5KK": {
+      "type": "career",
+      "sourceName": "Arch Forge-priest",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Calligraphy or Engraving)",
+            "Channelling (Any Colour)",
+            "Charm",
+            "Gossip",
+            "Intuition",
+            "Language (Magick)",
+            "Lore (Magic)",
+            "Lore (Theology)",
+            "Perception",
+            "Pray",
+            "Channelling (Any Colour)",
+            "Cool",
+            "Intimidate",
+            "Language (Any One)",
+            "Lore (Any One)",
+            "Research",
+            "Art (Engraving)",
+            "Channelling (Qhaysh)",
+            "Evaluate",
+            "Trade (Smith)",
+            "Haggle",
+            "Intuition",
+            "Leadership"
+          ],
+          "translation": [
+            "Искусство (каллиграфия или гравировка)",
+            "Концентрация (любой Ветер)",
+            "Обаяние",
+            "Сплетничество",
+            "Интуиция",
+            "Язык (магический)",
+            "Знание (магия)",
+            "Знание (теология)",
+            "Наблюдательность",
+            "Молитвословие",
+            "Концентрация (любой Ветер)",
+            "Хладнокровие",
+            "Запугивание",
+            "Язык (любой один)",
+            "Знание (любое одно)",
+            "Книжные изыскания",
+            "Искусство (гравировка)",
+            "Концентрация (Кхайш)",
+            "Оценка",
+            "Ремесло (кузнец)",
+            "Торговля",
+            "Интуиция",
+            "Лидерство"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Holy Visions",
+            "Magnum Opus",
+            "Sixth Sense",
+            "Strong-minded"
+          ],
+          "translation": [
+            "Видения свыше",
+            "Великое произведение",
+            "Шестое чувство",
+            "Твёрдость духа"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Ithilmar Ore",
+            "Magical Item",
+            "Smith-priest Apprentice"
+          ],
+          "translation": [
+            "Итильмаровая руда",
+            "Волшебная вещь",
+            "Ученик жреца-кузнеца"
+          ]
+        },
+        "class.value": {
+          "source": "Academics",
+          "translation": "Книгочеи"
+        },
+        "careergroup.value": {
+          "source": "Smith-priest",
+          "translation": "Жрец-кузнец"
+        }
+      }
+    },
+    "items.pZC8YLY1L0EgiNIg": {
+      "type": "career",
+      "sourceName": "Sea Messenger",
+      "fields": {
+        "skills": {
+          "source": [
+            "Athletics",
+            "Charm Animal",
+            "Climb",
+            "Drive",
+            "Gossip",
+            "Melee (Basic)",
+            "Navigation",
+            "Ranged (Bow)",
+            "Sail (Any)",
+            "Swim"
+          ],
+          "translation": [
+            "Атлетика",
+            "Усмирение животных",
+            "Лазание",
+            "Вождение",
+            "Сплетничество",
+            "Рукопашный бой (основное)",
+            "Ориентирование",
+            "Стрельба (луки)",
+            "Хождение под парусом (любое)",
+            "Плавание"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Fisherman",
+            "Luck",
+            "Orientation",
+            "Strong Swimmer"
+          ],
+          "translation": [
+            "Рыбак",
+            "Фортуна",
+            "Чувство направления",
+            "Отличный пловец"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Abacus",
+            "Elf Bow and 10 Arrows",
+            "Hand Weapon (Sword)",
+            "Tidecutter and Giant Flying Fish"
+          ],
+          "translation": [
+            "Счёты",
+            "Эльфийский лук и 10 стрел",
+            "Одноручное оружие (меч)",
+            "Волнорез и гигантская летучая рыба"
+          ]
+        },
+        "class.value": {
+          "source": "Burghers",
+          "translation": "Горожане"
+        },
+        "careergroup.value": {
+          "source": "Merchant Adventurer",
+          "translation": "Купец-путешественник"
+        }
+      }
+    },
+    "items.qXkGn4JlsBmAjjBw": {
+      "type": "career",
+      "sourceName": "Shadow Warrior",
+      "fields": {
+        "skills": {
+          "source": [
+            "Athletics",
+            "Climb",
+            "Endurance",
+            "Melee (Basic)",
+            "Navigation",
+            "Outdoor Survival",
+            "Ranged (Bow)",
+            "Set Trap",
+            "Stealth (Rural)",
+            "Swim",
+            "Cool",
+            "Dodge",
+            "Intimidate",
+            "Melee (Brawling)",
+            "Secret Signs (Shadow Warriors)",
+            "Track"
+          ],
+          "translation": [
+            "Атлетика",
+            "Лазание",
+            "Стойкость",
+            "Рукопашный бой (основное)",
+            "Ориентирование",
+            "Выживание",
+            "Стрельба (луки)",
+            "Обращение с ловушками",
+            "Скрытность (дикая природа)",
+            "Плавание",
+            "Хладнокровие",
+            "Уклонение",
+            "Запугивание",
+            "Рукопашный бой (кулачное)",
+            "Тайные знаки (Воины Тени)",
+            "Выслеживание"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Coolheaded",
+            "Fearless (Dark Elves)",
+            "Menacing",
+            "Shadow"
+          ],
+          "translation": [
+            "Самообладание",
+            "Бесстрашие (тёмные эльфы)",
+            "Грозный вид",
+            "Тень"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Crescent Pendant of Lileath",
+            "Face Wrap",
+            "Helm",
+            "Mail Shirt"
+          ],
+          "translation": [
+            "Подвеска-полумесяц Лилеат",
+            "Повязка на лицо",
+            "Шлем",
+            "Кольчужная рубаха"
+          ]
+        },
+        "class.value": {
+          "source": "Rangers",
+          "translation": "Странники"
+        },
+        "careergroup.value": {
+          "source": "Shadow Warrior",
+          "translation": "Воин теней"
+        }
+      }
+    },
+    "items.qexQAntouNPWoojE": {
+      "type": "career",
+      "sourceName": "Archmage",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Calligraphy or Engraving)",
+            "Channelling (Any Colour)",
+            "Charm",
+            "Gossip",
+            "Intuition",
+            "Language (Magick)",
+            "Lore (Magic)",
+            "Lore (Theology)",
+            "Perception",
+            "Pray",
+            "Channelling (Any Colour)",
+            "Cool",
+            "Intimidate",
+            "Language (Any One)",
+            "Lore (Any One)",
+            "Research",
+            "Channelling (Qhaysh)",
+            "Evaluate",
+            "Melee (Polearm)",
+            "Ride (Horse)",
+            "Lore (Any)",
+            "Dodge",
+            "Language (Any)"
+          ],
+          "translation": [
+            "Искусство (каллиграфия или гравировка)",
+            "Концентрация (любой Ветер)",
+            "Обаяние",
+            "Сплетничество",
+            "Интуиция",
+            "Язык (магический)",
+            "Знание (магия)",
+            "Знание (теология)",
+            "Наблюдательность",
+            "Молитвословие",
+            "Концентрация (любой Ветер)",
+            "Хладнокровие",
+            "Запугивание",
+            "Язык (любой один)",
+            "Знание (любое одно)",
+            "Книжные изыскания",
+            "Концентрация (Кхайш)",
+            "Оценка",
+            "Рукопашный бой (древковое)",
+            "Верховая езда (лошади)",
+            "Знание (любое)",
+            "Уклонение",
+            "Язык (любой)"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Combat Aware",
+            "Savant (Magic)",
+            "Sixth Sense",
+            "War Wizard"
+          ],
+          "translation": [
+            "Бдительность",
+            "Эрудит (магия)",
+            "Шестое чувство",
+            "Боевой маг"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Library (Magic)",
+            "Workshop (Magic)"
+          ],
+          "translation": [
+            "Библиотека (магия)",
+            "Мастерская (магия)"
+          ]
+        },
+        "class.value": {
+          "source": "Academics",
+          "translation": "Книгочеи"
+        },
+        "careergroup.value": {
+          "source": "Mage",
+          "translation": "Маг"
+        }
+      }
+    },
+    "items.tW9lOcIVDab9YpOn": {
+      "type": "career",
+      "sourceName": "Sea Explorer",
+      "fields": {
+        "skills": {
+          "source": [
+            "Athletics",
+            "Charm Animal",
+            "Climb",
+            "Drive",
+            "Gossip",
+            "Melee (Basic)",
+            "Navigation",
+            "Ranged (Bow)",
+            "Sail (Any)",
+            "Swim",
+            "Charm",
+            "Consume Alcohol",
+            "Evaluate",
+            "Haggle or Gamble",
+            "Language (Any)",
+            "Melee (Brawling)",
+            "Bribery",
+            "Cool",
+            "Endurance",
+            "Language (Any)"
+          ],
+          "translation": [
+            "Атлетика",
+            "Усмирение животных",
+            "Лазание",
+            "Вождение",
+            "Сплетничество",
+            "Рукопашный бой (основное)",
+            "Ориентирование",
+            "Стрельба (луки)",
+            "Хождение под парусом (любое)",
+            "Плавание",
+            "Обаяние",
+            "Кутёж",
+            "Оценка",
+            "Торговля или Азартные игры",
+            "Язык (любой)",
+            "Рукопашный бой (кулачное)",
+            "Подкуп",
+            "Хладнокровие",
+            "Стойкость",
+            "Язык (любой)"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Coolheaded",
+            "Detect Artefact",
+            "Iron Jaw",
+            "Sturdy"
+          ],
+          "translation": [
+            "Самообладание",
+            "Распознание артефакта",
+            "Стальная челюсть",
+            "Бугай"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Fleet of Two Tidecutters",
+            "Golden Eagle and Crew",
+            "Warehouse"
+          ],
+          "translation": [
+            "Флот из двух волнорезов",
+            "Золотой орёл с командой",
+            "Склад"
+          ]
+        },
+        "class.value": {
+          "source": "Burghers",
+          "translation": "Горожане"
+        },
+        "careergroup.value": {
+          "source": "Merchant Adventurer",
+          "translation": "Купец-путешественник"
+        }
+      }
+    },
+    "items.tYVX9kZkJpRxaT8u": {
+      "type": "career",
+      "sourceName": "Sea Master",
+      "fields": {
+        "skills": {
+          "source": [
+            "Animal Care (Swiftfeather Roc)",
+            "Consume Alcohol",
+            "Dodge",
+            "Gossip",
+            "Melee (Basic)",
+            "Melee (Polearm)",
+            "Ranged (Bow)",
+            "Ranged (Crossbow)",
+            "Sail (Bloodhawk, Falconship, Hawkship or Dragonship)",
+            "Swim",
+            "Athletics",
+            "Sail (Bloodhawk, Falconship, Hawkship or Dragonship)",
+            "Endurance",
+            "Gamble",
+            "Outdoor Survival",
+            "Climb",
+            "Sail (Bloodhawk, Falconship, Hawkship or Dragonship)",
+            "Perception",
+            "Leadership",
+            "Navigation"
+          ],
+          "translation": [
+            "Обращение с животными (быстрокрылый рух)",
+            "Кутёж",
+            "Уклонение",
+            "Сплетничество",
+            "Рукопашный бой (основное)",
+            "Рукопашный бой (древковое)",
+            "Стрельба (луки)",
+            "Стрельба (арбалеты)",
+            "Хождение под парусом (кровавый ястреб, корабль-сокол, корабль-ястреб или корабль-дракон)",
+            "Плавание",
+            "Атлетика",
+            "Хождение под парусом (кровавый ястреб, корабль-сокол, корабль-ястреб или корабль-дракон)",
+            "Стойкость",
+            "Азартные игры",
+            "Выживание",
+            "Лазание",
+            "Хождение под парусом (кровавый ястреб, корабль-сокол, корабль-ястреб или корабль-дракон)",
+            "Наблюдательность",
+            "Лидерство",
+            "Ориентирование"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Inspiring",
+            "Old Salt",
+            "Savant (Oceans)",
+            "Strike to Injure"
+          ],
+          "translation": [
+            "Вдохновляющий",
+            "Морской волк",
+            "Эрудит (океаны)",
+            "Безжалостный удар"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Symbol of Rank",
+            "Quality Uniform"
+          ],
+          "translation": [
+            "Знак звания",
+            "Добротный мундир"
+          ]
+        },
+        "class.value": {
+          "source": "Warriors",
+          "translation": "Воины"
+        },
+        "careergroup.value": {
+          "source": "Sea Guard",
+          "translation": "Морской страж"
+        }
+      }
+    },
+    "items.tvWSF47xrhR8CNfq": {
+      "type": "career",
+      "sourceName": "Mist Mage",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Calligraphy or Engraving)",
+            "Channelling (Any Colour)",
+            "Charm",
+            "Gossip",
+            "Intuition",
+            "Language (Magick)",
+            "Lore (Magic)",
+            "Lore (Theology)",
+            "Perception",
+            "Pray",
+            "Channelling (Any Colour)",
+            "Cool",
+            "Intimidate",
+            "Language (Any One)",
+            "Lore (Any One)",
+            "Research",
+            "Channelling (Qhaysh)",
+            "Row",
+            "Sail (Any)",
+            "Swim"
+          ],
+          "translation": [
+            "Искусство (каллиграфия или гравировка)",
+            "Концентрация (любой Ветер)",
+            "Обаяние",
+            "Сплетничество",
+            "Интуиция",
+            "Язык (магический)",
+            "Знание (магия)",
+            "Знание (теология)",
+            "Наблюдательность",
+            "Молитвословие",
+            "Концентрация (любой Ветер)",
+            "Хладнокровие",
+            "Запугивание",
+            "Язык (любой один)",
+            "Знание (любое одно)",
+            "Книжные изыскания",
+            "Концентрация (Кхайш)",
+            "Гребля",
+            "Хождение под парусом (любое)",
+            "Плавание"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Blessed by Isha",
+            "Cadai Meditation",
+            "High Magic",
+            "Eye of the Storm"
+          ],
+          "translation": [
+            "Благословение Иши",
+            "Медитация кадай",
+            "Высокая магия",
+            "Око бури"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Prayer Book",
+            "Religious Symbol (Mathlann)",
+            "Rowboat"
+          ],
+          "translation": [
+            "Молитвенник",
+            "Религиозный символ (Матланн)",
+            "Гребная лодка"
+          ]
+        },
+        "class.value": {
+          "source": "Academics",
+          "translation": "Книгочеи"
+        },
+        "careergroup.value": {
+          "source": "Storm Weaver",
+          "translation": "Ткач бурь"
+        }
+      }
+    },
+    "items.vc1qwQ1ZJZo5DYOl": {
+      "type": "career",
+      "sourceName": "Bladelord",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Painting or  Sculpture)",
+            "Athletics",
+            "Dodge",
+            "Lore (Any)",
+            "Melee (Basic)",
+            "Melee (Brawling)",
+            "Melee (Two-handed)",
+            "Perception",
+            "Perform (Acrobatics)",
+            "Play (Any)",
+            "Art (Poetry)",
+            "Cool",
+            "Endurance",
+            "Gossip",
+            "Intuition",
+            "Lore (Any)",
+            "Art (Painting or Sculpture)",
+            "Heal",
+            "Leadership",
+            "Ranged (Bow)",
+            "Intimidate",
+            "Lore (Any)"
+          ],
+          "translation": [
+            "Искусство (живопись или скульптура)",
+            "Атлетика",
+            "Уклонение",
+            "Знание (любое)",
+            "Рукопашный бой (основное)",
+            "Рукопашный бой (кулачное)",
+            "Рукопашный бой (двуручное)",
+            "Наблюдательность",
+            "Выступление (акробатика)",
+            "Музыка (любая)",
+            "Искусство (поэзия)",
+            "Хладнокровие",
+            "Стойкость",
+            "Сплетничество",
+            "Интуиция",
+            "Знание (любое)",
+            "Искусство (живопись или скульптура)",
+            "Лечение",
+            "Лидерство",
+            "Стрельба (луки)",
+            "Запугивание",
+            "Знание (любое)"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Commanding Presence",
+            "Pure Soul",
+            "Seasoned Traveller",
+            "War Leader"
+          ],
+          "translation": [
+            "Аура величия",
+            "Духовная чистота",
+            "Бывалый путешественник",
+            "Командир"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Book of Poetry",
+            "Fine Robes",
+            "Ornate Armour"
+          ],
+          "translation": [
+            "Сборник поэзии",
+            "Добротные одежды",
+            "Украшенный доспех"
+          ]
+        },
+        "class.value": {
+          "source": "Warriors",
+          "translation": "Воины"
+        },
+        "careergroup.value": {
+          "source": "Swordmaster",
+          "translation": "Мастер меча"
+        }
+      }
+    },
+    "items.wCVoslxhj87QVvrP": {
+      "type": "career",
+      "sourceName": "Sea Helm",
+      "fields": {
+        "skills": {
+          "source": [
+            "Animal Care (Swiftfeather Roc)",
+            "Consume Alcohol",
+            "Dodge",
+            "Gossip",
+            "Melee (Basic)",
+            "Melee (Polearm)",
+            "Ranged (Bow)",
+            "Ranged (Crossbow)",
+            "Sail (Bloodhawk, Falconship, Hawkship or Dragonship)",
+            "Swim",
+            "Athletics",
+            "Sail (Bloodhawk, Falconship, Hawkship or Dragonship)",
+            "Endurance",
+            "Gamble",
+            "Outdoor Survival",
+            "Climb",
+            "Sail (Bloodhawk, Falconship, Hawkship or Dragonship)",
+            "Perception",
+            "Leadership",
+            "Navigation",
+            "Drive (Skycutter)",
+            "Intimidate"
+          ],
+          "translation": [
+            "Обращение с животными (быстрокрылый рух)",
+            "Кутёж",
+            "Уклонение",
+            "Сплетничество",
+            "Рукопашный бой (основное)",
+            "Рукопашный бой (древковое)",
+            "Стрельба (луки)",
+            "Стрельба (арбалеты)",
+            "Хождение под парусом (кровавый ястреб, корабль-сокол, корабль-ястреб или корабль-дракон)",
+            "Плавание",
+            "Атлетика",
+            "Хождение под парусом (кровавый ястреб, корабль-сокол, корабль-ястреб или корабль-дракон)",
+            "Стойкость",
+            "Азартные игры",
+            "Выживание",
+            "Лазание",
+            "Хождение под парусом (кровавый ястреб, корабль-сокол, корабль-ястреб или корабль-дракон)",
+            "Наблюдательность",
+            "Лидерство",
+            "Ориентирование",
+            "Управление повозкой (неборез)",
+            "Запугивание"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Combat Aware",
+            "Orientation",
+            "Stout-hearted",
+            "Strider (Coastal)"
+          ],
+          "translation": [
+            "Бдительность",
+            "Чувство направления",
+            "Отважное сердце",
+            "Проходимец (побережье)"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Quality Uniform",
+            "Skycutter Chariot and Swiftfeather Roc",
+            "Tall Sea Helm"
+          ],
+          "translation": [
+            "Добротный мундир",
+            "Колесница-неборез и быстрокрылый рух",
+            "Высокий морской шлем"
+          ]
+        },
+        "class.value": {
+          "source": "Warriors",
+          "translation": "Воины"
+        },
+        "careergroup.value": {
+          "source": "Sea Guard",
+          "translation": "Морской страж"
+        }
+      }
+    },
+    "items.wwZOysGgY4KBu9IU": {
+      "type": "career",
+      "sourceName": "Smith-priest",
+      "fields": {
+        "skills": {
+          "source": [
+            "Art (Calligraphy or Engraving)",
+            "Channelling (Any Colour)",
+            "Charm",
+            "Gossip",
+            "Intuition",
+            "Language (Magick)",
+            "Lore (Magic)",
+            "Lore (Theology)",
+            "Perception",
+            "Pray",
+            "Channelling (Any Colour)",
+            "Cool",
+            "Intimidate",
+            "Language (Any One)",
+            "Lore (Any One)",
+            "Research",
+            "Art (Engraving)",
+            "Channelling (Qhaysh)",
+            "Evaluate",
+            "Trade (Smith)"
+          ],
+          "translation": [
+            "Искусство (каллиграфия или гравировка)",
+            "Концентрация (любой Ветер)",
+            "Обаяние",
+            "Сплетничество",
+            "Интуиция",
+            "Язык (магический)",
+            "Знание (магия)",
+            "Знание (теология)",
+            "Наблюдательность",
+            "Молитвословие",
+            "Концентрация (любой Ветер)",
+            "Хладнокровие",
+            "Запугивание",
+            "Язык (любой один)",
+            "Знание (любое одно)",
+            "Книжные изыскания",
+            "Искусство (гравировка)",
+            "Концентрация (Кхайш)",
+            "Оценка",
+            "Ремесло (кузнец)"
+          ]
+        },
+        "talents": {
+          "source": [
+            "Blessed by Isha",
+            "Cadai Meditation",
+            "Craftsman (Smith)",
+            "High Magic"
+          ],
+          "translation": [
+            "Благословение Иши",
+            "Медитация кадай",
+            "Умелец (кузнец)",
+            "Высокая магия"
+          ]
+        },
+        "trappings": {
+          "source": [
+            "Prayer Book",
+            "Religious Symbol (Vaul)",
+            "Trade Tools (Smith)"
+          ],
+          "translation": [
+            "Молитвенник",
+            "Религиозный символ (Ваул)",
+            "Ремесленные инструменты (кузнец)"
+          ]
+        },
+        "class.value": {
+          "source": "Academics",
+          "translation": "Книгочеи"
+        },
+        "careergroup.value": {
+          "source": "Smith-priest",
+          "translation": "Жрец-кузнец"
+        }
+      }
+    }
+  }
+}

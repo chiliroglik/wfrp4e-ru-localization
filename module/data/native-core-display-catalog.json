@@ -1,0 +1,7822 @@
+{
+  "039vRQ8jv5cY3P4o": {
+    "type": "weapon",
+    "sourceName": "Zweihander",
+    "name": "Двуручный меч"
+  },
+  "04Qv4t0qMMZIUhRw": {
+    "type": "spell",
+    "sourceName": "The First Portent of Amul",
+    "name": "Первое знамение Амула"
+  },
+  "0AQheUiRtffqfKNg": {
+    "type": "prayer",
+    "sourceName": "Death Mask",
+    "name": "Маска смерти"
+  },
+  "0Aec8e6nNCmSWIvQ": {
+    "type": "spell",
+    "sourceName": "Dark Vision (Death)",
+    "name": "Ночное зрение (Смерть)"
+  },
+  "0CwV96kTDRF0jUhk": {
+    "type": "skill",
+    "sourceName": "Entertain ()",
+    "name": "Артистизм ()"
+  },
+  "0FlFXS9yDuLnr92k": {
+    "type": "spell",
+    "sourceName": "Drop (Fire)",
+    "name": "Дырявые руки (Огонь)"
+  },
+  "0HjjloXfVly8tZ4E": {
+    "type": "spell",
+    "sourceName": "Sanctify",
+    "name": "Священный круг"
+  },
+  "0IzOYTDhNWrgHoXJ": {
+    "type": "spell",
+    "sourceName": "Terrifying (Death)",
+    "name": "Ужасающий облик (Смерть)"
+  },
+  "0JlQdHgFqT4RcPh1": {
+    "type": "spell",
+    "sourceName": "Move Object (Metal)",
+    "name": "Телекинез (Металл)"
+  },
+  "0KNI4TzKqL2ZQfVl": {
+    "type": "career",
+    "sourceName": "Clerk",
+    "name": "Мелкая сошка"
+  },
+  "0LdHytqyNmg2pcAX": {
+    "type": "talent",
+    "sourceName": "Combat Aware",
+    "name": "Бдительность"
+  },
+  "0MYOJFx3vkYA95B4": {
+    "type": "money",
+    "sourceName": "Brass Penny",
+    "name": "Медный пенни"
+  },
+  "0TGOFL99jG1RJ4ft": {
+    "type": "trapping",
+    "sourceName": "Room, private/night",
+    "name": "Комната (отдельная), 1 ночь"
+  },
+  "0VpT5yubw4UL7j6f": {
+    "type": "trait",
+    "sourceName": "Animosity",
+    "name": "Враждебность"
+  },
+  "0W0kEpa2kNEcRGK0": {
+    "type": "armour",
+    "sourceName": "Leather Skullcap",
+    "name": "Кожаная шапочка"
+  },
+  "0Y29f5H8h6lyfT9f": {
+    "type": "career",
+    "sourceName": "Apothecary",
+    "name": "Аптекарь"
+  },
+  "0e98xv2tfsDRZ9kU": {
+    "type": "career",
+    "sourceName": "Brigand",
+    "name": "Грабитель"
+  },
+  "0eEJ280MIC0IbEop": {
+    "type": "trait",
+    "sourceName": "Petrifying Gaze",
+    "name": "Окаменяющий взгляд"
+  },
+  "0ep8BNMiZGVLTHpr": {
+    "type": "talent",
+    "sourceName": "Gunner",
+    "name": "Стрелковая подготовка"
+  },
+  "0hn6UaKq8CoZP2zD": {
+    "type": "talent",
+    "sourceName": "Menacing",
+    "name": "Грозный вид"
+  },
+  "0jaMZRJvJ5L12WZ2": {
+    "type": "mutation",
+    "sourceName": "Chaotic Dreams",
+    "name": "Хаотические сны"
+  },
+  "0ohrc7pJtVTo9IFk": {
+    "type": "trapping",
+    "sourceName": "Wooden Teeth",
+    "name": "Вставные зубы"
+  },
+  "0pXva9EODy9bngQX": {
+    "type": "talent",
+    "sourceName": "Feint",
+    "name": "Финт"
+  },
+  "0qQqFANTRUDTDpRg": {
+    "type": "skill",
+    "sourceName": "Trade (Apothecary)",
+    "name": "Ремесло (аптекарь)"
+  },
+  "0r2H2xtQ21MqHlRv": {
+    "type": "career",
+    "sourceName": "Body Snatcher",
+    "name": "Поставщик трупов"
+  },
+  "0r3moMIHXsBrcOyh": {
+    "type": "prayer",
+    "sourceName": "Blessing of Hardiness",
+    "name": "Благословение крепости"
+  },
+  "0uT3mzx8v4H3gVQj": {
+    "type": "prayer",
+    "sourceName": "Rhya's Touch",
+    "name": "Прикосновение Райи"
+  },
+  "12e3H6NX4JH0bwI3": {
+    "type": "skill",
+    "sourceName": "Language (Tilean)",
+    "name": "Язык (тилейский)"
+  },
+  "146dtKeTjibo3Pmw": {
+    "type": "spell",
+    "sourceName": "Bolt (Witchcraft)",
+    "name": "Стрела (ведьмовство)"
+  },
+  "14tKnA2ILXw2oaMK": {
+    "type": "spell",
+    "sourceName": "Distracting (Death)",
+    "name": "Дезориентация (Смерть)"
+  },
+  "15ENOMf345S5AL68": {
+    "type": "trait",
+    "sourceName": "Brute",
+    "name": "Верзила"
+  },
+  "1BgoTqp0i0z8cA28": {
+    "type": "trapping",
+    "sourceName": "Perfume",
+    "name": "Духи"
+  },
+  "1DIMUn1Cj5rohWJV": {
+    "type": "career",
+    "sourceName": "Master Wizard",
+    "name": "Магистр"
+  },
+  "1H8pOSNxRS69PADr": {
+    "type": "trapping",
+    "sourceName": "Eye patch",
+    "name": "Глазная повязка"
+  },
+  "1IVGksL10N7GVrw3": {
+    "type": "talent",
+    "sourceName": "Noble Blood",
+    "name": "Благородная кровь"
+  },
+  "1IZWRr7BYOIcqPlQ": {
+    "type": "talent",
+    "sourceName": "Aethyric Attunement",
+    "name": "Эфирный унисон"
+  },
+  "1MI5UADJkt042mGm": {
+    "type": "mutation",
+    "sourceName": "Suspicious Mind",
+    "name": "Подозрительность"
+  },
+  "1MUSq1xRyHCaIuAL": {
+    "type": "prayer",
+    "sourceName": "An Invitation",
+    "name": "Приглашение"
+  },
+  "1N1QMGBQJUV072w4": {
+    "type": "career",
+    "sourceName": "Watch Sergeant",
+    "name": "Сержант Городской стражи"
+  },
+  "1PXlilHc99nrt0zn": {
+    "type": "spell",
+    "sourceName": "Drop (Beasts)",
+    "name": "Дырявые руки (Звери)"
+  },
+  "1QNOsOlEtjXccQjl": {
+    "type": "spell",
+    "sourceName": "Blast (Death)",
+    "name": "Взрыв (Смерть)"
+  },
+  "1RjTFiv9ooOW35LV": {
+    "type": "spell",
+    "sourceName": "Firewall",
+    "name": "Огненная стена"
+  },
+  "1SVd48nGAHbASqr8": {
+    "type": "skill",
+    "sourceName": "Entertain (Comedy)",
+    "name": "Артистизм (комедия)"
+  },
+  "1XRNUP7fKAT2x7wR": {
+    "type": "trapping",
+    "sourceName": "Boat Hook",
+    "name": "Лодочный гарпун"
+  },
+  "1ZCpJlq7SU5Cj3te": {
+    "type": "career",
+    "sourceName": "Landsman",
+    "name": "Береговик"
+  },
+  "1cjF3aoozvxnOMb1": {
+    "type": "career",
+    "sourceName": "Herb Gatherer",
+    "name": "Сборщик трав"
+  },
+  "1dUizIgLBgn4jICC": {
+    "type": "talent",
+    "sourceName": "Strider",
+    "name": "Ходок"
+  },
+  "1dVlA24UQGuWCiPT": {
+    "type": "skill",
+    "sourceName": "Perform (Firebreathing)",
+    "name": "Сценическое искусство (глотание огня)"
+  },
+  "1hQuVFZt9QnnbWzg": {
+    "type": "disease",
+    "sourceName": "Minor Infection",
+    "name": "Лёгкая инфекция"
+  },
+  "1jCxbFAUuFuAPLJl": {
+    "type": "skill",
+    "sourceName": "Dodge",
+    "name": "Уклонение"
+  },
+  "1kgHcImgfyKI1IYp": {
+    "type": "talent",
+    "sourceName": "Fisherman",
+    "name": "Рыбак"
+  },
+  "1ltl7lPCsWIr4H6h": {
+    "type": "spell",
+    "sourceName": "Drop (Life)",
+    "name": "Дырявые руки (Жизнь)"
+  },
+  "1ndRohs7YMmV2OHh": {
+    "type": "spell",
+    "sourceName": "Shadowsteed",
+    "name": "Теневой скакун"
+  },
+  "1tHkTZYaauicIh8I": {
+    "type": "weapon",
+    "sourceName": "Hochland Long Rifle",
+    "name": "Хохландская длинноствольная винтовка"
+  },
+  "1wtW4N8l3UKwlLI3": {
+    "type": "trapping",
+    "sourceName": "Bandage",
+    "name": "Бинт"
+  },
+  "1y6Hv22y9C3UD8gX": {
+    "type": "psychology",
+    "sourceName": "Trauma",
+    "name": "Потрясение"
+  },
+  "1zaqojk0Oq1m8vYv": {
+    "type": "weapon",
+    "sourceName": "Hand Weapon",
+    "name": "Ручное оружие"
+  },
+  "208BiJLY0jXxelbd": {
+    "type": "spell",
+    "sourceName": "Comet of Casandora",
+    "name": "Комета Касандоры"
+  },
+  "20R2NFpiGkiyhwdE": {
+    "type": "career",
+    "sourceName": "Priest Captain",
+    "name": "Жрец-капитан"
+  },
+  "24ichKVP2EzyO5ob": {
+    "type": "spell",
+    "sourceName": "Magic Shield (Daemonology)",
+    "name": "Магический щит (Демонология)"
+  },
+  "25Ek5A1EmQqzOcSK": {
+    "type": "trapping",
+    "sourceName": "Book, Engineer",
+    "name": "Книга (инженерное дело)"
+  },
+  "25trttu8NxFQQCo9": {
+    "type": "prayer",
+    "sourceName": "Rhya's Shelter",
+    "name": "Убежище Райи"
+  },
+  "263ic3ulLuR9DPzP": {
+    "type": "critical",
+    "sourceName": "Ruptered Ligament",
+    "name": "Разрыв связок"
+  },
+  "2Ee9cU6fSa4Vecn7": {
+    "type": "career",
+    "sourceName": "Guildmaster",
+    "name": "Гильдмейстер"
+  },
+  "2IQ888mDlSZjqSoL": {
+    "type": "spell",
+    "sourceName": "Push (Witchcraft)",
+    "name": "Расталкивание (ведьмовство)"
+  },
+  "2JQWBLFSixeI6W6L": {
+    "type": "mutation",
+    "sourceName": "Jealous Thoughts",
+    "name": "Завистливость"
+  },
+  "2LDCVJQWkTFszMok": {
+    "type": "skill",
+    "sourceName": "Lore (Law)",
+    "name": "Знание (закон)"
+  },
+  "2Nzqsc9aclP6rpnl": {
+    "type": "talent",
+    "sourceName": "Dirty Fighting",
+    "name": "Грязные приёмы"
+  },
+  "2WN0muIB2BFd4kBO": {
+    "type": "prayer",
+    "sourceName": "Blessing of Righteousness",
+    "name": "Благословение праведности"
+  },
+  "2Y91ebFapH6zRfHk": {
+    "type": "skill",
+    "sourceName": "Ranged (Engineering)",
+    "name": "Стрельба (инженерное)"
+  },
+  "2aKiMpKfVnXWNfmy": {
+    "type": "career",
+    "sourceName": "Trader",
+    "name": "Торговец"
+  },
+  "2ccKksxXFIMD2YLs": {
+    "type": "spell",
+    "sourceName": "Shroud of Invisibility",
+    "name": "Пелена невидимости"
+  },
+  "2cwR2BPkdi7IuV3e": {
+    "type": "spell",
+    "sourceName": "Earthpool",
+    "name": "Земляная купель"
+  },
+  "2eq8Ejotk54AZYwX": {
+    "type": "talent",
+    "sourceName": "Artistic",
+    "name": "Искусник"
+  },
+  "2fBaYkBsPZzxNSNj": {
+    "type": "spell",
+    "sourceName": "Acquiescence",
+    "name": "Горестное принятие"
+  },
+  "2hxE68YnEOLIceHb": {
+    "type": "spell",
+    "sourceName": "Mundane Aura (Metal)",
+    "name": "Обыденная аура (Металл)"
+  },
+  "2ibzDR7EeMEq2QAe": {
+    "type": "critical",
+    "sourceName": "Thigh Strike",
+    "name": "Удар в бедро"
+  },
+  "2iult41Jehz0F1O8": {
+    "type": "injury",
+    "sourceName": "Broken Leg (Major)",
+    "name": "Серьезный перелом (нога)"
+  },
+  "2jXYoW0CJoA5BoMd": {
+    "type": "spell",
+    "sourceName": "Chain Attack (Shadow)",
+    "name": "Цепной разряд (Тень)"
+  },
+  "2mE771fGEEB38OqG": {
+    "type": "weapon",
+    "sourceName": "Elf Bow",
+    "name": "Эльфийский лук"
+  },
+  "2xvxa9Y8cqHzxuPd": {
+    "type": "mutation",
+    "sourceName": "Erratic Fantasist",
+    "name": "Рассеянная мечтательность"
+  },
+  "2ye9gbPW4QIR8HYY": {
+    "type": "career",
+    "sourceName": "Beggar King",
+    "name": "Король попрошаек"
+  },
+  "2znfMGBp5GOQ12M0": {
+    "type": "container",
+    "sourceName": "Sack, Large",
+    "name": "Мешок (большой)"
+  },
+  "31sQbAwCE7viJDXi": {
+    "type": "spell",
+    "sourceName": "Fearsome (Necromancy)",
+    "name": "Устрашающий облик (Некромантия)"
+  },
+  "33COmPgYTVuXXIpK": {
+    "type": "career",
+    "sourceName": "Hitman",
+    "name": "Наёмный убийца"
+  },
+  "34EBUkHQkrqF1sq7": {
+    "type": "talent",
+    "sourceName": "Briber",
+    "name": "Взяткодатель"
+  },
+  "38qRyF13jCszeOe1": {
+    "type": "spell",
+    "sourceName": "Net of Amyntok",
+    "name": "Сеть Аминтока"
+  },
+  "39906D4BcVGzsiQp": {
+    "type": "critical",
+    "sourceName": "Broken Collar Bone",
+    "name": "Перелом ключицы"
+  },
+  "3B3QEz9ImmloEQxv": {
+    "type": "critical",
+    "sourceName": "Poked Eye",
+    "name": "Тычок в глаз"
+  },
+  "3BB6QnnDq8OvchRk": {
+    "type": "spell",
+    "sourceName": "Entangle (Necromancy)",
+    "name": "Обездвижение (Некромантия)"
+  },
+  "3DvCrKaYw2mF42Nr": {
+    "type": "spell",
+    "sourceName": "Bridge",
+    "name": "Мост"
+  },
+  "3GDfAQLXIOuaDo1d": {
+    "type": "spell",
+    "sourceName": "Aethyric Armour (Necromancy)",
+    "name": "Эфирный доспех (Некромантия)"
+  },
+  "3GlaCQyLuugXHEM2": {
+    "type": "trapping",
+    "sourceName": "Blanket",
+    "name": "Одеяло"
+  },
+  "3MDwUi7BVxwWVI2V": {
+    "type": "trait",
+    "sourceName": "Vampiric",
+    "name": "Вампир"
+  },
+  "3MbQF1W8U18ba9fb": {
+    "type": "skill",
+    "sourceName": "Channelling ( )",
+    "name": "Концентрация ()"
+  },
+  "3O9clK7LGyuLTHPW": {
+    "type": "talent",
+    "sourceName": "Arcane Magic",
+    "name": "Школа магии"
+  },
+  "3ONBOTaeWq657MQR": {
+    "type": "prayer",
+    "sourceName": "Pelt of the Winter Wolf",
+    "name": "Шкура зимнего волка"
+  },
+  "3OdiPr3vLqGiMeCB": {
+    "type": "trapping",
+    "sourceName": "Tweezers",
+    "name": "Пинцет"
+  },
+  "3RttGMwfxEuxRLYu": {
+    "type": "trapping",
+    "sourceName": "Pick",
+    "name": "Кирка"
+  },
+  "3S4OYOZLauXctmev": {
+    "type": "injury",
+    "sourceName": "Torn Leg Muscle (Major)",
+    "name": "Серьёзный разрыв мышцы (нога)"
+  },
+  "3SzMz3ZiGzbHRjTP": {
+    "type": "spell",
+    "sourceName": "Flaming Sword of Rhuin",
+    "name": "Пылающий меч Рюина"
+  },
+  "3Tk4cX1ri20oUoBh": {
+    "type": "critical",
+    "sourceName": "Concussive Blow",
+    "name": "Сильное сотрясение"
+  },
+  "3UCjABRxB1GhbThg": {
+    "type": "career",
+    "sourceName": "Village Elder",
+    "name": "Староста"
+  },
+  "3VkgBaW5wgaSXlyS": {
+    "type": "career",
+    "sourceName": "Master Pedlar",
+    "name": "Бывалый коробейник"
+  },
+  "3WI8mhTinC8inxyj": {
+    "type": "trait",
+    "sourceName": "Cunning",
+    "name": "Хитрость"
+  },
+  "3Wilae1bkHUDR7Aj": {
+    "type": "spell",
+    "sourceName": "Push (Beasts)",
+    "name": "Расталкивание (Звери)"
+  },
+  "3XZDELqDQ1BBUAmI": {
+    "type": "spell",
+    "sourceName": "Fearsome (Heavens)",
+    "name": "Устрашающий облик (Небеса)"
+  },
+  "3dpFC0lsOPXEcTMX": {
+    "type": "spell",
+    "sourceName": "Fearsome (Metal)",
+    "name": "Устрашающий облик (Металл)"
+  },
+  "3eGh2vUgXRk3Czj8": {
+    "type": "spell",
+    "sourceName": "Breath (Light)",
+    "name": "Смертоносное дыхание (Свет)"
+  },
+  "3mZ76XJX38pT2d7r": {
+    "type": "spell",
+    "sourceName": "Blast (Daemonology)",
+    "name": "Взрыв (Демонология)"
+  },
+  "3qe5qu3es4bnKwwR": {
+    "type": "career",
+    "sourceName": "Mine Foreman",
+    "name": "Бригадир рудокопов"
+  },
+  "3wCtgMDNnu8MFmyk": {
+    "type": "trait",
+    "sourceName": "Immunity",
+    "name": "Невосприимчивость"
+  },
+  "41JhsSNW1Ttza3JK": {
+    "type": "talent",
+    "sourceName": "Argumentative",
+    "name": "Спорщик"
+  },
+  "44AO7oTKwqUu78C1": {
+    "type": "spell",
+    "sourceName": "Breath (Heavens)",
+    "name": "Смертоносное дыхание (Небеса)"
+  },
+  "482LVHdTtG0WPzis": {
+    "type": "trapping",
+    "sourceName": "Spike",
+    "name": "Штырь"
+  },
+  "4AqSkJnFPqNuTkos": {
+    "type": "talent",
+    "sourceName": "Reaction Strike",
+    "name": "Упреждающий удар"
+  },
+  "4CMKeDTDrRQZbPIJ": {
+    "type": "trait",
+    "sourceName": "Afraid",
+    "name": "Боязнь"
+  },
+  "4HgOG0Ud3V2P52so": {
+    "type": "skill",
+    "sourceName": "Animal Training (Pigeon)",
+    "name": "Дрессировка (голуби)"
+  },
+  "4IGdIhnwTaZijzg7": {
+    "type": "skill",
+    "sourceName": "Charm Animal",
+    "name": "Усмирение животных"
+  },
+  "4MJJCiOKPkBByYwW": {
+    "type": "talent",
+    "sourceName": "Strike Mighty Blow",
+    "name": "Могучий удар"
+  },
+  "4NQUrs2PUNpYxlWs": {
+    "type": "spell",
+    "sourceName": "Regenerate",
+    "name": "Регенерация (заклинание)"
+  },
+  "4OMI3eligS2L0LiL": {
+    "type": "mutation",
+    "sourceName": "Short Legs",
+    "name": "Короткие ноги"
+  },
+  "4TgG1CMJ0zoVPbiZ": {
+    "type": "career",
+    "sourceName": "Student Engineer",
+    "name": "Студент-инженер"
+  },
+  "4YnbaP9MXqU4NBpt": {
+    "type": "career",
+    "sourceName": "Agent",
+    "name": "Агент"
+  },
+  "4ZWGTJ8gMkw9qUaq": {
+    "type": "spell",
+    "sourceName": "Magic Shield (Hedgecraft)",
+    "name": "Магический щит (знахарство)"
+  },
+  "4ZtCco8IAK6cucSc": {
+    "type": "spell",
+    "sourceName": "Magic Shield (Beasts)",
+    "name": "Магический щит (Звери)"
+  },
+  "4a69lleVImbw3JhI": {
+    "type": "career",
+    "sourceName": "Toll Keeper",
+    "name": "Сборщик пошлин"
+  },
+  "4bCFwNAaudD9wb40": {
+    "type": "career",
+    "sourceName": "Scout",
+    "name": "Разведчик"
+  },
+  "4ePe5oNQakA8nJlk": {
+    "type": "spell",
+    "sourceName": "Sleep",
+    "name": "Сон"
+  },
+  "4hV1PpYm9Q2pyUNf": {
+    "type": "ammunition",
+    "sourceName": "Lead Bullet",
+    "name": "Свинцовые пули"
+  },
+  "4hyL1z3ayI3ligQE": {
+    "type": "container",
+    "sourceName": "Barrel",
+    "name": "Бочка"
+  },
+  "4iSZ7vop0NVz8xih": {
+    "type": "spell",
+    "sourceName": "Ward (Death)",
+    "name": "Оберег (Смерть)"
+  },
+  "4jNBpvM21vnZgUFw": {
+    "type": "spell",
+    "sourceName": "Teleport (Life)",
+    "name": "Телепортация (Жизнь)"
+  },
+  "4lj1ik958mbgAlaF": {
+    "type": "injury",
+    "sourceName": "Broken Arm (Minor)",
+    "name": "Лёгкий перелом (рука)"
+  },
+  "4mF5Sp3t09kZhBYc": {
+    "type": "trait",
+    "sourceName": "Champion",
+    "name": "Воитель"
+  },
+  "4mJoPBw4drm1kv2D": {
+    "type": "skill",
+    "sourceName": "Melee (Fencing)",
+    "name": "Рукопашный бой (фехтовальное)"
+  },
+  "4mUZ6UbD79OwrjqX": {
+    "type": "spell",
+    "sourceName": "Teleport (Beasts)",
+    "name": "Телепортация (Звери)"
+  },
+  "4mlbPdEWU4d7Lh7Y": {
+    "type": "career",
+    "sourceName": "Maestro",
+    "name": "Маэстро"
+  },
+  "4wnQc19allWlyOGe": {
+    "type": "talent",
+    "sourceName": "Strong Swimmer",
+    "name": "Отличный пловец"
+  },
+  "4xF7M6ylIiGntekh": {
+    "type": "trait",
+    "sourceName": "# Tentacles",
+    "name": "# щупалец"
+  },
+  "4xV16ttsxCa311vl": {
+    "type": "armour",
+    "sourceName": "Mail Coif",
+    "name": "Кольчужный капюшон"
+  },
+  "4xxp72XMEqj6y25g": {
+    "type": "career",
+    "sourceName": "Master Thief",
+    "name": "Искусный вор"
+  },
+  "56Y8YRC8wF2e6yye": {
+    "type": "weapon",
+    "sourceName": "Grain Flail",
+    "name": "Молотило"
+  },
+  "57d5ugakBYcsphah": {
+    "type": "spell",
+    "sourceName": "Blinding Light",
+    "name": "Слепящий свет"
+  },
+  "580fwhKfOZJFxMID": {
+    "type": "talent",
+    "sourceName": "Savant",
+    "name": "Кладезь знаний"
+  },
+  "5BZJbIORcBTnHCKL": {
+    "type": "spell",
+    "sourceName": "Terrifying (Fire)",
+    "name": "Ужасающий облик (Огонь)"
+  },
+  "5C8dpF6YYiz7clnl": {
+    "type": "career",
+    "sourceName": "Mystic",
+    "name": "Мистик"
+  },
+  "5DOi1id1tatHp9Q5": {
+    "type": "weapon",
+    "sourceName": "Main Gauche",
+    "name": "Дага"
+  },
+  "5EvSIh1khpt77uM7": {
+    "type": "skill",
+    "sourceName": "Language (Bretonnian)",
+    "name": "Язык (бретонский)"
+  },
+  "5KP9sOoLSGvj9EXp": {
+    "type": "talent",
+    "sourceName": "Beneath Notice",
+    "name": "Простолюдин"
+  },
+  "5MzxtQSzv5RtJGbw": {
+    "type": "skill",
+    "sourceName": "Language (Elthárin)",
+    "name": "Язык (эльтарин)"
+  },
+  "5PWRfQbGcYm4OnKP": {
+    "type": "trapping",
+    "sourceName": "Map",
+    "name": "Карта"
+  },
+  "5QO1LkRkxCfaWCtS": {
+    "type": "spell",
+    "sourceName": "Flight (Metal)",
+    "name": "Полёт (Металл)"
+  },
+  "5QcrpLQWWrsbKR79": {
+    "type": "talent",
+    "sourceName": "Numismatics",
+    "name": "Нумизмат"
+  },
+  "5TDwZGuGwX1QJWAg": {
+    "type": "trapping",
+    "sourceName": "Saddle and Harness",
+    "name": "Седло и сбруя"
+  },
+  "5WR3ZoMOeEzz5iPc": {
+    "type": "career",
+    "sourceName": "Racketeer",
+    "name": "Бандит"
+  },
+  "5WfSy7tUYgjvChyN": {
+    "type": "skill",
+    "sourceName": "Sail (Wolfship)",
+    "name": "Хождение под парусом (волчьи корабли)"
+  },
+  "5eDd6iFeR9G6cCfz": {
+    "type": "talent",
+    "sourceName": "Fast Shot",
+    "name": "Быстрый выстрел"
+  },
+  "5fVTY8TSua3trOW8": {
+    "type": "prayer",
+    "sourceName": "Soulfire",
+    "name": "Духовный пламень"
+  },
+  "5fowsr8vslorjeB2": {
+    "type": "trapping",
+    "sourceName": "Mandrake Root",
+    "name": "Корень мандрагоры"
+  },
+  "5gADMmkF4LsoV3qP": {
+    "type": "spell",
+    "sourceName": "Magic Shield (Witchcraft)",
+    "name": "Магический щит (ведьмовство)"
+  },
+  "5hH73j2NgPdsLCZN": {
+    "type": "psychology",
+    "sourceName": "Hatred (Target)",
+    "name": "Ненависть (к группе)"
+  },
+  "5hmNqNxXRy3RjcFV": {
+    "type": "career",
+    "sourceName": "Swindler",
+    "name": "Мошенник"
+  },
+  "5lcttqGToT54WFrl": {
+    "type": "talent",
+    "sourceName": "Marksman",
+    "name": "Меткость"
+  },
+  "5muSFXd6oc760uVj": {
+    "type": "trait",
+    "sourceName": "Blessed",
+    "name": "Благословение (божество)"
+  },
+  "5rRSPXB064kaD7S6": {
+    "type": "spell",
+    "sourceName": "Move Object (Necromancy)",
+    "name": "Телекинез (Некромантия)"
+  },
+  "5srkF8mJss2fJbnH": {
+    "type": "spell",
+    "sourceName": "Aethyric Armour (Life)",
+    "name": "Эфирный доспех (Жизнь)"
+  },
+  "5wItcVAcA6mfa62q": {
+    "type": "ammunition",
+    "sourceName": "Small shot and Powder",
+    "name": "Свинцовая дробь и порох"
+  },
+  "61Fx3RHhSqaLCnao": {
+    "type": "trapping",
+    "sourceName": "Quill Pen",
+    "name": "Писчее перо"
+  },
+  "61L9aX2z164cjm7K": {
+    "type": "skill",
+    "sourceName": "Language (Classical)",
+    "name": "Язык (классический)"
+  },
+  "6846o00SGHkRuZB8": {
+    "type": "career",
+    "sourceName": "Menial",
+    "name": "Дворня"
+  },
+  "68cSNeXpwBdXLPgb": {
+    "type": "trapping",
+    "sourceName": "Plate",
+    "name": "Тарелка"
+  },
+  "6Abdn6XfJCSI2rWJ": {
+    "type": "career",
+    "sourceName": "Bounty Hunter General",
+    "name": "Старший поимщик"
+  },
+  "6D6FQRqfc6F3L5vZ": {
+    "type": "career",
+    "sourceName": "Priest Sergeant",
+    "name": "Жрец-сержант"
+  },
+  "6GNNpWIGxO9CkTCR": {
+    "type": "ammunition",
+    "sourceName": "Arrow",
+    "name": "Стрела"
+  },
+  "6GaqchV2dL60Xfsm": {
+    "type": "spell",
+    "sourceName": "Teleport (Shadow)",
+    "name": "Телепортация (Тень)"
+  },
+  "6OmsMPtz0NzCwvzL": {
+    "type": "trapping",
+    "sourceName": "Writing Kit",
+    "name": "Писчий набор"
+  },
+  "6XVrv2zgdL3CSJHX": {
+    "type": "spell",
+    "sourceName": "Aethyric Armour (Beasts)",
+    "name": "Эфирный доспех (Звери)"
+  },
+  "6am9EDNE43mzwDvG": {
+    "type": "skill",
+    "sourceName": "Animal Training (Horse)",
+    "name": "Дрессировка (лошади)"
+  },
+  "6ax6mO8DPMTrG5Sp": {
+    "type": "spell",
+    "sourceName": "Magic Shield (Death)",
+    "name": "Магический щит (Смерть)"
+  },
+  "6eu6VVbYzq5mCNGW": {
+    "type": "spell",
+    "sourceName": "Magic Shield (Heavens)",
+    "name": "Магический щит (Небеса)"
+  },
+  "6l2JkMfD3mNxqiep": {
+    "type": "skill",
+    "sourceName": "Secret Signs (Ranger)",
+    "name": "Тайные знаки (охотники)"
+  },
+  "6l3jvIAvrKxt0lA9": {
+    "type": "talent",
+    "sourceName": "Attractive",
+    "name": "Привлекательность"
+  },
+  "6lQRRgjz8IZH4bbV": {
+    "type": "talent",
+    "sourceName": "Tinker",
+    "name": "Мастер на все руки"
+  },
+  "6stEgyIRF0XcKPhO": {
+    "type": "spell",
+    "sourceName": "Dome (Witchcraft)",
+    "name": "Купол (ведьмовство)"
+  },
+  "6w30u0VPsAicrqb5": {
+    "type": "talent",
+    "sourceName": "Magical Sense",
+    "name": "Магическое чутьё"
+  },
+  "6x4YAR4iYsA5tjnC": {
+    "type": "trapping",
+    "sourceName": "Wine & Spirits, drink",
+    "name": "Вино/крепкая выпивка, порция"
+  },
+  "726gbrANZt8OqXr5": {
+    "type": "talent",
+    "sourceName": "Linguistics",
+    "name": "Полиглот"
+  },
+  "75BkqdYuBwnlJl5D": {
+    "type": "spell",
+    "sourceName": "Breath (Witchcraft)",
+    "name": "Смертоносное дыхание (ведьмовство)"
+  },
+  "769B469sqx6FXPfn": {
+    "type": "talent",
+    "sourceName": "Rapid Reload",
+    "name": "Быстрая перезарядка"
+  },
+  "77p3QRKgFWakkndF": {
+    "type": "talent",
+    "sourceName": "Blather",
+    "name": "Трёп"
+  },
+  "7A4HCcddeMYG3EZ6": {
+    "type": "career",
+    "sourceName": "River Elder",
+    "name": "Речной староста"
+  },
+  "7BJDTRG65hwt1fUK": {
+    "type": "spell",
+    "sourceName": "Reanimate",
+    "name": "Оживление мёртвых"
+  },
+  "7Bpc5I8Arucy3w4q": {
+    "type": "weapon",
+    "sourceName": "Sling",
+    "name": "Праща"
+  },
+  "7CJfiEV10299s7c1": {
+    "type": "trapping",
+    "sourceName": "Wine, bottle",
+    "name": "Вино, бутылка"
+  },
+  "7HSRFiY46vA8M2zY": {
+    "type": "spell",
+    "sourceName": "Distracting (Daemonology)",
+    "name": "Дезориентация (Демонология)"
+  },
+  "7HSUM2iPZLX4ueIW": {
+    "type": "trait",
+    "sourceName": "Chill Grasp",
+    "name": "Леденящее касание"
+  },
+  "7KUKKbXBv8MbyEHt": {
+    "type": "prayer",
+    "sourceName": "Eagle's Eye",
+    "name": "Орлиный взор"
+  },
+  "7LERztK8LMIMwo4l": {
+    "type": "career",
+    "sourceName": "Hedge Witch",
+    "name": "Знахарь"
+  },
+  "7QaIq838arGHgzKl": {
+    "type": "spell",
+    "sourceName": "Corrosive Blood (Light)",
+    "name": "Едкий ихор (Свет)"
+  },
+  "7ToyUcqJDkceoJRd": {
+    "type": "skill",
+    "sourceName": "Lore (Science)",
+    "name": "Знание (наука)"
+  },
+  "7bZjB82f6LSkeczP": {
+    "type": "talent",
+    "sourceName": "Nimble Fingered",
+    "name": "Ловкие пальцы"
+  },
+  "7hRfHr1ZCUigByms": {
+    "type": "trapping",
+    "sourceName": "Courtly Garb",
+    "name": "Придворный наряд"
+  },
+  "7mCcI3q7hgWcmbBU": {
+    "type": "injury",
+    "sourceName": "Broken Leg (Minor)",
+    "name": "Лёгкий перелом (нога)"
+  },
+  "7pHcU30nMhgd0V5N": {
+    "type": "spell",
+    "sourceName": "Mundane Aura (Fire)",
+    "name": "Обыденная аура (Огонь)"
+  },
+  "7pQo66cESWttzIlb": {
+    "type": "skill",
+    "sourceName": "Gamble",
+    "name": "Азартные игры"
+  },
+  "7rBhIRo96Mydo0Cv": {
+    "type": "injury",
+    "sourceName": "Torn Body Muscle (Minor)",
+    "name": "Лёгкий разрыв мышцы (торс)"
+  },
+  "7w3Y5lZXMBa7N0uV": {
+    "type": "career",
+    "sourceName": "Broker",
+    "name": "Барышник"
+  },
+  "7wK4srcIgc8USRYt": {
+    "type": "spell",
+    "sourceName": "Push (Daemonology)",
+    "name": "Расталкивание (Демонология)"
+  },
+  "82mmGLTAKQ4mrsBl": {
+    "type": "spell",
+    "sourceName": "Clarity of Thought",
+    "name": "Ясность мыслей"
+  },
+  "83KlMxHxGfKUdMfq": {
+    "type": "weapon",
+    "sourceName": "Knife",
+    "name": "Нож"
+  },
+  "89Xcjrqa44LEluU5": {
+    "type": "spell",
+    "sourceName": "Aethyric Arms (Fire)",
+    "name": "Эфирное оружие (Огонь)"
+  },
+  "8GrHGyhYlbdxqluu": {
+    "type": "critical",
+    "sourceName": "Dislocated Knee",
+    "name": "Выбитое колено"
+  },
+  "8LcAFB6W37LDN70K": {
+    "type": "prayer",
+    "sourceName": "Balm to a Wounded Mind",
+    "name": "Бальзам для израненной души"
+  },
+  "8MpTb12W1x6ECZzt": {
+    "type": "trapping",
+    "sourceName": "Jewellery",
+    "name": "Украшения"
+  },
+  "8TKV6yGaUHrf75UH": {
+    "type": "trapping",
+    "sourceName": "Bowl",
+    "name": "Чаша"
+  },
+  "8WkGfg1oUsR16K3J": {
+    "type": "critical",
+    "sourceName": "Disfiguring Blow",
+    "name": "Безобразная рана"
+  },
+  "8bbV2yHKeT6QeOKd": {
+    "type": "career",
+    "sourceName": "Physician",
+    "name": "Врач"
+  },
+  "8bxAt6ru3cCyGr6N": {
+    "type": "trapping",
+    "sourceName": "Ear Pick",
+    "name": "Копоушка"
+  },
+  "8dKmuti5IuIs9AJA": {
+    "type": "weapon",
+    "sourceName": "Repeater Pistol",
+    "name": "Многозарядный пистолет"
+  },
+  "8lSoPDGrmeTIaapm": {
+    "type": "talent",
+    "sourceName": "Gregarious",
+    "name": "Общительность"
+  },
+  "8llxzvd0M3P59ctr": {
+    "type": "career",
+    "sourceName": "Merchant Prince",
+    "name": "Патриций"
+  },
+  "8nJ9R8tbhW42VGhr": {
+    "type": "weapon",
+    "sourceName": "Shield",
+    "name": "Щит"
+  },
+  "8oWhzlcw7oiHGMFu": {
+    "type": "talent",
+    "sourceName": "Unshakable",
+    "name": "Стреляный боец"
+  },
+  "8pVzgPkgWpTJvfhG": {
+    "type": "talent",
+    "sourceName": "Fearless",
+    "name": "Бесстрашие"
+  },
+  "8piWcBKFlQ2J1E3A": {
+    "type": "injury",
+    "sourceName": "Amputated Ear",
+    "name": "Ампутированное ухо"
+  },
+  "8rRCSJGIdecFcpxm": {
+    "type": "spell",
+    "sourceName": "Blast (Shadow)",
+    "name": "Взрыв (Тень)"
+  },
+  "8rVR4gVhsWeLo5Sf": {
+    "type": "career",
+    "sourceName": "Courier-Captain",
+    "name": "Капитан курьеров"
+  },
+  "8slW8CJ2oVTxeQ6q": {
+    "type": "trait",
+    "sourceName": "Size",
+    "name": "Размер"
+  },
+  "8vPHNztfk9x7K2Na": {
+    "type": "career",
+    "sourceName": "Sergeant",
+    "name": "Сержант"
+  },
+  "91unnpsRgrNFLZ18": {
+    "type": "career",
+    "sourceName": "Road Sergeant",
+    "name": "Сержант Дорожной стражи"
+  },
+  "92vQ9g5DxlWNmD1c": {
+    "type": "critical",
+    "sourceName": "Dislocated Shoulder",
+    "name": "Выбитое плечо"
+  },
+  "94SiNp9Iqq6HiOsG": {
+    "type": "container",
+    "sourceName": "Draught Horse",
+    "name": "Упряжная лошадь"
+  },
+  "9631KpCQa7jvhmgS": {
+    "type": "career",
+    "sourceName": "Outlaw",
+    "name": "Разбойник"
+  },
+  "99QJoyyHfYBQz5Wz": {
+    "type": "spell",
+    "sourceName": "Push (Fire)",
+    "name": "Расталкивание (Огонь)"
+  },
+  "9ALNZLZUZSLrLvkd": {
+    "type": "prayer",
+    "sourceName": "Howl of the Wolf",
+    "name": "Волчий вой"
+  },
+  "9CAkY3SQjQxRTlNJ": {
+    "type": "talent",
+    "sourceName": "Roughrider",
+    "name": "Выездка"
+  },
+  "9GNpAqgsKzxZKJpp": {
+    "type": "trait",
+    "sourceName": "Stupid",
+    "name": "Безмозглый"
+  },
+  "9MKzpUh761nGa76M": {
+    "type": "critical",
+    "sourceName": "Ruptured Tendon",
+    "name": "Разрыв сухожилия"
+  },
+  "9MjH4xyVrd3Inzak": {
+    "type": "trait",
+    "sourceName": "Fast",
+    "name": "Быстрый"
+  },
+  "9NAkj43qHsH7Xok7": {
+    "type": "critical",
+    "sourceName": "Mauled Bicep",
+    "name": "Разрубленный бицепс"
+  },
+  "9NROryHer1uXAKwY": {
+    "type": "trait",
+    "sourceName": "Elite",
+    "name": "Опытный боец"
+  },
+  "9PTQfMr98E3ei3Fo": {
+    "type": "career",
+    "sourceName": "Dock Master",
+    "name": "Докмейстер"
+  },
+  "9UWoLPwYyPV2TRnz": {
+    "type": "career",
+    "sourceName": "Bailiff",
+    "name": "Бейлиф"
+  },
+  "9UjOMeBtKdoL5S34": {
+    "type": "critical",
+    "sourceName": "Badly Cut Toe",
+    "name": "Серьёзная травма пальца"
+  },
+  "9XJ7Qs6pY6IO01u6": {
+    "type": "career",
+    "sourceName": "Court Physician",
+    "name": "Придворный врач"
+  },
+  "9bKioMmyDY2PV4MY": {
+    "type": "spell",
+    "sourceName": "Drop (Hedgecraft)",
+    "name": "Дырявые руки (знахарство)"
+  },
+  "9fq6p9Q6H02LjaSi": {
+    "type": "talent",
+    "sourceName": "Animal Affinity",
+    "name": "Сродство с животными"
+  },
+  "9h82z72XGo9tfgQS": {
+    "type": "talent",
+    "sourceName": "Acute Sense",
+    "name": "Обострённое восприятие"
+  },
+  "9j0KwH1Je1RiuZX2": {
+    "type": "critical",
+    "sourceName": "Twisted Ankle",
+    "name": "Растяжение лодыжки"
+  },
+  "9n8P8hWUzJw1oZ8Z": {
+    "type": "container",
+    "sourceName": "Monkey",
+    "name": "Обезьяна"
+  },
+  "9pJenZDZD2lV75vq": {
+    "type": "trapping",
+    "sourceName": "Storm Lantern",
+    "name": "Масляный фонарь"
+  },
+  "9q1yLMpfhX1bqvth": {
+    "type": "career",
+    "sourceName": "Guard",
+    "name": "Охранник"
+  },
+  "9s7eE2U30R774sxO": {
+    "type": "critical",
+    "sourceName": "Cut Tendon",
+    "name": "Рассечение сухожилий"
+  },
+  "9s8S1BlR4cd5UeN8": {
+    "type": "skill",
+    "sourceName": "Sail (Frigate)",
+    "name": "Хождение под парусом (фрегаты)"
+  },
+  "9sMAf0xmehjEmUao": {
+    "type": "talent",
+    "sourceName": "Fast Hands",
+    "name": "Быстрые руки"
+  },
+  "9tbHTeuvEMZrp0rx": {
+    "type": "skill",
+    "sourceName": "Research",
+    "name": "Книжные изыскания"
+  },
+  "9uRDDAjndugmNmZr": {
+    "type": "spell",
+    "sourceName": "Arrow Shield",
+    "name": "Защита от стрел"
+  },
+  "9wmmln3DunIqGXM2": {
+    "type": "spell",
+    "sourceName": "Flight",
+    "name": "Полёт (заклинание)"
+  },
+  "9xR9uO8FIvi4YsJp": {
+    "type": "skill",
+    "sourceName": "Pray",
+    "name": "Молитвословие"
+  },
+  "9xszp5m5KRmj3bxX": {
+    "type": "career",
+    "sourceName": "Master Artisan",
+    "name": "Мастер-ремесленник"
+  },
+  "A5I729L56i4WQXfB": {
+    "type": "skill",
+    "sourceName": "Animal Training (Demigryph)",
+    "name": "Дрессировка (демигрифы)"
+  },
+  "AA7nhcqscDj1zoU9": {
+    "type": "trapping",
+    "sourceName": "Homing Pigeon",
+    "name": "Почтовый голубь"
+  },
+  "AFv0J8Mq9cbmNEVc": {
+    "type": "career",
+    "sourceName": "Apprentice Artisan",
+    "name": "Подмастерье ремесленника"
+  },
+  "AGcJl5rHjkyIQBPP": {
+    "type": "trait",
+    "sourceName": "Bestial",
+    "name": "Зверь"
+  },
+  "AGreVSdN2jDSenEl": {
+    "type": "trait",
+    "sourceName": "Mental Corruption",
+    "name": "Ментальная порча"
+  },
+  "AIueed3kikw3euvn": {
+    "type": "skill",
+    "sourceName": "Secret Signs (Thief)",
+    "name": "Тайные знаки (воры)"
+  },
+  "AJTl72JcueF1YGgg": {
+    "type": "career",
+    "sourceName": "Riverwise",
+    "name": "Речной старожил"
+  },
+  "AOLsFkqblrcCLv23": {
+    "type": "trapping",
+    "sourceName": "Match",
+    "name": "Спичка"
+  },
+  "APKQuY39j7RHzJZD": {
+    "type": "career",
+    "sourceName": "Chartered Engineer",
+    "name": "Патентованный инженер"
+  },
+  "AQmofCPcdFZNXCV6": {
+    "type": "career",
+    "sourceName": "Sleuth",
+    "name": "Сыщик"
+  },
+  "AUZLQkyu9kiqmzsq": {
+    "type": "critical",
+    "sourceName": "Torn Thigh",
+    "name": "Рассечение бедра"
+  },
+  "AWx6rqwOlN68pN6I": {
+    "type": "trapping",
+    "sourceName": "Book, Apothecary",
+    "name": "Книга (аптекарское дело)"
+  },
+  "AXRma6wqpD5jvpuM": {
+    "type": "critical",
+    "sourceName": "Cracked Ribs",
+    "name": "Треснувшие рёбра"
+  },
+  "AaXk4bfDRTPeeYjn": {
+    "type": "skill",
+    "sourceName": "Art (Tattoo)",
+    "name": "Искусство (Тату)"
+  },
+  "AcnFuDKRemLI9ey7": {
+    "type": "talent",
+    "sourceName": "Nose for Trouble",
+    "name": "Чутьё на неприятности"
+  },
+  "Ahe89KQIXpeadscI": {
+    "type": "career",
+    "sourceName": "Prowler",
+    "name": "Проныра"
+  },
+  "AkjRsazdAppqveZu": {
+    "type": "skill",
+    "sourceName": "Pick Lock",
+    "name": "Взлом"
+  },
+  "Ao7DRZ1hS6uCGONP": {
+    "type": "trapping",
+    "sourceName": "Knife",
+    "name": "Нож"
+  },
+  "ArCg0WaBxLgPQA8F": {
+    "type": "mutation",
+    "sourceName": "Patchy Feathers",
+    "name": "Пучки перьев"
+  },
+  "AtWEBwIobFnhbQy7": {
+    "type": "career",
+    "sourceName": "Priest",
+    "name": "Жрец"
+  },
+  "AtpAudHA4ybXVlWM": {
+    "type": "trait",
+    "sourceName": "Weapon",
+    "name": "Оружие"
+  },
+  "AwRVLEJZCLwPJKy2": {
+    "type": "spell",
+    "sourceName": "Teleport (Heavens)",
+    "name": "Телепортация (Небеса)"
+  },
+  "AwUUEwwf2Vt4ksCN": {
+    "type": "talent",
+    "sourceName": "Sprinter",
+    "name": "Бегун"
+  },
+  "AywiuNyA8bMS7yFi": {
+    "type": "spell",
+    "sourceName": "Arrow Shield (Metal)",
+    "name": "Защита от стрел (Металл)"
+  },
+  "B0RRDSUqaCVp6P7h": {
+    "type": "career",
+    "sourceName": "Warlock",
+    "name": "Колдунья"
+  },
+  "B5q8PZn43BMkvpdz": {
+    "type": "trapping",
+    "sourceName": "Costume",
+    "name": "Костюм"
+  },
+  "B6lS25BojearuvzW": {
+    "type": "critical",
+    "sourceName": "Sprain",
+    "name": "Растяжение связок"
+  },
+  "B7iwAtfa9EgNvKMz": {
+    "type": "spell",
+    "sourceName": "Barkskin",
+    "name": "Деревянная шкура"
+  },
+  "B8dvTJtaLCHgfFuP": {
+    "type": "spell",
+    "sourceName": "Bolt (Necromancy)",
+    "name": "Стрела (Некромантия)"
+  },
+  "BBiL0DSHcdPakVBS": {
+    "type": "trapping",
+    "sourceName": "Signet Ring",
+    "name": "Перстень-печатка"
+  },
+  "BC4QyBeYAiw8cRuM": {
+    "type": "disease",
+    "sourceName": "Packer's Pox",
+    "name": "Скорняжная оспа"
+  },
+  "BIaLeh4CPFaTMbFz": {
+    "type": "talent",
+    "sourceName": "Jump Up",
+    "name": "Подскок"
+  },
+  "BJDCewsSihieuEwE": {
+    "type": "container",
+    "sourceName": "Coracle",
+    "name": "Коракл"
+  },
+  "BKHMI2wI74a42ZQa": {
+    "type": "spell",
+    "sourceName": "Breath (Shadow)",
+    "name": "Смертоносное дыхание (Тень)"
+  },
+  "BLHdxZVBGTrrGdxO": {
+    "type": "career",
+    "sourceName": "Procurer",
+    "name": "Посредник"
+  },
+  "BMnu4XfgsSqVnCB8": {
+    "type": "spell",
+    "sourceName": "Sly Hands",
+    "name": "Ловкие руки"
+  },
+  "BU56aMyn8Hfaamrb": {
+    "type": "spell",
+    "sourceName": "Earthblood",
+    "name": "Кровь земли"
+  },
+  "BVZWihaal1zq3aJs": {
+    "type": "prayer",
+    "sourceName": "Spear of Myrmidia",
+    "name": "Копьё Мирмидии"
+  },
+  "BWjNKaTolhIPbNcO": {
+    "type": "spell",
+    "sourceName": "Push (Shadow)",
+    "name": "Расталкивание (Тень)"
+  },
+  "BYChSVfMG004eflQ": {
+    "type": "talent",
+    "sourceName": "Instinctive Diction",
+    "name": "Безупречная дикция"
+  },
+  "BZ5iT2wQq7rOQ0Vo": {
+    "type": "mutation",
+    "sourceName": "Worried Jitters",
+    "name": "Мандраж"
+  },
+  "BZmUt37Jk1UCokqS": {
+    "type": "trapping",
+    "sourceName": "Room, common/night",
+    "name": "Комната (общая), 1 ночь"
+  },
+  "Bal23aLiOmnht42h": {
+    "type": "trapping",
+    "sourceName": "Lamp Oil",
+    "name": "Ламповое масло"
+  },
+  "BbStIySkF1hDM2zq": {
+    "type": "talent",
+    "sourceName": "Lightning Reflexes",
+    "name": "Молниеносная реакция"
+  },
+  "Bda4Wvnlt3q5zkKC": {
+    "type": "weapon",
+    "sourceName": "Pike",
+    "name": "Пика"
+  },
+  "BlHVzfs0Ow6IYEDw": {
+    "type": "talent",
+    "sourceName": "Furious Assault",
+    "name": "Свирепый натиск"
+  },
+  "BmttbXNr3ZwydNUo": {
+    "type": "career",
+    "sourceName": "Scion",
+    "name": "Дворянский отпрыск"
+  },
+  "Bn5MHz2G7LJZxtpo": {
+    "type": "career",
+    "sourceName": "Burgomeister",
+    "name": "Бургомистр"
+  },
+  "Bo3ukcaipFNb7Ljl": {
+    "type": "prayer",
+    "sourceName": "Cat's Eyes",
+    "name": "Кошачий глаз"
+  },
+  "Bpt4ZS0eHJOsuDXE": {
+    "type": "critical",
+    "sourceName": "Decapitated",
+    "name": "Обезглавливание"
+  },
+  "BqPZn6q3VHn9HUrW": {
+    "type": "trait",
+    "sourceName": "Horns (Feature)",
+    "name": "Рога (вид)"
+  },
+  "Bvd2aZ0gQUXHfCTh": {
+    "type": "trait",
+    "sourceName": "Ward",
+    "name": "Оберег (порог)"
+  },
+  "Bw6tQyzOhcl7aQ46": {
+    "type": "trait",
+    "sourceName": "Web",
+    "name": "Паутина"
+  },
+  "Bx5CC17pRNITWhg8": {
+    "type": "spell",
+    "sourceName": "Chain Attack",
+    "name": "Цепной разряд"
+  },
+  "BxAvP2g1KbHPbbbA": {
+    "type": "trait",
+    "sourceName": "Swamp-strider",
+    "name": "Болотный житель"
+  },
+  "By5dc8Q7ZAGpr177": {
+    "type": "prayer",
+    "sourceName": "Blessing of The Hunt",
+    "name": "Благословение охоты"
+  },
+  "ByHt0vTWRIuHS2r8": {
+    "type": "weapon",
+    "sourceName": "Blunderbuss",
+    "name": "Мушкетон"
+  },
+  "BzIaW1w6eTUFWgkk": {
+    "type": "critical",
+    "sourceName": "Severed Foot",
+    "name": "Оторванная стопа"
+  },
+  "C8pqV1AJgqS6vUd6": {
+    "type": "career",
+    "sourceName": "Watch Recruit",
+    "name": "Новобранец Городской стражи"
+  },
+  "C92dpJPRYpkZFsGu": {
+    "type": "prayer",
+    "sourceName": "Blessing of Healing",
+    "name": "Благословение исцеления"
+  },
+  "CAqBwTw411GEyc4d": {
+    "type": "mutation",
+    "sourceName": "Fearful Concern",
+    "name": "Опасливость"
+  },
+  "CB6cxxqy5vXcV6gf": {
+    "type": "trapping",
+    "sourceName": "Uniform",
+    "name": "Ливрея/мундир/форменная одежда"
+  },
+  "CJDvhhZbQ0UxxZKc": {
+    "type": "career",
+    "sourceName": "Foreman",
+    "name": "Бригадир докеров"
+  },
+  "CJvmSabjtw2SNmMA": {
+    "type": "spell",
+    "sourceName": "Mundane Aura (Life)",
+    "name": "Обыденная аура (Жизнь)"
+  },
+  "CJxLsDRzVMguEpF1": {
+    "type": "skill",
+    "sourceName": "Secret Signs (Grey Order)",
+    "name": "Тайные знаки (Серый Орден)"
+  },
+  "CL2ysmNjmJopV9Tu": {
+    "type": "spell",
+    "sourceName": "Move Object (Beasts)",
+    "name": "Телекинез (Звери)"
+  },
+  "CNoXG2ZZUudm8paf": {
+    "type": "career",
+    "sourceName": "Wyrd",
+    "name": "Ведунья"
+  },
+  "COND1RfSn9v58QiN": {
+    "type": "skill",
+    "sourceName": "Secret Signs (Scout)",
+    "name": "Тайные знаки (разведчики)"
+  },
+  "CRNrEnLXTGXVT1UW": {
+    "type": "weapon",
+    "sourceName": "Shortbow",
+    "name": "Короткий лук"
+  },
+  "CV9btQn09S9Fn8Jk": {
+    "type": "talent",
+    "sourceName": "Strong Legs",
+    "name": "Сильные ноги"
+  },
+  "CVam8L1cNsnxZHRR": {
+    "type": "spell",
+    "sourceName": "Teleport",
+    "name": "Телепортация"
+  },
+  "CXSKOpjA7a2kqWSq": {
+    "type": "career",
+    "sourceName": "Riverwarden",
+    "name": "Речной стражник"
+  },
+  "CXg7XOFJwu4LZ9LM": {
+    "type": "weapon",
+    "sourceName": "Halberd",
+    "name": "Алебарда"
+  },
+  "CYkA9Ax6BN7eiTvf": {
+    "type": "weapon",
+    "sourceName": "Shield (Large)",
+    "name": "Щит (большой)"
+  },
+  "CZByQsYSeVyCVbzO": {
+    "type": "career",
+    "sourceName": "Hunter",
+    "name": "Охотник"
+  },
+  "CcNJsS4jSwB6Ug1J": {
+    "type": "skill",
+    "sourceName": "Endurance",
+    "name": "Стойкость"
+  },
+  "CdP1xLEJbe289beI": {
+    "type": "weapon",
+    "sourceName": "Warhammer",
+    "name": "Боевой молот"
+  },
+  "CdsNf9MFRUhrJ3YA": {
+    "type": "ammunition",
+    "sourceName": "Improvised Shot and Powder",
+    "name": "Импровизированная дробь и порох"
+  },
+  "Cg2Q3TV66cpmheHS": {
+    "type": "prayer",
+    "sourceName": "Blessing of Courage",
+    "name": "Благословение отваги"
+  },
+  "Cg2b92BRjvxYXZiE": {
+    "type": "skill",
+    "sourceName": "Language (Mootish)",
+    "name": "Язык (мутландский)"
+  },
+  "ChI09rjm2afh1bqI": {
+    "type": "skill",
+    "sourceName": "Channelling (Hysh)",
+    "name": "Концентрация (Хиш)"
+  },
+  "CihEl1pzvTiMQswA": {
+    "type": "trapping",
+    "sourceName": "Mad Cap Mushrooms",
+    "name": "Сумасбродовик"
+  },
+  "ClOlztW6hH8rslbp": {
+    "type": "trait",
+    "sourceName": "Tracker",
+    "name": "Следопыт"
+  },
+  "CnydL8p3PVAuF98w": {
+    "type": "spell",
+    "sourceName": "The Evil Eye",
+    "name": "Сглаз"
+  },
+  "D0ImWEIMSDgElsnl": {
+    "type": "trait",
+    "sourceName": "Unstable",
+    "name": "Нестабильность"
+  },
+  "D4JNPSl6VOpsVmSi": {
+    "type": "skill",
+    "sourceName": "Secret Signs (Guilder)",
+    "name": "Тайные знаки (одна из гильдий)"
+  },
+  "D8Bx5CgvvMpIkwSq": {
+    "type": "career",
+    "sourceName": "Guide",
+    "name": "Проводник"
+  },
+  "DA4ZB3HkOh51vhuB": {
+    "type": "prayer",
+    "sourceName": "Truth Will Out",
+    "name": "Тайное станет явным"
+  },
+  "DDqqDmpevvF3Rrsb": {
+    "type": "spell",
+    "sourceName": "Dark Vision (Witchcraft)",
+    "name": "Ночное зрение (ведьмовство)"
+  },
+  "DOfyDATb1gcGOMry": {
+    "type": "spell",
+    "sourceName": "Lie of the Land",
+    "name": "Лик земли"
+  },
+  "DPRMGO9rhvdNz9w7": {
+    "type": "spell",
+    "sourceName": "Distracting (Witchcraft)",
+    "name": "Дезориентация (ведьмовство)"
+  },
+  "DRO5DLF6UcfkvNSh": {
+    "type": "skill",
+    "sourceName": "Lore ()",
+    "name": "Знание ()"
+  },
+  "DS44h27iCOvUBa4O": {
+    "type": "talent",
+    "sourceName": "Disarm",
+    "name": "Разоружение"
+  },
+  "DVF74DvmMttrvboI": {
+    "type": "mutation",
+    "sourceName": "Crawling Skin",
+    "name": "Мурашки"
+  },
+  "DWAc2CYtbwx7zMwl": {
+    "type": "career",
+    "sourceName": "Duelmaster",
+    "name": "Мастер-дуэлянт"
+  },
+  "DiP9cmbqUir3HkkK": {
+    "type": "skill",
+    "sourceName": "Lore (Heraldry)",
+    "name": "Знание (геральдика)"
+  },
+  "Dk0zjtcANtahntHx": {
+    "type": "prayer",
+    "sourceName": "Beacon of Righteous Virtue",
+    "name": "Светоч праведной добродетели"
+  },
+  "DrNUTPeodEgpWTnT": {
+    "type": "psychology",
+    "sourceName": "Frenzy",
+    "name": "Ярость"
+  },
+  "DrOqNHjmQnFjiykU": {
+    "type": "spell",
+    "sourceName": "Mundane Aura (Witchcraft)",
+    "name": "Обыденная аура (ведьмовство)"
+  },
+  "E2Es82TvBKa7CoDG": {
+    "type": "trait",
+    "sourceName": "Swarm",
+    "name": "Скопище"
+  },
+  "E3vTSCzgrasNijUO": {
+    "type": "talent",
+    "sourceName": "Fleet Footed",
+    "name": "Быстрые ноги"
+  },
+  "E3z0o7AJ8cAFYKda": {
+    "type": "career",
+    "sourceName": "Envoy",
+    "name": "Эмиссар"
+  },
+  "E5M0Thnx6HFj46At": {
+    "type": "spell",
+    "sourceName": "Corrosive Blood (Metal)",
+    "name": "Едкий ихор (Металл)"
+  },
+  "E98mVLZgE8bX5vQW": {
+    "type": "talent",
+    "sourceName": "Hatred",
+    "name": "Ненависть"
+  },
+  "EBmSCscpk4vEDCD3": {
+    "type": "psychology",
+    "sourceName": "Camaraderie (Group)",
+    "name": "Приязнь (группа)"
+  },
+  "EDnMXoxQTU4TMrRV": {
+    "type": "trapping",
+    "sourceName": "Robes",
+    "name": "Ряса/мантия"
+  },
+  "EE0feq68GJtdw1Nq": {
+    "type": "trapping",
+    "sourceName": "Ball",
+    "name": "Мяч"
+  },
+  "EO05HX7jql0g605A": {
+    "type": "trait",
+    "sourceName": "Flight",
+    "name": "Полёт"
+  },
+  "ET4PZxqQ4RyBBWgN": {
+    "type": "career",
+    "sourceName": "Warden",
+    "name": "Смотритель"
+  },
+  "ET5sNnUsGslSNEAm": {
+    "type": "spell",
+    "sourceName": "Chain Attack (Beasts)",
+    "name": "Цепной разряд (Звери)"
+  },
+  "EVERNFcYxY7WY8ur": {
+    "type": "trapping",
+    "sourceName": "Rations, 1 day",
+    "name": "Паёк на один день"
+  },
+  "EXysjCwmGzCOiRDx": {
+    "type": "skill",
+    "sourceName": "Language (Gospodarinyi)",
+    "name": "Язык (господарский)"
+  },
+  "EaqlLRQigwnsEAXX": {
+    "type": "injury",
+    "sourceName": "Broken Body (Major)",
+    "name": "Серьезный перелом (торс)"
+  },
+  "EfUTKGyYDR361dVu": {
+    "type": "spell",
+    "sourceName": "Dark Vision (Metal)",
+    "name": "Ночное зрение (Металл)"
+  },
+  "ElmLfnrXliStS9CP": {
+    "type": "prayer",
+    "sourceName": "Blessing of Battle",
+    "name": "Благословение битвы"
+  },
+  "Emd8lVdIpaXTxLwL": {
+    "type": "skill",
+    "sourceName": "Language (Estalian)",
+    "name": "Язык (эсталийский)"
+  },
+  "EpwqkFcmpYyme4aM": {
+    "type": "spell",
+    "sourceName": "Chain Attack (Witchcraft)",
+    "name": "Цепной разряд (ведьмовство)"
+  },
+  "EsgYCZZbWaDZsLYx": {
+    "type": "skill",
+    "sourceName": "Play (Horn)",
+    "name": "Музицирование (рожок)"
+  },
+  "Esy17RVOZQw2gShT": {
+    "type": "career",
+    "sourceName": "Knight of the Inner Circle",
+    "name": "Рыцарь Внутреннего Круга"
+  },
+  "EyBc9yQqFUNIP9S1": {
+    "type": "spell",
+    "sourceName": "Produce Small Animal",
+    "name": "Появление зверушки"
+  },
+  "F2EiuAc6IpaGd4J7": {
+    "type": "talent",
+    "sourceName": "War Wizard",
+    "name": "Боевой маг"
+  },
+  "F65NP8BmRo66nQOm": {
+    "type": "trapping",
+    "sourceName": "Deck of Cards",
+    "name": "Колода карт"
+  },
+  "F6Q1mrBHZvKzHDkT": {
+    "type": "career",
+    "sourceName": "Messenger",
+    "name": "Посыльный"
+  },
+  "F6iJdTrvBvGQ54G3": {
+    "type": "prayer",
+    "sourceName": "Ulric's Fury",
+    "name": "Ярость Ульрика"
+  },
+  "F7jJaldf3lbkjABW": {
+    "type": "weapon",
+    "sourceName": "Bastard Sword",
+    "name": "Меч-бастард"
+  },
+  "F8NfBZdVSEIGCMtu": {
+    "type": "skill",
+    "sourceName": "Melee ()",
+    "name": "Рукопашный бой ()"
+  },
+  "F9aFPBvoCdxg8oFJ": {
+    "type": "critical",
+    "sourceName": "Shattered Pelvis",
+    "name": "Размозжение таза"
+  },
+  "FA6vYposVbL3caNR": {
+    "type": "career",
+    "sourceName": "Inquisitor",
+    "name": "Инквизитор"
+  },
+  "FChdV10BCuXQyUhU": {
+    "type": "skill",
+    "sourceName": "Lore (History)",
+    "name": "Знание (история)"
+  },
+  "FElNQGNiPzaOwwKT": {
+    "type": "prayer",
+    "sourceName": "Blessing of Charisma",
+    "name": "Благословение притягательности"
+  },
+  "FF41XPboORgyDNsv": {
+    "type": "talent",
+    "sourceName": "Strong Back",
+    "name": "Сильная спина"
+  },
+  "FLdR3uEEdQxkZiaP": {
+    "type": "career",
+    "sourceName": "Bawd",
+    "name": "Пройдоха"
+  },
+  "FOGWbyemEGAkK746": {
+    "type": "career",
+    "sourceName": "Shipsword",
+    "name": "Корабельный меч"
+  },
+  "FOmZlLUDNDfMAPuT": {
+    "type": "spell",
+    "sourceName": "Breath (Fire)",
+    "name": "Смертоносное дыхание (Огонь)"
+  },
+  "FR60c6AX1pWZz6Mc": {
+    "type": "skill",
+    "sourceName": "Sail (Caravel)",
+    "name": "Хождение под парусом (каравеллы)"
+  },
+  "FRfAqPlOdwiIitR5": {
+    "type": "spell",
+    "sourceName": "Raise Dead",
+    "name": "Призыв костяков"
+  },
+  "FRkIz2sR7ZC92W2G": {
+    "type": "prayer",
+    "sourceName": "Blessing of Wisdom",
+    "name": "Благословение мудрости"
+  },
+  "FaAdpduKD4aUWAOg": {
+    "type": "career",
+    "sourceName": "Tomb Robber",
+    "name": "Расхититель гробниц"
+  },
+  "FaHVRxdljzqklNTC": {
+    "type": "spell",
+    "sourceName": "Beast Master",
+    "name": "Владыка зверей"
+  },
+  "FbB3irDIi2cTRhUw": {
+    "type": "spell",
+    "sourceName": "Mundane Aura (Hedgecraft)",
+    "name": "Обыденная аура (знахарство)"
+  },
+  "FbtA6PFHSH6iWaZk": {
+    "type": "career",
+    "sourceName": "Interrogator",
+    "name": "Дознаватель"
+  },
+  "FenXWblAuFNhVuZf": {
+    "type": "spell",
+    "sourceName": "Distracting (Hedgecraft)",
+    "name": "Дезориентация (знахарство)"
+  },
+  "FfGboPdR54WHtkAE": {
+    "type": "prayer",
+    "sourceName": "Stay Lucky",
+    "name": "Божественное везение"
+  },
+  "Ffm7xIlRUWyacvKU": {
+    "type": "prayer",
+    "sourceName": "Heed Not the Witch",
+    "name": "Не внемли ведьмовским речам"
+  },
+  "FgVH1pPS9oRq0o2Z": {
+    "type": "career",
+    "sourceName": "Soldier",
+    "name": "Солдат"
+  },
+  "FhK6JOd3LSTlHwoa": {
+    "type": "career",
+    "sourceName": "Knight",
+    "name": "Рыцарь"
+  },
+  "FjTnaxixsu1ShNNr": {
+    "type": "talent",
+    "sourceName": "Trick Riding",
+    "name": "Лихой наездник"
+  },
+  "FmHDbCOy3pH8yKhm": {
+    "type": "trait",
+    "sourceName": "Night Vision",
+    "name": "Сумеречное зрение"
+  },
+  "FrPCbQ7fq1Fchthn": {
+    "type": "career",
+    "sourceName": "Squire",
+    "name": "Оруженосец"
+  },
+  "Fs06sr7y9JKpVQmB": {
+    "type": "skill",
+    "sourceName": "Perception",
+    "name": "Наблюдательность"
+  },
+  "Ft0YBUCMN0VzE39c": {
+    "type": "spell",
+    "sourceName": "Dome (Metal)",
+    "name": "Купол (Металл)"
+  },
+  "FtjMeeGEO4YuGIBv": {
+    "type": "talent",
+    "sourceName": "Battle Rage",
+    "name": "Боевая ярость"
+  },
+  "G2LKMsTYXJhzF1Tn": {
+    "type": "spell",
+    "sourceName": "Arrow Shield (Shadow)",
+    "name": "Защита от стрел (Тень)"
+  },
+  "G2yEH6caM0FJ9s0G": {
+    "type": "weapon",
+    "sourceName": "Pick",
+    "name": "Кирка"
+  },
+  "G4rPR0XGiYFUZWKi": {
+    "type": "talent",
+    "sourceName": "Pharmacist",
+    "name": "Фармацевт"
+  },
+  "G6o2q7tPhw4sgdOY": {
+    "type": "career",
+    "sourceName": "Route Master",
+    "name": "Распорядитель маршрута"
+  },
+  "G8m6k3wEkhuXMjjp": {
+    "type": "critical",
+    "sourceName": "Cleft Hand",
+    "name": "Разрубленная кисть"
+  },
+  "G9PT2bovEv02sVJJ": {
+    "type": "career",
+    "sourceName": "Counsellor",
+    "name": "Сановник"
+  },
+  "GBaH4wyVes6ds7Wv": {
+    "type": "critical",
+    "sourceName": "Devastated Eye",
+    "name": "Выбитый глаз"
+  },
+  "GHa0StLRCchw6dQ0": {
+    "type": "critical",
+    "sourceName": "Struck Forehead",
+    "name": "Рассечение лба"
+  },
+  "GHmXS9zGNx3PWYZc": {
+    "type": "talent",
+    "sourceName": "Master Tradesman",
+    "name": "Мастер своего дела"
+  },
+  "GIFrMVqk0SimaBOM": {
+    "type": "trapping",
+    "sourceName": "Cloak",
+    "name": "Плащ"
+  },
+  "GJt5I57Fbb7pj1mF": {
+    "type": "skill",
+    "sourceName": "Play (Harpsichord)",
+    "name": "Музицирование (клавесин)"
+  },
+  "GOtpCOZ2br14GrBW": {
+    "type": "talent",
+    "sourceName": "Slayer",
+    "name": "Убийца чудовищ"
+  },
+  "GPhqluMBhCeTnyNJ": {
+    "type": "career",
+    "sourceName": "First Knight",
+    "name": "Первый рыцарь"
+  },
+  "GPrunawhB8das1O7": {
+    "type": "skill",
+    "sourceName": "Art (Mosaics)",
+    "name": "Искусство (мозаика)"
+  },
+  "GPruqXhcAaHQYucf": {
+    "type": "career",
+    "sourceName": "Postilion",
+    "name": "Форейтор"
+  },
+  "GRRN3XAKIpEVCY7z": {
+    "type": "talent",
+    "sourceName": "Craftsman",
+    "name": "Умелец"
+  },
+  "GU1KpgY3MeFIaDaq": {
+    "type": "talent",
+    "sourceName": "Careful Strike",
+    "name": "Выверенное попадание"
+  },
+  "GVMPSJwgscMVJzpX": {
+    "type": "prayer",
+    "sourceName": "The Snow King's Judgement",
+    "name": "Правосудие Снежного Короля"
+  },
+  "GWGaNV2kGRTlMlG7": {
+    "type": "critical",
+    "sourceName": "Major Ear Wound",
+    "name": "Серьёзная травма уха"
+  },
+  "GYIOEWXugK9Dofg7": {
+    "type": "career",
+    "sourceName": "Noble",
+    "name": "Дворянин"
+  },
+  "GbDyBCu8ZjDp6dkj": {
+    "type": "trait",
+    "sourceName": "Belligerent",
+    "name": "Воинственность"
+  },
+  "Geo6EAR39JzaP9P2": {
+    "type": "prayer",
+    "sourceName": "Becalm",
+    "name": "Штиль"
+  },
+  "Ggx0bRaCuq8MbF0g": {
+    "type": "money",
+    "sourceName": "Gold Crown",
+    "name": "Золотая крона"
+  },
+  "GkeMJrsqxQIek1xK": {
+    "type": "weapon",
+    "sourceName": "Quarterstaff",
+    "name": "Посох"
+  },
+  "GlShFJF2TpsNh1FX": {
+    "type": "injury",
+    "sourceName": "Torn Arm Muscle (Minor)",
+    "name": "Лёгкий разрыв мышцы (рука)"
+  },
+  "GmRF7GF7SZq6qeyj": {
+    "type": "critical",
+    "sourceName": "Gaping Chest Wound",
+    "name": "Зияющая рана груди"
+  },
+  "GogGbYxkVdCmiKqf": {
+    "type": "talent",
+    "sourceName": "Read/Write",
+    "name": "Грамотность"
+  },
+  "GolePQVaKMxEydLe": {
+    "type": "spell",
+    "sourceName": "Move Object (Hedgecraft)",
+    "name": "Телекинез (знахарство)"
+  },
+  "Gr10zyYyGwAkrwnV": {
+    "type": "trapping",
+    "sourceName": "Pipe and Tobacco",
+    "name": "Трубка и табак"
+  },
+  "Gs10qhA4CDmZyb1g": {
+    "type": "talent",
+    "sourceName": "Flagellant",
+    "name": "Флагеллант"
+  },
+  "GsBi7iz9z5tj9PiM": {
+    "type": "critical",
+    "sourceName": "Painful Cut",
+    "name": "Болезненный порез"
+  },
+  "GtACPDzi25YNgV0m": {
+    "type": "mutation",
+    "sourceName": "Fleshy Tentacle",
+    "name": "Кожистое щупальце"
+  },
+  "GvaOlWY8iD5CO1WB": {
+    "type": "prayer",
+    "sourceName": "Blessing of Tenacity",
+    "name": "Благословение живучести"
+  },
+  "GwjvDLZz3PvK6xgs": {
+    "type": "trait",
+    "sourceName": "Prejudice",
+    "name": "Предубеждение"
+  },
+  "Gwp6K1rKShTQshqB": {
+    "type": "career",
+    "sourceName": "Town Councilor",
+    "name": "Городской старшина"
+  },
+  "H07sv4W1RPoES06K": {
+    "type": "critical",
+    "sourceName": "Severed Finger",
+    "name": "Отрубленный палец"
+  },
+  "H1Q0YjIX1wuS4phQ": {
+    "type": "spell",
+    "sourceName": "Forest of Thorns",
+    "name": "Лес шипов"
+  },
+  "H2upcZ7q7qAPtPic": {
+    "type": "skill",
+    "sourceName": "Ranged (Blackpowder)",
+    "name": "Стрельба (пороховое)"
+  },
+  "H4nKliXRB93HKH4r": {
+    "type": "trapping",
+    "sourceName": "Hand Mirror",
+    "name": "Зеркальце"
+  },
+  "H5CqkYPVVUslaORH": {
+    "type": "trapping",
+    "sourceName": "Book, Art",
+    "name": "Книга (искусство)"
+  },
+  "H9NZXz02SZXca8xp": {
+    "type": "career",
+    "sourceName": "Huntsmaster",
+    "name": "Егермейстер"
+  },
+  "HAnyF2QUfYGuXkPn": {
+    "type": "spell",
+    "sourceName": "Aethyric Armour (Metal)",
+    "name": "Эфирный доспех (Металл)"
+  },
+  "HDQVaCTpIy2PBdYu": {
+    "type": "weapon",
+    "sourceName": "Cavalry Hammer",
+    "name": "Кавалерийский молот"
+  },
+  "HEaxp50NEPnFiihl": {
+    "type": "mutation",
+    "sourceName": "Lonely Spirit",
+    "name": "Боязнь одиночества"
+  },
+  "HIofcsDLjXGKzSZf": {
+    "type": "talent",
+    "sourceName": "Embezzle",
+    "name": "Расхититель"
+  },
+  "HM9WbGOtUngY5TEm": {
+    "type": "spell",
+    "sourceName": "Chain Attack (Death)",
+    "name": "Цепной разряд (Смерть)"
+  },
+  "HN1cbMIPZ25m7ABR": {
+    "type": "career",
+    "sourceName": "Master Fence",
+    "name": "Ломбардщик"
+  },
+  "HO8vIjGTHjmenIaV": {
+    "type": "skill",
+    "sourceName": "Perform ()",
+    "name": "Сценическое искусство ()"
+  },
+  "HOqmAugvYdgLwoQt": {
+    "type": "spell",
+    "sourceName": "Healing Light",
+    "name": "Целительный свет"
+  },
+  "HVa2264i6PF7C8hz": {
+    "type": "career",
+    "sourceName": "Hustler",
+    "name": "Прохиндей"
+  },
+  "HVtGSSEFgyQgpbx4": {
+    "type": "spell",
+    "sourceName": "Aethyric Armour (Light)",
+    "name": "Эфирный доспех (Свет)"
+  },
+  "HXUQCiVOii3sNKGe": {
+    "type": "trapping",
+    "sourceName": "Pins",
+    "name": "Булавки/шпильки"
+  },
+  "HXZGXq1Ib6RytoH6": {
+    "type": "spell",
+    "sourceName": "Bridge (Hedgecraft)",
+    "name": "Мост (знахарство)"
+  },
+  "HXZaV1CJhmTvcAz4": {
+    "type": "skill",
+    "sourceName": "Heal",
+    "name": "Лечение"
+  },
+  "HZh2wueRro8Ks3yF": {
+    "type": "spell",
+    "sourceName": "Teleport (Necromancy)",
+    "name": "Телепортация (Некромантия)"
+  },
+  "HbrwGhUl0ZXz4kLA": {
+    "type": "trait",
+    "sourceName": "Hardy",
+    "name": "Здоровяк"
+  },
+  "HhfVsm3ZRwSahyMU": {
+    "type": "spell",
+    "sourceName": "Blast (Beasts)",
+    "name": "Взрыв (Звери)"
+  },
+  "HngrTVqKis08Nvcf": {
+    "type": "skill",
+    "sourceName": "Set Trap",
+    "name": "Обращение с ловушками"
+  },
+  "HoIgGN5ORog5dkIl": {
+    "type": "career",
+    "sourceName": "Charlatan",
+    "name": "Шарлатан"
+  },
+  "HozjxIwCSwkItBu5": {
+    "type": "trapping",
+    "sourceName": "Fish Hooks",
+    "name": "Рыболовные крючки"
+  },
+  "HpFkVJ2lYPAWumUL": {
+    "type": "spell",
+    "sourceName": "Great Fires of U’Zhul",
+    "name": "Великое пламя У'Зула"
+  },
+  "HpGjzrSR4tdogJtl": {
+    "type": "talent",
+    "sourceName": "Step Aside",
+    "name": "Разрыв дистанции"
+  },
+  "HqInHmOviuLqymdm": {
+    "type": "spell",
+    "sourceName": "Screaming Skull",
+    "name": "Вопящий череп"
+  },
+  "Hrs3p9z8NqyYEtRz": {
+    "type": "container",
+    "sourceName": "Flask",
+    "name": "Фляжка"
+  },
+  "HtN6uHPj7sK6EWMZ": {
+    "type": "career",
+    "sourceName": "Assassin",
+    "name": "Ассасин"
+  },
+  "HvZ019niuZcDJ5P0": {
+    "type": "container",
+    "sourceName": "Wagon",
+    "name": "Фургон"
+  },
+  "HyfQNt0QGGa0EltW": {
+    "type": "trapping",
+    "sourceName": "Hammer",
+    "name": "Молоток"
+  },
+  "I0QRyEA0tk4IAEAn": {
+    "type": "skill",
+    "sourceName": "Language (Reikspiel)",
+    "name": "Язык (рейкшпиль)"
+  },
+  "I0yPc4PH5erWJLmu": {
+    "type": "skill",
+    "sourceName": "Intimidate",
+    "name": "Запугивание"
+  },
+  "I8YPP2uRmUKyHEq2": {
+    "type": "prayer",
+    "sourceName": "Vanquish the Unrighteous",
+    "name": "Истребление нечестивцев"
+  },
+  "IAWyzDfC286a9MPz": {
+    "type": "trait",
+    "sourceName": "Immunity to Psychology",
+    "name": "Невозмутимость"
+  },
+  "IFKWu98qmWpaSfUi": {
+    "type": "talent",
+    "sourceName": "Ambidextrous",
+    "name": "Амбидекстр"
+  },
+  "IFtoI87gZ4phMHy9": {
+    "type": "trapping",
+    "sourceName": "Bedroll",
+    "name": "Спальный мешок"
+  },
+  "IFuUxTGFQAxp40si": {
+    "type": "spell",
+    "sourceName": "Dazzle",
+    "name": "Вспышки"
+  },
+  "IKW03JiqXVdDoPA6": {
+    "type": "prayer",
+    "sourceName": "Manann's Bounty",
+    "name": "Щедрость Мананна"
+  },
+  "ILOsg4RfvpUhXhQa": {
+    "type": "spell",
+    "sourceName": "Dome (Beasts)",
+    "name": "Купол (Звери)"
+  },
+  "IPKRMGry6WotuS1G": {
+    "type": "trait",
+    "sourceName": "Skittish",
+    "name": "Пугливость"
+  },
+  "IQ5MxF1XlWoRomfj": {
+    "type": "skill",
+    "sourceName": "Channelling (Shyish)",
+    "name": "Концентрация (Шаиш)"
+  },
+  "ISxI2dNkiRQn0P4n": {
+    "type": "career",
+    "sourceName": "Master Pilot",
+    "name": "Навигатор"
+  },
+  "IT3s7rmQFGNzIfYq": {
+    "type": "talent",
+    "sourceName": "Shieldsman",
+    "name": "Щитоносец"
+  },
+  "IYclEWSEVogFXf3w": {
+    "type": "spell",
+    "sourceName": "Entangle (Heavens)",
+    "name": "Обездвижение (Небеса)"
+  },
+  "IZkWdvSwQPrnjdsD": {
+    "type": "critical",
+    "sourceName": "Sliced Ear",
+    "name": "Рассечение уха"
+  },
+  "Ib2YQYChktDFN93y": {
+    "type": "psychology",
+    "sourceName": "Fear (Rating)",
+    "name": "Страх (Уровень)"
+  },
+  "IeHydxYWUYrmEdPy": {
+    "type": "career",
+    "sourceName": "Professor",
+    "name": "Профессор"
+  },
+  "Ieyr3r0Skl57DkAJ": {
+    "type": "trapping",
+    "sourceName": "Coat",
+    "name": "Тёплый плащ"
+  },
+  "Ij9N3G8jzxb4lrwy": {
+    "type": "talent",
+    "sourceName": "Sea Legs",
+    "name": "Мореплаватель"
+  },
+  "IlDSC7F3Ns4NDbyi": {
+    "type": "spell",
+    "sourceName": "Bridge (Metal)",
+    "name": "Мост (Металл)"
+  },
+  "ImUesrX52TXQyzvM": {
+    "type": "career",
+    "sourceName": "Engineer",
+    "name": "Инженер"
+  },
+  "IogM5gnsoOX63w7j": {
+    "type": "talent",
+    "sourceName": "Stout-hearted",
+    "name": "Отважное сердце"
+  },
+  "Ioxf9osVNGNyzIZA": {
+    "type": "critical",
+    "sourceName": "Major Eye Wound",
+    "name": "Серьёзная травма глаза"
+  },
+  "IuKAeoZqCEAC9NtH": {
+    "type": "spell",
+    "sourceName": "Terrifying (Light)",
+    "name": "Ужасающий облик (Свет)"
+  },
+  "Iz88EUCTmIYQXOY9": {
+    "type": "spell",
+    "sourceName": "Terrifying (Daemonology)",
+    "name": "Ужасающий облик (Демонология)"
+  },
+  "J02PRoX8q5e0cDv6": {
+    "type": "career",
+    "sourceName": "Bounty Hunter",
+    "name": "Охотник за головами"
+  },
+  "J0DWeBBIa40gzWqV": {
+    "type": "spell",
+    "sourceName": "Entangle (Shadow)",
+    "name": "Обездвижение (Тень)"
+  },
+  "J0wUSVSnos7fBprP": {
+    "type": "spell",
+    "sourceName": "Terrifying",
+    "name": "Ужасающий облик"
+  },
+  "J9MK0AIaTbvd5oF6": {
+    "type": "talent",
+    "sourceName": "Drilled",
+    "name": "Строевая подготовка"
+  },
+  "J9sVeK9nbQLFyUMU": {
+    "type": "weapon",
+    "sourceName": "Shield (Buckler)",
+    "name": "Щит (баклер)"
+  },
+  "JBRSMYhicrhD3b9v": {
+    "type": "trapping",
+    "sourceName": "Stables/night",
+    "name": "Конюшня, 1 ночь"
+  },
+  "JDSX0Cin7I6UVCLH": {
+    "type": "spell",
+    "sourceName": "Corrosive Blood (Witchcraft)",
+    "name": "Едкий ихор (ведьмовство)"
+  },
+  "JGRyUj4AZq8oGpKs": {
+    "type": "spell",
+    "sourceName": "Fat of the Land",
+    "name": "Жир земли"
+  },
+  "JIAe7i7dqTQBu4do": {
+    "type": "trait",
+    "sourceName": "Territorial",
+    "name": "Территориальный"
+  },
+  "JKm6YDR88Friuw6h": {
+    "type": "critical",
+    "sourceName": "Crushed Elbow",
+    "name": "Раздробленный локоть"
+  },
+  "JLzJws09GMw9GWBV": {
+    "type": "talent",
+    "sourceName": "Coolheaded",
+    "name": "Самообладание"
+  },
+  "JQa5DLnTs2SEzRrc": {
+    "type": "trait",
+    "sourceName": "Dark Vision",
+    "name": "Ночное зрение"
+  },
+  "JR6GZJDVNupDnnbm": {
+    "type": "mutation",
+    "sourceName": "Inverted Face",
+    "name": "Перевёрнутое лицо"
+  },
+  "JS0LEfU1Y5clOJpT": {
+    "type": "mutation",
+    "sourceName": "Tortured Visions",
+    "name": "Кошмарные видения"
+  },
+  "JX4Qy1qVog3PZBvA": {
+    "type": "trapping",
+    "sourceName": "Davrich Lamp",
+    "name": "Лампа Давриха"
+  },
+  "JaEYSLJU5B2bknNc": {
+    "type": "mutation",
+    "sourceName": "Enormous Eye",
+    "name": "Огромный глаз"
+  },
+  "JbSjlgUdzsl5ok95": {
+    "type": "trapping",
+    "sourceName": "Heartkill",
+    "name": "Сердцебой"
+  },
+  "JcAgEHxuY9hwB4y5": {
+    "type": "critical",
+    "sourceName": "Bad Cut",
+    "name": "Глубокий порез"
+  },
+  "JeWuOwm0nM4V1brh": {
+    "type": "career",
+    "sourceName": "Wizard",
+    "name": "Маг"
+  },
+  "Jkt465WPdRcejLwl": {
+    "type": "prayer",
+    "sourceName": "Blessing of Recuperation",
+    "name": "Благословение выздоровления"
+  },
+  "JpKZSkyF2CZqkZ6d": {
+    "type": "spell",
+    "sourceName": "Distracting (Beasts)",
+    "name": "Дезориентация (Звери)"
+  },
+  "JvK9jnniMihpDuDX": {
+    "type": "spell",
+    "sourceName": "Ward (Metal)",
+    "name": "Оберег (Металл)"
+  },
+  "JxmIQjVuoPcQnyPF": {
+    "type": "prayer",
+    "sourceName": "Lord of the Hunt",
+    "name": "Владыка охоты"
+  },
+  "JzeN9MZ0xUDvpE2l": {
+    "type": "trait",
+    "sourceName": "Vomit",
+    "name": "Отрыжка"
+  },
+  "K0WjEuCqGDUwAPE6": {
+    "type": "critical",
+    "sourceName": "Twisted Back",
+    "name": "Лёгкая травма спины"
+  },
+  "K0zoHArrRehHV8t2": {
+    "type": "spell",
+    "sourceName": "Blast (Metal)",
+    "name": "Взрыв (Металл)"
+  },
+  "K34pxV6XsxhoZRiQ": {
+    "type": "weapon",
+    "sourceName": "Heavy Crossbow",
+    "name": "Тяжёлый арбалет"
+  },
+  "K37ME8M75JvtM3Vr": {
+    "type": "spell",
+    "sourceName": "Lifebloom",
+    "name": "Цветение жизни"
+  },
+  "K5DE9cceinUTIrem": {
+    "type": "prayer",
+    "sourceName": "Blessing of Protection",
+    "name": "Благословение защиты"
+  },
+  "KB58O2LWcrzIb6do": {
+    "type": "critical",
+    "sourceName": "Black Eye",
+    "name": "Подбитый глаз"
+  },
+  "KB8HgDz56dh2w7w1": {
+    "type": "money",
+    "sourceName": "Silver Shilling",
+    "name": "Серебряный шиллинг"
+  },
+  "KEEmMZK5mpcoRU69": {
+    "type": "career",
+    "sourceName": "Thief",
+    "name": "Вор"
+  },
+  "KGRIdIDE57BV54Ub": {
+    "type": "spell",
+    "sourceName": "Breath (Life)",
+    "name": "Смертоносное дыхание (Жизнь)"
+  },
+  "KGW0J62iYLqRIfS4": {
+    "type": "trapping",
+    "sourceName": "Engineering Marvel",
+    "name": "Инженерное чудо"
+  },
+  "KII1gWnxIZ8HzmU5": {
+    "type": "trait",
+    "sourceName": "Wallcrawler",
+    "name": "Верхолаз"
+  },
+  "KL4pCOqma5E7fLG4": {
+    "type": "skill",
+    "sourceName": "Row",
+    "name": "Гребля"
+  },
+  "KQjZ85kKz42YQGYT": {
+    "type": "skill",
+    "sourceName": "Ranged (Sling)",
+    "name": "Стрельба (пращи)"
+  },
+  "KSDrXcieyRc37YI7": {
+    "type": "prayer",
+    "sourceName": "Blessing of Might",
+    "name": "Благословение мощи"
+  },
+  "KSwMbO8dqISoGuIo": {
+    "type": "weapon",
+    "sourceName": "Staff Sling",
+    "name": "Посох-праща"
+  },
+  "KVAOh3zmvzqAbhBr": {
+    "type": "career",
+    "sourceName": "Pit Champion",
+    "name": "Чемпион арены"
+  },
+  "KWaFV7NPZqtgnL9Z": {
+    "type": "trapping",
+    "sourceName": "Clothing",
+    "name": "Одежда"
+  },
+  "Kh8kZ4aq8Xjp0cyL": {
+    "type": "spell",
+    "sourceName": "Blast (Life)",
+    "name": "Взрыв (Жизнь)"
+  },
+  "KlT5qZzI1bsdvoHv": {
+    "type": "weapon",
+    "sourceName": "Unarmed",
+    "name": "Безоружная атака"
+  },
+  "KsiV56hwdm5dZ1RO": {
+    "type": "career",
+    "sourceName": "Courier",
+    "name": "Курьер"
+  },
+  "KuG92SPVmXnbtdF5": {
+    "type": "career",
+    "sourceName": "Rabble Rouser",
+    "name": "Подстрекатель"
+  },
+  "Kv2amawh7q3zGEij": {
+    "type": "spell",
+    "sourceName": "Aethyric Arms (Death)",
+    "name": "Эфирное оружие (Смерть)"
+  },
+  "KvapXfYXiCcAOe7S": {
+    "type": "spell",
+    "sourceName": "Push (Necromancy)",
+    "name": "Расталкивание (Некромантия)"
+  },
+  "KynNUYYKzTMeHrKl": {
+    "type": "trait",
+    "sourceName": "Constrictor",
+    "name": "Душитель"
+  },
+  "KzJkoB12jpidtngo": {
+    "type": "trapping",
+    "sourceName": "Bugman’s XXXXXX Ale, pint",
+    "name": "Эль «Бугманн ХХХХХХ», пинта"
+  },
+  "L1MoarOIAlia1Ti4": {
+    "type": "talent",
+    "sourceName": "Beat Blade",
+    "name": "Батман"
+  },
+  "L4FGhEguFJVNWk6O": {
+    "type": "career",
+    "sourceName": "Sage",
+    "name": "Прорицатель"
+  },
+  "L74MT9BDwE4CfutY": {
+    "type": "talent",
+    "sourceName": "Old Salt",
+    "name": "Морской волк"
+  },
+  "LGHozP5gmQ8cuDQV": {
+    "type": "skill",
+    "sourceName": "Athletics",
+    "name": "Атлетика"
+  },
+  "LKGrjbTZgEh3GUMF": {
+    "type": "container",
+    "sourceName": "Saddlebags",
+    "name": "Перемётные сумки"
+  },
+  "LKrfb4o45tmEOmeg": {
+    "type": "spell",
+    "sourceName": "Corrosive Blood (Life)",
+    "name": "Едкий ихор (Жизнь)"
+  },
+  "LOEdFN7fP0JHuGoE": {
+    "type": "spell",
+    "sourceName": "Ward",
+    "name": "Оберег"
+  },
+  "LORTDrR65x2k9raH": {
+    "type": "container",
+    "sourceName": "Coach",
+    "name": "Дилижанс/карета"
+  },
+  "LPgjE0cexTVOBVCY": {
+    "type": "talent",
+    "sourceName": "Suave",
+    "name": "Учтивость"
+  },
+  "LTUC1fqIuuGSUaQ1": {
+    "type": "spell",
+    "sourceName": "The Amber Spear",
+    "name": "Янтарное копьё"
+  },
+  "LU6Ycl5z4kp1Wr04": {
+    "type": "talent",
+    "sourceName": "Mimic",
+    "name": "Имитатор"
+  },
+  "LWBMThQzG5aCSNXP": {
+    "type": "mutation",
+    "sourceName": "Glowing Skin",
+    "name": "Светящаяся кожа"
+  },
+  "LYBKDZ0AhutYewfD": {
+    "type": "career",
+    "sourceName": "Trapper",
+    "name": "Зверолов"
+  },
+  "LZ8ThwJsGDgiPkAd": {
+    "type": "critical",
+    "sourceName": "Smashed Mouth",
+    "name": "Выбитые зубы"
+  },
+  "Ldf5kDBob8H0v6iV": {
+    "type": "trapping",
+    "sourceName": "Abacus",
+    "name": "Абак"
+  },
+  "LdqCjnTAiiRZU1Sq": {
+    "type": "critical",
+    "sourceName": "Fractured Hip",
+    "name": "Перелом рёбер"
+  },
+  "Lkk2NQC1dkUb6yOS": {
+    "type": "career",
+    "sourceName": "Nun",
+    "name": "Монах"
+  },
+  "LobXt1Wa3x3EogpB": {
+    "type": "career",
+    "sourceName": "Watchman",
+    "name": "Городской стражник"
+  },
+  "LrYz9nSsmH4H3He4": {
+    "type": "trapping",
+    "sourceName": "Hat",
+    "name": "Шляпа"
+  },
+  "Lst4xxUcxTYMlD3U": {
+    "type": "skill",
+    "sourceName": "Melee (Two-Handed)",
+    "name": "Рукопашный бой (двуручное)"
+  },
+  "LzgxyMknSHjSkkeQ": {
+    "type": "talent",
+    "sourceName": "Cat-tongued",
+    "name": "Витийство"
+  },
+  "M15Fg1Wdl047rD8L": {
+    "type": "critical",
+    "sourceName": "Rattling Blow",
+    "name": "Весомый удар"
+  },
+  "M23N8sjzEp16abQQ": {
+    "type": "weapon",
+    "sourceName": "Repeater Handgun",
+    "name": "Многозарядное ружьё"
+  },
+  "M3jbTwEZ8jZCxQ8Z": {
+    "type": "spell",
+    "sourceName": "Drop (Witchcraft)",
+    "name": "Дырявые руки (ведьмовство)"
+  },
+  "M5QSWOYt2Rbv2yxW": {
+    "type": "trait",
+    "sourceName": "Corrosive Blood",
+    "name": "Едкий ихор"
+  },
+  "M5rVGn8jfQXVkY57": {
+    "type": "trapping",
+    "sourceName": "Chicken",
+    "name": "Курица"
+  },
+  "M71CyisSXU0I7V1S": {
+    "type": "weapon",
+    "sourceName": "Crossbow Pistol",
+    "name": "Одноручный арбалет"
+  },
+  "M8XyRs9DN12XsFTQ": {
+    "type": "disease",
+    "sourceName": "Blood Rot",
+    "name": "Кровяная гниль"
+  },
+  "MF43A52UBH8SHOnd": {
+    "type": "trapping",
+    "sourceName": "Tent",
+    "name": "Палатка"
+  },
+  "MGEPI4jNhymNIRVz": {
+    "type": "talent",
+    "sourceName": "Scale Sheer Surface",
+    "name": "Цепкость"
+  },
+  "MIgKjszwK6hk7Pps": {
+    "type": "spell",
+    "sourceName": "Bearing",
+    "name": "Магический компас"
+  },
+  "MNaGRYlkySIdA6Nj": {
+    "type": "career",
+    "sourceName": "Boat-hand",
+    "name": "Гребец"
+  },
+  "MR0d08qmDDbqujmS": {
+    "type": "career",
+    "sourceName": "Watch Captain",
+    "name": "Капитан Городской стражи"
+  },
+  "MVI0lXcg6vvtooAF": {
+    "type": "trait",
+    "sourceName": "Distracting",
+    "name": "Дезориентация"
+  },
+  "MWyxcAft5lonB1mB": {
+    "type": "skill",
+    "sourceName": "Ranged (Entangling)",
+    "name": "Стрельба (ловчее)"
+  },
+  "MXy22hFCgntdlQrn": {
+    "type": "skill",
+    "sourceName": "Animal Care",
+    "name": "Обращение с животными"
+  },
+  "MZuAg4zB17prHXaG": {
+    "type": "critical",
+    "sourceName": "Smashed Rib Cage",
+    "name": "Множественные переломы рёбер"
+  },
+  "MasblfJG8SmHrVCF": {
+    "type": "spell",
+    "sourceName": "Corrosive Blood (Beasts)",
+    "name": "Едкий ихор (Звери)"
+  },
+  "McTtmZu3Ac8Lh48W": {
+    "type": "skill",
+    "sourceName": "Stealth ()",
+    "name": "Скрытность ()"
+  },
+  "MdNzPNRgxkdMwbjj": {
+    "type": "spell",
+    "sourceName": "Distracting (Fire)",
+    "name": "Дезориентация (Огонь)"
+  },
+  "MdrqSnA014jBggAV": {
+    "type": "mutation",
+    "sourceName": "Unholy Rage",
+    "name": "Нечестивая ярость"
+  },
+  "MeXCAQ3wqJzX07X7": {
+    "type": "skill",
+    "sourceName": "Ride ()",
+    "name": "Верховая езда ()"
+  },
+  "MhpmVs0WVP96uOnw": {
+    "type": "spell",
+    "sourceName": "Move Object (Heavens)",
+    "name": "Телекинез (Небеса)"
+  },
+  "Ml6ZblglcSbVhXyh": {
+    "type": "skill",
+    "sourceName": "Trade (Smith)",
+    "name": "Ремесло (кузнец)"
+  },
+  "MlF3ci9vxiDZYhmZ": {
+    "type": "spell",
+    "sourceName": "Detect Daemon",
+    "name": "Обнаружение демона"
+  },
+  "MnMZv7ZXoRqoH9dS": {
+    "type": "injury",
+    "sourceName": "Amputated Arm",
+    "name": "Ампутированная рука"
+  },
+  "MoiYSfJRPHu7SZCQ": {
+    "type": "talent",
+    "sourceName": "Distract",
+    "name": "Отвлекающий манёвр"
+  },
+  "MsrHDvVgAb8tUJec": {
+    "type": "career",
+    "sourceName": "Hexer",
+    "name": "Ворожея"
+  },
+  "MtAmDCEzeM8LjtRn": {
+    "type": "trapping",
+    "sourceName": "Leaflet",
+    "name": "Листовка"
+  },
+  "Mu5dU4IcP58LBQwi": {
+    "type": "psychology",
+    "sourceName": "Phobia (Target)",
+    "name": "Фобия (цель)"
+  },
+  "MvMAvys9IhMIgNqX": {
+    "type": "career",
+    "sourceName": "Hedge Master",
+    "name": "Знахарь-наставник"
+  },
+  "MzppW5E5c3by9iBU": {
+    "type": "armour",
+    "sourceName": "Leather Leggings",
+    "name": "Кожаные штаны"
+  },
+  "N1aBnhPpQUu0Bkuh": {
+    "type": "spell",
+    "sourceName": "Terrifying (Heavens)",
+    "name": "Ужасающий облик (Небеса)"
+  },
+  "N3aHfG4XASsiNoRv": {
+    "type": "weapon",
+    "sourceName": "Military Flail",
+    "name": "Боевой цеп"
+  },
+  "N8HJlumE3hOgpPC2": {
+    "type": "trapping",
+    "sourceName": "Ale, pint",
+    "name": "Эль, пинта"
+  },
+  "N9ICWNGmsYcBzmtv": {
+    "type": "spell",
+    "sourceName": "Fearsome (Shadow)",
+    "name": "Устрашающий облик (Тень)"
+  },
+  "NDetl9BhAQBVnHKf": {
+    "type": "talent",
+    "sourceName": "Combat Master",
+    "name": "Бывалый воин"
+  },
+  "NIom9HWXYywyGMLR": {
+    "type": "career",
+    "sourceName": "Master Engineer",
+    "name": "Мастер-инженер"
+  },
+  "NM9FGsijRFByrl3M": {
+    "type": "spell",
+    "sourceName": "Dome (Light)",
+    "name": "Купол (Свет)"
+  },
+  "NP4EHyyh1yOLbsPU": {
+    "type": "talent",
+    "sourceName": "Surgery",
+    "name": "Хирург"
+  },
+  "NPhLsxsUV8wwdKWj": {
+    "type": "critical",
+    "sourceName": "Crushed Foot",
+    "name": "Раздробленная стопа"
+  },
+  "NQ4OVp1ZfinJ7lQH": {
+    "type": "ammunition",
+    "sourceName": "Elf Arrow",
+    "name": "Эльфийская стрела"
+  },
+  "NSnpJQiky8JcMnme": {
+    "type": "skill",
+    "sourceName": "Ranged (Throwing)",
+    "name": "Стрельба (метательное)"
+  },
+  "NUTVPuhPWA7xCCg3": {
+    "type": "spell",
+    "sourceName": "Chain Attack (Life)",
+    "name": "Цепной разряд (Жизнь)"
+  },
+  "NXHZ3RtPN3SrSH8I": {
+    "type": "spell",
+    "sourceName": "Protection from Rain",
+    "name": "Защита от дождя"
+  },
+  "NcLVAmFCMddUGUl3": {
+    "type": "career",
+    "sourceName": "Witch",
+    "name": "Ведьма"
+  },
+  "NeERYZQcEa0lI9kz": {
+    "type": "spell",
+    "sourceName": "Gust",
+    "name": "Порыв ветра"
+  },
+  "Nemd0MJ4MOcOJYhT": {
+    "type": "skill",
+    "sourceName": "Language (Albion)",
+    "name": "Язык (альбионский)"
+  },
+  "Ni4hNAPv3LhTpgMA": {
+    "type": "trait",
+    "sourceName": "Clever",
+    "name": "Острый ум"
+  },
+  "Nj3tC8A5fZ3zEdMR": {
+    "type": "talent",
+    "sourceName": "Holy Visions",
+    "name": "Видения свыше"
+  },
+  "NwVgP5msZHERwEfK": {
+    "type": "spell",
+    "sourceName": "Octagram",
+    "name": "Октаграмма"
+  },
+  "NwZeZd81PTXTK1WO": {
+    "type": "spell",
+    "sourceName": "Dark Vision (Shadow)",
+    "name": "Ночное зрение (Тень)"
+  },
+  "NyIwm2Ge60jnUZft": {
+    "type": "weapon",
+    "sourceName": "Rock",
+    "name": "Камень"
+  },
+  "NytMCgP0IXtHnFwm": {
+    "type": "spell",
+    "sourceName": "Blight",
+    "name": "Порча"
+  },
+  "NzRTWXHlQ8I46RW4": {
+    "type": "mutation",
+    "sourceName": "Extra Mouth",
+    "name": "Дополнительный рот"
+  },
+  "NzmG8oghB65XqdDd": {
+    "type": "skill",
+    "sourceName": "Ride (Pegasus)",
+    "name": "Верховая езда (пегасы)"
+  },
+  "O0FIdOQphDl9hozq": {
+    "type": "career",
+    "sourceName": "Gang Boss",
+    "name": "Главарь банды"
+  },
+  "O2jqCh3Zb5eR4yXe": {
+    "type": "weapon",
+    "sourceName": "Lance",
+    "name": "Кавалерийское копьё"
+  },
+  "O7G5olv0aWLpb7Ea": {
+    "type": "spell",
+    "sourceName": "Drain",
+    "name": "Испивание"
+  },
+  "OB05oGoSZDzNYLjW": {
+    "type": "spell",
+    "sourceName": "Speed of Thought",
+    "name": "Скорость мысли"
+  },
+  "OD83JAlc9KhDpHK5": {
+    "type": "trapping",
+    "sourceName": "Trade Tools (Type)",
+    "name": "Рабочие инструменты (Тип)"
+  },
+  "OERQpwcRziRTeQRb": {
+    "type": "career",
+    "sourceName": "Novitiate (Warrior Priest)",
+    "name": "Неофит"
+  },
+  "OEjUvJKi0xmBwbS2": {
+    "type": "talent",
+    "sourceName": "Second Sight",
+    "name": "Второе зрение"
+  },
+  "ONz21FviMRk3AyvE": {
+    "type": "prayer",
+    "sourceName": "Tanglefoot",
+    "name": "Густая лоза"
+  },
+  "OROfMcVqRnZHINkU": {
+    "type": "talent",
+    "sourceName": "Wealthy",
+    "name": "Богач"
+  },
+  "OXfa9uwG36syzaix": {
+    "type": "talent",
+    "sourceName": "Lip Reading",
+    "name": "Чтение по губам"
+  },
+  "OZMvB887CeshFy7b": {
+    "type": "skill",
+    "sourceName": "Perform (Dancing)",
+    "name": "Сценическое искусство (танец)"
+  },
+  "OcYPErjJzQKOX2aI": {
+    "type": "spell",
+    "sourceName": "Doppelganger",
+    "name": "Доппельгангер"
+  },
+  "OecIbh44q1oXuOAT": {
+    "type": "career",
+    "sourceName": "Pamphleteer",
+    "name": "Памфлетист"
+  },
+  "OfGoWncevRmuj5TX": {
+    "type": "trapping",
+    "sourceName": "Nightshade",
+    "name": "Дурман"
+  },
+  "Ofrbz80hutlvBXUe": {
+    "type": "spell",
+    "sourceName": "Bridge (Daemonology)",
+    "name": "Мост (Демонология)"
+  },
+  "OiMiQmsv1mut24jD": {
+    "type": "prayer",
+    "sourceName": "Rhya's Harvest",
+    "name": "Урожай Райи"
+  },
+  "OjcHE0VOGr1aRdy9": {
+    "type": "armour",
+    "sourceName": "Leather Jack",
+    "name": "Кожаная куртка"
+  },
+  "OkKWAfnMiHfxhTnB": {
+    "type": "prayer",
+    "sourceName": "Blessing of Finesse",
+    "name": "Благословение грации"
+  },
+  "OkrKY1720QEIXikD": {
+    "type": "spell",
+    "sourceName": "Terrifying (Witchcraft)",
+    "name": "Ужасающий облик (ведьмовство)"
+  },
+  "OnaQ9kiK5S2d31pE": {
+    "type": "spell",
+    "sourceName": "Aethyric Arms",
+    "name": "Эфирное оружие"
+  },
+  "Ot8ZcvD78wPnJzkE": {
+    "type": "career",
+    "sourceName": "Ship's Master",
+    "name": "Капитан корабля"
+  },
+  "OuDdJRDo3W56zk0Z": {
+    "type": "skill",
+    "sourceName": "Ranged (Crossbow)",
+    "name": "Стрельба (арбалеты)"
+  },
+  "OwH4hpe1EReh06t3": {
+    "type": "spell",
+    "sourceName": "Illusion",
+    "name": "Иллюзия"
+  },
+  "OzwDT6kzoLYeeR2d": {
+    "type": "trait",
+    "sourceName": "Stealthy",
+    "name": "Незаметность"
+  },
+  "P136wDtdbsbvOsAk": {
+    "type": "spell",
+    "sourceName": "Drop (Shadow)",
+    "name": "Дырявые руки (Тень)"
+  },
+  "P6opRTvzX1rgzfgE": {
+    "type": "critical",
+    "sourceName": "Wrenched Collar Bone",
+    "name": "Вывих ключицы"
+  },
+  "PFQYm0XaYcoeSYxE": {
+    "type": "skill",
+    "sourceName": "Trade (Chandler)",
+    "name": "Ремесло (свечник)"
+  },
+  "PFTD9gDvRWW9uh5g": {
+    "type": "trait",
+    "sourceName": "Undead",
+    "name": "Нежить"
+  },
+  "PGhUdEZmFUe7vTWK": {
+    "type": "career",
+    "sourceName": "Pugilist",
+    "name": "Кулачный боец"
+  },
+  "PIL4yBcGlk96cvcb": {
+    "type": "spell",
+    "sourceName": "Daemonbane",
+    "name": "Бич демонов"
+  },
+  "PIPU1glIR4jx1Z2E": {
+    "type": "career",
+    "sourceName": "Pilot",
+    "name": "Кормчий"
+  },
+  "PJ4oxDExnuFNr2Fi": {
+    "type": "talent",
+    "sourceName": "Secret Identity",
+    "name": "Альтер эго"
+  },
+  "PKkGM5Q0Chmt5qFe": {
+    "type": "trapping",
+    "sourceName": "Book, Religion",
+    "name": "Книга (религия)"
+  },
+  "PKuHxRwZ2SVVIE0y": {
+    "type": "spell",
+    "sourceName": "Bridge (Life)",
+    "name": "Мост (Жизнь)"
+  },
+  "PaW8i6JOxWyzAZCz": {
+    "type": "trait",
+    "sourceName": "Disease",
+    "name": "Разносчик"
+  },
+  "PbCD8mjAKQSnxAe6": {
+    "type": "spell",
+    "sourceName": "Warning",
+    "name": "Предостережение"
+  },
+  "PcKMAEF6UoaPSK6d": {
+    "type": "prayer",
+    "sourceName": "Tooth and Claw",
+    "name": "Клык и коготь"
+  },
+  "PhCFqJif8iQaiOm0": {
+    "type": "critical",
+    "sourceName": "Tis But A Scratch!",
+    "name": "Просто царапина!"
+  },
+  "PiHjiktsOzTTn6U7": {
+    "type": "career",
+    "sourceName": "Student",
+    "name": "Студент"
+  },
+  "PiX6AORRMfW2xB6f": {
+    "type": "spell",
+    "sourceName": "Bridge (Light)",
+    "name": "Мост (Свет)"
+  },
+  "PkqPqy3Fy9fawQZ8": {
+    "type": "spell",
+    "sourceName": "Haunting Horror",
+    "name": "Проклятое место"
+  },
+  "Pmcq5P7yRnYsoFYf": {
+    "type": "mutation",
+    "sourceName": "Uneven Horns",
+    "name": "Кривые рога"
+  },
+  "PmyKqVD6NOb2RzYh": {
+    "type": "career",
+    "sourceName": "Agitator",
+    "name": "Агитатор"
+  },
+  "PnYGK5FPgEGM1Ck3": {
+    "type": "weapon",
+    "sourceName": "Pistol",
+    "name": "Пистолет"
+  },
+  "PoYlemaEIbZw30Em": {
+    "type": "talent",
+    "sourceName": "River Guide",
+    "name": "Знаток рек"
+  },
+  "PpMxNEHPJag1i9WJ": {
+    "type": "spell",
+    "sourceName": "Magic Shield (Life)",
+    "name": "Магический щит (Жизнь)"
+  },
+  "Pw4GYr6PZgFuOiT5": {
+    "type": "spell",
+    "sourceName": "Flight (Light)",
+    "name": "Полёт (Свет)"
+  },
+  "PzimjNx9Ojq4g6mV": {
+    "type": "skill",
+    "sourceName": "Melee (Polearm)",
+    "name": "Рукопашный бой (древковое)"
+  },
+  "Q1sXSEtjvMVxd5xi": {
+    "type": "career",
+    "sourceName": "Ringleader",
+    "name": "Делец"
+  },
+  "Q2Ip5ItHNSyBNwkg": {
+    "type": "trapping",
+    "sourceName": "Paint Brush",
+    "name": "Кисть"
+  },
+  "Q2MCUrG2HppMcvN0": {
+    "type": "psychology",
+    "sourceName": "Animosity (Target)",
+    "name": "Враждебность (к группе)"
+  },
+  "Q8LodCIteEa4ufrn": {
+    "type": "spell",
+    "sourceName": "Flight (Life)",
+    "name": "Полёт (Жизнь)"
+  },
+  "Q91bWCEn0gt33fGT": {
+    "type": "prayer",
+    "sourceName": "Blazing Sun",
+    "name": "Слепящее солнце"
+  },
+  "QCgsQbeEvV4dPB2D": {
+    "type": "trapping",
+    "sourceName": "Stamp, engraved",
+    "name": "Штамп"
+  },
+  "QJ1sfMkNmIh04nky": {
+    "type": "skill",
+    "sourceName": "Channelling (Chamon)",
+    "name": "Концентрация (Шамон)"
+  },
+  "QM906gNihyYSbJQ8": {
+    "type": "career",
+    "sourceName": "Beggar",
+    "name": "Попрошайка"
+  },
+  "QNkxj6vyBm2WEdOA": {
+    "type": "spell",
+    "sourceName": "Distracting (Metal)",
+    "name": "Дезориентация (Металл)"
+  },
+  "QSHKYMNy2yr1n9ww": {
+    "type": "spell",
+    "sourceName": "Hunter's Hide",
+    "name": "Шкура охотника"
+  },
+  "QSwJNH8sotKjtdi4": {
+    "type": "prayer",
+    "sourceName": "Rich Man, Poor Man, Beggar Man, Thief",
+    "name": "Богач, бедняк, бродяга, тать"
+  },
+  "QUjbPexRsKhqVDgq": {
+    "type": "career",
+    "sourceName": "Master Smuggler",
+    "name": "Лихой контрабандист"
+  },
+  "QXQA1ycrJHzZkIou": {
+    "type": "skill",
+    "sourceName": "Play (Lute)",
+    "name": "Музицирование (лютня)"
+  },
+  "QXZoHPoHFmDuTHpy": {
+    "type": "career",
+    "sourceName": "Spy",
+    "name": "Шпион"
+  },
+  "QcJfSMq3c50pGBen": {
+    "type": "spell",
+    "sourceName": "Breath (Death)",
+    "name": "Смертоносное дыхание (Смерть)"
+  },
+  "QdEWdjfjIdrQAKUO": {
+    "type": "career",
+    "sourceName": "Pit Legend",
+    "name": "Легенда арены"
+  },
+  "QdvY9hoDTbr12jXq": {
+    "type": "talent",
+    "sourceName": "Magnum Opus",
+    "name": "Magnum Opus"
+  },
+  "Qg98e2pFgCW63aB1": {
+    "type": "spell",
+    "sourceName": "Destroy Lesser Demon",
+    "name": "Уничтожение низшего демона"
+  },
+  "QiHMX5OyXBhWCYoF": {
+    "type": "disease",
+    "sourceName": "Ratte Fever",
+    "name": "Крысиная лихорадка"
+  },
+  "QkBpHcb2BuZMSDZt": {
+    "type": "spell",
+    "sourceName": "Breath (Beasts)",
+    "name": "Смертоносное дыхание (Звери)"
+  },
+  "QluSTTTq3viHJJUh": {
+    "type": "injury",
+    "sourceName": "Broken Body (Minor)",
+    "name": "Лёгкий перелом (торс)"
+  },
+  "QmjYLCaEn3YKHxdv": {
+    "type": "spell",
+    "sourceName": "Bolt",
+    "name": "Стрела (заклинание)"
+  },
+  "QnFLWJmz2DN76Dx5": {
+    "type": "weapon",
+    "sourceName": "Great Axe",
+    "name": "Двуручный топор"
+  },
+  "QolNfSUkezLoAcky": {
+    "type": "talent",
+    "sourceName": "Reversal",
+    "name": "Рокировка"
+  },
+  "QpqxyJ8dkzG3qKrE": {
+    "type": "trapping",
+    "sourceName": "Doll",
+    "name": "Кукла"
+  },
+  "QreTSlhgK9IfwTJa": {
+    "type": "career",
+    "sourceName": "Hedge Apprentice",
+    "name": "Ученик знахаря"
+  },
+  "QsrXxGZiHjth7RMg": {
+    "type": "talent",
+    "sourceName": "Savvy",
+    "name": "Смекалка"
+  },
+  "QtWY9ruGFQ6cncLQ": {
+    "type": "spell",
+    "sourceName": "Mundane Aura (Heavens)",
+    "name": "Обыденная аура (Небеса)"
+  },
+  "QvPzxossG9zDSB2o": {
+    "type": "career",
+    "sourceName": "Attendant",
+    "name": "Камердинер"
+  },
+  "QyjWtSdnVMT04l5Y": {
+    "type": "talent",
+    "sourceName": "Bless",
+    "name": "Благословение"
+  },
+  "R0n47B7PvdOaTl23": {
+    "type": "spell",
+    "sourceName": "Drop (Heavens)",
+    "name": "Дырявые руки (Небеса)"
+  },
+  "R2ytluHiEFF2KQ5e": {
+    "type": "skill",
+    "sourceName": "Consume Alcohol",
+    "name": "Кутёж"
+  },
+  "R6Q16WOXcPfaHnOb": {
+    "type": "prayer",
+    "sourceName": "Blind Justice",
+    "name": "Слепое правосудие"
+  },
+  "RB2sN09lX3m7dkOg": {
+    "type": "injury",
+    "sourceName": "Torn Head Muscle (Major)",
+    "name": "Серьёзный разрыв мышцы (голова)"
+  },
+  "RGrmA9jAFzrR5tH5": {
+    "type": "career",
+    "sourceName": "Explorer",
+    "name": "Первооткрыватель"
+  },
+  "RHkj94yUJp620xr1": {
+    "type": "weapon",
+    "sourceName": "Longbow",
+    "name": "Длинный лук"
+  },
+  "RHqux3m4dgJoDkqG": {
+    "type": "container",
+    "sourceName": "Sack",
+    "name": "Мешок"
+  },
+  "RK264JugQroGklvh": {
+    "type": "career",
+    "sourceName": "Cavalryman",
+    "name": "Кавалерист"
+  },
+  "RLBB8XHqLDM4XejE": {
+    "type": "critical",
+    "sourceName": "Bruised Ribs",
+    "name": "Ушиб рёбер"
+  },
+  "RLQHm1s4IuY9RSr2": {
+    "type": "skill",
+    "sourceName": "Gossip",
+    "name": "Сплетничество"
+  },
+  "RLSVcLqPvnd1cg4U": {
+    "type": "skill",
+    "sourceName": "Channelling (Ghyran)",
+    "name": "Концентрация (Гайран)"
+  },
+  "RN1IeSarIRaqyT95": {
+    "type": "trapping",
+    "sourceName": "Tongs, steel",
+    "name": "Щипцы/Клещи"
+  },
+  "ROmZq14yqEXx6zYN": {
+    "type": "spell",
+    "sourceName": "Blast (Fire)",
+    "name": "Взрыв (Огонь)"
+  },
+  "RShhxeal5U14P8Bh": {
+    "type": "spell",
+    "sourceName": "Entangle (Light)",
+    "name": "Обездвижение (Свет)"
+  },
+  "RWJrupj9seau0w31": {
+    "type": "talent",
+    "sourceName": "Strike to Injure",
+    "name": "Безжалостный удар"
+  },
+  "RYrUWrXH6O22FZY8": {
+    "type": "spell",
+    "sourceName": "Push (Life)",
+    "name": "Расталкивание (Жизнь)"
+  },
+  "RbnrfHf7GSQap0ig": {
+    "type": "talent",
+    "sourceName": "Kingpin",
+    "name": "Большая шишка"
+  },
+  "Rd8i9cLTw16hepEE": {
+    "type": "spell",
+    "sourceName": "Dark Vision (Hedgecraft)",
+    "name": "Ночное зрение (знахарство)"
+  },
+  "RdnDGTwpYFhCID6N": {
+    "type": "career",
+    "sourceName": "Con Artist",
+    "name": "Аферист"
+  },
+  "RiqCDDKRHTEJp3Bm": {
+    "type": "spell",
+    "sourceName": "Purge",
+    "name": "Очищение огнём"
+  },
+  "RitSkR0YDixuUei9": {
+    "type": "skill",
+    "sourceName": "Art (Weaving)",
+    "name": "Искусство (ткачество)"
+  },
+  "RjhqM27l48WfRepK": {
+    "type": "career",
+    "sourceName": "Officer",
+    "name": "Офицер"
+  },
+  "Rk5pxZwst5tg2YHq": {
+    "type": "spell",
+    "sourceName": "Aethyric Armour (Hedgecraft)",
+    "name": "Эфирный доспех (знахарство)"
+  },
+  "RkBdnQ4cjTLPUSim": {
+    "type": "spell",
+    "sourceName": "Purple Pall of Shyish",
+    "name": "Пурпурный саван Шаиша"
+  },
+  "Rkg1tMICxdRsH1zB": {
+    "type": "spell",
+    "sourceName": "Bolt (Daemonology)",
+    "name": "Стрела (Демонология)"
+  },
+  "RmIJdvjohr7n6nio": {
+    "type": "spell",
+    "sourceName": "Push (Death)",
+    "name": "Расталкивание (Смерть)"
+  },
+  "RmY0CUjiFYZ3GEKY": {
+    "type": "talent",
+    "sourceName": "Very Resilient",
+    "name": "Закалка"
+  },
+  "Rpc1VfsdIfw0Zjzk": {
+    "type": "spell",
+    "sourceName": "Corrosive Blood (Death)",
+    "name": "Едкий ихор (Смерть)"
+  },
+  "RqHOwFXhYtTWKiNP": {
+    "type": "career",
+    "sourceName": "River Recruit",
+    "name": "Новобранец Речной стражи"
+  },
+  "RrZQrPRkSUvqkn8R": {
+    "type": "career",
+    "sourceName": "Barge Master",
+    "name": "Капитан баржи"
+  },
+  "RtvnuANjl8Xki4Zj": {
+    "type": "spell",
+    "sourceName": "Bridge (Witchcraft)",
+    "name": "Мост (ведьмовство)"
+  },
+  "RuwPnfpvjAWQZzS3": {
+    "type": "spell",
+    "sourceName": "Move Object (Death)",
+    "name": "Телекинез (Смерть)"
+  },
+  "RyxOZqcBNZ7Zw721": {
+    "type": "talent",
+    "sourceName": "Holy Hatred",
+    "name": "Праведный гнев"
+  },
+  "S0jyd05NzckWVstu": {
+    "type": "career",
+    "sourceName": "Artist",
+    "name": "Художник"
+  },
+  "S51eCqcrjMv7u7uH": {
+    "type": "spell",
+    "sourceName": "Push (Metal)",
+    "name": "Расталкивание (Металл)"
+  },
+  "S8MLQJK4n7pTGKHn": {
+    "type": "career",
+    "sourceName": "Servant",
+    "name": "Слуга"
+  },
+  "S8sbrHd9zxaYiDFJ": {
+    "type": "critical",
+    "sourceName": "Ragged Wound",
+    "name": "Рваная рана"
+  },
+  "SAjnT6vjJXmh8tDy": {
+    "type": "spell",
+    "sourceName": "Dome (Necromancy)",
+    "name": "Купол (Некромантия)"
+  },
+  "SFKV0IBLLsbCMu7S": {
+    "type": "mutation",
+    "sourceName": "Whiskered Snout",
+    "name": "Звериный нос"
+  },
+  "SGREGarfzIreXelO": {
+    "type": "spell",
+    "sourceName": "Ward (Light)",
+    "name": "Оберег (Свет)"
+  },
+  "SHH2vUpNxj0wmmPT": {
+    "type": "talent",
+    "sourceName": "Well-prepared",
+    "name": "Запасливость"
+  },
+  "SItGUVYokyOo7csk": {
+    "type": "prayer",
+    "sourceName": "Unblemished Innocence",
+    "name": "Незапятнанная невинность"
+  },
+  "SJNRH1G9RJJftD5g": {
+    "type": "spell",
+    "sourceName": "Teleport (Metal)",
+    "name": "Телепортация (Металл)"
+  },
+  "SM95bBsq3ZUFo3YB": {
+    "type": "career",
+    "sourceName": "Chancellor",
+    "name": "Канцлер"
+  },
+  "SMBkaNJzNKypJMA2": {
+    "type": "skill",
+    "sourceName": "Trade (Calligrapher)",
+    "name": "Ремесло (каллиграф)"
+  },
+  "SPBRzPenZYA05KiK": {
+    "type": "mutation",
+    "sourceName": "Thorny Scales",
+    "name": "Шипастая чешуя"
+  },
+  "SQJQrAsAKc2Icatv": {
+    "type": "spell",
+    "sourceName": "Scythe of Shyish",
+    "name": "Коса Шаиша"
+  },
+  "SYjWiKDzMS6CtROJ": {
+    "type": "injury",
+    "sourceName": "Amputated Finger",
+    "name": "Ампутированные пальцы"
+  },
+  "SZ88OXYo6F2q3vWb": {
+    "type": "prayer",
+    "sourceName": "Animal Instincts",
+    "name": "Звериные инстинкты"
+  },
+  "SZLtCpySoeyZ6Sgw": {
+    "type": "career",
+    "sourceName": "Wrecker",
+    "name": "Побережник"
+  },
+  "Sb0vJ3jB6n4wJwwy": {
+    "type": "career",
+    "sourceName": "Apothecary's Apprentice",
+    "name": "Подмастерье аптекаря"
+  },
+  "Seb2VOuQVhBGVGN3": {
+    "type": "mutation",
+    "sourceName": "Mental Blocks",
+    "name": "Провалы в памяти"
+  },
+  "SfUUdOGjdYpr3KSR": {
+    "type": "trait",
+    "sourceName": "Regenerate",
+    "name": "Регенерация"
+  },
+  "SfYwurel0h4mLYV0": {
+    "type": "spell",
+    "sourceName": "Terrifying (Necromancy)",
+    "name": "Ужасающий облик (Некромантия)"
+  },
+  "SgjJMBgc85aswvhm": {
+    "type": "talent",
+    "sourceName": "Relentless",
+    "name": "Непреклонность"
+  },
+  "ShiLe2LWvvwTIa4o": {
+    "type": "critical",
+    "sourceName": "Torn Muscles",
+    "name": "Разрыв мышц"
+  },
+  "SjKFVBXgLC51dnQz": {
+    "type": "prayer",
+    "sourceName": "Stay Morr's Hand",
+    "name": "Покров Морра"
+  },
+  "SpPRZZRHxly7uo2G": {
+    "type": "injury",
+    "sourceName": "Amputated Nose",
+    "name": "Ампутированный нос"
+  },
+  "SxQH3QslvNQaDZQK": {
+    "type": "career",
+    "sourceName": "Crime Lord",
+    "name": "Король преступного мира"
+  },
+  "T8nErqWnkqdvcNVz": {
+    "type": "spell",
+    "sourceName": "Dart",
+    "name": "Дротик"
+  },
+  "T9cEYAUhqBiTxrp2": {
+    "type": "spell",
+    "sourceName": "Mundane Aura",
+    "name": "Обыденная аура"
+  },
+  "TBcdTlYSRH8Rd1x0": {
+    "type": "trait",
+    "sourceName": "Infestation",
+    "name": "Паразиты"
+  },
+  "TDErU66ZoIirO2dF": {
+    "type": "career",
+    "sourceName": "Abbess",
+    "name": "Аббат"
+  },
+  "TKHvOsihelBStO6i": {
+    "type": "prayer",
+    "sourceName": "Blessing of Breath",
+    "name": "Благословение дыхания"
+  },
+  "TL2IelDsaRWflCeY": {
+    "type": "spell",
+    "sourceName": "Part the Branches",
+    "name": "Взгляд сквозь Межу"
+  },
+  "TMjbr94rrtCqM6bk": {
+    "type": "critical",
+    "sourceName": "Stubbed Toe",
+    "name": "Ушиб пальца"
+  },
+  "TW3etL7RIU2EWTXp": {
+    "type": "trapping",
+    "sourceName": "Candle",
+    "name": "Свеча"
+  },
+  "TXsoAJQZWcilgUli": {
+    "type": "skill",
+    "sourceName": "Perform (Juggling)",
+    "name": "Сценическое искусство (жонглирование)"
+  },
+  "TaYriYcJkFuIdBKp": {
+    "type": "talent",
+    "sourceName": "Contortionist",
+    "name": "Гуттаперчевость"
+  },
+  "TfRdF6baYuGd6i53": {
+    "type": "trapping",
+    "sourceName": "Rags",
+    "name": "Ветошь"
+  },
+  "TolERlCR35zIf9G4": {
+    "type": "career",
+    "sourceName": "Advisor",
+    "name": "Советник"
+  },
+  "TtiLLfX0a21t2YpO": {
+    "type": "spell",
+    "sourceName": "Blast (Heavens)",
+    "name": "Взрыв (Небеса)"
+  },
+  "TtuJjGh4fdU4mwBN": {
+    "type": "spell",
+    "sourceName": "Move Object (Fire)",
+    "name": "Телекинез (Огонь)"
+  },
+  "Tv9BIBNTPT6JV0HG": {
+    "type": "spell",
+    "sourceName": "Mystifying Miasma",
+    "name": "Мистический туман"
+  },
+  "TvTXvNwAR0hYz0FM": {
+    "type": "career",
+    "sourceName": "Villager",
+    "name": "Селянин"
+  },
+  "TvUKzvXjc2VChuTT": {
+    "type": "armour",
+    "sourceName": "Plate Open Helm",
+    "name": "Открытый шлем"
+  },
+  "TxXIUDqoon9TivpO": {
+    "type": "critical",
+    "sourceName": "Badly Twisted Knee",
+    "name": "Вывих колена"
+  },
+  "U2GkwX3ewQDa1FF6": {
+    "type": "spell",
+    "sourceName": "Push (Hedgecraft)",
+    "name": "Расталкивание (знахарство)"
+  },
+  "U6P57Y8nJ3H7pFvx": {
+    "type": "spell",
+    "sourceName": "Flight (Heavens)",
+    "name": "Полёт (Небеса)"
+  },
+  "U94l3IDj3xfIc78i": {
+    "type": "weapon",
+    "sourceName": "Bow",
+    "name": "Лук"
+  },
+  "U9eqCSFiwY04tN1F": {
+    "type": "spell",
+    "sourceName": "Ward (Beasts)",
+    "name": "Оберег (Звери)"
+  },
+  "UAwTqZ3hqNb7vq9s": {
+    "type": "disease",
+    "sourceName": "Itching Pox",
+    "name": "Сыпучая чесотка"
+  },
+  "UB4mDroL6S1F9B4u": {
+    "type": "trait",
+    "sourceName": "Construct",
+    "name": "Искусственное создание"
+  },
+  "UC2zRorETcI8rheP": {
+    "type": "critical",
+    "sourceName": "Winded",
+    "name": "Сбитое дыхание"
+  },
+  "UFunAopCNaD8Zdc7": {
+    "type": "skill",
+    "sourceName": "Entertain (Singing)",
+    "name": "Артистизм (пение)"
+  },
+  "UMsw5Mi0Gs90yp5J": {
+    "type": "spell",
+    "sourceName": "Aethyric Arms (Life)",
+    "name": "Эфирное оружие (Жизнь)"
+  },
+  "UPATU6CmkbK1mNBe": {
+    "type": "career",
+    "sourceName": "Fencer",
+    "name": "Фехтовальщик"
+  },
+  "UPF7jOq9bqc6ABgb": {
+    "type": "career",
+    "sourceName": "Herbalist",
+    "name": "Травник"
+  },
+  "UQMYUKgXAi2QFhFn": {
+    "type": "career",
+    "sourceName": "Zealot",
+    "name": "Фанатик"
+  },
+  "UQgNIecnmaguYegE": {
+    "type": "skill",
+    "sourceName": "Ranged (Explosives)",
+    "name": "Стрельба (взрывчатка)"
+  },
+  "URwIDtInCsxOoGqM": {
+    "type": "talent",
+    "sourceName": "Dual Wielder",
+    "name": "Двойная атака"
+  },
+  "USL6G7P9pbdWHodY": {
+    "type": "trapping",
+    "sourceName": "Meal, inn",
+    "name": "Обед в трактире"
+  },
+  "USvstPFloo15DIJ1": {
+    "type": "career",
+    "sourceName": "Magistrate",
+    "name": "Магистрат"
+  },
+  "UWg4WPFALcsoPKau": {
+    "type": "spell",
+    "sourceName": "Bolt (Beasts)",
+    "name": "Стрела (Звери)"
+  },
+  "UZux81S2ZnD9sx6U": {
+    "type": "spell",
+    "sourceName": "Ward (Fire)",
+    "name": "Оберег (Огонь)"
+  },
+  "UaDGF5MBFBwPq5YU": {
+    "type": "talent",
+    "sourceName": "Iron Jaw",
+    "name": "Стальная челюсть"
+  },
+  "Ue3cubdjhvh3zT6m": {
+    "type": "spell",
+    "sourceName": "Fearsome (Witchcraft)",
+    "name": "Устрашающий облик (ведьмовство)"
+  },
+  "UjgiulCattmtfeGL": {
+    "type": "spell",
+    "sourceName": "Aethyric Arms (Beasts)",
+    "name": "Эфирное оружие (Звери)"
+  },
+  "UkRsdBSzr4K0JsM8": {
+    "type": "spell",
+    "sourceName": "Bridge (Beasts)",
+    "name": "Мост (Звери)"
+  },
+  "UktSswGGaToftXFk": {
+    "type": "spell",
+    "sourceName": "Aqshy’s Aegis",
+    "name": "Эгида Акши"
+  },
+  "UmxGZRV0Lw3TZ0Kx": {
+    "type": "trait",
+    "sourceName": "Stride",
+    "name": "Широкий шаг"
+  },
+  "UnJ25lL8aUzem5JO": {
+    "type": "trait",
+    "sourceName": "Tail Attack",
+    "name": "Удар хвостом"
+  },
+  "UptqmlN6znCIOxNW": {
+    "type": "career",
+    "sourceName": "Lector",
+    "name": "Предстоятель"
+  },
+  "UsJ2uIOOtHA7JqD5": {
+    "type": "trait",
+    "sourceName": "Die Hard",
+    "name": "Крепкий орешек"
+  },
+  "UtgGJK46K08TZpP5": {
+    "type": "prayer",
+    "sourceName": "Bitter Catharsis",
+    "name": "Болезненное очищение"
+  },
+  "Uuu0bA2DmNp8o2JF": {
+    "type": "weapon",
+    "sourceName": "Rapier",
+    "name": "Шпага"
+  },
+  "Uxnxmtvshz8OAVaX": {
+    "type": "skill",
+    "sourceName": "Language (Thieves Tongue)",
+    "name": "Язык (воровской арго)"
+  },
+  "UytN3fDREi3JuKST": {
+    "type": "injury",
+    "sourceName": "Torn Head Muscle (Minor)",
+    "name": "Лёгкий разрыв мышцы (голова)"
+  },
+  "V0c3qBU1CMm8bmsW": {
+    "type": "trait",
+    "sourceName": "Infected",
+    "name": "Заразный"
+  },
+  "V0naR1YbYCl0KIxp": {
+    "type": "trait",
+    "sourceName": "Trained",
+    "name": "Дрессированный"
+  },
+  "V8GCeqgk1FNGFg76": {
+    "type": "prayer",
+    "sourceName": "Shield of Myrmidia",
+    "name": "Щит Мирмидии"
+  },
+  "V8eRx66SxB9Jha0Q": {
+    "type": "skill",
+    "sourceName": "Channelling",
+    "name": "Концентрация"
+  },
+  "V9N0LMnXf1WYseCL": {
+    "type": "talent",
+    "sourceName": "Tower of Memories",
+    "name": "Башня памяти"
+  },
+  "VAKUqXH9nGyBXiGy": {
+    "type": "critical",
+    "sourceName": "Gut Blow",
+    "name": "Удар в живот"
+  },
+  "VCoL70hvMNDfdg6S": {
+    "type": "spell",
+    "sourceName": "Aethyric Arms (Witchcraft)",
+    "name": "Эфирное оружие (ведьмовство)"
+  },
+  "VFV2dmrfuVJ3RJnD": {
+    "type": "trait",
+    "sourceName": "Rear",
+    "name": "Сокрушительная поступь"
+  },
+  "VFWBB9zlwCe5J9EZ": {
+    "type": "spell",
+    "sourceName": "Shadowstep",
+    "name": "Шаг сквозь тени"
+  },
+  "VIEEddQ4IW7Fjq2b": {
+    "type": "career",
+    "sourceName": "Shipsword Master",
+    "name": "Командир корабельных мечей"
+  },
+  "VIq5ronFVkpzF8Vb": {
+    "type": "trapping",
+    "sourceName": "Cup",
+    "name": "Чашка"
+  },
+  "VNjHDKWD6sIbF6BI": {
+    "type": "skill",
+    "sourceName": "Lore (Geology)",
+    "name": "Знание (геология)"
+  },
+  "VPKFN1VePTy3CY7V": {
+    "type": "career",
+    "sourceName": "Thug",
+    "name": "Громила"
+  },
+  "VUJUZVN3VYhOaPjj": {
+    "type": "trait",
+    "sourceName": "Armour",
+    "name": "Броня"
+  },
+  "VUyCJ5LRPkuC5iZx": {
+    "type": "prayer",
+    "sourceName": "Sea Legs",
+    "name": "Штормовая качка"
+  },
+  "VakWbquag1kV5WtT": {
+    "type": "trapping",
+    "sourceName": "Spade",
+    "name": "Лопата"
+  },
+  "VcKpiwNiQVwJJQVm": {
+    "type": "critical",
+    "sourceName": "Badly Jarred Arm",
+    "name": "Сильное онемение руки"
+  },
+  "VeCvAdN7TnwEyyu0": {
+    "type": "mutation",
+    "sourceName": "Beast Within",
+    "name": "Внутренний зверь"
+  },
+  "VeKZTgIQSXEDte4i": {
+    "type": "career",
+    "sourceName": "Master Artist",
+    "name": "Мэтр"
+  },
+  "Vk12kqjcz6aV9o7w": {
+    "type": "spell",
+    "sourceName": "Bolt (Life)",
+    "name": "Стрела (Жизнь)"
+  },
+  "VscjNv6RzHFb9CQp": {
+    "type": "talent",
+    "sourceName": "Enclosed Fighter",
+    "name": "Тесный контакт"
+  },
+  "VzwUlz7gZePXWuYz": {
+    "type": "trapping",
+    "sourceName": "Grappling Hook",
+    "name": "Крюк-кошка"
+  },
+  "W0GnDjtcocY6m07J": {
+    "type": "skill",
+    "sourceName": "Animal Training (Dog)",
+    "name": "Дрессировка (собаки)"
+  },
+  "W47xmdZ3ztckm89t": {
+    "type": "spell",
+    "sourceName": "Push (Light)",
+    "name": "Расталкивание (Свет)"
+  },
+  "W4X1Jx8AN84yRPDx": {
+    "type": "trapping",
+    "sourceName": "Spit",
+    "name": "Слюнь"
+  },
+  "W8VbsItRrBVRg9kg": {
+    "type": "spell",
+    "sourceName": "Ward (Daemonology)",
+    "name": "Оберег (Демонология)"
+  },
+  "W8yJ90nRD6DAmpfT": {
+    "type": "spell",
+    "sourceName": "Entangle (Witchcraft)",
+    "name": "Обездвижение (ведьмовство)"
+  },
+  "WBA0vgLdGsJ32ccS": {
+    "type": "career",
+    "sourceName": "Aide",
+    "name": "Секретарь"
+  },
+  "WCS3mz3qmQbCc9j4": {
+    "type": "career",
+    "sourceName": "Magnate",
+    "name": "Магнат"
+  },
+  "WCXnFSV4WOSmzzc4": {
+    "type": "talent",
+    "sourceName": "Inspiring",
+    "name": "Воодушевление"
+  },
+  "WDawuBcvsglWEVMg": {
+    "type": "trapping",
+    "sourceName": "Crowbar",
+    "name": "Ломик"
+  },
+  "WECvYThPGMkyagcw": {
+    "type": "trapping",
+    "sourceName": "Face Powder",
+    "name": "Пудра"
+  },
+  "WEH97InIX29nzgW1": {
+    "type": "talent",
+    "sourceName": "Pilot",
+    "name": "Рулевой"
+  },
+  "WNJuabKOre8IAu8y": {
+    "type": "spell",
+    "sourceName": "Bolt (Light)",
+    "name": "Стрела (Свет)"
+  },
+  "WO6jKc1N37H2ZzwN": {
+    "type": "career",
+    "sourceName": "Steward",
+    "name": "Домоправитель"
+  },
+  "WRAuBX80vCwlnB0N": {
+    "type": "critical",
+    "sourceName": "Lost Footing",
+    "name": "Потеря равновесия"
+  },
+  "WUuVChLDF6fOLmHX": {
+    "type": "mutation",
+    "sourceName": "Awful Cravings",
+    "name": "Ужасные пристрастия"
+  },
+  "WWdCfTZCgcHK2soX": {
+    "type": "critical",
+    "sourceName": "Sliced Tendons",
+    "name": "Рассечение сухожилий"
+  },
+  "WbaCw5ZrN1sZtbzu": {
+    "type": "spell",
+    "sourceName": "Arrow Shield (Fire)",
+    "name": "Защита от стрел (Огонь)"
+  },
+  "WctdOXFfi2ShQLNh": {
+    "type": "career",
+    "sourceName": "Cargo Scavenger",
+    "name": "Мародёр"
+  },
+  "WeIdAA7KArjUZfyH": {
+    "type": "spell",
+    "sourceName": "Entangle",
+    "name": "Обездвижение"
+  },
+  "WgZx3xma6vYGz17e": {
+    "type": "prayer",
+    "sourceName": "Sigmar's Fiery Hammer",
+    "name": "Огненный молот Сигмара"
+  },
+  "WiMLDa950d9wsbbZ": {
+    "type": "career",
+    "sourceName": "Wizard's Apprentice",
+    "name": "Ученик мага"
+  },
+  "WiPzDDFjCAo2EQDT": {
+    "type": "trapping",
+    "sourceName": "Earth Root",
+    "name": "Земляной корень"
+  },
+  "WkItvLT52Bob8Up3": {
+    "type": "spell",
+    "sourceName": "Beast Form",
+    "name": "Облик зверя"
+  },
+  "WoXShzaYkV5F6c48": {
+    "type": "talent",
+    "sourceName": "Master of Disguise",
+    "name": "Мастер перевоплощения"
+  },
+  "Wp9qIwlQo6dpszOw": {
+    "type": "trapping",
+    "sourceName": "Instrument",
+    "name": "Музыкальный инструмент"
+  },
+  "WpZ7nJsXYukA4hQ9": {
+    "type": "career",
+    "sourceName": "Diplomat",
+    "name": "Дипломат"
+  },
+  "Wpsybql9MWbWZUeH": {
+    "type": "critical",
+    "sourceName": "Deep Cut",
+    "name": "Глубокая рана"
+  },
+  "WqJubE8GuApAeIbb": {
+    "type": "spell",
+    "sourceName": "Bolt (Fire)",
+    "name": "Стрела (Огонь)"
+  },
+  "Wt6ikb1n9CivB3JN": {
+    "type": "spell",
+    "sourceName": "Drop",
+    "name": "Дырявые руки"
+  },
+  "WuGqleOpKoMCfhO0": {
+    "type": "skill",
+    "sourceName": "Sail (Barge)",
+    "name": "Хождение под парусом (баржи)"
+  },
+  "WuNc5hU1HoUS5gPa": {
+    "type": "career",
+    "sourceName": "Townsman",
+    "name": "Горожанин"
+  },
+  "WvEHWvF7hoyNChqj": {
+    "type": "career",
+    "sourceName": "Custodian",
+    "name": "Сторож"
+  },
+  "Wz1bb0g1mklJHfft": {
+    "type": "spell",
+    "sourceName": "Rot",
+    "name": "Гниение"
+  },
+  "X16IoUlKcVLI4MRw": {
+    "type": "skill",
+    "sourceName": "Language (Wastelander)",
+    "name": "Язык (Язык пустошей)"
+  },
+  "X6dcIMLvfo9aiOoA": {
+    "type": "spell",
+    "sourceName": "Fearsome (Beasts)",
+    "name": "Устрашающий облик (Звери)"
+  },
+  "X7c87KbjSJ7F3yha": {
+    "type": "trapping",
+    "sourceName": "Saw",
+    "name": "Пила"
+  },
+  "X8WFQf0HB9yXKjdD": {
+    "type": "weapon",
+    "sourceName": "Bomb",
+    "name": "Бомба"
+  },
+  "XAJUqtLiM0Dqk5Wb": {
+    "type": "trapping",
+    "sourceName": "Scepter",
+    "name": "Жезл"
+  },
+  "XCfd7wimn69mZW9T": {
+    "type": "career",
+    "sourceName": "Smuggler King",
+    "name": "Король контрабандистов"
+  },
+  "XIcDsaW4D8wScezw": {
+    "type": "talent",
+    "sourceName": "Accurate Shot",
+    "name": "Точный выстрел"
+  },
+  "XQiiwS9m2Du1IMUz": {
+    "type": "skill",
+    "sourceName": "Language ()",
+    "name": "Язык ()"
+  },
+  "XS9i8PasJ33rNA2g": {
+    "type": "spell",
+    "sourceName": "Breath (Daemonology)",
+    "name": "Смертоносное дыхание (Демонология)"
+  },
+  "XSb3QVB9ipPBFt56": {
+    "type": "talent",
+    "sourceName": "Shadow",
+    "name": "Тень"
+  },
+  "XU7D9CCmumuhqDUi": {
+    "type": "talent",
+    "sourceName": "Public Speaker",
+    "name": "Оратор"
+  },
+  "XV2OQCwhnLVdAgON": {
+    "type": "career",
+    "sourceName": "Road Captain",
+    "name": "Капитан Дорожной стражи"
+  },
+  "XWlkZVUhzO0CwaiJ": {
+    "type": "armour",
+    "sourceName": "Mail Chausses",
+    "name": "Кольчужные чулки"
+  },
+  "XXEIfkXpNxpfkamo": {
+    "type": "spell",
+    "sourceName": "Starcrossed",
+    "name": "Несчастливая звезда"
+  },
+  "XYkcst2gjS4QUyZI": {
+    "type": "career",
+    "sourceName": "Apprentice Artist",
+    "name": "Ученик художника"
+  },
+  "XhyZ140R1iA1J7wZ": {
+    "type": "spell",
+    "sourceName": "Stream of Corruption",
+    "name": "Поток скверны"
+  },
+  "Xjwk84KnOKDaiZs1": {
+    "type": "weapon",
+    "sourceName": "Throwing Axe",
+    "name": "Метательный топорик"
+  },
+  "Xk5tp3aasPNtk4zt": {
+    "type": "skill",
+    "sourceName": "Stealth (Rural)",
+    "name": "Скрытность (дикая природа)"
+  },
+  "XnNAe4R8hSXY5IsS": {
+    "type": "spell",
+    "sourceName": "Spring",
+    "name": "Источник"
+  },
+  "XqxT8WjUbhsibhWd": {
+    "type": "critical",
+    "sourceName": "Mangled Ear",
+    "name": "Изувеченное ухо"
+  },
+  "XseDIYgXCdNuV0pL": {
+    "type": "career",
+    "sourceName": "Pedlar",
+    "name": "Коробейник"
+  },
+  "XuIDL2gpiFMleuVV": {
+    "type": "career",
+    "sourceName": "Horseman",
+    "name": "Всадник"
+  },
+  "XzPlUWFDtOOjG98P": {
+    "type": "skill",
+    "sourceName": "Language (Khazalid)",
+    "name": "Язык (кхазалид)"
+  },
+  "Y55qCcUkHVZAbG8s": {
+    "type": "trapping",
+    "sourceName": "Rake",
+    "name": "Грабли"
+  },
+  "Y7JOj3hCqq2OSzAb": {
+    "type": "spell",
+    "sourceName": "Magic Shield (Metal)",
+    "name": "Магический щит (Металл)"
+  },
+  "YAauxOwJJa3JahxQ": {
+    "type": "prayer",
+    "sourceName": "Shallya's Tears",
+    "name": "Слёзы Шалии"
+  },
+  "YCjWyU567vb4Rs11": {
+    "type": "prayer",
+    "sourceName": "Martyr",
+    "name": "Мученик"
+  },
+  "YCyo4r3rZ2gMUz9Q": {
+    "type": "career",
+    "sourceName": "Riverguide",
+    "name": "Вперёдсмотрящий"
+  },
+  "YDGi3tMQuK9MxXpt": {
+    "type": "spell",
+    "sourceName": "Enchant Weapon",
+    "name": "Зачарование оружия"
+  },
+  "YIUJ8FnHDm4OMRES": {
+    "type": "trapping",
+    "sourceName": "Pan",
+    "name": "Лоток/сковорода"
+  },
+  "YNZdL7VIaShNfdnb": {
+    "type": "spell",
+    "sourceName": "Aethyric Armour (Fire)",
+    "name": "Эфирный доспех (Огонь)"
+  },
+  "YQtgIycHCNmyAl9N": {
+    "type": "spell",
+    "sourceName": "Arrow Shield (Witchcraft)",
+    "name": "Защита от стрел (ведьмовство)"
+  },
+  "YaG8xthJF0zLy7xs": {
+    "type": "spell",
+    "sourceName": "Goodwill",
+    "name": "Добрая воля"
+  },
+  "Yf5KzF7u0gAbxam9": {
+    "type": "container",
+    "sourceName": "Mule",
+    "name": "Мул"
+  },
+  "YijozJARkRLN9iGA": {
+    "type": "spell",
+    "sourceName": "Corrosive Blood (Shadow)",
+    "name": "Едкий ихор (Тень)"
+  },
+  "YivL32R2L3J098VD": {
+    "type": "trapping",
+    "sourceName": "Hook",
+    "name": "Крюк"
+  },
+  "Yiw5h1Kj4B2WLlfm": {
+    "type": "talent",
+    "sourceName": "Cardsharp",
+    "name": "Картёжник"
+  },
+  "YmElVMceT7qNqd9S": {
+    "type": "trapping",
+    "sourceName": "Gloves",
+    "name": "Перчатки"
+  },
+  "Ynbfu2VJDrYqN9aW": {
+    "type": "spell",
+    "sourceName": "Mundane Aura (Death)",
+    "name": "Обыденная аура (Смерть)"
+  },
+  "YsBRTjGGyISyUudZ": {
+    "type": "spell",
+    "sourceName": "Arrow Shield (Light)",
+    "name": "Защита от стрел (Свет)"
+  },
+  "Ywo6fZNPC4zbHHSQ": {
+    "type": "talent",
+    "sourceName": "Strong-minded",
+    "name": "Твёрдость духа"
+  },
+  "Z1TGphWhic2E3Lfx": {
+    "type": "trait",
+    "sourceName": "Ranged (Range)",
+    "name": "Стрельба (Дальность)"
+  },
+  "Z91GFaT6FhEwyESU": {
+    "type": "talent",
+    "sourceName": "Tunnel Rat",
+    "name": "Тоннельная крыса"
+  },
+  "Z9aSUtiwhqVHENnR": {
+    "type": "critical",
+    "sourceName": "Bleeding Hand",
+    "name": "Кровоточащая кисть"
+  },
+  "Z9hQe46ykQBZneoU": {
+    "type": "skill",
+    "sourceName": "Ranged ()",
+    "name": "Стрельба ()"
+  },
+  "ZBBi7LpWvNgQgRcw": {
+    "type": "trapping",
+    "sourceName": "Vitality Draught",
+    "name": "Бодрящее снадобье"
+  },
+  "ZE7gT3UWkw7gKeMv": {
+    "type": "critical",
+    "sourceName": "Clean Break",
+    "name": "Закрытый перелом"
+  },
+  "ZLIG9CAgCgIa38hU": {
+    "type": "trapping",
+    "sourceName": "Mask",
+    "name": "Маска"
+  },
+  "ZOlM8KjLfNIefAb0": {
+    "type": "spell",
+    "sourceName": "Curse of Crippling Pain",
+    "name": "Проклятие нестерпимой боли"
+  },
+  "ZQSm2AwrgT2cHG0C": {
+    "type": "skill",
+    "sourceName": "Ranged (Bow)",
+    "name": "Стрельба (луки)"
+  },
+  "ZQzRZkB9JK1CveMW": {
+    "type": "skill",
+    "sourceName": "Lore (Magick)",
+    "name": "Знание (магия)"
+  },
+  "ZRS6U3ECK8n4mFZ4": {
+    "type": "career",
+    "sourceName": "Judicial Champion",
+    "name": "Судебный поединщик"
+  },
+  "ZSet34kUw1Bu1PDx": {
+    "type": "career",
+    "sourceName": "Student Lawyer",
+    "name": "Студент-законник"
+  },
+  "ZUldeWVqTnMRw5xD": {
+    "type": "skill",
+    "sourceName": "Sail (Cog)",
+    "name": "Хождение под парусом (когги)"
+  },
+  "ZWcTbeK8i9vKph2a": {
+    "type": "talent",
+    "sourceName": "Master Orator",
+    "name": "Ритор"
+  },
+  "ZaJHpJKlib0LoOd2": {
+    "type": "trapping",
+    "sourceName": "Reading Lens",
+    "name": "Увеличительное стекло"
+  },
+  "ZbJqeT8ffXMOPTMI": {
+    "type": "spell",
+    "sourceName": "Drop (Metal)",
+    "name": "Дырявые руки (Металл)"
+  },
+  "Zf0vk2rjllpDh0Ua": {
+    "type": "talent",
+    "sourceName": "Very Strong",
+    "name": "Силач"
+  },
+  "ZgpVhv100Kd9rsao": {
+    "type": "trapping",
+    "sourceName": "Guild License",
+    "name": "Лицензия Гильдии"
+  },
+  "Zh68gzYMLW8vZgVo": {
+    "type": "mutation",
+    "sourceName": "Shaky Morale",
+    "name": "Низкий боевой дух"
+  },
+  "ZhMADOqoo0y8Q9bx": {
+    "type": "injury",
+    "sourceName": "Amputated Toe",
+    "name": "Ампутированные пальцы ног"
+  },
+  "Zhd2HM8nVcsfHRcI": {
+    "type": "trapping",
+    "sourceName": "Canvas Tarp",
+    "name": "Парусина"
+  },
+  "ZqYYWZuWwqMb3wVf": {
+    "type": "skill",
+    "sourceName": "Melee (Flail)",
+    "name": "Рукопашный бой (цепы)"
+  },
+  "ZqjcMFgrlsaS8zLZ": {
+    "type": "spell",
+    "sourceName": "Aethyric Arms (Daemonology)",
+    "name": "Эфирное оружие (Демонология)"
+  },
+  "Zst72kU4epCqabW9": {
+    "type": "career",
+    "sourceName": "Novitiate (Nun)",
+    "name": "Послушник"
+  },
+  "ZvNSOZZzAcjRBVBk": {
+    "type": "spell",
+    "sourceName": "Breath (Metal)",
+    "name": "Смертоносное дыхание (Металл)"
+  },
+  "ZwyxHwGUEIEAwgg6": {
+    "type": "spell",
+    "sourceName": "Entangle (Beasts)",
+    "name": "Обездвижение (Звери)"
+  },
+  "ZydFv9TTPvmihnR1": {
+    "type": "career",
+    "sourceName": "Protagonist",
+    "name": "Негодяй"
+  },
+  "a0rkY56nliMmxoCf": {
+    "type": "spell",
+    "sourceName": "Corrosive Blood (Heavens)",
+    "name": "Едкий ихор (Небеса)"
+  },
+  "a5B7FYYaSarc95Xc": {
+    "type": "career",
+    "sourceName": "Investigator",
+    "name": "Следователь"
+  },
+  "a7v422EZcOUUC20X": {
+    "type": "talent",
+    "sourceName": "Trapper",
+    "name": "Ловчий"
+  },
+  "a8MC97PLzl10WocT": {
+    "type": "trait",
+    "sourceName": "Big",
+    "name": "Крупный"
+  },
+  "a8npXWG2o4BxhtVV": {
+    "type": "spell",
+    "sourceName": "Creeping Menace",
+    "name": "Ползучая напасть"
+  },
+  "aCDDeeYF24waaPgT": {
+    "type": "spell",
+    "sourceName": "Ward (Shadow)",
+    "name": "Оберег (Тень)"
+  },
+  "aCOdKvw68yopHYJ2": {
+    "type": "spell",
+    "sourceName": "Mundane Aura (Daemonology)",
+    "name": "Обыденная аура (Демонология)"
+  },
+  "aD6f4BzQlKEGAM8d": {
+    "type": "skill",
+    "sourceName": "Ride (Great Wolf)",
+    "name": "Верховая езда (гигантские волки)"
+  },
+  "aE3pyW20Orvdjzj0": {
+    "type": "trait",
+    "sourceName": "Hatred",
+    "name": "Ненависть"
+  },
+  "aExcYp7UPS5SL4ve": {
+    "type": "trapping",
+    "sourceName": "Key",
+    "name": "Ключ"
+  },
+  "aKiuGzlVO51JvsjV": {
+    "type": "disease",
+    "sourceName": "The Black Plague",
+    "name": "Чёрная чума"
+  },
+  "aMQMBNGgolHJAzXF": {
+    "type": "spell",
+    "sourceName": "Drop (Necromancy)",
+    "name": "Дырявые руки (Некромантия)"
+  },
+  "aOVRZJopZeR0acJs": {
+    "type": "career",
+    "sourceName": "Informer",
+    "name": "Осведомитель"
+  },
+  "aPhKykUG3I5R9P4u": {
+    "type": "spell",
+    "sourceName": "Dark Vision (Beasts)",
+    "name": "Ночное зрение (Звери)"
+  },
+  "aQIxzS4uOcIe9oxd": {
+    "type": "trapping",
+    "sourceName": "Book, Medicine",
+    "name": "Книга (медицина)"
+  },
+  "aRvo3nkgPrPcKXVF": {
+    "type": "trapping",
+    "sourceName": "Hoe",
+    "name": "Мотыга"
+  },
+  "aT6shbEGQSOfHx57": {
+    "type": "spell",
+    "sourceName": "Distracting (Shadow)",
+    "name": "Дезориентация (Тень)"
+  },
+  "aUQDbW33bWqVeY9V": {
+    "type": "trapping",
+    "sourceName": "Digestive Tonic",
+    "name": "Желудочный тоник"
+  },
+  "aUb8sUfqyVyjGYO5": {
+    "type": "career",
+    "sourceName": "Rat Hunter",
+    "name": "Крысобой"
+  },
+  "aVLjCqY3guj1DD06": {
+    "type": "trapping",
+    "sourceName": "Tinderbox",
+    "name": "Огниво"
+  },
+  "aVUKVQTwtWuQXIgx": {
+    "type": "spell",
+    "sourceName": "Nepenthe",
+    "name": "Снадобье забвения"
+  },
+  "aWxO2jpMvmZUEsK9": {
+    "type": "spell",
+    "sourceName": "Cauterise",
+    "name": "Прижигание"
+  },
+  "aZavWXbSXVBmWeJi": {
+    "type": "talent",
+    "sourceName": "Supportive",
+    "name": "Услужливость"
+  },
+  "afREA9q7v4Scuozn": {
+    "type": "talent",
+    "sourceName": "Orientation",
+    "name": "Чувство направления"
+  },
+  "ahlxlfIl8xUhBkic": {
+    "type": "weapon",
+    "sourceName": "Dagger",
+    "name": "Кинжал"
+  },
+  "albRTMyj0Fsr2u6A": {
+    "type": "career",
+    "sourceName": "Reeve",
+    "name": "Шериф"
+  },
+  "apBxYVRVp4Jt6gxy": {
+    "type": "mutation",
+    "sourceName": "Unending Malice",
+    "name": "Неизбывная злоба"
+  },
+  "atYAndIzpFIfq0Wb": {
+    "type": "mutation",
+    "sourceName": "Totally Unhinged",
+    "name": "Неуравновешенность"
+  },
+  "b4x1qEWcevX7xK58": {
+    "type": "talent",
+    "sourceName": "Schemer",
+    "name": "Интриган"
+  },
+  "b6tGqvNe1jYBdeN5": {
+    "type": "trapping",
+    "sourceName": "Weirdroot",
+    "name": "Чудной корень"
+  },
+  "b8SJ8qB0TpSjUGA6": {
+    "type": "trapping",
+    "sourceName": "Charcoal stick",
+    "name": "Угольный карандаш"
+  },
+  "bAafQaKO9PdKQB8R": {
+    "type": "critical",
+    "sourceName": "Fractured Jaw",
+    "name": "Трещина в челюсти"
+  },
+  "bBLK2hznjPlby6Jb": {
+    "type": "skill",
+    "sourceName": "Play ()",
+    "name": "Музицирование ()"
+  },
+  "bBX8MP6QfcyU6Fy3": {
+    "type": "weapon",
+    "sourceName": "Flail",
+    "name": "Цеп/плеть"
+  },
+  "bImtd1QDrQWp53Ua": {
+    "type": "container",
+    "sourceName": "Sling Bag",
+    "name": "Наплечная сумка"
+  },
+  "bJBesrdCaDqaXbQg": {
+    "type": "skill",
+    "sourceName": "Melee (Parry)",
+    "name": "Рукопашный бой (парирующее)"
+  },
+  "bJZ8le54J5OwGqFx": {
+    "type": "skill",
+    "sourceName": "Art (Painting)",
+    "name": "Искусство (живопись)"
+  },
+  "bLCz5iBxd2wjfStI": {
+    "type": "spell",
+    "sourceName": "Aethyric Arms (Heavens)",
+    "name": "Эфирное оружие (Небеса)"
+  },
+  "bNdVPhv1OT8LJnnt": {
+    "type": "spell",
+    "sourceName": "Mundane Aura (Beasts)",
+    "name": "Обыденная аура (Звери)"
+  },
+  "bNwRfl5P64gXgZON": {
+    "type": "career",
+    "sourceName": "Troubadour",
+    "name": "Трубадур"
+  },
+  "bO6PkXjLPKCwK4QC": {
+    "type": "career",
+    "sourceName": "Black Marketeer",
+    "name": "Теневой воротила"
+  },
+  "bSWoV1IiS5qWNw39": {
+    "type": "skill",
+    "sourceName": "Evaluate",
+    "name": "Оценка"
+  },
+  "bTPBxrayfzeVmGsh": {
+    "type": "career",
+    "sourceName": "Wizard Lord",
+    "name": "Верховный маг"
+  },
+  "bVcEr9YvMfBcE3tH": {
+    "type": "spell",
+    "sourceName": "Entangle (Daemonology)",
+    "name": "Обездвижение (Демонология)"
+  },
+  "bVdhLdfuSAfMi3qq": {
+    "type": "skill",
+    "sourceName": "Secret Signs ()",
+    "name": "Тайные знаки ()"
+  },
+  "bVzgXlt8eRGyXLLC": {
+    "type": "career",
+    "sourceName": "Doktor",
+    "name": "Доктор"
+  },
+  "bY6M9XxbqmFmqpA8": {
+    "type": "armour",
+    "sourceName": "Plate Leggings",
+    "name": "Латные поножи"
+  },
+  "bd9bf1D55v6ov1UV": {
+    "type": "spell",
+    "sourceName": "Arrow Shield (Beasts)",
+    "name": "Защита от стрел (Звери)"
+  },
+  "bgQpVEP0PZNsAheP": {
+    "type": "spell",
+    "sourceName": "Dark Vision (Heavens)",
+    "name": "Ночное зрение (Небеса)"
+  },
+  "btDTVsPFsOtBNpgF": {
+    "type": "critical",
+    "sourceName": "Minor Head Cut",
+    "name": "Неглубокий порез головы"
+  },
+  "bwyUJua7I9hNg9WS": {
+    "type": "weapon",
+    "sourceName": "Throwing Knife",
+    "name": "Метательный нож"
+  },
+  "bxbTiLzbaz4vdukT": {
+    "type": "talent",
+    "sourceName": "Hunter's Eye",
+    "name": "Охотничье чутьё"
+  },
+  "c1T7MelXEZLQfpVv": {
+    "type": "trait",
+    "sourceName": "Miracles",
+    "name": "Чудотворец (божество)"
+  },
+  "c2HVWH6ZLRn3QjhH": {
+    "type": "skill",
+    "sourceName": "Animal Training (Pegasus)",
+    "name": "Дрессировка (пегасы)"
+  },
+  "c6I7wHp56nulRLic": {
+    "type": "skill",
+    "sourceName": "Perform (Clowning)",
+    "name": "Сценическое искусство (клоунада)"
+  },
+  "c6OwfEq0g8FcpxxC": {
+    "type": "career",
+    "sourceName": "Greenfish",
+    "name": "Малёк"
+  },
+  "cAej1SjgJF1J0Lbx": {
+    "type": "spell",
+    "sourceName": "Breath (Hedgecraft)",
+    "name": "Смертоносное дыхание (знахарство)"
+  },
+  "cAxNctMFWIAjDgV3": {
+    "type": "talent",
+    "sourceName": "Diceman",
+    "name": "Игрок в кости"
+  },
+  "cHbQeJQ7cVZZyDyl": {
+    "type": "skill",
+    "sourceName": "Stealth (Underground)",
+    "name": "Скрытность (подземелья)"
+  },
+  "cJ6raCFuP1diIXsy": {
+    "type": "critical",
+    "sourceName": "Ear Bash",
+    "name": "Удар по уху"
+  },
+  "cJdfHOVbghTf4Eo0": {
+    "type": "armour",
+    "sourceName": "Mail Shirt",
+    "name": "Кольчужная рубаха"
+  },
+  "cSjAAjixcMdYrKBz": {
+    "type": "spell",
+    "sourceName": "Conserve",
+    "name": "Консервация"
+  },
+  "cSmcBYrwV385Tgbt": {
+    "type": "spell",
+    "sourceName": "Terrifying (Shadow)",
+    "name": "Ужасающий облик (Тень)"
+  },
+  "cVDkOI7AQdpJo0kj": {
+    "type": "spell",
+    "sourceName": "Fearsome (Death)",
+    "name": "Устрашающий облик (Смерть)"
+  },
+  "cWK3kNzvujhWi9jQ": {
+    "type": "critical",
+    "sourceName": "Pulled Back",
+    "name": "Серьёзная травма спины"
+  },
+  "cXeFXMf7IhxiGGPK": {
+    "type": "mutation",
+    "sourceName": "Weeping Pus",
+    "name": "Сочащийся гной"
+  },
+  "cYtU0ORRFCOpQLWz": {
+    "type": "skill",
+    "sourceName": "Intuition",
+    "name": "Интуиция"
+  },
+  "cd8BJlDQUF1xoiSm": {
+    "type": "career",
+    "sourceName": "Spymaster",
+    "name": "Глава шпионов"
+  },
+  "cfuqgV2PTnjMrgT7": {
+    "type": "spell",
+    "sourceName": "Push (Heavens)",
+    "name": "Расталкивание (Небеса)"
+  },
+  "cfvdViThaoOHyuSk": {
+    "type": "spell",
+    "sourceName": "Breath",
+    "name": "Смертоносное дыхание"
+  },
+  "cjD53QYSatQwL6CR": {
+    "type": "spell",
+    "sourceName": "Careful Step",
+    "name": "Лёгкая поступь"
+  },
+  "cuN77AhQ490wCmk6": {
+    "type": "spell",
+    "sourceName": "Entangle (Death)",
+    "name": "Обездвижение (Смерть)"
+  },
+  "cwnBquEIHjnvkJ7E": {
+    "type": "spell",
+    "sourceName": "Move Object (Life)",
+    "name": "Телекинез (Жизнь)"
+  },
+  "cxwio1lR9eZdrQiy": {
+    "type": "career",
+    "sourceName": "Lawyer",
+    "name": "Законник"
+  },
+  "cygaI9gq4BQJvbB5": {
+    "type": "talent",
+    "sourceName": "Sniper",
+    "name": "Снайпер"
+  },
+  "d0uT5dtFmIbkbJ7l": {
+    "type": "career",
+    "sourceName": "Giant Slayer",
+    "name": "Убийца великанов"
+  },
+  "d3VZwO4Y5JH5DXdT": {
+    "type": "skill",
+    "sourceName": "Bribery",
+    "name": "Подкуп"
+  },
+  "d4iZk3dpNCZvsRJE": {
+    "type": "trapping",
+    "sourceName": "Mop",
+    "name": "Швабра"
+  },
+  "d9VeHlESTpPYww5o": {
+    "type": "spell",
+    "sourceName": "Move Object (Daemonology)",
+    "name": "Телекинез (Демонология)"
+  },
+  "d9bGxy6Y3u3rOHIN": {
+    "type": "skill",
+    "sourceName": "Lore (Theology)",
+    "name": "Знание (теология)"
+  },
+  "dAnz27Q409wtHfxc": {
+    "type": "mutation",
+    "sourceName": "Inhuman Beauty",
+    "name": "Нечеловеческая красота"
+  },
+  "dBIIdzVZh6cnbWDG": {
+    "type": "spell",
+    "sourceName": "Entangle (Metal)",
+    "name": "Обездвижение (Металл)"
+  },
+  "dBwnAzhe0bvobgbY": {
+    "type": "skill",
+    "sourceName": "Channelling (Dhar)",
+    "name": "Концентрация (Дхар)"
+  },
+  "dDxhGgBBM9CugxsH": {
+    "type": "prayer",
+    "sourceName": "Rhya's Union",
+    "name": "Союз Райи"
+  },
+  "dGSUQiUmXHrGqwxY": {
+    "type": "spell",
+    "sourceName": "Mindslip",
+    "name": "Ускользающие воспоминания"
+  },
+  "dJYAXtG1e5pmo5NZ": {
+    "type": "spell",
+    "sourceName": "Aethyric Arms (Necromancy)",
+    "name": "Эфирное оружие (Некромантия)"
+  },
+  "dNd0JKvUqjP3kiuy": {
+    "type": "career",
+    "sourceName": "Troupe Leader",
+    "name": "Глава труппы"
+  },
+  "dQqsVfVNdO1PTdah": {
+    "type": "spell",
+    "sourceName": "Entangle (Life)",
+    "name": "Обездвижение (Жизнь)"
+  },
+  "dS5zK3lMCumvuAAF": {
+    "type": "spell",
+    "sourceName": "Phâ’s Protection",
+    "name": "Защита Пха"
+  },
+  "dUX1XGppNdZpUZyA": {
+    "type": "spell",
+    "sourceName": "Aethyric Arms (Shadow)",
+    "name": "Эфирное оружие (Тень)"
+  },
+  "ddXgrDWZXSM3nXaf": {
+    "type": "weapon",
+    "sourceName": "Dart",
+    "name": "Дротик"
+  },
+  "ddnMcWMN4MftxGLr": {
+    "type": "spell",
+    "sourceName": "Forge of Chamon",
+    "name": "Кузница Шамона"
+  },
+  "dfuN0EpNQS6eqCxZ": {
+    "type": "skill",
+    "sourceName": "Ride (Griffon)",
+    "name": "Верховая езда (грифоны)"
+  },
+  "druJd5YFjyW5liTz": {
+    "type": "spell",
+    "sourceName": "Fool’s Gold",
+    "name": "Золото дурака"
+  },
+  "dsYDcdQfJGc7wxSX": {
+    "type": "mutation",
+    "sourceName": "Emaciated",
+    "name": "Истощение"
+  },
+  "dyt9NYLGBcgOxaMQ": {
+    "type": "trapping",
+    "sourceName": "Cooking Pot",
+    "name": "Котелок"
+  },
+  "dzfhqgUxWleNZbyW": {
+    "type": "spell",
+    "sourceName": "Crown of Flame",
+    "name": "Огненный венец"
+  },
+  "e3McIND4Rrsn5cE6": {
+    "type": "skill",
+    "sourceName": "Language (Magick)",
+    "name": "Язык (магический)"
+  },
+  "e6uURn9IFt09beNU": {
+    "type": "skill",
+    "sourceName": "Channelling (Ulgu)",
+    "name": "Концентрация (Улгу)"
+  },
+  "e9WmLbD7AuXSeWp0": {
+    "type": "armour",
+    "sourceName": "Plate Helm",
+    "name": "Глухой шлем"
+  },
+  "eBRjKAF6U0yR0KK8": {
+    "type": "prayer",
+    "sourceName": "Blessing of Savagery",
+    "name": "Благословение свирепости"
+  },
+  "eBirX8K2qBxdOB45": {
+    "type": "career",
+    "sourceName": "Herb Master",
+    "name": "Знаток трав"
+  },
+  "eBwHnWdwQJ590ASb": {
+    "type": "talent",
+    "sourceName": "Small",
+    "name": "Небольшой"
+  },
+  "eEHauevJWhmzvCSx": {
+    "type": "talent",
+    "sourceName": "Panhandle",
+    "name": "Жалобный вид"
+  },
+  "eFMNueIi3zp6vs6e": {
+    "type": "career",
+    "sourceName": "Merchant",
+    "name": "Купец"
+  },
+  "eI3ibXzGlozn6GqV": {
+    "type": "career",
+    "sourceName": "Grave Robber",
+    "name": "Гробокопатель"
+  },
+  "eIPqpYlN3H3CVCe4": {
+    "type": "career",
+    "sourceName": "Daemon Slayer",
+    "name": "Убийца демонов"
+  },
+  "eJJRmbyFlNheGjMG": {
+    "type": "spell",
+    "sourceName": "Fearsome (Fire)",
+    "name": "Устрашающий облик (Огонь)"
+  },
+  "eJPjVeW9UEH891rm": {
+    "type": "spell",
+    "sourceName": "Soul Vortex",
+    "name": "Вихрь душ"
+  },
+  "eTAzKM5j06KwtdBt": {
+    "type": "spell",
+    "sourceName": "Magic Shield (Necromancy)",
+    "name": "Магический щит (Некромантия)"
+  },
+  "eWPN3CV2Eddwz8aM": {
+    "type": "injury",
+    "sourceName": "Torn Body Muscle (Major)",
+    "name": "Серьёзный разрыв мышцы (торс)"
+  },
+  "eXLVhJVuIhm8wPUF": {
+    "type": "skill",
+    "sourceName": "Secret Signs (Vagabond)",
+    "name": "Тайные знаки (бродяги)"
+  },
+  "eYrq2tyVjW8C84w6": {
+    "type": "spell",
+    "sourceName": "Flight (Fire)",
+    "name": "Полёт (Огонь)"
+  },
+  "eZN8HuDV0OnjIWM9": {
+    "type": "trapping",
+    "sourceName": "Dice",
+    "name": "Игральные кости"
+  },
+  "ebsbEIJOY0Jy5raF": {
+    "type": "container",
+    "sourceName": "Destrier",
+    "name": "Дестриэ"
+  },
+  "edsenrEYTLOtpa6b": {
+    "type": "talent",
+    "sourceName": "Crack the Whip",
+    "name": "Щелчок кнутом"
+  },
+  "elraWaIlaaHeKwKl": {
+    "type": "trapping",
+    "sourceName": "Chalk",
+    "name": "Кусок мела"
+  },
+  "enG7NVLPcWHfRXg8": {
+    "type": "spell",
+    "sourceName": "Bridge (Death)",
+    "name": "Мост (Смерть)"
+  },
+  "eowbsW6oHGSNJmxV": {
+    "type": "talent",
+    "sourceName": "Magic Resistance",
+    "name": "Устойчивость к магии"
+  },
+  "epPBu7x6BRWp2PHG": {
+    "type": "talent",
+    "sourceName": "Dealmaker",
+    "name": "Коммерсант"
+  },
+  "epSHxgJWtT1S0yMY": {
+    "type": "skill",
+    "sourceName": "Trade (Cook)",
+    "name": "Ремесло (повар)"
+  },
+  "exLrBrn2mjb6x2Cq": {
+    "type": "skill",
+    "sourceName": "Charm",
+    "name": "Обаяние"
+  },
+  "eyKlEVLcSOvemRzp": {
+    "type": "career",
+    "sourceName": "Vagabond",
+    "name": "Лоточник"
+  },
+  "ezVl3vFWTwHfNXL3": {
+    "type": "prayer",
+    "sourceName": "Inspiring",
+    "name": "Боевое рвение"
+  },
+  "f6cvUapo8tQHp2OL": {
+    "type": "trapping",
+    "sourceName": "Flask of Spirits",
+    "name": "Фляжка с крепкой выпивкой"
+  },
+  "f8bYT3ZqKLUZSZBY": {
+    "type": "spell",
+    "sourceName": "Magic Shield (Fire)",
+    "name": "Магический щит (Огонь)"
+  },
+  "fABd17NZvg2uUReL": {
+    "type": "prayer",
+    "sourceName": "You Ain’t Seen Me, Right?",
+    "name": "Ты меня не видел, лады?"
+  },
+  "fAlQcNUb6TZtPKqk": {
+    "type": "prayer",
+    "sourceName": "Wisdom of the Owl",
+    "name": "Мудрость совы"
+  },
+  "fBcZhOBn8IpoVqQ1": {
+    "type": "injury",
+    "sourceName": "Amputated Teeth",
+    "name": "Ампутированные зубы"
+  },
+  "fEFAMNqh8nJIfBkM": {
+    "type": "talent",
+    "sourceName": "Field Dressing",
+    "name": "Полевая перевязка"
+  },
+  "fGwpty6AE9ZmRs9B": {
+    "type": "career",
+    "sourceName": "Sewer Jack",
+    "name": "Чистильщик"
+  },
+  "fHYVckKx4fnqz75K": {
+    "type": "spell",
+    "sourceName": "Terrifying (Metal)",
+    "name": "Ужасающий облик (Металл)"
+  },
+  "fHb7bFU8QX3oi33F": {
+    "type": "trapping",
+    "sourceName": "Parchment/sheet",
+    "name": "Лист бумаги/пергамента"
+  },
+  "fIjnRUF4xplU2mhP": {
+    "type": "critical",
+    "sourceName": "Broken Nose",
+    "name": "Сломанный нос"
+  },
+  "fPVnjkCnm5nKdKBh": {
+    "type": "skill",
+    "sourceName": "Language (Norse)",
+    "name": "Язык (норскийский)"
+  },
+  "fSo6LWBvDMZQqfKC": {
+    "type": "trapping",
+    "sourceName": "Worms",
+    "name": "Черви"
+  },
+  "fTjzN0fg1SmqvHYI": {
+    "type": "spell",
+    "sourceName": "Move Object (Light)",
+    "name": "Телекинез (Свет)"
+  },
+  "fWZxupuKCC2rZ2g7": {
+    "type": "spell",
+    "sourceName": "Swift Passing",
+    "name": "Быстрая смерть"
+  },
+  "fa7YavtVsSc8QI7Q": {
+    "type": "career",
+    "sourceName": "Hedgewise",
+    "name": "Премудрый знахарь"
+  },
+  "fdhFU2wkYwpJIssM": {
+    "type": "spell",
+    "sourceName": "Chain Attack (Daemonology)",
+    "name": "Цепной разряд (Демонология)"
+  },
+  "fdq3RFSOKl5b3WzW": {
+    "type": "skill",
+    "sourceName": "Art ( )",
+    "name": "Искусство ()"
+  },
+  "fiHq2JGODlbQRdKh": {
+    "type": "career",
+    "sourceName": "Detective",
+    "name": "Детектив"
+  },
+  "fixdd2ulR5HUyeoi": {
+    "type": "career",
+    "sourceName": "Witch Hunter",
+    "name": "Охотник на ведьм"
+  },
+  "fjd1u9VAgiYzhBRp": {
+    "type": "trait",
+    "sourceName": "Fury",
+    "name": "Свирепость"
+  },
+  "fmx1OeOsxkGf21wa": {
+    "type": "spell",
+    "sourceName": "Eavesdrop",
+    "name": "Подслушивание"
+  },
+  "fn8QNQQ1S2rh12Us": {
+    "type": "talent",
+    "sourceName": "Doomed",
+    "name": "Роковое Пророчество"
+  },
+  "foqexF06lguqPFK6": {
+    "type": "spell",
+    "sourceName": "Vanhel's Call",
+    "name": "Зов Ванхеля"
+  },
+  "fxdXQBC34eLXcySP": {
+    "type": "spell",
+    "sourceName": "Distracting (Heavens)",
+    "name": "Дезориентация (Небеса)"
+  },
+  "fyeFolXwsxNfU30b": {
+    "type": "career",
+    "sourceName": "Road Warden",
+    "name": "Дорожный стражник"
+  },
+  "g2vYtD3Mu7ujYTVF": {
+    "type": "career",
+    "sourceName": "Bandit King",
+    "name": "Король разбойников"
+  },
+  "g3y373FnWJEAxgEB": {
+    "type": "talent",
+    "sourceName": "Detect Artefact",
+    "name": "Распознание артефакта"
+  },
+  "g4Q6AtzZuo5iIvD4": {
+    "type": "talent",
+    "sourceName": "Catfall",
+    "name": "Кошачья лёгкость"
+  },
+  "g796u6AgEQvRPlp7": {
+    "type": "container",
+    "sourceName": "River Barge",
+    "name": "Речная лодка/баржа"
+  },
+  "g7Sts6Gzrcg4oDDI": {
+    "type": "career",
+    "sourceName": "Coach Master",
+    "name": "Хозяин дилижанса"
+  },
+  "gFkRm9wS65qe18Xv": {
+    "type": "trait",
+    "sourceName": "Venom",
+    "name": "Яд"
+  },
+  "gJYXrZa4pW49R9Vu": {
+    "type": "spell",
+    "sourceName": "Blast",
+    "name": "Взрыв"
+  },
+  "gLGSO3xrpAua0ydw": {
+    "type": "trapping",
+    "sourceName": "Cutlery",
+    "name": "Столовые приборы"
+  },
+  "gMsd6II7Y1oBMddp": {
+    "type": "mutation",
+    "sourceName": "Thrill Hunter",
+    "name": "Любитель острых ощущений"
+  },
+  "gQ14yfwjfcJgNpMp": {
+    "type": "spell",
+    "sourceName": "Animal Friend",
+    "name": "Друг животных"
+  },
+  "gQAE2ifjBM5Cp9Gi": {
+    "type": "spell",
+    "sourceName": "Drop (Death)",
+    "name": "Дырявые руки (Смерть)"
+  },
+  "gTxHixydLdCoWRmj": {
+    "type": "career",
+    "sourceName": "Sentry",
+    "name": "Часовой"
+  },
+  "gWMhBQ8wm1Td78Si": {
+    "type": "spell",
+    "sourceName": "Magic Shield (Shadow)",
+    "name": "Магический щит (Тень)"
+  },
+  "gWvUkc6mXh8LbsR9": {
+    "type": "career",
+    "sourceName": "Governor",
+    "name": "Губернатор"
+  },
+  "gb3Dy4ZgfB7VfBTM": {
+    "type": "career",
+    "sourceName": "Councilor",
+    "name": "Член схода"
+  },
+  "gh91jaxzTBgbMoi5": {
+    "type": "skill",
+    "sourceName": "Channelling (Aqshy)",
+    "name": "Концентрация (Акши)"
+  },
+  "glZHSQzFnF9qXAwf": {
+    "type": "spell",
+    "sourceName": "Teleport (Witchcraft)",
+    "name": "Телепортация (ведьмовство)"
+  },
+  "gmQjHw6wYJu4gd7b": {
+    "type": "career",
+    "sourceName": "Riverwoman",
+    "name": "Речной житель"
+  },
+  "grTWA31QrNEIN1DB": {
+    "type": "spell",
+    "sourceName": "Ward (Witchcraft)",
+    "name": "Оберег (ведьмовство)"
+  },
+  "gwnNz34Rh0jW4WmF": {
+    "type": "spell",
+    "sourceName": "Beast Tongue",
+    "name": "Язык зверей"
+  },
+  "gx451Vn2Ru3eKLIg": {
+    "type": "trapping",
+    "sourceName": "Disguise Kit",
+    "name": "Гримёрный набор"
+  },
+  "gxdjLQoQUTYgD6fm": {
+    "type": "trapping",
+    "sourceName": "Healing Draught",
+    "name": "Целебное снадобье"
+  },
+  "gz2xy41OSVZ8YBgI": {
+    "type": "injury",
+    "sourceName": "Amputated Foot",
+    "name": "Ампутированная стопа"
+  },
+  "gzriPtNbRFltaAsh": {
+    "type": "trapping",
+    "sourceName": "Dog collar and lead",
+    "name": "Ошейник и поводок"
+  },
+  "h71V7JrSChemeLxk": {
+    "type": "spell",
+    "sourceName": "Entangle (Fire)",
+    "name": "Обездвижение (Огонь)"
+  },
+  "h7OXI7PXcs8EHdxf": {
+    "type": "skill",
+    "sourceName": "Art (Cartography)",
+    "name": "Искусство (картография)"
+  },
+  "hCadFsTRvLN9faaY": {
+    "type": "injury",
+    "sourceName": "Broken Head (Major)",
+    "name": "Серьезный перелом (голова)"
+  },
+  "hEr7pIXzUCHOXZIX": {
+    "type": "trapping",
+    "sourceName": "Religious Symbol",
+    "name": "Религиозный символ"
+  },
+  "hFjPSbBEQXVQNXmW": {
+    "type": "spell",
+    "sourceName": "Bridge (Heavens)",
+    "name": "Мост (Небеса)"
+  },
+  "hG90GkelSekqH7i8": {
+    "type": "container",
+    "sourceName": "Waterskin",
+    "name": "Бурдюк"
+  },
+  "hKFeMAsntzXscIGy": {
+    "type": "spell",
+    "sourceName": "Shock",
+    "name": "Ошеломление"
+  },
+  "hL7B3d7A0sYYjHXn": {
+    "type": "prayer",
+    "sourceName": "Ranald's Grace",
+    "name": "Поступь Ранальда"
+  },
+  "hNOnwU998jZlnGuk": {
+    "type": "spell",
+    "sourceName": "Bridge (Necromancy)",
+    "name": "Мост (Некромантия)"
+  },
+  "hTgrGkWnmIR4xhVe": {
+    "type": "talent",
+    "sourceName": "Carouser",
+    "name": "Заядлый кутила"
+  },
+  "hTm0rQkQTpm0OT3n": {
+    "type": "mutation",
+    "sourceName": "Iron Skin",
+    "name": "Железная кожа"
+  },
+  "hUZ9lx9v2AGrfHWU": {
+    "type": "career",
+    "sourceName": "Master Miner",
+    "name": "Рудознатец"
+  },
+  "hW0jBCKx6noFKNMc": {
+    "type": "spell",
+    "sourceName": "Purify Water",
+    "name": "Очищение воды"
+  },
+  "hXcfygzujgyMN1uI": {
+    "type": "talent",
+    "sourceName": "Frenzy",
+    "name": "Ярость"
+  },
+  "ha5MaHoDPxGtzP2b": {
+    "type": "spell",
+    "sourceName": "Bolt (Heavens)",
+    "name": "Стрела (Небеса)"
+  },
+  "hbWZeX5jVtGJXoTe": {
+    "type": "spell",
+    "sourceName": "Dark Vision (Necromancy)",
+    "name": "Ночное зрение (Некромантия)"
+  },
+  "heJZbvL0uXqKbljR": {
+    "type": "critical",
+    "sourceName": "Carved Shin",
+    "name": "Травма голени"
+  },
+  "herUmN51D9TiL2Vn": {
+    "type": "disease",
+    "sourceName": "The Bloody Flux",
+    "name": "Кровавый понос"
+  },
+  "hf9G7f8sMqZ0xweB": {
+    "type": "spell",
+    "sourceName": "Flight (Daemonology)",
+    "name": "Полёт (Демонология)"
+  },
+  "hgg9qZcvbotrA3V2": {
+    "type": "spell",
+    "sourceName": "Blast (Witchcraft)",
+    "name": "Взрыв (ведьмовство)"
+  },
+  "hhImniNwHKmcC6FK": {
+    "type": "trapping",
+    "sourceName": "Antitoxin Kit",
+    "name": "Набор противоядий"
+  },
+  "hiU7vhBOVpVI8c7C": {
+    "type": "talent",
+    "sourceName": "Chaos Magic",
+    "name": "Магия Хаоса"
+  },
+  "hnuZUd35SCjKkJc2": {
+    "type": "trapping",
+    "sourceName": "Sickle",
+    "name": "Серп"
+  },
+  "ho9cOHfrG2Zbeb7q": {
+    "type": "career",
+    "sourceName": "Wrecker Captain",
+    "name": "Капитан побережников"
+  },
+  "hodHqFNKAmu40ajh": {
+    "type": "skill",
+    "sourceName": "Swim",
+    "name": "Плавание"
+  },
+  "horFAtaDz0EbuY3R": {
+    "type": "trapping",
+    "sourceName": "Rope, 10 yards",
+    "name": "Верёвка (10 ярдов)"
+  },
+  "hpc8g8Z9rl3fJECS": {
+    "type": "skill",
+    "sourceName": "Channelling (Azyr)",
+    "name": "Концентрация (Азир)"
+  },
+  "huYKd0sYPnF4ReB0": {
+    "type": "career",
+    "sourceName": "Noble Lord",
+    "name": "Аристократ"
+  },
+  "i2DKz375sriXqfkS": {
+    "type": "trapping",
+    "sourceName": "Pole (3 yards)",
+    "name": "Шест (3 ярда)"
+  },
+  "i5DW3xX2lGu6Pps6": {
+    "type": "prayer",
+    "sourceName": "Drowned Man's Face",
+    "name": "Лицо утопленника"
+  },
+  "i76oPVM2eFEs5IBh": {
+    "type": "armour",
+    "sourceName": "Mail Coat",
+    "name": "Кольчуга"
+  },
+  "iEZnh3fR7X0E0wqb": {
+    "type": "spell",
+    "sourceName": "Arrow Shield (Necromancy)",
+    "name": "Защита от стрел (Некромантия)"
+  },
+  "iIfYOlNrLb0uiV8c": {
+    "type": "prayer",
+    "sourceName": "Blessing of Fortune",
+    "name": "Благословение везения"
+  },
+  "iLHKw6w3Ipmzj5ma": {
+    "type": "critical",
+    "sourceName": "Jarred Arm",
+    "name": "Онемение руки"
+  },
+  "iLOpRevlkpP4zLMx": {
+    "type": "spell",
+    "sourceName": "Distracting (Necromancy)",
+    "name": "Дезориентация (Некромантия)"
+  },
+  "iLZcSRUbxKBecACZ": {
+    "type": "mutation",
+    "sourceName": "Corpulent",
+    "name": "Тучность"
+  },
+  "iR1C4icHTLBIH2Mk": {
+    "type": "spell",
+    "sourceName": "Corrosive Blood (Daemonology)",
+    "name": "Едкий ихор (Демонология)"
+  },
+  "iW9bvaUXQ4QsZ3Re": {
+    "type": "career",
+    "sourceName": "Demagogue",
+    "name": "Демагог"
+  },
+  "iWVQRVDVDCx1SyPA": {
+    "type": "prayer",
+    "sourceName": "Waterwalk",
+    "name": "Хождение по воде"
+  },
+  "iYan4z52v7HYM9u9": {
+    "type": "skill",
+    "sourceName": "Drive",
+    "name": "Вождение"
+  },
+  "ifjDVtgGEh787p20": {
+    "type": "spell",
+    "sourceName": "Steal Life",
+    "name": "Похищение жизни"
+  },
+  "inUaqDqtE6jOumUJ": {
+    "type": "spell",
+    "sourceName": "Aethyric Arms (Hedgecraft)",
+    "name": "Эфирное оружие (знахарство)"
+  },
+  "ipaDvYY3qS66o593": {
+    "type": "armour",
+    "sourceName": "Leather Jerkin",
+    "name": "Кожаная жилетка"
+  },
+  "itARFNqBAbwNDAAy": {
+    "type": "prayer",
+    "sourceName": "Dooming",
+    "name": "Обречение"
+  },
+  "ixOMVrEC1ISyYdDU": {
+    "type": "trapping",
+    "sourceName": "Workshop (Type)",
+    "name": "Мастерская (Тип)"
+  },
+  "j3PetZr6vZXRutml": {
+    "type": "career",
+    "sourceName": "Flagellant",
+    "name": "Флагеллант"
+  },
+  "j6v78dnOOdCB6c3d": {
+    "type": "trait",
+    "sourceName": "Bounce",
+    "name": "Прыгучесть"
+  },
+  "jA5TSMX64RR5paKk": {
+    "type": "trapping",
+    "sourceName": "Food, groceries/day",
+    "name": "Продукты, 1 день"
+  },
+  "jD1PJib6NkYkatmq": {
+    "type": "spell",
+    "sourceName": "Dying Words",
+    "name": "Посмертные слова"
+  },
+  "jGYtrDe0sNACF2pB": {
+    "type": "career",
+    "sourceName": "Master Investigator",
+    "name": "Старший следователь"
+  },
+  "jHMsJaaIQjyhYAgV": {
+    "type": "spell",
+    "sourceName": "Mutable Metal",
+    "name": "Податливый металл"
+  },
+  "jLJzZb4keVvE0qRv": {
+    "type": "talent",
+    "sourceName": "Deadeye Shot",
+    "name": "Меткий выстрел"
+  },
+  "jLyoyqwmBVPjRjhM": {
+    "type": "skill",
+    "sourceName": "Melee (Brawling)",
+    "name": "Рукопашный бой (кулачное)"
+  },
+  "jQGw8o4fY8swlmfM": {
+    "type": "trapping",
+    "sourceName": "Placard",
+    "name": "Табличка"
+  },
+  "jQmIu8P85tF0njmD": {
+    "type": "talent",
+    "sourceName": "Seasoned Traveller",
+    "name": "Бывалый путешественник"
+  },
+  "jTFOrokjEHbi12rT": {
+    "type": "trapping",
+    "sourceName": "Ranald's Delight",
+    "name": "«Ранальдова услада»"
+  },
+  "jWfYyh7QyK6XaQRU": {
+    "type": "spell",
+    "sourceName": "Open Lock",
+    "name": "Магическая отмычка"
+  },
+  "jXyyzYWid3nruQmc": {
+    "type": "prayer",
+    "sourceName": "As Verena is My Witness",
+    "name": "Да будет Верена мне свидетельницей"
+  },
+  "jY9wCTf7q86zk96P": {
+    "type": "critical",
+    "sourceName": "Torn Apart",
+    "name": "Располовинивание"
+  },
+  "jbQDTxc4QNZDLaXm": {
+    "type": "psychology",
+    "sourceName": "Love",
+    "name": "Любовь"
+  },
+  "jdv7gnwKk6eEPtQK": {
+    "type": "spell",
+    "sourceName": "Marsh Lights",
+    "name": "Магические светляки"
+  },
+  "jeXKnpbV7xq8wDkH": {
+    "type": "critical",
+    "sourceName": "Mangled Hand",
+    "name": "Размозжённая кисть"
+  },
+  "jma54Iat01N9X4Fb": {
+    "type": "critical",
+    "sourceName": "Internal Bleeding",
+    "name": "Внутреннее кровотечение"
+  },
+  "jrFIFLhyOYwcyMUl": {
+    "type": "talent",
+    "sourceName": "Flee!",
+    "name": "Поспешное бегство"
+  },
+  "jrYW2OyDHd1Md2my": {
+    "type": "talent",
+    "sourceName": "Sharpshooter",
+    "name": "Отличный стрелок"
+  },
+  "jsWKM8TEIwgacZfm": {
+    "type": "spell",
+    "sourceName": "Drop (Light)",
+    "name": "Дырявые руки (Свет)"
+  },
+  "jt0DmVK9IiF6Sd2h": {
+    "type": "talent",
+    "sourceName": "Strike to Stun",
+    "name": "Ошеломляющий удар"
+  },
+  "jvemdUZh3iRF67us": {
+    "type": "critical",
+    "sourceName": "Gaping Arm Wound",
+    "name": "Зияющая рана руки"
+  },
+  "jviOQmy0luQOySC2": {
+    "type": "talent",
+    "sourceName": "Tenacious",
+    "name": "Упрямство"
+  },
+  "jyfMHnPojhZVwF07": {
+    "type": "career",
+    "sourceName": "Fortune Teller",
+    "name": "Предсказатель"
+  },
+  "jyphOMwPqNU9KgmS": {
+    "type": "trapping",
+    "sourceName": "Ale, Keg",
+    "name": "Эль, баклага"
+  },
+  "k00PimCWkff11IA0": {
+    "type": "injury",
+    "sourceName": "Amputated Leg",
+    "name": "Ампутированная нога"
+  },
+  "k0JKY8ck2QUx5mKS": {
+    "type": "weapon",
+    "sourceName": "Lasso",
+    "name": "Сеть/лассо"
+  },
+  "k0KeWhPgFGUcOgs0": {
+    "type": "trapping",
+    "sourceName": "Animal Trap",
+    "name": "Ловушка на животных"
+  },
+  "k2DXiabtQZcgFggb": {
+    "type": "spell",
+    "sourceName": "Aethyric Armour (Shadow)",
+    "name": "Эфирный доспех (Тень)"
+  },
+  "k9539MBTFplxsysT": {
+    "type": "trait",
+    "sourceName": "Tough",
+    "name": "Закалённый"
+  },
+  "kCL3RKzIiGImZVZa": {
+    "type": "trapping",
+    "sourceName": "Shoes",
+    "name": "Башмаки"
+  },
+  "kD7mJjGJ6owqV9nI": {
+    "type": "spell",
+    "sourceName": "Move Object (Shadow)",
+    "name": "Телекинез (Тень)"
+  },
+  "kEI7TLacmDfwcM3A": {
+    "type": "skill",
+    "sourceName": "Language (Queekish)",
+    "name": "Язык (квикский)"
+  },
+  "kF2gHZaxQmOK2qrl": {
+    "type": "spell",
+    "sourceName": "Flight (Hedgecraft)",
+    "name": "Полёт (знахарство)"
+  },
+  "kFROfGFdExfyJTg9": {
+    "type": "ammunition",
+    "sourceName": "Bolt",
+    "name": "Болт"
+  },
+  "kFfdmvE78pEUVB6f": {
+    "type": "skill",
+    "sourceName": "Play (Bagpipe)",
+    "name": "Музицирование (волынка)"
+  },
+  "kJNAY1YRaCy9IgmT": {
+    "type": "trait",
+    "sourceName": "Terror",
+    "name": "Аура ужаса"
+  },
+  "kJziKlct30lfAiYA": {
+    "type": "container",
+    "sourceName": "Backpack",
+    "name": "Рюкзак"
+  },
+  "kK3ONNbnqapduJ1q": {
+    "type": "spell",
+    "sourceName": "Flight (Witchcraft)",
+    "name": "Полёт (ведьмовство)"
+  },
+  "kKccDTGzWzSXCBOb": {
+    "type": "disease",
+    "sourceName": "Festering Wound",
+    "name": "Нагноение"
+  },
+  "kLkvuZtSsedoypGm": {
+    "type": "spell",
+    "sourceName": "Mundane Aura (Light)",
+    "name": "Обыденная аура (Свет)"
+  },
+  "kMu92bwMe2jyXSjM": {
+    "type": "spell",
+    "sourceName": "Aethyric Armour (Heavens)",
+    "name": "Эфирный доспех (Небеса)"
+  },
+  "kOfcQJQOgmGsqA5U": {
+    "type": "weapon",
+    "sourceName": "Knuckledusters",
+    "name": "Кастет"
+  },
+  "kOmgIJIYcylhEUWK": {
+    "type": "career",
+    "sourceName": "Tax Collector",
+    "name": "Мытарь"
+  },
+  "kQbVFzsh4LbaIzHU": {
+    "type": "talent",
+    "sourceName": "Speedreader",
+    "name": "Скорочтение"
+  },
+  "kWo9eTmKWa0MxtrB": {
+    "type": "spell",
+    "sourceName": "Chain Attack (Light)",
+    "name": "Цепной разряд (Свет)"
+  },
+  "klCJX0mNpXYH5AIx": {
+    "type": "psychology",
+    "sourceName": "Prejudice (Target)",
+    "name": "Предубеждение (против группы)"
+  },
+  "koVVkI2BkuFI1O4t": {
+    "type": "spell",
+    "sourceName": "Ward (Hedgecraft)",
+    "name": "Оберег (знахарство)"
+  },
+  "ksRqHiMVpIL07Ij1": {
+    "type": "weapon",
+    "sourceName": "Crossbow",
+    "name": "Арбалет"
+  },
+  "kwLyvpNGE1MrDUw9": {
+    "type": "mutation",
+    "sourceName": "Lolling Tongue",
+    "name": "Длинный язык"
+  },
+  "l5X3wwVvctgQ4k2Q": {
+    "type": "critical",
+    "sourceName": "Low Blow!",
+    "name": "Удар ниже пояса!"
+  },
+  "lIaPOGOBdJBvDZf4": {
+    "type": "container",
+    "sourceName": "Pewter Stein",
+    "name": "Оловянная кружка"
+  },
+  "lJ6Av6wQfORR4mnu": {
+    "type": "trapping",
+    "sourceName": "False Leg",
+    "name": "Искусственная нога"
+  },
+  "lJfy4k1wXI25Dq9D": {
+    "type": "trapping",
+    "sourceName": "Telescope",
+    "name": "Зрительная труба"
+  },
+  "lM6cdnWRA3sVjiF9": {
+    "type": "trapping",
+    "sourceName": "Hood",
+    "name": "Капюшон"
+  },
+  "lM8c3LlW4s3KBVHR": {
+    "type": "spell",
+    "sourceName": "Push",
+    "name": "Расталкивание"
+  },
+  "lV7Bxi3T3ps4QBlc": {
+    "type": "trait",
+    "sourceName": "Mutation",
+    "name": "Мутация"
+  },
+  "lfRarot8alDa1WjG": {
+    "type": "career",
+    "sourceName": "High Priest",
+    "name": "Верховный жрец"
+  },
+  "lgYfVzNVZzKNoWd2": {
+    "type": "trapping",
+    "sourceName": "Spirits, pint",
+    "name": "Крепкая выпивка, пинта"
+  },
+  "lghYQXa227Sf8ofT": {
+    "type": "spell",
+    "sourceName": "Sounds",
+    "name": "Звуки"
+  },
+  "lniqTi6PlyCuLji6": {
+    "type": "spell",
+    "sourceName": "Teleport (Light)",
+    "name": "Телепортация (Свет)"
+  },
+  "loPti7wWf1qN01zO": {
+    "type": "career",
+    "sourceName": "Herald",
+    "name": "Герольд"
+  },
+  "lpSjuZSgTF8U62RG": {
+    "type": "spell",
+    "sourceName": "Flight (Shadow)",
+    "name": "Полёт (Тень)"
+  },
+  "lq7bDxEeIIVSmLOg": {
+    "type": "trapping",
+    "sourceName": "Bucket",
+    "name": "Ведро"
+  },
+  "ltGl3eXxujQ23al3": {
+    "type": "career",
+    "sourceName": "Troll Slayer",
+    "name": "Убийца троллей"
+  },
+  "lzTmKnhO1MY9ycPU": {
+    "type": "spell",
+    "sourceName": "Fate’s Fickle Fingers",
+    "name": "Ветреная удача"
+  },
+  "m2viFvv0MaXuxRit": {
+    "type": "career",
+    "sourceName": "Seneschal",
+    "name": "Сенешаль"
+  },
+  "mAhbJCYGkeqLl6CJ": {
+    "type": "trapping",
+    "sourceName": "Walking Cane",
+    "name": "Трость"
+  },
+  "mC2uukGCM4zykxUu": {
+    "type": "spell",
+    "sourceName": "Bolt (Metal)",
+    "name": "Стрела (Металл)"
+  },
+  "mCh1KK9jomwFZcLB": {
+    "type": "trait",
+    "sourceName": "Cold Blooded",
+    "name": "Холодная кровь"
+  },
+  "mCvZAj5F6hfUZhzR": {
+    "type": "container",
+    "sourceName": "Pouch",
+    "name": "Кошель"
+  },
+  "mDgEMOoJpi8DkRYb": {
+    "type": "trait",
+    "sourceName": "Magical",
+    "name": "Магическая атака"
+  },
+  "mE6PJ1yIScBu6Tye": {
+    "type": "career",
+    "sourceName": "Master Merchant",
+    "name": "Негоциант"
+  },
+  "mIwRtGGzTqs05fCH": {
+    "type": "spell",
+    "sourceName": "Move Object (Witchcraft)",
+    "name": "Телекинез (ведьмовство)"
+  },
+  "mJAINJ9ufafeIUmq": {
+    "type": "spell",
+    "sourceName": "Dome (Daemonology)",
+    "name": "Купол (Демонология)"
+  },
+  "mJVPaGIUEg8cfpJj": {
+    "type": "spell",
+    "sourceName": "Magic Shield",
+    "name": "Магический щит"
+  },
+  "mNoCuaVbFBflfO6X": {
+    "type": "talent",
+    "sourceName": "Sixth Sense",
+    "name": "Шестое чувство"
+  },
+  "mOMiylDui4p0nDcO": {
+    "type": "spell",
+    "sourceName": "Aethyric Arms (Light)",
+    "name": "Эфирное оружие (Свет)"
+  },
+  "mRQTe8QOSt7MEwa0": {
+    "type": "spell",
+    "sourceName": "Ward (Life)",
+    "name": "Оберег (Жизнь)"
+  },
+  "mRU10yAWWWs5WoKt": {
+    "type": "weapon",
+    "sourceName": "Improvised Weapon",
+    "name": "Импровизированное оружие"
+  },
+  "mUTrC5DA6bF8DDWz": {
+    "type": "trapping",
+    "sourceName": "Salwort",
+    "name": "Сальворт"
+  },
+  "mVx5unQ28vIpavOo": {
+    "type": "career",
+    "sourceName": "Light Cavalry Officer",
+    "name": "Офицер кавалерии"
+  },
+  "mXKrxO8WRZ9QLHA6": {
+    "type": "prayer",
+    "sourceName": "Leaping Stag",
+    "name": "Прыткость оленя"
+  },
+  "mYXcxTjAUlIHhlPo": {
+    "type": "spell",
+    "sourceName": "Chain Attack (Fire)",
+    "name": "Цепной разряд (Огонь)"
+  },
+  "maUl7MoLvuvTOhM0": {
+    "type": "prayer",
+    "sourceName": "Blessing of Grace",
+    "name": "Благословение стремительности"
+  },
+  "mcJi9yqMFRJRkhJs": {
+    "type": "trapping",
+    "sourceName": "Lantern",
+    "name": "Масляная лампа"
+  },
+  "mdPGZsn2396dEpOf": {
+    "type": "talent",
+    "sourceName": "Petty Magic",
+    "name": "Простейшая магия"
+  },
+  "meMkLEwdJIDLxM0B": {
+    "type": "psychology",
+    "sourceName": "Terror (Rating)",
+    "name": "Ужас (уровень)"
+  },
+  "mfsHBe0DUomxl9Ro": {
+    "type": "spell",
+    "sourceName": "Bolt (Hedgecraft)",
+    "name": "Стрела (знахарство)"
+  },
+  "mgeiaDZXei7JBEgo": {
+    "type": "talent",
+    "sourceName": "Iron Will",
+    "name": "Железная воля"
+  },
+  "mifZY3mi9Ed23DAv": {
+    "type": "spell",
+    "sourceName": "Bolt (Shadow)",
+    "name": "Стрела (Тень)"
+  },
+  "mik7s6AqS8SMSaJ8": {
+    "type": "ammunition",
+    "sourceName": "Stone Bullet",
+    "name": "Каменные пули"
+  },
+  "mokSUD62vhpKue2Z": {
+    "type": "career",
+    "sourceName": "Tracker",
+    "name": "Следопыт"
+  },
+  "mqo51ORnxijcqNNu": {
+    "type": "talent",
+    "sourceName": "Frightening",
+    "name": "Устрашающий вид"
+  },
+  "mu9ysWvO9QwQbd8S": {
+    "type": "trapping",
+    "sourceName": "Floor Brush",
+    "name": "Метла"
+  },
+  "n8IfmLt4kzMhIKIv": {
+    "type": "skill",
+    "sourceName": "Sail ()",
+    "name": "Хождение под парусом ()"
+  },
+  "n8MfaJhczROmscCR": {
+    "type": "prayer",
+    "sourceName": "King of the Wild",
+    "name": "Царь дикой природы"
+  },
+  "nCijLyJxZ8UfeNfV": {
+    "type": "career",
+    "sourceName": "Pathfinder",
+    "name": "Землепроходец"
+  },
+  "nCnEDGtiGYgv80xJ": {
+    "type": "skill",
+    "sourceName": "Perform (Rope Walking)",
+    "name": "Сценическое искусство (хождение по канату)"
+  },
+  "nF5z1OEhpi4t6a6S": {
+    "type": "injury",
+    "sourceName": "Torn Leg Muscle (Minor)",
+    "name": "Лёгкий разрыв мышцы (нога)"
+  },
+  "nKmrZwwjvYcS0XhE": {
+    "type": "spell",
+    "sourceName": "Arrow Shield (Heavens)",
+    "name": "Защита от стрел (Небеса)"
+  },
+  "nLlRDNRC95plBgXs": {
+    "type": "skill",
+    "sourceName": "Lore (Metallurgy)",
+    "name": "Знание (металлургия)"
+  },
+  "nQ9Fydtqshroi11E": {
+    "type": "prayer",
+    "sourceName": "Fair Winds",
+    "name": "Попутный ветер"
+  },
+  "nQPMcmt3Q1SXAzEd": {
+    "type": "skill",
+    "sourceName": "Play (Violin)",
+    "name": "Музицирование (скрипка)"
+  },
+  "nRfcszo6wF2sVFDn": {
+    "type": "trapping",
+    "sourceName": "Faxtoryll",
+    "name": "Факсторилл"
+  },
+  "nTbPOZJx5WB6Y4lL": {
+    "type": "spell",
+    "sourceName": "Flaming Hearts",
+    "name": "Пылкие сердца"
+  },
+  "nVf2096t5ynzh0Qq": {
+    "type": "container",
+    "sourceName": "Pony",
+    "name": "Пони"
+  },
+  "nWFtlLdrGOhIJsMd": {
+    "type": "career",
+    "sourceName": "Dragon Slayer",
+    "name": "Убийца драконов"
+  },
+  "nWLsoWQBCjPRKxYx": {
+    "type": "talent",
+    "sourceName": "Robust",
+    "name": "Живучесть"
+  },
+  "nZK8CBZTlWTQG2K8": {
+    "type": "critical",
+    "sourceName": "Broken Jaw",
+    "name": "Сломанная челюсть"
+  },
+  "nZw4oN4yDo5ycrmk": {
+    "type": "spell",
+    "sourceName": "Dome (Life)",
+    "name": "Купол (Жизнь)"
+  },
+  "nbhn2wX35b7Jrcbg": {
+    "type": "injury",
+    "sourceName": "Broken Head (Minor)",
+    "name": "Лёгкий перелом (голова)"
+  },
+  "nbqYJUSsVCSzmOU5": {
+    "type": "spell",
+    "sourceName": "Breath (Necromancy)",
+    "name": "Смертоносное дыхание (Некромантия)"
+  },
+  "neCKUJ2yMwEl6GAX": {
+    "type": "spell",
+    "sourceName": "Fearsome",
+    "name": "Устрашающий облик"
+  },
+  "ngOHho544P05W7Qi": {
+    "type": "spell",
+    "sourceName": "Protective Charm",
+    "name": "Защитный талисман"
+  },
+  "nh8fc9wESGUgOnIh": {
+    "type": "career",
+    "sourceName": "Duellist",
+    "name": "Дуэлянт"
+  },
+  "njocSqK1sMPTi5K4": {
+    "type": "critical",
+    "sourceName": "Broken Knee",
+    "name": "Перелом колена"
+  },
+  "nnPZijQYZGya1NJM": {
+    "type": "critical",
+    "sourceName": "Wrenched Arm",
+    "name": "Вывих руки"
+  },
+  "nqhgjUbJWglxU59j": {
+    "type": "skill",
+    "sourceName": "Language (Battle Tongue)",
+    "name": "Язык (боевой арго)"
+  },
+  "nrIcHcULt5fjRKbL": {
+    "type": "trapping",
+    "sourceName": "Boots",
+    "name": "Сапоги"
+  },
+  "nyZNUwJ54MTLKQ7Y": {
+    "type": "prayer",
+    "sourceName": "Fury's Call",
+    "name": "Зов фурии"
+  },
+  "o1FW2B7PwFhcT53j": {
+    "type": "spell",
+    "sourceName": "Terrifying (Beasts)",
+    "name": "Ужасающий облик (Звери)"
+  },
+  "o4FSm7YgmfNV4Qgq": {
+    "type": "trapping",
+    "sourceName": "Book, Law",
+    "name": "Книга (законы)"
+  },
+  "o51gUXXozGz4ON0h": {
+    "type": "trapping",
+    "sourceName": "Tattoo",
+    "name": "Татуировка"
+  },
+  "o5soyuEJoUk9HmCC": {
+    "type": "prayer",
+    "sourceName": "Sword of Justice",
+    "name": "Меч правосудия"
+  },
+  "o6VOoj3KUlkfLCia": {
+    "type": "trapping",
+    "sourceName": "Amulet",
+    "name": "Амулет"
+  },
+  "oA7LO3muxy9LNEJD": {
+    "type": "career",
+    "sourceName": "Master Apothecary",
+    "name": "Мастер-аптекарь"
+  },
+  "oBNXxRFPh1sOT4K2": {
+    "type": "armour",
+    "sourceName": "Plate Breastplate",
+    "name": "Латная кираса"
+  },
+  "oGbDwnLOn3isPJpO": {
+    "type": "talent",
+    "sourceName": "Impassioned Zeal",
+    "name": "Страстное рвение"
+  },
+  "oGzxLBKOwJ8C0q3E": {
+    "type": "trapping",
+    "sourceName": "Lock Picks",
+    "name": "Набор отмычек"
+  },
+  "oI3iwxVEXHRLSael": {
+    "type": "prayer",
+    "sourceName": "Shackles of Truth",
+    "name": "Оковы истины"
+  },
+  "oMTXHeEhzlQ3sx5M": {
+    "type": "spell",
+    "sourceName": "Feather of Lead",
+    "name": "Свинцовое перо"
+  },
+  "oMaJZ5cvCJeOUq9H": {
+    "type": "skill",
+    "sourceName": "Leadership",
+    "name": "Лидерство"
+  },
+  "oNnQmw8hJH6f5ct0": {
+    "type": "spell",
+    "sourceName": "Mundane Aura (Shadow)",
+    "name": "Обыденная аура (Тень)"
+  },
+  "oQzTJEXUx28sCiH3": {
+    "type": "talent",
+    "sourceName": "Sharp",
+    "name": "Проницательность"
+  },
+  "oRx92ByVNEBN6YkK": {
+    "type": "talent",
+    "sourceName": "Berserk Charge",
+    "name": "Яростный натиск"
+  },
+  "oSbEE6eXH1S3LfUU": {
+    "type": "skill",
+    "sourceName": "Ride (Horse)",
+    "name": "Верховая езда (лошади)"
+  },
+  "oVOBKzVocBrnrpZX": {
+    "type": "career",
+    "sourceName": "Miner",
+    "name": "Рудокоп"
+  },
+  "oW7wSkl4JMb5sBH8": {
+    "type": "armour",
+    "sourceName": "Plate Bracers",
+    "name": "Латные наручи"
+  },
+  "oZV3ImfM1kxQUCSD": {
+    "type": "spell",
+    "sourceName": "Transmutation of Chamon",
+    "name": "Трансмутация Шамона"
+  },
+  "oZzmVlMOZ02NaPkZ": {
+    "type": "mutation",
+    "sourceName": "Hollow Heart",
+    "name": "Бессердечность"
+  },
+  "oce4kxrsImFS7zlW": {
+    "type": "career",
+    "sourceName": "Stevedore",
+    "name": "Докер"
+  },
+  "ohI6sEZ63WgKHMFJ": {
+    "type": "spell",
+    "sourceName": "Dome (Hedgecraft)",
+    "name": "Купол (знахарство)"
+  },
+  "ojamLp1DFHJfgX6J": {
+    "type": "spell",
+    "sourceName": "Aethyric Armour (Death)",
+    "name": "Эфирный доспех (Смерть)"
+  },
+  "ondTnKp6pE0s0bDD": {
+    "type": "spell",
+    "sourceName": "Ward (Necromancy)",
+    "name": "Оберег (Некромантия)"
+  },
+  "op4GKikIQee7JMXw": {
+    "type": "mutation",
+    "sourceName": "Animalistic Legs",
+    "name": "Звериные ноги"
+  },
+  "oqV2s1CJix4eAUW7": {
+    "type": "spell",
+    "sourceName": "Chain Attack (Necromancy)",
+    "name": "Цепной разряд (Некромантия)"
+  },
+  "os4NKy5Oy6sRt1eh": {
+    "type": "skill",
+    "sourceName": "Outdoor Survival",
+    "name": "Выживание"
+  },
+  "osMw1Be6YgRBolTm": {
+    "type": "skill",
+    "sourceName": "Lore (Engineering)",
+    "name": "Знание (инженерное дело)"
+  },
+  "ovBsMewZzi7r6Ffx": {
+    "type": "spell",
+    "sourceName": "Dark Vision (Daemonology)",
+    "name": "Ночное зрение (Демонология)"
+  },
+  "oxZ02e5bphR9xHVu": {
+    "type": "container",
+    "sourceName": "Cart",
+    "name": "Повозка"
+  },
+  "p2PKXr5CDwln9AWS": {
+    "type": "career",
+    "sourceName": "Dockhand",
+    "name": "Грузчик"
+  },
+  "pBWXlJDOE7tfl8hP": {
+    "type": "prayer",
+    "sourceName": "Rhya's Succour",
+    "name": "Вспоможение Райи"
+  },
+  "pDvOunMrvaYoXjd9": {
+    "type": "spell",
+    "sourceName": "Murmured Whisper",
+    "name": "Чревовещание"
+  },
+  "pHITBuvCatCOBhZb": {
+    "type": "spell",
+    "sourceName": "Aethyric Armour",
+    "name": "Эфирный доспех"
+  },
+  "pI8vGV2VqT3BvnE8": {
+    "type": "career",
+    "sourceName": "Ambassador",
+    "name": "Посол"
+  },
+  "pKLMbmG3Ivt6mzMf": {
+    "type": "skill",
+    "sourceName": "Haggle",
+    "name": "Торговля"
+  },
+  "pLW9SVX0TVTYPiPv": {
+    "type": "trait",
+    "sourceName": "Bite",
+    "name": "Укус"
+  },
+  "pMPYQC15eRIaJ2eL": {
+    "type": "spell",
+    "sourceName": "Fearsome (Daemonology)",
+    "name": "Устрашающий облик (Демонология)"
+  },
+  "pQjZdMJDDaz0DpAD": {
+    "type": "talent",
+    "sourceName": "Perfect Pitch",
+    "name": "Абсолютный слух"
+  },
+  "pToozYRwOH6rC7ol": {
+    "type": "spell",
+    "sourceName": "Fearsome (Light)",
+    "name": "Устрашающий облик (Свет)"
+  },
+  "pTorrE0l3VybAbtn": {
+    "type": "trait",
+    "sourceName": "Fear",
+    "name": "Аура страха"
+  },
+  "pUf4a817P7iydsbN": {
+    "type": "career",
+    "sourceName": "Honour Guard",
+    "name": "Гвардеец"
+  },
+  "pVOuGshzCvWjNv2q": {
+    "type": "career",
+    "sourceName": "Smuggler",
+    "name": "Контрабандист"
+  },
+  "pXDWUzKhyW83rBHB": {
+    "type": "container",
+    "sourceName": "Light Warhorse",
+    "name": "Боевой конь"
+  },
+  "phXzaUxl3mFqkmDq": {
+    "type": "talent",
+    "sourceName": "Sure Shot",
+    "name": "Верный выстрел"
+  },
+  "pjJagbErW5tu3LJR": {
+    "type": "critical",
+    "sourceName": "Gut Wound",
+    "name": "Проникающая травма живота"
+  },
+  "pjZwhUmipn2XA6h1": {
+    "type": "spell",
+    "sourceName": "Aethyric Armour (Daemonology)",
+    "name": "Эфирный доспех (Демонология)"
+  },
+  "plVyl4vjS2fX16Rv": {
+    "type": "trait",
+    "sourceName": "Ghostly Howl",
+    "name": "Призрачный вой"
+  },
+  "pqdLI8MBZlExTRmV": {
+    "type": "spell",
+    "sourceName": "Mundane Aura (Necromancy)",
+    "name": "Обыденная аура (Некромантия)"
+  },
+  "pru2uoIq7hM13pYm": {
+    "type": "career",
+    "sourceName": "Entertainer",
+    "name": "Артист"
+  },
+  "pxNjTxsp1Kp0SmQe": {
+    "type": "skill",
+    "sourceName": "Cool",
+    "name": "Хладнокровие"
+  },
+  "pxfB6tZZVwKK8SG3": {
+    "type": "spell",
+    "sourceName": "Magic Shield (Light)",
+    "name": "Магический щит (Свет)"
+  },
+  "pzccnv4TOgIyrf9R": {
+    "type": "spell",
+    "sourceName": "Fearsome (Life)",
+    "name": "Устрашающий облик (Жизнь)"
+  },
+  "q3dEaQLL3ZYCZtU4": {
+    "type": "weapon",
+    "sourceName": "Javelin",
+    "name": "Метательное копьё"
+  },
+  "q58lK4kULJZB5GjE": {
+    "type": "talent",
+    "sourceName": "Rover",
+    "name": "Скиталец"
+  },
+  "qB1T6ii29jreZBRP": {
+    "type": "prayer",
+    "sourceName": "Rhya's Children",
+    "name": "Дети Райи"
+  },
+  "qBm2fu3oMhxsDBNQ": {
+    "type": "skill",
+    "sourceName": "Entertain (Storytelling)",
+    "name": "Артистизм (сказительство)"
+  },
+  "qDEu30xKhIxfSckg": {
+    "type": "trapping",
+    "sourceName": "Gilded Nose",
+    "name": "Золочёный нос"
+  },
+  "qG1ICjU4hcAhrpmW": {
+    "type": "career",
+    "sourceName": "Prioress General",
+    "name": "Генеральный настоятель"
+  },
+  "qGgpt1BH2y3Q3J0A": {
+    "type": "career",
+    "sourceName": "Barrister",
+    "name": "Барристер"
+  },
+  "qLoFG3o3tIgiYJOv": {
+    "type": "career",
+    "sourceName": "River Pirate",
+    "name": "Речной пират"
+  },
+  "qMZiB9eBUEr7omX0": {
+    "type": "career",
+    "sourceName": "Braggart",
+    "name": "Задира"
+  },
+  "qQQ6rRUqcRIaU7kr": {
+    "type": "trapping",
+    "sourceName": "Book, Magic",
+    "name": "Книга (магия)"
+  },
+  "qTVOlj1aU6776dep": {
+    "type": "spell",
+    "sourceName": "Choking Shadows",
+    "name": "Удушающие тени"
+  },
+  "qWJ2HWWj2411KSau": {
+    "type": "critical",
+    "sourceName": "Mangled Jaw",
+    "name": "Изувеченная челюсть"
+  },
+  "qXOceBlJefsWFlUI": {
+    "type": "career",
+    "sourceName": "Outlaw Chief",
+    "name": "Атаман разбойников"
+  },
+  "qZ4cFy6z482ZONuA": {
+    "type": "talent",
+    "sourceName": "Sturdy",
+    "name": "Бугай"
+  },
+  "qce9bEiaA9ICpl7V": {
+    "type": "skill",
+    "sourceName": "Perform (Miming)",
+    "name": "Сценическое искусство (пантомима)"
+  },
+  "qdMbxW09FUoYBzmB": {
+    "type": "talent",
+    "sourceName": "Witch!",
+    "name": "Ведьма!"
+  },
+  "qfd01sggD9xbCuJY": {
+    "type": "trapping",
+    "sourceName": "Black Lotus",
+    "name": "Чёрный лотос"
+  },
+  "qgWy2MsylxyyIm6V": {
+    "type": "spell",
+    "sourceName": "Corrosive Blood",
+    "name": "Едкий ихор"
+  },
+  "qh3sckvH1ioaHODD": {
+    "type": "spell",
+    "sourceName": "Dome (Death)",
+    "name": "Купол (Смерть)"
+  },
+  "qiLudcBEdA7qgrZp": {
+    "type": "spell",
+    "sourceName": "Blast (Light)",
+    "name": "Взрыв (Свет)"
+  },
+  "qim3Ad0ldTS9mXDj": {
+    "type": "weapon",
+    "sourceName": "Bolas",
+    "name": "Болас"
+  },
+  "qn4ZpvTQIX4rcJDl": {
+    "type": "injury",
+    "sourceName": "Torn Arm Muscle (Major)",
+    "name": "Серьёзный разрыв мышцы (рука)"
+  },
+  "qwGYRwFkwMSHZDDj": {
+    "type": "spell",
+    "sourceName": "Corrosive Blood (Fire)",
+    "name": "Едкий ихор (Огонь)"
+  },
+  "qwNXUbgbXcegmh8l": {
+    "type": "career",
+    "sourceName": "Physician's Apprentice",
+    "name": "Подмастерье врача"
+  },
+  "qy68sCupAbzhlvVU": {
+    "type": "skill",
+    "sourceName": "Trade (Carpenter)",
+    "name": "Ремесло (плотник)"
+  },
+  "r180vP86SlwyJc8W": {
+    "type": "talent",
+    "sourceName": "Criminal",
+    "name": "Преступник"
+  },
+  "r3BgUFaaCzsLIUDi": {
+    "type": "spell",
+    "sourceName": "T'Essla's Arc",
+    "name": "Разряд Т'Эсслы"
+  },
+  "rAfHb0jmWhNfXaBl": {
+    "type": "career",
+    "sourceName": "Guard Officer",
+    "name": "Офицер гвардии"
+  },
+  "rCoMyLXDnggBFqUB": {
+    "type": "career",
+    "sourceName": "Pit Fighter",
+    "name": "Гладиатор"
+  },
+  "rL22KLFNVzGrE9mG": {
+    "type": "spell",
+    "sourceName": "Drop (Daemonology)",
+    "name": "Дырявые руки (Демонология)"
+  },
+  "rOPmyLWa37e7s9v6": {
+    "type": "skill",
+    "sourceName": "Melee (Basic)",
+    "name": "Рукопашный бой (основное)"
+  },
+  "rOV2s6PQBBrhpMOv": {
+    "type": "trait",
+    "sourceName": "Arboreal",
+    "name": "Лесной житель"
+  },
+  "rZqr5r61z1kw9Zg5": {
+    "type": "spell",
+    "sourceName": "Magic Flame",
+    "name": "Магический огонёк"
+  },
+  "rbdxcYoj8N2eMaqV": {
+    "type": "prayer",
+    "sourceName": "Last Rites",
+    "name": "Отходная молитва"
+  },
+  "rjkMzFwN1trbSLL8": {
+    "type": "prayer",
+    "sourceName": "Twin-tailed Comet",
+    "name": "Двухвостая комета"
+  },
+  "rkJA1DlK51QuRlJy": {
+    "type": "injury",
+    "sourceName": "Amputated Tongue",
+    "name": "Ампутированный язык"
+  },
+  "rlDZZTj5PXjuRXa2": {
+    "type": "injury",
+    "sourceName": "Broken Arm (Major)",
+    "name": "Серьезный перелом (рука)"
+  },
+  "rrfrmqCpy10u7c9o": {
+    "type": "prayer",
+    "sourceName": "Winter's Bite",
+    "name": "Пасть зимы"
+  },
+  "rsLiEvTUeBKUcgVU": {
+    "type": "spell",
+    "sourceName": "Chain Attack (Hedgecraft)",
+    "name": "Цепной разряд (знахарство)"
+  },
+  "rt1yfcjZoeSulddW": {
+    "type": "skill",
+    "sourceName": "Melee (Cavalry)",
+    "name": "Рукопашный бой (кавалерийское)"
+  },
+  "rt2rGSwFDCDHPh0A": {
+    "type": "skill",
+    "sourceName": "Track",
+    "name": "Выслеживание"
+  },
+  "rtnNRlwNbYst1gZz": {
+    "type": "spell",
+    "sourceName": "Terrifying (Life)",
+    "name": "Ужасающий облик (Жизнь)"
+  },
+  "rvd0S8Z0v2m0MHmD": {
+    "type": "skill",
+    "sourceName": "Sleight of Hand",
+    "name": "Ловкость рук"
+  },
+  "rxFZ0x4pfbK3LfZy": {
+    "type": "spell",
+    "sourceName": "Dome (Fire)",
+    "name": "Купол (Огонь)"
+  },
+  "rxWdmv2tUL0hoAc3": {
+    "type": "career",
+    "sourceName": "Boatman",
+    "name": "Лодочник"
+  },
+  "rydO4uzu7Ehatm5t": {
+    "type": "career",
+    "sourceName": "Rat Catcher",
+    "name": "Крысолов"
+  },
+  "s2lBWQFQt6M5Pngb": {
+    "type": "trapping",
+    "sourceName": "Healing Poultice",
+    "name": "Целебная припарка"
+  },
+  "s4Cds5JoW0YWhNzG": {
+    "type": "trapping",
+    "sourceName": "Legal Document",
+    "name": "Официальный документ"
+  },
+  "s6I8dderSh1Iu3fe": {
+    "type": "career",
+    "sourceName": "Pauper",
+    "name": "Побирушка"
+  },
+  "s9BcRjM1u2nE0JRD": {
+    "type": "career",
+    "sourceName": "Cat Burglar",
+    "name": "Взломщик"
+  },
+  "sBHarYXR2o7jD1VY": {
+    "type": "talent",
+    "sourceName": "Super Numerate",
+    "name": "Счетовод"
+  },
+  "sJ3yX1kvzu2hgNq5": {
+    "type": "trait",
+    "sourceName": "Amphibious",
+    "name": "Амфибия"
+  },
+  "sJU1kEp6yoHPmhIc": {
+    "type": "critical",
+    "sourceName": "Minor Arm Cut",
+    "name": "Неглубокий порез руки"
+  },
+  "sK8ozV9fMR73Tfbb": {
+    "type": "spell",
+    "sourceName": "Entangle (Hedgecraft)",
+    "name": "Обездвижение (знахарство)"
+  },
+  "sRuMlaPU5xdIrwhd": {
+    "type": "skill",
+    "sourceName": "Climb",
+    "name": "Лазание"
+  },
+  "sSSUZXOXK2DSpxGx": {
+    "type": "critical",
+    "sourceName": "Dramatic Injury",
+    "name": "Эффектная рана"
+  },
+  "sUaPQdDiyWcTzC9p": {
+    "type": "skill",
+    "sourceName": "Art (Sculpture)",
+    "name": "Искусство (скульптура)"
+  },
+  "sWILR54qy3qsdQYQ": {
+    "type": "spell",
+    "sourceName": "Dome (Heavens)",
+    "name": "Купол (Небеса)"
+  },
+  "sYbgpSnRqSZWgwFP": {
+    "type": "talent",
+    "sourceName": "Etiquette",
+    "name": "Этикет"
+  },
+  "sdSy4k7ygDhAjSSX": {
+    "type": "prayer",
+    "sourceName": "Destroy Undead",
+    "name": "Уничтожение нежити"
+  },
+  "sgBDLL1iLenHJ5um": {
+    "type": "critical",
+    "sourceName": "Arterial Damage",
+    "name": "Повреждённая артерия"
+  },
+  "sgJL9NtVEZZvgkys": {
+    "type": "container",
+    "sourceName": "Scroll Case",
+    "name": "Футляр для свитков"
+  },
+  "sjzGujskG5hqVOFv": {
+    "type": "spell",
+    "sourceName": "Aethyric Armour (Witchcraft)",
+    "name": "Эфирный доспех (ведьмовство)"
+  },
+  "sknoH0n9P9uC0qvW": {
+    "type": "spell",
+    "sourceName": "Banishment",
+    "name": "Изгнание"
+  },
+  "soyujZNyzu7NKxMs": {
+    "type": "spell",
+    "sourceName": "Manifest Lesser Daemon",
+    "name": "Призыв низшего демона"
+  },
+  "spdiWsONKTzkLbg3": {
+    "type": "talent",
+    "sourceName": "Stone Soup",
+    "name": "Каменный суп"
+  },
+  "sq47SZ1v9Pofa4L1": {
+    "type": "spell",
+    "sourceName": "Curse of Ill–Fortune",
+    "name": "Проклятие неудачи"
+  },
+  "ssCqvqr2ORFX6lPL": {
+    "type": "skill",
+    "sourceName": "Channelling (Ghur)",
+    "name": "Концентрация (Гарр)"
+  },
+  "sxFriQ3XAtvwlmMq": {
+    "type": "spell",
+    "sourceName": "Nostrum",
+    "name": "Панацея"
+  },
+  "t1TD7YCRFbjiicvi": {
+    "type": "career",
+    "sourceName": "Thief-taker",
+    "name": "Ловец воров"
+  },
+  "t1sSiZO0cCKbT4ZA": {
+    "type": "mutation",
+    "sourceName": "Distended Digits",
+    "name": "Длинные пальцы"
+  },
+  "t2CmR9kFUJr5yE5E": {
+    "type": "trapping",
+    "sourceName": "Crutch",
+    "name": "Костыль"
+  },
+  "t87v2oOpnztzrBPW": {
+    "type": "career",
+    "sourceName": "Runner",
+    "name": "Гонец"
+  },
+  "t9I9s3MZQCIVjEpX": {
+    "type": "container",
+    "sourceName": "Cask",
+    "name": "Бочонок"
+  },
+  "tCCaNirq3zCIkyri": {
+    "type": "spell",
+    "sourceName": "Amber Talons",
+    "name": "Янтарные когти"
+  },
+  "tEMwdlHM8A40h6HE": {
+    "type": "prayer",
+    "sourceName": "Blessing of Conscience",
+    "name": "Благословение совести"
+  },
+  "tHjTlaoBNbBHbW6z": {
+    "type": "spell",
+    "sourceName": "Bridge (Shadow)",
+    "name": "Мост (Тень)"
+  },
+  "tIG1TGcmU2i4rgFh": {
+    "type": "armour",
+    "sourceName": "Boiled Leather Breastplate",
+    "name": "Кожаная кираса"
+  },
+  "tJEgkiklMFep6FMN": {
+    "type": "career",
+    "sourceName": "Prospector",
+    "name": "Старатель"
+  },
+  "tL7ka28KOIvEi6Rc": {
+    "type": "container",
+    "sourceName": "Riding Horse",
+    "name": "Верховая лошадь"
+  },
+  "tMocig1z9dHKNiCT": {
+    "type": "prayer",
+    "sourceName": "Blessing of Wit",
+    "name": "Благословение сметливости"
+  },
+  "tNMQQhBYzHoRq7AD": {
+    "type": "spell",
+    "sourceName": "Distracting",
+    "name": "Дезориентация"
+  },
+  "tNWrJUOArwfWXsPw": {
+    "type": "trait",
+    "sourceName": "Ethereal",
+    "name": "Бестелесность"
+  },
+  "tX9R9rSYm2YyEnOK": {
+    "type": "talent",
+    "sourceName": "In-fighter",
+    "name": "Полный контакт"
+  },
+  "tXKX29QZBdHmyMc7": {
+    "type": "talent",
+    "sourceName": "Combat Reflexes",
+    "name": "Быстрая реакция"
+  },
+  "tZc5KDSVW36sFx5G": {
+    "type": "critical",
+    "sourceName": "Brutal Dismemberment",
+    "name": "Жестокое расчленение"
+  },
+  "taJXX3aaKZfoNCBs": {
+    "type": "career",
+    "sourceName": "Master Bounty Hunter",
+    "name": "Мастер-поимщик"
+  },
+  "tbgyz5b4lR8k1Nk4": {
+    "type": "spell",
+    "sourceName": "Distracting (Life)",
+    "name": "Дезориентация (Жизнь)"
+  },
+  "tcBFO4ATKpT0h3GT": {
+    "type": "mutation",
+    "sourceName": "Hateful Impulses",
+    "name": "Приступы отвращения"
+  },
+  "teHEJyd80PqNHT9q": {
+    "type": "spell",
+    "sourceName": "Arrow Shield (Life)",
+    "name": "Защита от стрел (Жизнь)"
+  },
+  "tkPrVMoZibf5kbhe": {
+    "type": "spell",
+    "sourceName": "Flight (Death)",
+    "name": "Полёт (Смерть)"
+  },
+  "tlEg21DHMEJoWcJq": {
+    "type": "talent",
+    "sourceName": "Waterman",
+    "name": "Речной волк"
+  },
+  "trieNRiCCulTerPb": {
+    "type": "spell",
+    "sourceName": "Wyssan’s Wildform",
+    "name": "Дикое обличье Виссана"
+  },
+  "tv7m7LS9MLTbTzaB": {
+    "type": "trapping",
+    "sourceName": "Pestle & Mortar",
+    "name": "Ступка и пестик"
+  },
+  "tvErDOxKczBFsWEg": {
+    "type": "spell",
+    "sourceName": "Teleport (Hedgecraft)",
+    "name": "Телепортация (знахарство)"
+  },
+  "txeLd7R13qxSvmsr": {
+    "type": "disease",
+    "sourceName": "Galloping Trots",
+    "name": "Бешеная золотуха"
+  },
+  "txoNWW53klRbo49P": {
+    "type": "career",
+    "sourceName": "Fellow",
+    "name": "Академик"
+  },
+  "tzMoFhFAWUGaqhxq": {
+    "type": "trapping",
+    "sourceName": "Gavel",
+    "name": "Судейский молоток"
+  },
+  "u0CFf3xwiyidD9T5": {
+    "type": "talent",
+    "sourceName": "Luck",
+    "name": "Фортуна"
+  },
+  "u0ykDg71xyZWSxn6": {
+    "type": "spell",
+    "sourceName": "Twitch",
+    "name": "Тычок"
+  },
+  "u2DMz1B0DyUHBi6Z": {
+    "type": "career",
+    "sourceName": "Initiate",
+    "name": "Диакон"
+  },
+  "u5lMTKaOsZfiE3p0": {
+    "type": "mutation",
+    "sourceName": "Extra Leg Joints",
+    "name": "Многосуставчатые ноги"
+  },
+  "u9dLyalenY0AIzCT": {
+    "type": "skill",
+    "sourceName": "Trade (Tanner)",
+    "name": "Ремесло (дубильщик)"
+  },
+  "uDavMIqhDl5aDNOy": {
+    "type": "weapon",
+    "sourceName": "Swordbreaker",
+    "name": "Мечелом"
+  },
+  "uE6AXjMjYvtvXQvy": {
+    "type": "prayer",
+    "sourceName": "Portal's Threshold",
+    "name": "Порог Врат"
+  },
+  "uIamxlmA6SWAa3YR": {
+    "type": "spell",
+    "sourceName": "The Third Portent of Amul",
+    "name": "Третье знамение Амула"
+  },
+  "uMECZBuDnb3qkc7k": {
+    "type": "prayer",
+    "sourceName": "Anchorite's Endurance",
+    "name": "Стойкость отшельника"
+  },
+  "uNG01MDCaG4zcs6U": {
+    "type": "career",
+    "sourceName": "Fence",
+    "name": "Скупщик краденого"
+  },
+  "uRvOg8AnCcP2ufx8": {
+    "type": "talent",
+    "sourceName": "Resolute",
+    "name": "Целеустремлённость"
+  },
+  "uSxXVJogASbJ62hl": {
+    "type": "weapon",
+    "sourceName": "Foil",
+    "name": "Рапира"
+  },
+  "uU2ibNRgeEjuSN7e": {
+    "type": "critical",
+    "sourceName": "Hacked Leg",
+    "name": "Глубокая рана ноги"
+  },
+  "uZdUrRFgNpTtY00H": {
+    "type": "spell",
+    "sourceName": "Dome",
+    "name": "Купол"
+  },
+  "uZpeJ8P0g10UBRdE": {
+    "type": "skill",
+    "sourceName": "Animal Training ( )",
+    "name": "Дрессировка ()"
+  },
+  "uaCXMXoY3UaJ26ne": {
+    "type": "spell",
+    "sourceName": "Ward (Heavens)",
+    "name": "Оберег (Небеса)"
+  },
+  "uej1rqpQSyzK9wRT": {
+    "type": "spell",
+    "sourceName": "Teleport (Fire)",
+    "name": "Телепортация (Огонь)"
+  },
+  "ufAAH4fyE4qfkH2c": {
+    "type": "career",
+    "sourceName": "Treasure Hunter",
+    "name": "Охотник за сокровищами"
+  },
+  "un8r6R9QLrACK2pv": {
+    "type": "career",
+    "sourceName": "Herbwise",
+    "name": "Премудрый травник"
+  },
+  "uqGxFOEqeurwkAO3": {
+    "type": "trait",
+    "sourceName": "Breath",
+    "name": "Смертоносное дыхание"
+  },
+  "urBvn79ntZ0q44Op": {
+    "type": "spell",
+    "sourceName": "Chain Attack (Metal)",
+    "name": "Цепной разряд (Металл)"
+  },
+  "utRev4dXTLI0A2GL": {
+    "type": "trapping",
+    "sourceName": "Baton",
+    "name": "Дирижёрская палочка"
+  },
+  "v0agvdbIs8UC85IE": {
+    "type": "spell",
+    "sourceName": "Dark Vision (Fire)",
+    "name": "Ночное зрение (Огонь)"
+  },
+  "v1Qrow72mtUtgkFC": {
+    "type": "spell",
+    "sourceName": "Glittering Robe",
+    "name": "Блистающая мантия"
+  },
+  "v28a5ilgxvDJfBqR": {
+    "type": "prayer",
+    "sourceName": "Hoarfrost's Chill",
+    "name": "Леденящий страх"
+  },
+  "v2eVrGuRfN4p6NCA": {
+    "type": "skill",
+    "sourceName": "Art (Engraving)",
+    "name": "Искусство (гравировка)"
+  },
+  "v3uzEthcq0JRar0J": {
+    "type": "trait",
+    "sourceName": "Daemonic",
+    "name": "Демон"
+  },
+  "v6OhQFxpriyKJyVO": {
+    "type": "career",
+    "sourceName": "River Runner",
+    "name": "Речной скороход"
+  },
+  "vCgEAetBMngR53aT": {
+    "type": "talent",
+    "sourceName": "War Leader",
+    "name": "Командир"
+  },
+  "vEuljwoWR2rOTU5y": {
+    "type": "spell",
+    "sourceName": "Caress of Laniph",
+    "name": "Ласка Ланиф"
+  },
+  "vG5u7SZ7S5IYCZ9e": {
+    "type": "spell",
+    "sourceName": "Corrosive Blood (Hedgecraft)",
+    "name": "Едкий ихор (знахарство)"
+  },
+  "vI0oorwbZdlszudf": {
+    "type": "weapon",
+    "sourceName": "Incendiary",
+    "name": "Зажигательная бомба"
+  },
+  "vLhS0qwea9LjvK6u": {
+    "type": "spell",
+    "sourceName": "Flight (Necromancy)",
+    "name": "Полёт (Некромантия)"
+  },
+  "vM8x6slw8TfuAJ9B": {
+    "type": "spell",
+    "sourceName": "Arrow Shield (Hedgecraft)",
+    "name": "Защита от стрел (знахарство)"
+  },
+  "vMYEkrWj0ip6ZOdv": {
+    "type": "talent",
+    "sourceName": "Resistance",
+    "name": "Устойчивость"
+  },
+  "vQtJqX0qb0bbpVDg": {
+    "type": "skill",
+    "sourceName": "Perform (Acrobatics)",
+    "name": "Сценическое искусство (акробатика)"
+  },
+  "vXxw8seyOyGKaFGf": {
+    "type": "career",
+    "sourceName": "Exterminator",
+    "name": "Изничтожитель"
+  },
+  "vY0CHKsJRV3gYBj3": {
+    "type": "trait",
+    "sourceName": "Spellcaster",
+    "name": "Магический дар"
+  },
+  "vbNHaU50jr9T2dCQ": {
+    "type": "container",
+    "sourceName": "Jug",
+    "name": "Кувшин"
+  },
+  "vcHUiputmUcPem6f": {
+    "type": "career",
+    "sourceName": "Judge",
+    "name": "Судья"
+  },
+  "vguGSNyf0hfxZ6RM": {
+    "type": "career",
+    "sourceName": "Huffer",
+    "name": "Лоцман"
+  },
+  "vkfLXwz3Vpi13LqP": {
+    "type": "career",
+    "sourceName": "Wandering Trader",
+    "name": "Странствующий торговец"
+  },
+  "vmFzpNOoQfMELqdM": {
+    "type": "career",
+    "sourceName": "Busker",
+    "name": "Уличный артист"
+  },
+  "voV0C2ar1bKpcpnH": {
+    "type": "talent",
+    "sourceName": "Invoke",
+    "name": "Божественное вмешательство"
+  },
+  "vsfAkV0SktCjFgKA": {
+    "type": "career",
+    "sourceName": "Witchfinder General",
+    "name": "Великий инквизитор"
+  },
+  "vwphk8DwbBkUABDZ": {
+    "type": "spell",
+    "sourceName": "Teleport (Death)",
+    "name": "Телепортация (Смерть)"
+  },
+  "vxbYDthV1f7D2nyx": {
+    "type": "spell",
+    "sourceName": "Distracting (Light)",
+    "name": "Дезориентация (Свет)"
+  },
+  "vzaBW9F5LVSAAV5H": {
+    "type": "spell",
+    "sourceName": "Blast (Necromancy)",
+    "name": "Взрыв (Некромантия)"
+  },
+  "w0pZ963P6QS7Eh2a": {
+    "type": "spell",
+    "sourceName": "Aethyric Arms (Metal)",
+    "name": "Эфирное оружие (Металл)"
+  },
+  "w5b653yUVENuVHzy": {
+    "type": "spell",
+    "sourceName": "Chain Attack (Heavens)",
+    "name": "Цепной разряд (Небеса)"
+  },
+  "w5rHYhqw0bT15LCr": {
+    "type": "career",
+    "sourceName": "Seaman",
+    "name": "Моряк"
+  },
+  "w9VCyP12U7MrC3jk": {
+    "type": "trapping",
+    "sourceName": "Broom",
+    "name": "Веник"
+  },
+  "wBhPFggGqIXwbx1r": {
+    "type": "talent",
+    "sourceName": "Alley Cat",
+    "name": "Бродячий кот"
+  },
+  "wGTD2LezlI6Atyy0": {
+    "type": "trait",
+    "sourceName": "Leader",
+    "name": "Лидер"
+  },
+  "wHaglsPNfRMpKB9K": {
+    "type": "spell",
+    "sourceName": "Crucible of Chamon",
+    "name": "Горн Шамона"
+  },
+  "wKwel9MG7NIG3i3w": {
+    "type": "skill",
+    "sourceName": "Trade ()",
+    "name": "Ремесло ()"
+  },
+  "wMwSRDmgiF2IdCJr": {
+    "type": "trait",
+    "sourceName": "Painless",
+    "name": "Невосприимчивость к боли"
+  },
+  "wNvPXAhlKABl6hpk": {
+    "type": "talent",
+    "sourceName": "Pure Soul",
+    "name": "Духовная чистота"
+  },
+  "wPYrDuwdW4nJRcJt": {
+    "type": "career",
+    "sourceName": "Light Cavalry Sergeant",
+    "name": "Сержант кавалерии"
+  },
+  "wQ5ld4yCCqhG0lqL": {
+    "type": "spell",
+    "sourceName": "Move Object",
+    "name": "Телекинез"
+  },
+  "wSEGXXkc6swDkuJJ": {
+    "type": "career",
+    "sourceName": "Recruit",
+    "name": "Новобранец"
+  },
+  "wTGR340dwvAgwA9v": {
+    "type": "critical",
+    "sourceName": "Minor Leg Cut",
+    "name": "Неглубокий порез ноги"
+  },
+  "wTfoDOFOnvQykpdm": {
+    "type": "spell",
+    "sourceName": "Cerulean Shield",
+    "name": "Лазурный щит"
+  },
+  "wVL0ugPXCBLGzdNm": {
+    "type": "trapping",
+    "sourceName": "False Eye",
+    "name": "Искусственный глаз"
+  },
+  "wXcJWxJdw0ib5b8W": {
+    "type": "talent",
+    "sourceName": "Concoct",
+    "name": "Походный рецепт"
+  },
+  "wbbDM7rUetyWYgLt": {
+    "type": "critical",
+    "sourceName": "Sprained Ankle",
+    "name": "Вывих лодыжки"
+  },
+  "weawpyxoBpAUqDJo": {
+    "type": "skill",
+    "sourceName": "Trade (Embalmer)",
+    "name": "Ремесло (бальзамировщик)"
+  },
+  "weczkAMPlTjX7lqU": {
+    "type": "injury",
+    "sourceName": "Amputated Eye",
+    "name": "Ампутированный глаз"
+  },
+  "wgFj3lFhCuO8OeDb": {
+    "type": "trapping",
+    "sourceName": "Moonflower",
+    "name": "Луноцвет"
+  },
+  "wi9BBLoL1TIf5aUf": {
+    "type": "spell",
+    "sourceName": "Arrow Shield (Daemonology)",
+    "name": "Защита от стрел (Демонология)"
+  },
+  "wj5pXiyhNjaP6pom": {
+    "type": "spell",
+    "sourceName": "Light",
+    "name": "Свет"
+  },
+  "wknDEJDGTEPWqHtG": {
+    "type": "spell",
+    "sourceName": "Blast (Hedgecraft)",
+    "name": "Взрыв (знахарство)"
+  },
+  "wlH2GnvZKA4zvdn8": {
+    "type": "career",
+    "sourceName": "Peasant",
+    "name": "Батрак"
+  },
+  "wnYgHZm503oOERSf": {
+    "type": "critical",
+    "sourceName": "Twisted Knee",
+    "name": "Ушиб колена"
+  },
+  "wrFLHWygOlwFG2q3": {
+    "type": "trapping",
+    "sourceName": "Comb",
+    "name": "Расчёска"
+  },
+  "wrpVYmdiIy1jPulc": {
+    "type": "talent",
+    "sourceName": "Break and Enter",
+    "name": "Взлом с проникновением"
+  },
+  "wwt4F5amY5sxbXsq": {
+    "type": "career",
+    "sourceName": "Artisan",
+    "name": "Ремесленник"
+  },
+  "wx23bbK7pPqY2quI": {
+    "type": "spell",
+    "sourceName": "Dark Vision",
+    "name": "Ночное зрение"
+  },
+  "wzDP2S8dphUGFWO3": {
+    "type": "spell",
+    "sourceName": "Dark Vision (Light)",
+    "name": "Ночное зрение (Свет)"
+  },
+  "x0WMGwuQzReXcQrs": {
+    "type": "talent",
+    "sourceName": "Night Vision",
+    "name": "Сумеречное зрение"
+  },
+  "x8g3U68oi8XzWiYr": {
+    "type": "talent",
+    "sourceName": "Commanding Presence",
+    "name": "Аура величия"
+  },
+  "x8jsChg17VQ9XgiK": {
+    "type": "talent",
+    "sourceName": "Riposte",
+    "name": "Рипост"
+  },
+  "xPTG5wLvHULLEM2p": {
+    "type": "spell",
+    "sourceName": "The Second Portent of Amul",
+    "name": "Второе знамение Амула"
+  },
+  "xQVVrzVD7V7yCq31": {
+    "type": "spell",
+    "sourceName": "Bridge (Fire)",
+    "name": "Мост (Огонь)"
+  },
+  "xdAP96GGDb87m0Pr": {
+    "type": "ammunition",
+    "sourceName": "Bullet and Powder",
+    "name": "Пуля и порох"
+  },
+  "xeGpCLz8uGaZb1nL": {
+    "type": "skill",
+    "sourceName": "Language (Grumbarth)",
+    "name": "Язык (грумбартский)"
+  },
+  "xg6z63j6BH5AaqLL": {
+    "type": "trait",
+    "sourceName": "Tongue Attack (Range)",
+    "name": "Атака языком (дальность)"
+  },
+  "xhGjRScyU149nK3i": {
+    "type": "spell",
+    "sourceName": "Treason of Tzeentch",
+    "name": "Вероломство Тзинча"
+  },
+  "xiOYNJcfqPselfwT": {
+    "type": "weapon",
+    "sourceName": "Whip",
+    "name": "Кнут"
+  },
+  "xiTk3pZX0GYVO2TQ": {
+    "type": "spell",
+    "sourceName": "Mirkride",
+    "name": "Сумеречная прогулка"
+  },
+  "xneBqGOs1QS7kfUr": {
+    "type": "trait",
+    "sourceName": "Hungry",
+    "name": "Голод"
+  },
+  "xsGbDFqK2qh7lsIj": {
+    "type": "trait",
+    "sourceName": "Corruption",
+    "name": "Источник скверны"
+  },
+  "xx8SgdWYEjKct7ym": {
+    "type": "talent",
+    "sourceName": "Implacable",
+    "name": "Суровый"
+  },
+  "xyCPobJtYNSpYtr6": {
+    "type": "spell",
+    "sourceName": "Teleport (Daemonology)",
+    "name": "Телепортация (Демонология)"
+  },
+  "xyIZu4DfQSMtdH2t": {
+    "type": "career",
+    "sourceName": "Coachman",
+    "name": "Кучер"
+  },
+  "xzfS4Gm90R7ViMI6": {
+    "type": "career",
+    "sourceName": "Master Beggar",
+    "name": "Старший попрошайка"
+  },
+  "y0V0xRFindJiBUDz": {
+    "type": "career",
+    "sourceName": "Apothecary-General",
+    "name": "Провизор"
+  },
+  "y28P2G0NEVZvMzS5": {
+    "type": "trapping",
+    "sourceName": "Hunting Dog",
+    "name": "Охотничья собака"
+  },
+  "y8XGpUCRkxdnn0ys": {
+    "type": "career",
+    "sourceName": "Warrior Priest",
+    "name": "Жрец-воин"
+  },
+  "yC4ry3bNP2Lc04WK": {
+    "type": "spell",
+    "sourceName": "Flight (Beasts)",
+    "name": "Полёт (Звери)"
+  },
+  "yMn4pNpf0KLCt3Z1": {
+    "type": "trapping",
+    "sourceName": "Chisel",
+    "name": "Резец"
+  },
+  "yR82MDHEF4zQoYyR": {
+    "type": "spell",
+    "sourceName": "Flock of Doom",
+    "name": "Смертоносная стая"
+  },
+  "yRRDOZ82C4ZLR6ju": {
+    "type": "career",
+    "sourceName": "Scoundrel",
+    "name": "Махинатор"
+  },
+  "yRhhOlt18COq4e1q": {
+    "type": "trait",
+    "sourceName": "Frenzy",
+    "name": "Ярость"
+  },
+  "yiI4a3Yufcm8NXN6": {
+    "type": "spell",
+    "sourceName": "Corrosive Blood (Necromancy)",
+    "name": "Едкий ихор (Некромантия)"
+  },
+  "yqgOaCsgMNq6VDC7": {
+    "type": "trapping",
+    "sourceName": "Nails",
+    "name": "Гвозди"
+  },
+  "yr4ikZaXnYt7kOZd": {
+    "type": "skill",
+    "sourceName": "Ride (Demigryph)",
+    "name": "Верховая езда (демигрифы)"
+  },
+  "yrkI7ATjqLPDTFmZ": {
+    "type": "trait",
+    "sourceName": "Magic Resistance",
+    "name": "Устойчивость к магии"
+  },
+  "ytEJJWKVLwcywXCQ": {
+    "type": "mutation",
+    "sourceName": "Profane Urgency",
+    "name": "Нетерпеливость"
+  },
+  "yzgbXappuN7MRXUy": {
+    "type": "career",
+    "sourceName": "Bargeswain",
+    "name": "Старшина"
+  },
+  "z8X2CMJdAZKoE3lk": {
+    "type": "trapping",
+    "sourceName": "Book, Cryptography",
+    "name": "Книга (криптография)"
+  },
+  "zAXq89sUgwR4aU1p": {
+    "type": "container",
+    "sourceName": "Row Boat",
+    "name": "Гребная лодка"
+  },
+  "zDdI21hXufHuDarS": {
+    "type": "career",
+    "sourceName": "Prophet of Doom",
+    "name": "Пророк Судного Дня"
+  },
+  "zGQ0ShUTSlUvVtWh": {
+    "type": "talent",
+    "sourceName": "Warrior Born",
+    "name": "Прирождённый воин"
+  },
+  "zIf0i6DBqGlyQ5By": {
+    "type": "trapping",
+    "sourceName": "Manacles",
+    "name": "Кандалы"
+  },
+  "zImcTgEl2XNnbu5W": {
+    "type": "talent",
+    "sourceName": "Hardy",
+    "name": "Здоровяк"
+  },
+  "zIuarD5mB0EF0ji0": {
+    "type": "weapon",
+    "sourceName": "Spear",
+    "name": "Копьё"
+  },
+  "zNobG855V6XwHTXh": {
+    "type": "spell",
+    "sourceName": "Bolt (Death)",
+    "name": "Стрела (Смерть)"
+  },
+  "zNzlJWzCqmyLtnFS": {
+    "type": "critical",
+    "sourceName": "Major Chest Wound",
+    "name": "Обширная травма груди"
+  },
+  "zOfGEVtocyprCAZU": {
+    "type": "career",
+    "sourceName": "Boatswain",
+    "name": "Боцман"
+  },
+  "zS1aRUvoj8fJIF3P": {
+    "type": "career",
+    "sourceName": "Seer",
+    "name": "Провидец"
+  },
+  "zXlqNl9jSTRWyKpm": {
+    "type": "spell",
+    "sourceName": "Dome (Shadow)",
+    "name": "Купол (Тень)"
+  },
+  "zXuy90mI1OLjxCvc": {
+    "type": "critical",
+    "sourceName": "Damaged Artery",
+    "name": "Повреждённая артерия"
+  },
+  "zYJQIjWT22jU76w2": {
+    "type": "spell",
+    "sourceName": "Terrifying (Hedgecraft)",
+    "name": "Ужасающий облик (знахарство)"
+  },
+  "zZ2QaJ9EHJlh1QbW": {
+    "type": "career",
+    "sourceName": "Penitent",
+    "name": "Кающийся грешник"
+  },
+  "zZUX7wO4rOo8k9F0": {
+    "type": "skill",
+    "sourceName": "Navigation",
+    "name": "Ориентирование"
+  },
+  "zcH25H2Zr7Xwq1Xd": {
+    "type": "spell",
+    "sourceName": "Dark Vision (Life)",
+    "name": "Ночное зрение (Жизнь)"
+  },
+  "zkI6tIqbyAZvh0Th": {
+    "type": "skill",
+    "sourceName": "Stealth (Urban)",
+    "name": "Скрытность (города)"
+  },
+  "zmC4qBprmNxFNo2W": {
+    "type": "career",
+    "sourceName": "Scholar",
+    "name": "Учёный"
+  },
+  "znOLIRYazprzZ8eI": {
+    "type": "spell",
+    "sourceName": "Fearsome (Hedgecraft)",
+    "name": "Устрашающий облик (знахарство)"
+  },
+  "zuFTVmBtN51K94Xy": {
+    "type": "weapon",
+    "sourceName": "Handgun",
+    "name": "Ружьё"
+  },
+  "zv3IyoU2wkPZu8pD": {
+    "type": "talent",
+    "sourceName": "Bookish",
+    "name": "Книжный червь"
+  },
+  "zwQQb0upMLj8bFe9": {
+    "type": "spell",
+    "sourceName": "Arrow Shield (Death)",
+    "name": "Защита от стрел (Смерть)"
+  },
+  "zyocWSzEZEC826NS": {
+    "type": "injury",
+    "sourceName": "Amputated Hand",
+    "name": "Ампутированная кисть"
+  }
+}

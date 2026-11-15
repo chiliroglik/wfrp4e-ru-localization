@@ -1,0 +1,576 @@
+{
+  "collection": "wfrp4e-archives3.actors",
+  "sourceVersion": "7.2.0",
+  "sourceSha256": "207a0737df4dfbe7347d550c27044e5092e65c79d3cb3fff0df4299dd0827c68",
+  "entries": {
+    "FwMYIm1qdgeD6IaH": {
+      "sourceType": "wfrp4e-archives3.enterprise",
+      "income": [
+        {
+          "index": 0,
+          "sourceLabel": "Theft",
+          "label": "Кражи",
+          "sourceSkill": "Stealth (Any)",
+          "skill": "Скрытность (Any)",
+          "displaySkill": "Скрытность (любой)",
+          "tier": "b",
+          "standing": 4
+        },
+        {
+          "index": 1,
+          "sourceLabel": "Trafficking of witches or other outlaws",
+          "label": "Переправка ведьм и других преступников",
+          "sourceSkill": "Stealth (Any)",
+          "skill": "Скрытность (Any)",
+          "displaySkill": "Скрытность (любой)",
+          "tier": "b",
+          "standing": 4
+        },
+        {
+          "index": 2,
+          "sourceLabel": "Extortion or debt collection",
+          "label": "Вымогательство и сбор долгов",
+          "sourceSkill": "Intimidate",
+          "skill": "Запугивание",
+          "displaySkill": "Запугивание",
+          "tier": "b",
+          "standing": 5
+        },
+        {
+          "index": 3,
+          "sourceLabel": "Sale of contraband or fraudulent items",
+          "label": "Продажа контрабанды и подделок",
+          "sourceSkill": "Charm",
+          "skill": "Обаяние",
+          "displaySkill": "Обаяние",
+          "tier": "b",
+          "standing": 5
+        },
+        {
+          "index": 4,
+          "sourceLabel": "Murder-for-hire",
+          "label": "Убийства по найму",
+          "sourceSkill": "Melee (Any)",
+          "skill": "Рукопашный бой (Any)",
+          "displaySkill": "Рукопашный бой (любой)",
+          "tier": "b",
+          "standing": 5
+        }
+      ],
+      "events": [
+        {
+          "index": 0,
+          "low": 55,
+          "high": 57,
+          "sourceDescription": "Another gang encroaches onto your Gang’s territory. If you back down, no Characters can use the Enterprise for @UUID[Compendium.wfrp4e-core.journals.JournalEntry.gLDW6JBuoYuzCoya.JournalEntryPage.JX9ifRlgzzGrU2zh]{Income} during this round of Endeavours, which is how long it takes for the local crime boss to put things right. If you fight back, it’s gruelling — your Character begins the next adventure with the @Condition[fatigued]{Fatigued} Condition, but gains a +20 bonus to interact with local criminals, who respect the ferocity of your defence.",
+          "description": "Другая банда вторгается на вашу территорию. Если уступите, никто не может использовать предприятие для @UUID[Compendium.wfrp4e-core.journals.JournalEntry.gLDW6JBuoYuzCoya.JournalEntryPage.JX9ifRlgzzGrU2zh]{Получения дохода} в нынешнем наборе занятий: столько нужно местному главарю, чтобы уладить спор. Сопротивление изнурительно: персонаж начинает следующее приключение с @Condition[fatigued]{Усталостью}, но получает +20 к общению с местными преступниками, уважающими яростную оборону."
+        },
+        {
+          "index": 1,
+          "low": 58,
+          "high": 60,
+          "sourceDescription": "Your latest score is such a major coup, it draws heat from law enforcement. It would be best to lay low for a while. If you use the @UUID[Compendium.wfrp4e-core.journals.JournalEntry.gLDW6JBuoYuzCoya.JournalEntryPage.JX9ifRlgzzGrU2zh]{Income Endeavour} before the next adventure, you gain +50% on your earnings. However, you can only use the Income Endeavour once in this round of Endeavours, and cannot use it at all in the round of Endeavours following the next adventure.",
+          "description": "Последний куш столь велик, что привлёк внимание властей. Лучше залечь на дно. Если до следующего приключения выберете @UUID[Compendium.wfrp4e-core.journals.JournalEntry.gLDW6JBuoYuzCoya.JournalEntryPage.JX9ifRlgzzGrU2zh]{Получение дохода}, получите на +50% больше. Однако в этот набор занятий оно доступно лишь раз, а в наборе после следующего приключения недоступно вовсе."
+        }
+      ],
+      "eventTableName": {
+        "sourceName": "Enterprise Events Table",
+        "name": "События предприятия"
+      }
+    },
+    "GvVhYgFUuYYes98A": {
+      "sourceType": "wfrp4e-archives3.enterprise",
+      "income": [
+        {
+          "index": 0,
+          "sourceLabel": "Domestic labour",
+          "label": "Домашняя работа",
+          "sourceSkill": "Endurance",
+          "skill": "Стойкость",
+          "displaySkill": "Стойкость",
+          "tier": "b",
+          "standing": 4
+        },
+        {
+          "index": 1,
+          "sourceLabel": "Field labour",
+          "label": "Работа в поле",
+          "sourceSkill": "Endurance",
+          "skill": "Стойкость",
+          "displaySkill": "Стойкость",
+          "tier": "b",
+          "standing": 3
+        }
+      ],
+      "events": [
+        {
+          "index": 0,
+          "low": 55,
+          "high": 57,
+          "sourceDescription": "The Estate’s poorest workers fall upon hard times, and beg for charity that will help them to survive the upcoming season. You may choose to rescue them by paying an amount equal to your current Interest Payments. If you donate, your show of mercy defies the expectations of your social class. You may choose to ignore any penalties on Skill Tests due to your Status until the end of the next adventure.",
+          "description": "Беднейшие работники в нужде и просят милостыню, чтобы пережить сезон. Можно пожертвовать сумму нынешних Процентов. Такая милость необычна для вашего класса; до конца следующего приключения вы можете игнорировать штрафы Статуса к проверкам навыков."
+        },
+        {
+          "index": 1,
+          "low": 58,
+          "high": 60,
+          "sourceDescription": "Your master is travelling abroad, and places additional responsibility on your shoulders. Excel, and you shall be richly rewarded. Until the start of the next adventure, you may use a Source of Income from the next higher level of Expansion. If you have already Expanded the Estate three times, this Event has no additional effect.",
+          "description": "Господин уехал за границу и доверил дополнительные обязанности. До начала следующего приключения доступен Источник дохода следующей ступени расширения. Если поместье расширялось уже трижды, дополнительных последствий нет."
+        }
+      ],
+      "eventTableName": {
+        "sourceName": "Enterprise Events Table",
+        "name": "События предприятия"
+      }
+    },
+    "TA9wnhKh2zYvVVgO": {
+      "sourceType": "wfrp4e-archives3.enterprise",
+      "income": [
+        {
+          "index": 0,
+          "sourceLabel": "Mass-printing of popular items",
+          "label": "Массовая печать популярных изданий",
+          "sourceSkill": "Trade (Printer)",
+          "skill": "Ремесло (печатник)",
+          "displaySkill": "Ремесло (печатник)",
+          "tier": "b",
+          "standing": 4
+        },
+        {
+          "index": 1,
+          "sourceLabel": "Limited editions, hand produced or printed-to-order",
+          "label": "Ограниченные выпуски ручной работы или печати на заказ",
+          "sourceSkill": "Trade (Printer)",
+          "skill": "Ремесло (печатник)",
+          "displaySkill": "Ремесло (печатник)",
+          "tier": "b",
+          "standing": 5
+        },
+        {
+          "index": 2,
+          "sourceLabel": "Paid advertisements or advertorials",
+          "label": "Платные объявления и рекламные статьи",
+          "sourceSkill": "Haggle",
+          "skill": "Торговля",
+          "displaySkill": "Торговля",
+          "tier": "b",
+          "standing": 4
+        }
+      ],
+      "events": [
+        {
+          "index": 0,
+          "low": 55,
+          "high": 57,
+          "sourceDescription": "An advertisement you print from a controversial figure, or one selling a dubious product or service, draws the ire of your regular readers. You can choose to pull the ad, halving any Income you gain from paid advertisements until the start of the next adventure, or let it run, and halve any Income gained from all Sources of Income besides advertisements. Whichever you choose, this may have consequences in the next adventure.",
+          "description": "Объявление сомнительного деятеля, товара или услуги сердит постоянных читателей. Можно снять рекламу и до следующего приключения получать вдвое меньше рекламного Дохода либо оставить и получать вдвое меньше из всех прочих Источников. Любое решение может повлиять на следующее приключение."
+        },
+        {
+          "index": 1,
+          "low": 58,
+          "high": 60,
+          "sourceDescription": "One of your releases is unexpectedly popular, quickly selling out. Before the next adventure, you may spend an Endeavour fast-tracking the second printing of the text. If you do, you double the earnings from Income Endeavours in the round of Endeavours following the next adventure.",
+          "description": "Выпуск неожиданно популярен и быстро распродан. До следующего приключения можно потратить занятие на срочную допечатку. Тогда в наборе занятий после следующего приключения доход от Получения дохода удвоен."
+        }
+      ],
+      "eventTableName": {
+        "sourceName": "Enterprise Events Table",
+        "name": "События предприятия"
+      }
+    },
+    "UpYTdySteuCv3zIj": {
+      "sourceType": "wfrp4e-archives3.enterprise",
+      "income": [
+        {
+          "index": 0,
+          "sourceLabel": "Financial services, including managing the estates of campaigning knights",
+          "label": "Финансовые услуги и управление владениями рыцарей в походе",
+          "sourceSkill": "Evaluate",
+          "skill": "Оценка",
+          "displaySkill": "Оценка",
+          "tier": "s",
+          "standing": 5
+        },
+        {
+          "index": 1,
+          "sourceLabel": "Charitable donations from the Imperial State Army, religious leaders, or political figures",
+          "label": "Пожертвования армии, духовенства и политических деятелей",
+          "sourceSkill": "Charm",
+          "skill": "Обаяние",
+          "displaySkill": "Обаяние",
+          "tier": "s",
+          "standing": 4
+        },
+        {
+          "index": 2,
+          "sourceLabel": "Plunder won on campaign",
+          "label": "Военная добыча",
+          "sourceSkill": "Melee",
+          "skill": "Рукопашный бой",
+          "displaySkill": "Рукопашный бой",
+          "tier": "s",
+          "standing": 4
+        }
+      ],
+      "events": [
+        {
+          "index": 0,
+          "low": 55,
+          "high": 57,
+          "sourceDescription": "One of the Order’s knights is called to crusade beyond the borders of the Empire, and vacates the chapterhouse. They may never return, but if the Character keeps track of their foreign exploits, they may be able to leverage the knight’s adventures to promote the Order. If no NPCs have joined the Order, this Event has no effect.",
+          "description": "Одного рыцаря призвали в крестовый поход за пределы Империи. Он покидает капитул и может не вернуться, но слежение за подвигами позволит продвигать орден. Если к нему не присоединились персонажи ведущего, событие без последствий."
+        },
+        {
+          "index": 1,
+          "low": 58,
+          "high": 60,
+          "sourceDescription": "The Order is invited to partake in a jousting tournament, hosted by another Imperial Knightly Order, or their rivals in Bretonnia. The tournament is a splendid opportunity to earn valour and renown, not to mention prizes. Until the end of the next adventure, the tournament provides an additional Source of Income (@UUID[Compendium.wfrp4e-core.items.Item.rt1yfcjZoeSulddW]{Melee (Cavalry)}, Gold 2).",
+          "description": "Орден приглашают на турнир имперских рыцарей либо соперников в Бретоннии. Это возможность заслужить доблесть, славу и призы. До конца следующего приключения турнир даёт дополнительный Источник дохода (@UUID[Compendium.wfrp4e-core.items.Item.rt1yfcjZoeSulddW]{Рукопашный бой (кавалерийское)}, Золото 2)."
+        }
+      ],
+      "eventTableName": {
+        "sourceName": "Enterprise Events Table",
+        "name": "События предприятия"
+      }
+    },
+    "YLsEdSJEApsWKBab": {
+      "sourceType": "wfrp4e-archives3.enterprise",
+      "income": [
+        {
+          "index": 0,
+          "sourceLabel": "Serving food and drink",
+          "label": "Подача еды и напитков",
+          "sourceSkill": "Trade (Cook)",
+          "skill": "Ремесло (повар)",
+          "displaySkill": "Ремесло (повар)",
+          "tier": "b",
+          "standing": 4
+        },
+        {
+          "index": 1,
+          "sourceLabel": "Servicing rental accommodation",
+          "label": "Обслуживание сдаваемых комнат",
+          "sourceSkill": "Endurance",
+          "skill": "Стойкость",
+          "displaySkill": "Стойкость",
+          "tier": "b",
+          "standing": 4
+        },
+        {
+          "index": 2,
+          "sourceLabel": "Buying and selling local gossip and secrets",
+          "label": "Купля и продажа местных слухов и тайн",
+          "sourceSkill": "Gossip",
+          "skill": "Сплетничество",
+          "displaySkill": "Сплетничество",
+          "tier": "b",
+          "standing": 4
+        }
+      ],
+      "events": [
+        {
+          "index": 0,
+          "low": 55,
+          "high": 57,
+          "sourceDescription": "Your regular supplier of ale raises their prices, and you are forced to water down drinks to maintain your profit margin. Your grumbling patrons tolerate the change until the end of the next adventure. If you haven’t found a more affordable supplier by the end of that adventure, the effective Status of serving food and drink at the Tavern decreases.",
+          "description": "Поставщик эля повышает цену, и ради прибыли приходится разбавлять напитки водой. Посетители ворчат, но терпят до конца следующего приключения. Если к тому времени не найти более дешёвого поставщика, эффективный Статус подачи еды и питья снижается."
+        },
+        {
+          "index": 1,
+          "low": 58,
+          "high": 60,
+          "sourceDescription": "A local festival or other celebration sees an increase in demand for both out-of-town accommodation and alcohol. Characters using the Tavern for the Income Endeavour increase their earnings by +50% until the start of the next adventure. If no Characters use the @UUID[Compendium.wfrp4e-core.journals.JournalEntry.gLDW6JBuoYuzCoya.JournalEntryPage.JX9ifRlgzzGrU2zh]{Income Endeavour}, another establishment picks up the custom instead. The GM should provide details of this competing establishment, and introduce them as a rival in future adventures.",
+          "description": "Местный праздник увеличивает спрос на ночлег и выпивку. Получение дохода с трактиром приносит на +50% больше до начала следующего приключения. Если никто не использует @UUID[Compendium.wfrp4e-core.journals.JournalEntry.gLDW6JBuoYuzCoya.JournalEntryPage.JX9ifRlgzzGrU2zh]{Получение дохода}, клиенты идут к конкуренту. Ведущий описывает это заведение и вводит его как соперника будущих приключений."
+        }
+      ],
+      "eventTableName": {
+        "sourceName": "Enterprise Events Table",
+        "name": "События предприятия"
+      }
+    },
+    "YaJ9r3FFnMLTwddG": {
+      "sourceType": "wfrp4e-archives3.enterprise",
+      "income": [
+        {
+          "index": 0,
+          "sourceLabel": "Deliveries on foot",
+          "label": "Пешая доставка",
+          "sourceSkill": "Endurance",
+          "skill": "Стойкость",
+          "displaySkill": "Стойкость",
+          "tier": "b",
+          "standing": 4
+        },
+        {
+          "index": 1,
+          "sourceLabel": "Deliveries on horseback",
+          "label": "Конная доставка",
+          "sourceSkill": "Ride (Horse)",
+          "skill": "Верховая езда (лошади)",
+          "displaySkill": "Верховая езда (лошади)",
+          "tier": "s",
+          "standing": 1
+        },
+        {
+          "index": 2,
+          "sourceLabel": "Deliveries by wagon",
+          "label": "Доставка повозкой",
+          "sourceSkill": "Drive",
+          "skill": "Вождение",
+          "displaySkill": "Вождение",
+          "tier": "s",
+          "standing": 2
+        },
+        {
+          "index": 3,
+          "sourceLabel": "Deliveries by rowboat",
+          "label": "Доставка вёсельной лодкой",
+          "sourceSkill": "Row",
+          "skill": "Гребля",
+          "displaySkill": "Гребля",
+          "tier": "s",
+          "standing": 2
+        },
+        {
+          "index": 4,
+          "sourceLabel": "Deliveries by riverboat",
+          "label": "Доставка речным судном",
+          "sourceSkill": "Sail",
+          "skill": "Хождение под парусом",
+          "displaySkill": "Хождение под парусом",
+          "tier": "s",
+          "standing": 3
+        }
+      ],
+      "events": [
+        {
+          "index": 0,
+          "low": 55,
+          "high": 57,
+          "sourceDescription": "One of the Character’s deliveries is intercepted by bandits, and an important package is lost. The cost to compensate the dissatisfied customer is triple the Enterprise’s current Interest Payment (in addition to the Enterprise’s usual Creditor payment). Alternatively, the Characters may attempt to recover the package in the next adventure, boosting the Enterprise’s reputation if they succeed.",
+          "description": "Бандиты перехватывают доставку и уносят важную посылку. Компенсация недовольному клиенту равна тройным текущим Процентам предприятия сверх обычного платежа Кредитору. Или можно вернуть посылку в следующем приключении, повысив репутацию успехом."
+        },
+        {
+          "index": 1,
+          "low": 58,
+          "high": 60,
+          "sourceDescription": "The Imperial State Army enters the province on campaign, and rapid delivery of intelligence and materiel has never been more in demand. Until the start of the next adventure, any Character using the Courier Service for an Income Endeavour gains +50% to money earned. During the next adventure, the enemy’s infiltrators target the Character, believing that they are harbouring military secrets.",
+          "description": "В провинцию вступает государственная армия, и быстрая доставка сведений и снаряжения особенно востребована. До начала следующего приключения Получение дохода службой даёт на +50% больше денег. В следующем приключении вражеские лазутчики охотятся на персонажа, считая его хранителем военных тайн."
+        }
+      ],
+      "eventTableName": {
+        "sourceName": "Enterprise Events Table",
+        "name": "События предприятия"
+      }
+    },
+    "fvdi8G2rMDtW7TPt": {
+      "sourceType": "wfrp4e-archives3.enterprise",
+      "income": [
+        {
+          "index": 0,
+          "sourceLabel": "Mass production of common goods, sold to a retailer",
+          "label": "Массовый выпуск обычных товаров для торговца",
+          "sourceSkill": "Trade (Any)",
+          "skill": "Ремесло (Any)",
+          "displaySkill": "Ремесло (любой)",
+          "tier": "b",
+          "standing": 5
+        },
+        {
+          "index": 1,
+          "sourceLabel": "Commission of a unique item",
+          "label": "Изготовление уникального предмета на заказ",
+          "sourceSkill": "Art (Any) or Trade (Any)",
+          "skill": "Искусство (Any) or Ремесло (Any)",
+          "displaySkill": "Искусство (любой) или Ремесло (любой)",
+          "tier": "s",
+          "standing": 2
+        }
+      ],
+      "events": [
+        {
+          "index": 0,
+          "low": 55,
+          "high": 57,
+          "sourceDescription": "Supply of a precious resource essential to your craft (e.g. coal, diamond, iron, silk, or gromril) runs dry. Your Enterprise cannot gain Income in the upcoming round of Endeavours. If you discover a new source of supply in the next adventure, any @UUID[Compendium.wfrp4e-core.journals.JournalEntry.gLDW6JBuoYuzCoya.JournalEntryPage.JX9ifRlgzzGrU2zh]{Income Endeavours} following that adventure provide double the usual wealth, as you’ll be one step ahead of the competition.",
+          "description": "Иссякает важное сырьё: уголь, алмазы, железо, шёлк или громрил. Предприятие не даёт Дохода в предстоящем наборе занятий. Найдя новый источник в следующем приключении, вы удвоите обычное богатство от последующих @UUID[Compendium.wfrp4e-core.journals.JournalEntry.gLDW6JBuoYuzCoya.JournalEntryPage.JX9ifRlgzzGrU2zh]{Получений дохода}, опередив конкурентов."
+        },
+        {
+          "index": 1,
+          "low": 58,
+          "high": 60,
+          "sourceDescription": "A demanding customer asks for a complicated item to be produced in a short space of time. To complete the order, the Character must use all their Endeavours before the next adventure on @UUID[Compendium.wfrp4e-core.journals.JournalEntry.gLDW6JBuoYuzCoya.JournalEntryPage.JX9ifRlgzzGrU2zh]{Income Endeavours}. If the order is complete, the Character receives a bonus, equivalent to an additional free Income Endeavour. If the Character is unwilling or unable to use all their Endeavours on Income (if they are an Elf, for example), the Event has no effect.",
+          "description": "Требовательному заказчику нужна сложная вещь в короткий срок. До следующего приключения придётся потратить все занятия на @UUID[Compendium.wfrp4e-core.journals.JournalEntry.gLDW6JBuoYuzCoya.JournalEntryPage.JX9ifRlgzzGrU2zh]{Получение дохода}. Завершение даёт премию, равную дополнительному бесплатному Получению дохода. Если персонаж не хочет или не может потратить все занятия, например будучи эльфом, последствий нет."
+        }
+      ],
+      "eventTableName": {
+        "sourceName": "Enterprise Events Table",
+        "name": "События предприятия"
+      }
+    },
+    "qhxbsFwoYzA4xlYk": {
+      "sourceType": "wfrp4e-archives3.enterprise",
+      "income": [
+        {
+          "index": 0,
+          "sourceLabel": "Donations of the faithful",
+          "label": "Пожертвования верующих",
+          "sourceSkill": "Charm",
+          "skill": "Обаяние",
+          "displaySkill": "Обаяние",
+          "tier": "b",
+          "standing": 3
+        },
+        {
+          "index": 1,
+          "sourceLabel": "Ceremonial duties, such as officiating weddings or funerals",
+          "label": "Обряды, включая свадьбы и похороны",
+          "sourceSkill": "Lore (Theology)",
+          "skill": "Знание (теология)",
+          "displaySkill": "Знание (теология)",
+          "tier": "s",
+          "standing": 1
+        },
+        {
+          "index": 2,
+          "sourceLabel": "Academic services, such as translations of holy texts",
+          "label": "Учёные услуги, включая перевод священных текстов",
+          "sourceSkill": "Language (Any) or Lore (Any)",
+          "skill": "Язык (Any) or Знание (Any)",
+          "displaySkill": "Язык (любой) или Знание (любой)",
+          "tier": "s",
+          "standing": 1
+        }
+      ],
+      "events": [
+        {
+          "index": 0,
+          "low": 55,
+          "high": 57,
+          "sourceDescription": "One of your flock (an NPC chosen by the GM) violates a stricture of your god within the Temple grounds. You may choose: invite your god to smite the NPC, inflicting a harsh or possibly fatal punishment; or accept the trespass as your own failing, and gain 1 Sin point. If you choose the latter, you gain a +20 bonus on all social Tests targeting the grateful lay-person for the duration of the next adventure.",
+          "description": "Прихожанин, выбранный ведущим, нарушает заповедь на храмовой земле. Можно призвать бога жестоко, возможно смертельно, наказать его либо принять проступок как свою неудачу и получить 1 очко Греха. Во втором случае весь следующий период приключения проверки общения с благодарным мирянином получают +20."
+        },
+        {
+          "index": 1,
+          "low": 58,
+          "high": 60,
+          "sourceDescription": "You devote yourself to supplication before your god, and are rewarded for your show of piety. For the duration of the next adventure, you count the @UUID[Compendium.wfrp4e-core.items.Item.9xR9uO8FIvi4YsJp]{Pray} Skill as a @UUID[Compendium.wfrp4e-core.journals.JournalEntry.6zOdTLv3YeYeJ4hR.JournalEntryPage.QuybQPVJGWCmzGm3#basic-and-advanced-skills]{Basic Skill}, and gain the @UUID[Compendium.wfrp4e-core.items.Item.QyjWtSdnVMT04l5Y]{Bless} Talent, with a Divine Lore matching the god venerated by the Temple. If you already have the Bless Talent for the corresponding Divine Lore, you instead gain access to a Miracle of your god, for the duration of the next adventure. If you already have the Bless Talent for a different Divine Lore, you gain no benefit from this Event.",
+          "description": "Вы посвятили себя молитвам и награждены за благочестие. В следующем приключении @UUID[Compendium.wfrp4e-core.items.Item.9xR9uO8FIvi4YsJp]{Молитвословие} считается @UUID[Compendium.wfrp4e-core.journals.JournalEntry.6zOdTLv3YeYeJ4hR.JournalEntryPage.QuybQPVJGWCmzGm3#basic-and-advanced-skills]{базовым навыком}, а вы получаете @UUID[Compendium.wfrp4e-core.items.Item.QyjWtSdnVMT04l5Y]{Благословение} соответствующего храму бога. Если такой талант уже есть, вместо него доступно одно чудо бога на то же время. Благословение другого бога лишает преимущества события."
+        }
+      ],
+      "eventTableName": {
+        "sourceName": "Enterprise Events Table",
+        "name": "События предприятия"
+      }
+    },
+    "xPBfJrbrySv8k2Wy": {
+      "sourceType": "wfrp4e-archives3.enterprise",
+      "income": [
+        {
+          "index": 0,
+          "sourceLabel": "Sale of general goods",
+          "label": "Продажа обычных товаров",
+          "sourceSkill": "Haggle",
+          "skill": "Торговля",
+          "displaySkill": "Торговля",
+          "tier": "b",
+          "standing": 5
+        },
+        {
+          "index": 1,
+          "sourceLabel": "sale of specialist goods, ordered from a contact out of town or made-to-order",
+          "label": "Продажа особых товаров из других городов или на заказ",
+          "sourceSkill": "Haggle",
+          "skill": "Торговля",
+          "displaySkill": "Торговля",
+          "tier": "b",
+          "standing": 5
+        }
+      ],
+      "events": [
+        {
+          "index": 0,
+          "low": 55,
+          "high": 57,
+          "sourceDescription": "The local council closes market day for the month, to mark a tragedy, religious holiday, or other special event. No Character may use a Market Parlour to earn Income until the start of the next adventure. In the period of downtime following the next adventure, all Income from Market Parlour is increased by 50% to represent the built-up demand from your customers.",
+          "description": "Совет отменяет рыночный день на месяц из-за трагедии, религиозного праздника или иного события. До начала следующего приключения никто не может получать Доход от конторы. В передышке после следующего приключения весь её Доход растёт на 50% благодаря накопленному спросу."
+        },
+        {
+          "index": 1,
+          "low": 58,
+          "high": 60,
+          "sourceDescription": "Your business interests and the needs of your stakeholders conveniently align, allowing you to pay off an outstanding debt with spare goods and no additional inconvenience. Choose a @UUID[Compendium.wfrp4e-core.journals.JournalEntry.gLDW6JBuoYuzCoya.JournalEntryPage.MystHpnI1Ki0v4dl]{Favour} owed by you or the Enterprise, and downgrade it one level — a Significant Favour becomes a Major Favour, a Major Favour becomes a Minor Favour, or a Minor Favour is repaid entirely.",
+          "description": "Деловые интересы совпадают с нуждами заинтересованных лиц: долг можно вернуть лишними товарами без неудобств. Выберите обещанную вами или предприятием @UUID[Compendium.wfrp4e-core.journals.JournalEntry.gLDW6JBuoYuzCoya.JournalEntryPage.MystHpnI1Ki0v4dl]{Услугу} и снизьте на одну ступень: Значительная становится Большой, Большая — Малой, Малая полностью погашается."
+        }
+      ],
+      "eventTableName": {
+        "sourceName": "Enterprise Events Table",
+        "name": "События предприятия"
+      }
+    },
+    "yoqV0K8ZM6odN1B9": {
+      "sourceType": "wfrp4e-archives3.enterprise",
+      "income": [
+        {
+          "index": 0,
+          "sourceLabel": "Donations following public performances",
+          "label": "Пожертвования после публичных выступлений",
+          "sourceSkill": "Entertain (Any) or Perform (Any) or Play (Any)",
+          "skill": "Артистизм (Any) or Выступление (Any) or Музицирование (Any)",
+          "displaySkill": "Артистизм (любой) или Выступление (любой) или Музицирование (любой)",
+          "tier": "b",
+          "standing": 4
+        },
+        {
+          "index": 1,
+          "sourceLabel": "Bookings for private events",
+          "label": "Частные представления по заказу",
+          "sourceSkill": "Entertain (Any) or Perform (Any) or Play (Any)",
+          "skill": "Артистизм (Any) or Выступление (Any) or Музицирование (Any)",
+          "displaySkill": "Артистизм (любой) или Выступление (любой) или Музицирование (любой)",
+          "tier": "s",
+          "standing": 1
+        },
+        {
+          "index": 2,
+          "sourceLabel": "Sale of merchandise",
+          "label": "Продажа сувениров",
+          "sourceSkill": "Haggle",
+          "skill": "Торговля",
+          "displaySkill": "Торговля",
+          "tier": "b",
+          "standing": 5
+        }
+      ],
+      "events": [
+        {
+          "index": 0,
+          "low": 55,
+          "high": 57,
+          "sourceDescription": "In response to a personal tragedy, a local lord outlaws dance and other frivolities, until their mood improves. If any Characters choose to Earn or gain Income with the Performance Troupe, they are flouting the ban or performing in secret venues. This may result in unpleasant ramifications during the next adventure.",
+          "description": "После личной трагедии местный господин запретил танцы и легкомыслие до улучшения настроения. Зарабатывающие или получающие Доход с труппой нарушают запрет либо выступают тайно. В следующем приключении возможны неприятные последствия."
+        },
+        {
+          "index": 1,
+          "low": 58,
+          "high": 60,
+          "sourceDescription": "A wealthy individual reveals themself a fan of the Troupe’s work, though their patronage is not without complications. Roll 1d10 after all future rolls on the Enterprise Event Table. On an 8–10, the Troupe gains double the wealth from Sources of Income until the end of the next adventure, but the patron demands the Troupe make adjustments to their material, undertake a private performance, or provide some other favour. On a 1–2, the Troupe loses the fleeting attention of their benefactor, and this Event has no further effect.",
+          "description": "Богатый человек оказывается поклонником труппы, но покровительство непросто. После всех будущих бросков Событий предприятия бросайте 1d10. При 8–10 доходы труппы удваиваются до конца следующего приключения, но покровитель требует правок, частного представления или другой услуги. При 1–2 его мимолётное внимание исчезает и событие больше не действует."
+        }
+      ],
+      "eventTableName": {
+        "sourceName": "Enterprise Events Table",
+        "name": "События предприятия"
+      }
+    }
+  },
+  "counts": {
+    "enterprises": 10,
+    "incomeSources": 31,
+    "events": 20
+  },
+  "parserTokensPreserved": [
+    " or ",
+    "(Any)"
+  ]
+}

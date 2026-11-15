@@ -1,0 +1,524 @@
+{
+  "collection": "wfrp4e-wom.journals",
+  "sourceSha256": "ff01e99f2e2060c6ad0d49de01d2f01607e44a9d8da41b60a5f5fc065f67131c",
+  "entries": {
+    "4hwftTG3PqNnmUfK": {
+      "sourceName": "Hysh",
+      "name": "Хиш",
+      "pages": {
+        "Uy9s6vLw02n6MZKy": {
+          "sourceName": "Hysh",
+          "name": "Хиш"
+        },
+        "0MtSLv765P1xRJIn": {
+          "sourceName": "The Light Order",
+          "name": "Орден Света"
+        },
+        "jAdFKOHJLcLUW3zt": {
+          "sourceName": "The White Wind",
+          "name": "Белый Ветер"
+        },
+        "aYLoTGlJDjlTCm2U": {
+          "sourceName": "Ashamira Dib",
+          "name": "Ашамира Диб"
+        },
+        "V3C2mw5EgrxmGYWh": {
+          "sourceName": "The Lore of Light",
+          "name": "Школа Света"
+        },
+        "L1HMS581Scz2IyCJ": {
+          "sourceName": "Hierophant",
+          "name": "Иерофант"
+        }
+      }
+    },
+    "4spGTAnh7qc2JDqY": {
+      "sourceName": "Arcane Activities",
+      "name": "Магические занятия",
+      "pages": {
+        "KuqEBZhWX7WjV0CV": {
+          "sourceName": "New Careers",
+          "name": "Новые карьеры"
+        },
+        "J0EKb93Iilg8ccTh": {
+          "sourceName": "New Arcane Skills",
+          "name": "Новые магические навыки"
+        },
+        "IfozNVc6u3EFeglG": {
+          "sourceName": "Augury (Int)",
+          "name": "Прорицание (Инт)"
+        },
+        "oEoVBFC9iyUAJgpx": {
+          "sourceName": "Psychometry (Int)",
+          "name": "Психометрия (Инт)"
+        },
+        "TwuMMg4t9QPf89rT": {
+          "sourceName": "Alchemy",
+          "name": "Алхимия"
+        },
+        "ew9yY1K70U0wVCjS": {
+          "sourceName": "High Alchemy",
+          "name": "Высшая алхимия"
+        },
+        "5qc7HEs9akxw0hmR": {
+          "sourceName": "Beadle",
+          "name": "Надзиратель"
+        },
+        "TL27HuBfhnnsHjpt": {
+          "sourceName": "Mundane Alchemist",
+          "name": "Обычный алхимик"
+        },
+        "XqOkYrrp82Ktyszq": {
+          "sourceName": "Magister Vigilant",
+          "name": "Магистр-охранитель"
+        },
+        "8mZJEfg4aVL5zhSE": {
+          "sourceName": "Scryer",
+          "name": "Провидец"
+        }
+      }
+    },
+    "7xFrgrOyYX4SVrBL": {
+      "sourceName": "Ulgu",
+      "name": "Улгу",
+      "pages": {
+        "gr6LJRLYNHpCqjo8": {
+          "sourceName": "Ulgu",
+          "name": "Улгу"
+        },
+        "UR1b5ABtNQjNUbUi": {
+          "sourceName": "The Grey Order",
+          "name": "Серый орден"
+        },
+        "5K7JQ1NIreen3VoG": {
+          "sourceName": "The Grey Wind",
+          "name": "Серый Ветер"
+        },
+        "x7CnGtdKM9pTxuT6": {
+          "sourceName": "Immanuel-Ferrand Holswig-Schliestein",
+          "name": "Иммануэль-Ферран Хольсвиг-Шлиштайн"
+        },
+        "a68AllavjryjAKv6": {
+          "sourceName": "The Lore of Shadows",
+          "name": "Школа Теней"
+        },
+        "eZxfheujk03euEN4": {
+          "sourceName": "Shadowmancer",
+          "name": "Тенемант"
+        }
+      }
+    },
+    "AJ2FXVJf0l0tU8SS": {
+      "sourceName": "Tales of Sorcery",
+      "name": "Истории колдовства",
+      "pages": {
+        "2HqPaa8CKIoXSRsh": {
+          "sourceName": "An Ill Wind",
+          "name": "Недобрый Ветер"
+        },
+        "AeEGEmAuwN0HMsNI": {
+          "sourceName": "Tzeentch's Crystal Shards",
+          "name": "Кристальные осколки Тзинча"
+        },
+        "RuIxGS0XQ3zi2f9r": {
+          "sourceName": "Fuel for the Pyre",
+          "name": "Топливо для костра"
+        },
+        "vUKbrqAK6Rl9PWCD": {
+          "sourceName": "A New Era of Magic",
+          "name": "Новая эра магии"
+        },
+        "lkB9QGZdRGAfF908": {
+          "sourceName": "Magic Today",
+          "name": "Магия сегодня"
+        },
+        "sJqf1l03LvMnVSkV": {
+          "sourceName": "Paranoth's Wheel",
+          "name": "Колесо Паранота"
+        }
+      }
+    },
+    "BBMts94CJGZ3wRMi": {
+      "sourceName": "The Winds at Work",
+      "name": "Действие Ветров",
+      "pages": {
+        "jFz4dEXhisJVxMZ5": {
+          "sourceName": "The Winds at Work",
+          "name": "Действие Ветров"
+        },
+        "Ze31kfg0jPiRs9Tk": {
+          "sourceName": "Environmental Saturation Levels",
+          "name": "Уровни насыщенности окружающей среды"
+        },
+        "joC1vHA5HSQmUa0E": {
+          "sourceName": "Environmental Corruption",
+          "name": "Осквернение окружающей среды"
+        },
+        "I2s6w4BMltNtspCs": {
+          "sourceName": "Storms of Magic",
+          "name": "Бури магии"
+        },
+        "5Y6IrcCljT6TZx3Q": {
+          "sourceName": "Leylines, Waystones, and their Properties",
+          "name": "Лей-линии, путевые камни и их свойства"
+        },
+        "yLUOK05g65WDiAU1": {
+          "sourceName": "The Great Vortex",
+          "name": "Великий Вихрь"
+        },
+        "1nNoPmPeDS1nwkQL": {
+          "sourceName": "Nexuses of Power",
+          "name": "Узлы силы"
+        },
+        "oH74nHwNltwvZfFw": {
+          "sourceName": "Arcane Fulcrums",
+          "name": "Магические фокусы"
+        },
+        "RLFC5Oq1V85giF4F": {
+          "sourceName": "The Forge of Henoth",
+          "name": "Кузница Хенота"
+        },
+        "DPDKoTEy2DBqXJk5": {
+          "sourceName": "Uli's Tavern and Debating Arena",
+          "name": "Таверна Ули и арена дебатов"
+        },
+        "tXQRGNzsj5xxrvvZ": {
+          "sourceName": "Paranoth's Column",
+          "name": "Колонна Паранота"
+        },
+        "ezZknyAYRNJo3BcE": {
+          "sourceName": "The Shadow Maze",
+          "name": "Лабиринт теней"
+        },
+        "0HJwkohyEqhw7ZM8": {
+          "sourceName": "The High Lodge",
+          "name": "Высокая ложа"
+        },
+        "5sSfjP1aue1sERZY": {
+          "sourceName": "The Vale of the Necromancer",
+          "name": "Долина некроманта"
+        },
+        "GX7dMTxIOslINiX9": {
+          "sourceName": "The Cairnapan Complex",
+          "name": "Комплекс Кайрнапан"
+        }
+      }
+    },
+    "CpVn7Hp5hz7NmpYu": {
+      "sourceName": "New and Revised Spellcasting Rules",
+      "name": "Новые и уточнённые правила сотворения",
+      "pages": {
+        "JcEoePfWMZkaFnJX": {
+          "sourceName": "New and Revised Spellcasting Rules",
+          "name": "Новые и уточнённые правила сотворения"
+        },
+        "7S87Sc7OFeWYHYk5": {
+          "sourceName": "New Arcane Spells",
+          "name": "Новые тайные заклинания"
+        },
+        "EfqVT5YNmvbLlwkK": {
+          "sourceName": "Ritual Magic",
+          "name": "Ритуальная магия"
+        },
+        "e8qVZgGVEmFP0Qjd": {
+          "sourceName": "New Endeavours",
+          "name": "Новые занятия"
+        },
+        "hS8fXNOVs0vTvpiD": {
+          "sourceName": "Brew Potion",
+          "name": "Сварить зелье"
+        },
+        "Ag868FaKOQnRTder": {
+          "sourceName": "Gather Ingredients",
+          "name": "Собрать ингредиенты"
+        },
+        "MHvpBYGLCbhsS1jb": {
+          "sourceName": "Improve Familiar",
+          "name": "Улучшить фамильяра"
+        },
+        "cA1Vf1DUTSKnit1E": {
+          "sourceName": "Perform Ritual",
+          "name": "Провести ритуал"
+        }
+      }
+    },
+    "DND7iNuVrCXgTXki": {
+      "sourceName": "Ghur",
+      "name": "Гур",
+      "pages": {
+        "HEwgHi4r7Mh79JGi": {
+          "sourceName": "Ghur",
+          "name": "Гур"
+        },
+        "BAPyW4HKviaL76Jg": {
+          "sourceName": "The Amber Order",
+          "name": "Янтарный орден"
+        },
+        "WfH1GEfuZF1Jpmg0": {
+          "sourceName": "The Amber Wind",
+          "name": "Янтарный Ветер"
+        },
+        "fWox4v7eQmND1Qit": {
+          "sourceName": "Gregor Martak",
+          "name": "Грегор Мартак"
+        },
+        "STGUCefMRjHk6OYP": {
+          "sourceName": "The Lore of Beasts",
+          "name": "Школа Зверей"
+        },
+        "WzravQMPh44eYErb": {
+          "sourceName": "Beast Form and Other Transformation Spells",
+          "name": "Звериный облик и другие заклинания превращения"
+        },
+        "AzRC4qW92gvO1P8C": {
+          "sourceName": "Shaman",
+          "name": "Шаман"
+        }
+      }
+    },
+    "PFnvyXX7in5YvVbk": {
+      "sourceName": "Magical Creatures",
+      "name": "Магические существа",
+      "pages": {
+        "mgiVgvqG0hF2ukI1": {
+          "sourceName": "Magical Creatures",
+          "name": "Магические существа"
+        },
+        "G6kA8jJkImeSo9s3": {
+          "sourceName": "Incarnate Elementals",
+          "name": "Воплощённые элементали"
+        },
+        "OEHbk3qDTzTA2LUn": {
+          "sourceName": "Magical Constructs",
+          "name": "Магические конструкты"
+        },
+        "CvCQvNKGwuf0txLA": {
+          "sourceName": "Familiars",
+          "name": "Фамильяры"
+        },
+        "OhNDQxbLQuuww5Wz": {
+          "sourceName": "Familiars as Characters",
+          "name": "Фамильяры как персонажи"
+        },
+        "q6buibTm8J7mvxAS": {
+          "sourceName": "Combat Familiar",
+          "name": "Боевой фамильяр"
+        },
+        "Xsikkjo2hxid0eWR": {
+          "sourceName": "Spell Familiar",
+          "name": "Фамильяр-заклинатель"
+        }
+      }
+    },
+    "Q9sQhbDN8NUHXYdA": {
+      "sourceName": "Ghyran",
+      "name": "Гиран",
+      "pages": {
+        "djWfp3PubPpKaFvI": {
+          "sourceName": "Ghyran",
+          "name": "Гиран"
+        },
+        "ncaIbmNtJrNfVfZh": {
+          "sourceName": "The Jade Order",
+          "name": "Нефритовый орден"
+        },
+        "MVwOuM2YKhUvA1E1": {
+          "sourceName": "The Jade Wind",
+          "name": "Нефритовый Ветер"
+        },
+        "vc000lXgYSy5ZLgg": {
+          "sourceName": "Tochter Grunfeld",
+          "name": "Тохтер Грюнфельд"
+        },
+        "AIE63sbDCdufelVj": {
+          "sourceName": "The Lore of Life",
+          "name": "Школа Жизни"
+        },
+        "KGWoTLSkr4Gj2AlR": {
+          "sourceName": "Druid",
+          "name": "Друид"
+        }
+      }
+    },
+    "QHdHDll8yI5CSNQl": {
+      "sourceName": "Magical Nemeses & Adventures",
+      "name": "Магические противники и приключения",
+      "pages": {
+        "2qQpF6atkPKiWpjw": {
+          "sourceName": "Magical Nemeses & Adventures",
+          "name": "Магические противники и приключения"
+        },
+        "FzslF56xVepqMZFm": {
+          "sourceName": "Egrimm van Horstmann",
+          "name": "Эгрим ван Хорстман"
+        },
+        "Jo04mUcvCEvHyiVf": {
+          "sourceName": "The Blue Scribes of Tzeentch",
+          "name": "Синие писцы Тзинча"
+        },
+        "724V3zFVhoeCTc6p": {
+          "sourceName": "Mòna Mimn",
+          "name": "Мона Мимн"
+        },
+        "bONe1u8yCexR2uTu": {
+          "sourceName": "The Auction",
+          "name": "Аукцион"
+        },
+        "95yfxfrAvx5GXgAb": {
+          "sourceName": "The Apprentice",
+          "name": "Ученик"
+        }
+      }
+    },
+    "hFQtvGpxh0D8Xfcl": {
+      "sourceName": "Shyish",
+      "name": "Шаиш",
+      "pages": {
+        "lthgQfIWwjVTbcnu": {
+          "sourceName": "Shyish",
+          "name": "Шаиш"
+        },
+        "daD4ol3xeaOgeizW": {
+          "sourceName": "The Amethyst Order",
+          "name": "Аметистовый орден"
+        },
+        "M8Bj02p51RqAGn3m": {
+          "sourceName": "The Purple Wind",
+          "name": "Фиолетовый Ветер"
+        },
+        "KHdKVGnogfOfcGcA": {
+          "sourceName": "Elspeth von Draken",
+          "name": "Эльспет фон Дракен"
+        },
+        "NsoIfRocSicvjThZ": {
+          "sourceName": "The Lore of Death",
+          "name": "Школа Смерти"
+        },
+        "i7trRLZo2Pp05UnQ": {
+          "sourceName": "Spiriter",
+          "name": "Спиритист"
+        }
+      }
+    },
+    "j72t0e5BVIgeOMB4": {
+      "sourceName": "Azyr",
+      "name": "Азир",
+      "pages": {
+        "XyZIvhPaPsIUAOf8": {
+          "sourceName": "Azyr",
+          "name": "Азир"
+        },
+        "nyw6LoS8swhWRRTw": {
+          "sourceName": "The Celestial Order",
+          "name": "Небесный орден"
+        },
+        "N8s4rKsTaQ8rRUU3": {
+          "sourceName": "The Celestial Wind",
+          "name": "Небесный Ветер"
+        },
+        "qry4tzxt30ROrH2V": {
+          "sourceName": "Raphael Julevno",
+          "name": "Рафаэль Юлевно"
+        },
+        "fhnCnAkr4inPcpAR": {
+          "sourceName": "The Lore of Heavens",
+          "name": "Школа Небес"
+        },
+        "EpHoISPX7OlMGttN": {
+          "sourceName": "Astromancer",
+          "name": "Астромант"
+        }
+      }
+    },
+    "kLTWtoz5d7Yt2zAJ": {
+      "sourceName": "Chamon",
+      "name": "Шамон",
+      "pages": {
+        "802evqoTeJx0Ghau": {
+          "sourceName": "Chamon",
+          "name": "Шамон"
+        },
+        "dihqDvIvwBXxpeEk": {
+          "sourceName": "The Golden Order",
+          "name": "Золотой орден"
+        },
+        "RmCQLDxu6VgCFRdI": {
+          "sourceName": "The Gold Wind",
+          "name": "Золотой Ветер"
+        },
+        "FtKYmBEuLSrtLtRG": {
+          "sourceName": "Balthasar Gelt",
+          "name": "Бальтазар Гельт"
+        },
+        "5H6e8Lb0bWdrAn4c": {
+          "sourceName": "The Lore of Metal",
+          "name": "Школа Металла"
+        },
+        "aYYDra6LCt6daz0s": {
+          "sourceName": "Alchemist",
+          "name": "Алхимик"
+        }
+      }
+    },
+    "wjJ2wq1bzzON74vV": {
+      "sourceName": "Aqshy",
+      "name": "Акши",
+      "pages": {
+        "LGBXn9UIARTKG4A9": {
+          "sourceName": "Aqshy",
+          "name": "Акши"
+        },
+        "QHqglxxZ0Ii2mPRy": {
+          "sourceName": "The Bright Order",
+          "name": "Сияющий орден"
+        },
+        "NR69EPiMhbeKPook": {
+          "sourceName": "The Red Wind",
+          "name": "Красный Ветер"
+        },
+        "JnSAUMukQSp1hEbd": {
+          "sourceName": "Sergov Pfeiffer",
+          "name": "Сергов Пфайффер"
+        },
+        "MlwFQ8G8AMZyqPfd": {
+          "sourceName": "The Lore of Fire",
+          "name": "Школа Огня"
+        },
+        "itwBfr0GHErukQ3E": {
+          "sourceName": "Pyromancer",
+          "name": "Пиромант"
+        }
+      }
+    },
+    "x6OdswRIafU9qGYs": {
+      "sourceName": "Magical Artefacts",
+      "name": "Магические артефакты",
+      "pages": {
+        "xxTcTs5H1bmevH2B": {
+          "sourceName": "Magical Artefacts",
+          "name": "Магические артефакты"
+        },
+        "4k3qbP7drfV1mIdr": {
+          "sourceName": "Magic Potions",
+          "name": "Магические зелья"
+        },
+        "pScxaCd3beCJcwUK": {
+          "sourceName": "Grimoires",
+          "name": "Гримуары"
+        },
+        "FZRfLKxw9PKppUR2": {
+          "sourceName": "Power Stones",
+          "name": "Камни силы"
+        },
+        "wRFI6tyCfQvZKYWw": {
+          "sourceName": "The Marvellous (and Not to Mention Missing) Mystical Miscellany of Mistletaine the Magician",
+          "name": "Чудесная (и, к слову, пропавшая) мистическая коллекция волшебника Мистлетайна"
+        },
+        "n7PB6OyesRUQELSB": {
+          "sourceName": "Cursed Items",
+          "name": "Проклятые предметы"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2851 @@
+{
+  "label": "Таблицы (Ветра магии)",
+  "mapping": {
+    "results": {
+      "path": "results",
+      "converter": "convertTableResults"
+    }
+  },
+  "entries": {
+    "1F5rsaRFTp92KRFg": {
+      "sourceName": "Potion Spoilage Effects - Minor",
+      "name": "Эффекты испорченных зелий — слабая порча",
+      "results": {
+        "dXb8LbJEyUKK9HiK": {
+          "name": "",
+          "description": "Нет эффекта"
+        },
+        "gc5RiG3h7H8Ny5qX": {
+          "name": "",
+          "description": "Нет эффекта"
+        },
+        "VbcNqJ7kteV09jek": {
+          "name": "",
+          "description": "Нет эффекта"
+        },
+        "803NBELg64KKN6zC": {
+          "name": "",
+          "description": "Нет эффекта"
+        },
+        "Z9RuOWRoDwi7UzZU": {
+          "name": "",
+          "description": "Нет эффекта"
+        },
+        "AGqvXcMD1aNtqQ8f": {
+          "name": "",
+          "description": "Нет эффекта"
+        },
+        "VqokH7OGKX4oJQkq": {
+          "name": "",
+          "description": "Нет эффекта"
+        },
+        "loOELbTFkDjlQMLc": {
+          "name": "",
+          "description": "Плохое дыхание"
+        },
+        "xX76hUKK2vL8kPIA": {
+          "name": "",
+          "description": "Плохое дыхание"
+        },
+        "3xGuu7ZNmNbQ3aOz": {
+          "name": "",
+          "description": "Шишки"
+        },
+        "4GbLgjFvtfuCTmiS": {
+          "name": "",
+          "description": "Шишки"
+        },
+        "rmO8k12gjbNV9dLN": {
+          "name": "",
+          "description": "Изменение цвета"
+        },
+        "4iixYgqdwSzaocS5": {
+          "name": "",
+          "description": "Изменение цвета"
+        },
+        "1qulT5nT4TD6yY9T": {
+          "name": "",
+          "description": "Потение"
+        },
+        "yTqvpCWlvLBTkOee": {
+          "name": "",
+          "description": "Потение"
+        },
+        "gFVr8pTLwwRJA2W8": {
+          "name": "",
+          "description": "Извержение"
+        },
+        "XMgSgapXMIJutwo8": {
+          "name": "",
+          "description": "Извержение"
+        },
+        "qUwD8AAsoAz7PIS9": {
+          "name": "",
+          "description": "Зоб"
+        },
+        "yBCfewpBrdGlDwv1": {
+          "name": "",
+          "description": "Зоб"
+        },
+        "8MnZPciO83eD3ctZ": {
+          "name": "",
+          "description": "Резь в животе"
+        },
+        "osAKyf0b7gFAVssc": {
+          "name": "",
+          "description": "Резь в животе"
+        },
+        "vejPVA9aOe7HmbAo": {
+          "name": "",
+          "description": "Выпадение волос"
+        },
+        "aDL5kzhIlbFCfgD1": {
+          "name": "",
+          "description": "Выпадение волос"
+        },
+        "ywdibc6FvNC1bAQ0": {
+          "name": "",
+          "description": "Галлюцинации"
+        },
+        "wyHt0qrwd4vQsOxn": {
+          "name": "",
+          "description": "Галлюцинации"
+        },
+        "hDF9uzXsl7ud1gTW": {
+          "name": "",
+          "description": "Зуд"
+        },
+        "2HIjS7DHdCWIovm5": {
+          "name": "",
+          "description": "Зуд"
+        },
+        "dPGtNyZFeEoSZE6m": {
+          "name": "",
+          "description": "Водопад слёз"
+        },
+        "UupxS5r5pMadGqu4": {
+          "name": "",
+          "description": "Водопад слёз"
+        },
+        "FQXbiJUWdqPRRwU7": {
+          "name": "",
+          "description": "Зловоние"
+        },
+        "AM2NXndDoE6YSVLu": {
+          "name": "",
+          "description": "Зловоние"
+        },
+        "QqCiphoN5hxWXhpe": {
+          "name": "",
+          "description": "Жутко голоден"
+        },
+        "R77wQzTIkOkwidmK": {
+          "name": "",
+          "description": "Жутко голоден"
+        },
+        "5OCLae3LehKoMN86": {
+          "name": "",
+          "description": "Пятна"
+        },
+        "0Rirlorr4ER2285x": {
+          "name": "",
+          "description": "Пятна"
+        },
+        "307EVv4HxMHRl7uU": {
+          "name": "",
+          "description": "Покалывание"
+        },
+        "LjF32VE5h8SmZxiu": {
+          "name": "",
+          "description": "Покалывание"
+        },
+        "GyRtSyeih9I48vCj": {
+          "name": "",
+          "description": "Меланхолия"
+        },
+        "pk8U5rhfdSIwWww2": {
+          "name": "",
+          "description": "Меланхолия"
+        },
+        "pPPgBn6AvQLHbraE": {
+          "name": "",
+          "description": "Жестокие ветра"
+        },
+        "2ovX7QTFNHBt9YNR": {
+          "name": "",
+          "description": "Жестокие ветра"
+        },
+        "b230LUhzI7NEiLxV": {
+          "name": "",
+          "description": "Смена голоса"
+        },
+        "dOEsroLBY04RtbVp": {
+          "name": "",
+          "description": "Смена голоса"
+        },
+        "9kJi8qIEFEFCzWQ3": {
+          "name": "",
+          "description": "Бородавки"
+        },
+        "nbGGCDYngqI9pF0q": {
+          "name": "",
+          "description": "Бородавки"
+        },
+        "Q7jTROqKj8AJd5DN": {
+          "name": "",
+          "description": "Жировые шишки"
+        },
+        "QsqDMxsxncCR4ZFX": {
+          "name": "",
+          "description": "Жировые шишки"
+        },
+        "2TpW81DzcpxMaTl0": {
+          "name": "",
+          "description": "Бросок по средней порче"
+        },
+        "PhZ12ugaxRORsYOf": {
+          "name": "",
+          "description": "Бросьте ещё дважды"
+        }
+      }
+    },
+    "1HvEmo0hYrzYeiQW": {
+      "sourceName": "Магический поток",
+      "name": "Магический поток",
+      "results": {
+        "oc4x37zvkkCmAHuv": {
+          "name": "",
+          "description": "Звери"
+        },
+        "o0eXksMKjQS5qIdp": {
+          "name": "",
+          "description": "Смерть"
+        },
+        "nsvI9veZxqYP0tzW": {
+          "name": "",
+          "description": "Огонь"
+        },
+        "drVDcDLqwJigXBNf": {
+          "name": "",
+          "description": "Небеса"
+        },
+        "cQ3ZknPWNTeBvcWM": {
+          "name": "",
+          "description": "Металл"
+        },
+        "tf0UW3Kn5VyvQ7DV": {
+          "name": "",
+          "description": "Жизнь"
+        },
+        "HLWvAQlODBOePlGR": {
+          "name": "",
+          "description": "Школа Света"
+        },
+        "mZI5pK3Mx8SW55qH": {
+          "name": "",
+          "description": "Тени"
+        },
+        "ZIUxyC4UTN23nxpO": {
+          "name": "",
+          "description": "Ведьмовство"
+        },
+        "w7UYOoA5CHTTmCnO": {
+          "name": "",
+          "description": "Тёмная или хаотическая магия"
+        }
+      }
+    },
+    "3KxhbbDdeu4hE73O": {
+      "sourceName": "Таблица магической отдачи гримуаров",
+      "name": "Таблица магической отдачи гримуаров",
+      "results": {
+        "yeeKRXutBHtRQlCa": {
+          "name": "",
+          "description": "<strong>Выжигание разума</strong>: Кажется что голова заклинателя сейчас взорвется от боли, он получает [[/r 1d10 + 1]] пунктов урона, игнорирующих класс брони. Однако маг немедленно запоминает заклинание."
+        },
+        "oYI80gggH5ihyVVR": {
+          "name": "",
+          "description": "<strong>Ничего, кроме боли</strong>: Волшебник испытывает сильную боль и получает [[/r 1d10 + 4]] пунктов урона игнорирующих класс брони."
+        },
+        "mVFmwx4sX5Qo0fBW": {
+          "name": "",
+          "description": "Нет эффекта"
+        },
+        "IJUdPKwWFyNk5MGi": {
+          "name": "",
+          "description": "<strong>В дыму</strong>: Волшебная энергия сжигает заклинание в книге. Оно утеряно."
+        },
+        "pMaPh8rnbqA4fnF3": {
+          "name": "",
+          "description": "<strong>Сожжение книги</strong>: Гримуар уничтожается."
+        }
+      }
+    },
+    "3jZ8YVOFDA0dh3Uy": {
+      "sourceName": "Личность фамильяра - Хиш",
+      "name": "Личность фамильяра - Хиш",
+      "results": {
+        "EAzbghLgENoimSCC": {
+          "name": "",
+          "description": "Надменный"
+        },
+        "FWkdYtFw5KpSAQDw": {
+          "name": "",
+          "description": "Задумчивый"
+        },
+        "c3cn1Mf6uoIBt4jN": {
+          "name": "",
+          "description": "Возвышенный"
+        },
+        "cI0uhaeHRV0Vs2wb": {
+          "name": "",
+          "description": "Благочестивый"
+        },
+        "3ZqBGrvVnmb2V5Zl": {
+          "name": "",
+          "description": "Напыщенный"
+        },
+        "hOwHZys7NI8OylCv": {
+          "name": "",
+          "description": "Тревожный"
+        },
+        "6OrNP9HgDdXk60ED": {
+          "name": "",
+          "description": "Книжный"
+        },
+        "FUVx0T6TK52XI8E3": {
+          "name": "",
+          "description": "Солипсистский"
+        },
+        "3PPEHY9Lm9GnsD7U": {
+          "name": "",
+          "description": "Консервативный"
+        },
+        "QlyHxBMOJDk6XhJU": {
+          "name": "",
+          "description": "Духовный"
+        }
+      }
+    },
+    "41A2V7UZBRL1iXEo": {
+      "sourceName": "Символы",
+      "name": "Символы",
+      "results": {
+        "dFzVSTVxOuXa3a7o": {
+          "name": "Morrslieb",
+          "description": "Моррслиб"
+        },
+        "JeNOwnJZ8UWZIbcC": {
+          "name": "Morr",
+          "description": "Морр"
+        },
+        "oWZeq5ijKYQMWhfJ": {
+          "name": "Ulric",
+          "description": "Ульрик"
+        },
+        "NuETnlUEbTFECNjs": {
+          "name": "The Tower",
+          "description": "Башня"
+        },
+        "9gg5dyVOxsb4dcMt": {
+          "name": "Sigmar",
+          "description": "Сигмар"
+        },
+        "hzuf8gx6RnvQEeFh": {
+          "name": "Ace of Hammers",
+          "description": "Туз молотов"
+        },
+        "fbWSSgFf8OvTCzf7": {
+          "name": "Verena",
+          "description": ""
+        },
+        "VqpGF6eM1imW7bnl": {
+          "name": "Blitzbeil",
+          "description": "Блитцбейл"
+        },
+        "dc1vhQcChlojRxkW": {
+          "name": "The Fortress",
+          "description": "Крепость"
+        },
+        "BEFKg3IonwZpipxm": {
+          "name": "The Daemon",
+          "description": "Демон"
+        }
+      }
+    },
+    "6sw8UFrqEpzkVFK2": {
+      "sourceName": "Магические метки Хиша",
+      "name": "Магические метки Хиша",
+      "results": {
+        "8bQ7tAMoHP60KkVm": {
+          "name": "Vulnerability to Darkness",
+          "description": "Гнетущая тьма"
+        },
+        "2vDKpUHCBlCGctGv": {
+          "name": "Aura of Light",
+          "description": "Аура Света"
+        },
+        "l3E4N5d0yNITWKuh": {
+          "name": "Autoluminescent",
+          "description": "Свечение"
+        },
+        "NFjswmxhX4gVd45H": {
+          "name": "Stoicism",
+          "description": "Стоицизм"
+        },
+        "nEuIDAjAm9bG6int": {
+          "name": "Enlightened Condescension",
+          "description": "Просветлённое высокомерие"
+        },
+        "OJtwWULq72zVB4U9": {
+          "name": "White Eyes",
+          "description": "Белые глаза"
+        },
+        "JGcxP6iPSWU6ctMV": {
+          "name": "Bleaching",
+          "description": ""
+        },
+        "eqT2NRBs0R62gHTc": {
+          "name": "Instant Recall",
+          "description": "Вспышка памяти"
+        },
+        "UXngt5wTXIC7HmtE": {
+          "name": "Purging",
+          "description": "Очищение"
+        },
+        "h1XLaAtLoow3mOCi": {
+          "name": "Mark of Hysh",
+          "description": "Метка Хиша"
+        }
+      }
+    },
+    "7fdGCc2KFPj77Byw": {
+      "sourceName": "Личность фамильяра - Акши",
+      "name": "Личность фамильяра - Акши",
+      "results": {
+        "EAzbghLgENoimSCC": {
+          "name": "",
+          "description": "Динамичный"
+        },
+        "FWkdYtFw5KpSAQDw": {
+          "name": "",
+          "description": "Язвительный"
+        },
+        "c3cn1Mf6uoIBt4jN": {
+          "name": "",
+          "description": "Обидчивый"
+        },
+        "cI0uhaeHRV0Vs2wb": {
+          "name": "",
+          "description": "Раздражительный"
+        },
+        "3ZqBGrvVnmb2V5Zl": {
+          "name": "",
+          "description": "Живой"
+        },
+        "hOwHZys7NI8OylCv": {
+          "name": "",
+          "description": "Маниакальный"
+        },
+        "6OrNP9HgDdXk60ED": {
+          "name": "",
+          "description": "Гневный"
+        },
+        "FUVx0T6TK52XI8E3": {
+          "name": "",
+          "description": "Раздражительный"
+        },
+        "3PPEHY9Lm9GnsD7U": {
+          "name": "",
+          "description": "Ветреный"
+        },
+        "QlyHxBMOJDk6XhJU": {
+          "name": "",
+          "description": "Задумчивый"
+        }
+      }
+    },
+    "83kCrJm4MlIUX2G5": {
+      "sourceName": "Potion Spoilage Effects - Extreme",
+      "name": "Эффекты испорченных зелий — крайняя порча",
+      "results": {
+        "dXb8LbJEyUKK9HiK": {
+          "name": "",
+          "description": "Бубоны"
+        },
+        "gc5RiG3h7H8Ny5qX": {
+          "name": "",
+          "description": "Водянка"
+        },
+        "VbcNqJ7kteV09jek": {
+          "name": "",
+          "description": "Разжижение крови"
+        },
+        "803NBELg64KKN6zC": {
+          "name": "",
+          "description": "Грибок"
+        },
+        "Z9RuOWRoDwi7UzZU": {
+          "name": "",
+          "description": "Резь в животе"
+        },
+        "AGqvXcMD1aNtqQ8f": {
+          "name": "",
+          "description": "Галлюцинации"
+        },
+        "VqokH7OGKX4oJQkq": {
+          "name": "",
+          "description": "Помутнение мыслей"
+        },
+        "loOELbTFkDjlQMLc": {
+          "name": "",
+          "description": "Зловоние"
+        },
+        "xX76hUKK2vL8kPIA": {
+          "name": "",
+          "description": "Ядовитый"
+        },
+        "3xGuu7ZNmNbQ3aOz": {
+          "name": "",
+          "description": "Алкогольное зелье"
+        },
+        "4GbLgjFvtfuCTmiS": {
+          "name": "",
+          "description": "Чесотка"
+        },
+        "rmO8k12gjbNV9dLN": {
+          "name": "",
+          "description": "Потеря чувств"
+        },
+        "4iixYgqdwSzaocS5": {
+          "name": "",
+          "description": "Визги"
+        },
+        "1qulT5nT4TD6yY9T": {
+          "name": "",
+          "description": "Гнойные язвы"
+        },
+        "yTqvpCWlvLBTkOee": {
+          "name": "",
+          "description": "Покалывание"
+        },
+        "gFVr8pTLwwRJA2W8": {
+          "name": "",
+          "description": "Жестокие ветра"
+        },
+        "XMgSgapXMIJutwo8": {
+          "name": "",
+          "description": "Отложено (бросьте ещё раз)"
+        },
+        "qUwD8AAsoAz7PIS9": {
+          "name": "",
+          "description": "Отложено (бросьте ещё раз)"
+        },
+        "yBCfewpBrdGlDwv1": {
+          "name": "",
+          "description": "Гниение костей"
+        },
+        "8MnZPciO83eD3ctZ": {
+          "name": "",
+          "description": "Осквернение"
+        },
+        "osAKyf0b7gFAVssc": {
+          "name": "",
+          "description": "Осквернение"
+        },
+        "vejPVA9aOe7HmbAo": {
+          "name": "",
+          "description": "Интоксикация"
+        },
+        "aDL5kzhIlbFCfgD1": {
+          "name": "",
+          "description": "Рассеянность"
+        },
+        "ywdibc6FvNC1bAQ0": {
+          "name": "",
+          "description": "Видимость смерти"
+        },
+        "wyHt0qrwd4vQsOxn": {
+          "name": "",
+          "description": "Видимость смерти"
+        },
+        "hDF9uzXsl7ud1gTW": {
+          "name": "",
+          "description": "Резь в животе"
+        },
+        "2HIjS7DHdCWIovm5": {
+          "name": "",
+          "description": "Резь в животе"
+        },
+        "dPGtNyZFeEoSZE6m": {
+          "name": "",
+          "description": "Изжога (4)"
+        },
+        "UupxS5r5pMadGqu4": {
+          "name": "",
+          "description": "Изжога (4)"
+        },
+        "FQXbiJUWdqPRRwU7": {
+          "name": "",
+          "description": "Изжога (5)"
+        },
+        "AM2NXndDoE6YSVLu": {
+          "name": "",
+          "description": "Изжога (5)"
+        },
+        "QqCiphoN5hxWXhpe": {
+          "name": "",
+          "description": "Изжога (6)"
+        },
+        "R77wQzTIkOkwidmK": {
+          "name": "",
+          "description": "Изжога (7)"
+        },
+        "5OCLae3LehKoMN86": {
+          "name": "",
+          "description": "Изжога (8)"
+        },
+        "0Rirlorr4ER2285x": {
+          "name": "",
+          "description": "Изжога (9)"
+        },
+        "307EVv4HxMHRl7uU": {
+          "name": "",
+          "description": "Помутнение мыслей"
+        },
+        "LjF32VE5h8SmZxiu": {
+          "name": "",
+          "description": "Помутнение мыслей"
+        },
+        "GyRtSyeih9I48vCj": {
+          "name": "",
+          "description": "Помутнение мыслей"
+        },
+        "pk8U5rhfdSIwWww2": {
+          "name": "",
+          "description": "Ядовитый"
+        },
+        "pPPgBn6AvQLHbraE": {
+          "name": "",
+          "description": "Ядовитый"
+        },
+        "2ovX7QTFNHBt9YNR": {
+          "name": "",
+          "description": "Ядовитый"
+        },
+        "b230LUhzI7NEiLxV": {
+          "name": "",
+          "description": "Бросок по слабой порче"
+        },
+        "dOEsroLBY04RtbVp": {
+          "name": "",
+          "description": "Бросок по средней порче"
+        },
+        "9kJi8qIEFEFCzWQ3": {
+          "name": "",
+          "description": "Бросок по сильной порче"
+        },
+        "nbGGCDYngqI9pF0q": {
+          "name": "",
+          "description": "Бросьте ещё дважды"
+        },
+        "Q7jTROqKj8AJd5DN": {
+          "name": "",
+          "description": "Бросьте ещё дважды"
+        },
+        "QsqDMxsxncCR4ZFX": {
+          "name": "",
+          "description": "Бросьте ещё трижды"
+        },
+        "2TpW81DzcpxMaTl0": {
+          "name": "",
+          "description": "Смертельно!"
+        },
+        "PhZ12ugaxRORsYOf": {
+          "name": "",
+          "description": "Смертельно!"
+        }
+      }
+    },
+    "9KMUyiuRi0yBbGbY": {
+      "sourceName": "Магические метки Акши",
+      "name": "Магические метки Акши",
+      "results": {
+        "bCtcl34qMUl0TanH": {
+          "name": "Fiery Hair",
+          "description": "Пламенеющие волосы"
+        },
+        "jWIH5kTeTktlf3ce": {
+          "name": "Whiff of Aqshy",
+          "description": "Дуновение Акши"
+        },
+        "gT1KgJfWXhMcPDYk": {
+          "name": "Red Mist",
+          "description": "Алый туман"
+        },
+        "E90uKo3FDOr2AcGZ": {
+          "name": "Vulnerable to Cold",
+          "description": "Гнетущий холод"
+        },
+        "4GMYDIvrZxW9Nz0g": {
+          "name": "Aquaphobic",
+          "description": "Аквафобия"
+        },
+        "hbTQk8mhyCS7LM1v": {
+          "name": "Pyromania",
+          "description": "Пиромания"
+        },
+        "HNnV6lsHPEKxku0v": {
+          "name": "Bright Skin",
+          "description": ""
+        },
+        "lIU2LG9oCdnAOWUp": {
+          "name": "Feed the Fire",
+          "description": "Подпитка пламени"
+        },
+        "ptG02LxKtm46Xrg2": {
+          "name": "Fire Resistant",
+          "description": "Огнестойкость"
+        },
+        "WMdc5vFCwvCFdsno": {
+          "name": "Mark of Aqshy",
+          "description": "Метка Акши"
+        }
+      }
+    },
+    "B8jmdbK7F1EDg2H4": {
+      "sourceName": "Магические метки Улгу",
+      "name": "Магические метки Улгу",
+      "results": {
+        "wW3oFsbZhiNVJlSu": {
+          "name": "Vauge",
+          "description": "Невнятность"
+        },
+        "VijQzSVptz436eIs": {
+          "name": "Mantle of Mist",
+          "description": "Туманная мантия"
+        },
+        "eBYvpQCeF1COU8Ax": {
+          "name": "Vulnerability to Sunlight",
+          "description": "Гнетущий солнечный свет"
+        },
+        "WUP7Mj6sNHfIptcM": {
+          "name": "Animal Aversion",
+          "description": "Неприязнь животных"
+        },
+        "JD4zEMuT1c9PG8yz": {
+          "name": "Disturbing Eyes",
+          "description": "Тревожный взгляд"
+        },
+        "Eal8vl923rFAoxxX": {
+          "name": "Wilful Shadow",
+          "description": "Своевольная тень"
+        },
+        "xG4b57erGJso9Zf8": {
+          "name": "Cipher",
+          "description": ""
+        },
+        "QB9s9Cg7u7RdUknx": {
+          "name": "Flicker",
+          "description": "Мерцание"
+        },
+        "vufDoLGTEEy1lDL3": {
+          "name": "Phantasmal",
+          "description": "Призрачность"
+        },
+        "JzkFK6miQ0DRCw1c": {
+          "name": "Mark of Ulgu",
+          "description": "Метка Улгу"
+        }
+      }
+    },
+    "DhVbKq8qjtIQeuXI": {
+      "sourceName": "Случайный гримуар - школа",
+      "name": "Случайный гримуар - школа",
+      "results": {
+        "WSrQRW64Gfbgp1nV": {
+          "name": "",
+          "description": "Общие"
+        },
+        "UnHNrPBmxoNyjpeM": {
+          "name": "",
+          "description": "Простейшие или переброс"
+        },
+        "pM1DsVjUNyg0JaX6": {
+          "name": "",
+          "description": "Свет"
+        },
+        "EBIZ2wEwxWaoSLiw": {
+          "name": "",
+          "description": "Металл"
+        },
+        "ct68YfmpqToL4lEy": {
+          "name": "",
+          "description": "Жизнь"
+        },
+        "zhLoBL0AG9DARvO9": {
+          "name": "",
+          "description": "Небеса"
+        },
+        "XBKSjLiLIkOAVx15": {
+          "name": "",
+          "description": "Тени"
+        },
+        "H1OpSwcu7TFASrQW": {
+          "name": "",
+          "description": "Смерть"
+        },
+        "23Gmh0QkFZtZMExj": {
+          "name": "",
+          "description": "Огонь"
+        },
+        "4obgAqlqm3Jj7nPX": {
+          "name": "",
+          "description": "Звери"
+        },
+        "LH7Pqew5XNlIoeu8": {
+          "name": "",
+          "description": "Тёмная или хаотическая"
+        }
+      }
+    },
+    "Dmf46rAFjiPyDFBi": {
+      "sourceName": "Случайный гримуар - вид",
+      "name": "Случайный гримуар - вид",
+      "results": {
+        "WSrQRW64Gfbgp1nV": {
+          "name": "",
+          "description": "Книга"
+        },
+        "UnHNrPBmxoNyjpeM": {
+          "name": "",
+          "description": "Книга"
+        },
+        "pM1DsVjUNyg0JaX6": {
+          "name": "",
+          "description": "Книга"
+        },
+        "EBIZ2wEwxWaoSLiw": {
+          "name": "",
+          "description": "Книга"
+        },
+        "ct68YfmpqToL4lEy": {
+          "name": "",
+          "description": "Книга"
+        },
+        "zhLoBL0AG9DARvO9": {
+          "name": "",
+          "description": "Книга"
+        },
+        "XBKSjLiLIkOAVx15": {
+          "name": "",
+          "description": "Книга"
+        },
+        "H1OpSwcu7TFASrQW": {
+          "name": "",
+          "description": "Кипа бумаг в коробке или мешке"
+        },
+        "23Gmh0QkFZtZMExj": {
+          "name": "",
+          "description": "Длинный свиток (вертикальный)"
+        },
+        "4obgAqlqm3Jj7nPX": {
+          "name": "",
+          "description": "Длинный свиток (горизонтальный)"
+        },
+        "LH7Pqew5XNlIoeu8": {
+          "name": "",
+          "description": "Коробочки со свитками (по 1 на заклинание) на поясе"
+        }
+      }
+    },
+    "FKURJjjQ85JV2z9q": {
+      "sourceName": "Случайный гримуар - максимальный ПС",
+      "name": "Случайный гримуар - максимальный ПС",
+      "results": {
+        "WSrQRW64Gfbgp1nV": {
+          "name": "",
+          "description": "3"
+        },
+        "UnHNrPBmxoNyjpeM": {
+          "name": "",
+          "description": "3"
+        },
+        "pM1DsVjUNyg0JaX6": {
+          "name": "",
+          "description": "4"
+        },
+        "EBIZ2wEwxWaoSLiw": {
+          "name": "",
+          "description": "4"
+        },
+        "ct68YfmpqToL4lEy": {
+          "name": "",
+          "description": "5"
+        },
+        "zhLoBL0AG9DARvO9": {
+          "name": "",
+          "description": "6"
+        },
+        "XBKSjLiLIkOAVx15": {
+          "name": "",
+          "description": "7"
+        },
+        "H1OpSwcu7TFASrQW": {
+          "name": "",
+          "description": "8"
+        },
+        "23Gmh0QkFZtZMExj": {
+          "name": "",
+          "description": "9"
+        },
+        "4obgAqlqm3Jj7nPX": {
+          "name": "",
+          "description": "10"
+        },
+        "LH7Pqew5XNlIoeu8": {
+          "name": "",
+          "description": "12"
+        }
+      }
+    },
+    "FeonG4xQ3LuxIfLZ": {
+      "sourceName": "Личность фамильяра - Шамон",
+      "name": "Личность фамильяра - Шамон",
+      "results": {
+        "EAzbghLgENoimSCC": {
+          "name": "",
+          "description": "Амбициозный"
+        },
+        "FWkdYtFw5KpSAQDw": {
+          "name": "",
+          "description": "Алчный"
+        },
+        "c3cn1Mf6uoIBt4jN": {
+          "name": "",
+          "description": "Эпикуреец"
+        },
+        "cI0uhaeHRV0Vs2wb": {
+          "name": "",
+          "description": "Непостоянный"
+        },
+        "3ZqBGrvVnmb2V5Zl": {
+          "name": "",
+          "description": "Скупой"
+        },
+        "hOwHZys7NI8OylCv": {
+          "name": "",
+          "description": "Бюрократический"
+        },
+        "6OrNP9HgDdXk60ED": {
+          "name": "",
+          "description": "Уверенный"
+        },
+        "FUVx0T6TK52XI8E3": {
+          "name": "",
+          "description": "Забавный"
+        },
+        "3PPEHY9Lm9GnsD7U": {
+          "name": "",
+          "description": "Щедрый"
+        },
+        "QlyHxBMOJDk6XhJU": {
+          "name": "",
+          "description": "Многословный"
+        }
+      }
+    },
+    "GLUmYTuEmgdvDXJQ": {
+      "sourceName": "Сильная магическая отдача (Ветра магии)",
+      "name": "Сильная магическая отдача (Ветра магии)",
+      "results": {
+        "JPYM1WCFGkPi6uC7": {
+          "name": "",
+          "description": "<b>Призрачные голоса</b>: Разумные существа в радиусе [сила воли] ярдов от персонажа слышат искусительный шёпот, доносящийся из Царства Хаоса, — теперь им всем предстоит успешно пройти <b>проверку хладнокровия (+20)</b>, чтобы не получить 1 пункт скверны."
+        },
+        "QbuYfgaHsqrKc431": {
+          "name": "",
+          "description": "<b>Эфирный разряд</b>: Персонаж теряет [[1d10]] пунктов здоровья, причём ни рейтинг выносливости, ни класс брони его не защищают. Кроме того, персонажу придётся пройти <b>проверку стойкости (+20)</b> — при провале он вдобавок будет @Condition[ошеломлён]."
+        },
+        "jb1XHbp1zxLiAlux": {
+          "name": "",
+          "description": "<b>Смертоносная поступь</b>: Смерть идёт за персонажем по пятам. На протяжении следующих [[1d10]] все растения на его пути засыхают и гибнут."
+        },
+        "3YoLsgLQE5pEPtbq": {
+          "name": "",
+          "description": "<b>Раздвоение</b>: Эффект заклинания срабатывает не только на указанную цель, но и на случайно выбранную цель в радиусе [[1d10]] миль от персонажа (лучше всего, если это повлечёт за собой какие‑нибудь последствия)."
+        },
+        "b7J41SQRIRZDxnAX": {
+          "name": "",
+          "description": "<b>Воспламенение</b>: Персонаж @Condition[охвачен огнём] — он полыхает призрачным пламенем, окрашенным в цвет его магической Школы."
+        },
+        "zXLM2OUqcCnDuMDH": {
+          "name": "",
+          "description": "<b>Потусторонние языки</b>: На протяжении [[1d10]] раундов персонаж безостановочно бормочет себе под нос какую‑то бессмыслицу. Пока это не прекратится, он теряет возможность вразумительно говорить и проходить проверки сотворения заклинаний, но в остальном может действовать как обычно."
+        },
+        "9vSCA0HkDJvOzklf": {
+          "name": "",
+          "description": "<b>Эфирное скопище</b>: Персонажа захлёстывает волна эфирных крыс, гигантских пауков, змей или других подобных существ (по выбору ведущего). Используй стандартный шаблон выбранного существа, добавив к нему черту скопище. Если в течение [[1d10]] раундов эти существа не будут уничтожены, они исчезнут так же неожиданно, как и появились."
+        },
+        "CAiFiYv9ApW4tHV4": {
+          "name": "",
+          "description": "<b>Тряпичная кукла</b>: Персонаж отлетает на [[1d10]] ярдов в случайном направлении, врезавшись в препятствие, теряет [[1d10]] пунктов здоровья (класс брони не защищает) и оказывается @Condition[сбит с ног]."
+        },
+        "08XaamNzFqbpPgA6": {
+          "name": "",
+          "description": "<b>Паралич конечности</b>: Одна из конечностей персонажа (выбери её случайным образом) замирает и отказывается шевелиться. Паралич длится [[1d10]] часов — эффект такой же, как если бы эта конечность была ампутирована."
+        },
+        "87NnaV0qzi1ARjsO": {
+          "name": "",
+          "description": "<b>Помутнение Зрения</b>: Персонаж на [[1d10]] часов теряет талант Второе зрение и получает модификатор –20 при проверках концентрации."
+        },
+        "V8d1zeuacfY5BHkL": {
+          "name": "",
+          "description": "<b>Прозрение Хаоса</b>: Персонаж получает дополнительный, независимый от основного запас из [[1d10]] пунктов удачи (размер этого запаса ограничен только результатом броска). Тратя пункт удачи из этого запаса, персонаж получает 1 пункт скверны. В конце игровой встречи все пункты удачи, оставшиеся в этом дополнительном запасе, сгорают. Ведущий также озвучивает вам несколько перевёрнутых символов, равное вашему рейтингу силы воли."
+        },
+        "5ABpFrXi8E7NYvDC": {
+          "name": "",
+          "description": "<b>Левитация</b>: Ветра магии подхватывают персонажа, и тот на [[1d10]] минут воспаряет на [[1d10]] ярдов над землёй. Другие персонажи могут перемещать его, взяв на буксир, а сам персонаж может перемещаться при помощи заклинаний, импровизированных крыльев и прочих приспособлений, но, если оставить его в покое, он будет просто висеть в воздухе. Правила @Compendium[wfrp4e-core.journal-entries.IyLwbcF2271ZKPzC]{падения} большой высоты описывают, что произойдёт, когда левитация подойдёт к концу."
+        },
+        "vNNrHPgBAsHCd50J": {
+          "name": "",
+          "description": "<b>Тошнотворное извержение</b>: Персонажа мучает сильнейшая тошнота, и его нутро извергает из себя невероятное количество омерзительной зловонной массы. Персонаж @Condition[ошеломлён] — это состояние пройдёт само, но не раньше чем через [[1d10]]."
+        },
+        "acO1Bjieb09yCKDr": {
+          "name": "",
+          "description": "<b>Сотрясение Хаоса</b>: Все существа в радиусе [[1d100]] ярдов от персонажа должны пройти <b>проверку атлетики (+20)</b> — тот, кто провалит эту проверку, будет @Condition[сбит с ног]."
+        },
+        "phqEKyxNBkpvz5OK": {
+          "name": "",
+          "description": "Забывчивость. Заклинание, которое персонаж пытался сотворить, потеряно в его памяти. Если персонаж ранее запомнил это заклинание, то он больше не помнит его и должен запомнить снова. При сотворении заклинания из гримуара страница, на которой написано заклинание, вспыхивает пламенем. Заклинание теряется, и, если быстро не предпринять соответствующих действий, гримуар будет @Condition[охвачен огнём]."
+        },
+        "LOmLEHhkMZ8CTaKn": {
+          "name": "",
+          "description": "<b>Сердце предателя</b>: Тёмные боги искушают персонажа совершить ужасное злодеяние. Если персонаж приложит все усилия к тому, чтобы атаковать или предать своего союзника, он полностью восстановит свой запас пунктов удачи. Если персонаж при этом вынудит союзника потратить пункт судьбы, этот пункт судьбы достанется самому персонажу."
+        },
+        "QpiIy70TxoRlrQSl": {
+          "name": "",
+          "description": "<b>Пагубное бессилие</b>: Персонаж получает 1 пункт скверны, состояние @Condition[устал] и вдобавок оказывается @Condition[сбит с ног]."
+        },
+        "V4Bs3QauofalMLq0": {
+          "name": "",
+          "description": "<b>Адское зловоние</b>: Персонаж источает отвратительную вонь! Он получает черту @Compendium[wfrp4e-core.traits.MVI0lXcg6vvtooAF]{дезориентация} и, скорее всего, крайнюю неприязнь со стороны любого обладающего обонянием существа. Запах улетучится через [[1d10]] часов."
+        },
+        "jWgbCT72D0cuERJA": {
+          "name": "",
+          "description": "<b>Утечка энергии</b>: Персонаж на [[1d10]] минут теряет возможность использовать вызвавший отдачу талант (Школа магии, Магия Хаоса и т. п.)."
+        },
+        "BlcaUpFd9zeLNdRM": {
+          "name": "",
+          "description": "<b>Эфирный резонанс</b>: Все существа в радиусе [сила воли] ярдов от персонажа теряют [[1d10]] пунктов здоровья (причём ни рейтинг выносливости, ни класс брони их не защищают) и вдобавок каждый оказывается @Condition[сбит с ног]. Если в указанном радиусе нет ни одного существа, поток магии замыкается сам на себя, и голова персонажа взрывается. Персонаж при этом, естественно, погибает."
+        }
+      }
+    },
+    "Hql7qEGQQYhzxqGf": {
+      "sourceName": "Эффект замешательства",
+      "name": "Эффект замешательства",
+      "results": {
+        "PU5HfvgxyzirN545": {
+          "name": "",
+          "description": "<strong>Сбит с толку</strong>: Цель должна пройти <strong>Сложную (+0) проверку силы воли</strong>, чтобы предпринять действие."
+        },
+        "Eqz6jDbOiIt8f5ZZ": {
+          "name": "",
+          "description": "<strong>Блуждание</strong>: Цель может действовать нормально, но движется в случайном направлении."
+        },
+        "0f9OiPJDrEibDkpS": {
+          "name": "",
+          "description": "<strong>Атака</strong>: Цель атакует ближайшую цель и нападает."
+        },
+        "R3RTCuah7ukAk22v": {
+          "name": "",
+          "description": "<strong>Бездействие</strong>: цель может только стоять на месте и уклоняться."
+        },
+        "rXEci6ujPokaPug9": {
+          "name": "",
+          "description": "<strong>Свернуться калачиком</strong>: цель получает состояние @Condition[сбит с ног] и становится @UUID[Compendium.wfrp4e-core.journals.NS3YGlJQxwTggjRX.JournalEntryPage.wmA76Q2zJJ9HrkvA#helpless-targets]{беспомощной}."
+        }
+      }
+    },
+    "K1fPvqdvHE9WVIAS": {
+      "sourceName": "Магические метки Гарра",
+      "name": "Магические метки Гарра",
+      "results": {
+        "hP46mDo6usMOL9xa": {
+          "name": "Savage Gaze",
+          "description": "Дикарский взгляд"
+        },
+        "nB2Zm9cNlD57AvvC": {
+          "name": "Claustrophobia",
+          "description": "Клаустрофобия"
+        },
+        "dmVxANthKNYHzMDB": {
+          "name": "Restless",
+          "description": "Мятущийся"
+        },
+        "Qhdq8yRhytlW5Wb6": {
+          "name": "Dirty",
+          "description": "Грязный"
+        },
+        "mrW8TDRrkVNiBaDD": {
+          "name": "Hairy",
+          "description": "Волосатый"
+        },
+        "Uh2Qpzfqn0NnYP5Z": {
+          "name": "Feral",
+          "description": "Одичалый"
+        },
+        "QLBCsosfDLXleW11": {
+          "name": "Musk",
+          "description": ""
+        },
+        "0hKf3PdBAi5B9Hdm": {
+          "name": "Hunter's Instincts",
+          "description": "Охотничьи инстинкты"
+        },
+        "8cqx10itjP3luPB2": {
+          "name": "Small Friends",
+          "description": "Маленькие друзья"
+        },
+        "s8xU5K7LMZWpdJel": {
+          "name": "Mark of Ghur",
+          "description": "Метка Гарра"
+        }
+      }
+    },
+    "KRzKn7xj6EFPPxwr": {
+      "sourceName": "Эффекты хаотической скверны",
+      "name": "Эффекты хаотической скверны",
+      "results": {
+        "tSlMlEu7mNDmSqBq": {
+          "name": "",
+          "description": "Столбы черепов"
+        },
+        "VRQi0AXFGELh3YaA": {
+          "name": "",
+          "description": "Медное небо"
+        },
+        "ZVYuYD1wO5SpOTw3": {
+          "name": "",
+          "description": "Кровавый дождь"
+        },
+        "VFHih7kcneSU223J": {
+          "name": "",
+          "description": "Обезумевшие звери"
+        },
+        "32UdA6CZf6UvVeqF": {
+          "name": "",
+          "description": "Режущая травами"
+        },
+        "D9AIwpnSKMAWJ9oN": {
+          "name": "",
+          "description": "Шепчущие деревья"
+        },
+        "CvXrTtPuxdmsgEpv": {
+          "name": "",
+          "description": "Отравляющие цветы"
+        },
+        "0uAlrhERjIEwBlTg": {
+          "name": "",
+          "description": "Притягательные голоса"
+        },
+        "XQfgGFdp56GoITmE": {
+          "name": "",
+          "description": "Облысевшие животные"
+        },
+        "EVw0Hn85ahlV5Nld": {
+          "name": "",
+          "description": "Мясистые усики"
+        },
+        "AOLyrNHxHWC6Nymd": {
+          "name": "",
+          "description": "Кристализзировавшиеся деревья"
+        },
+        "v5q2hSkaamVPe9Zf": {
+          "name": "",
+          "description": "Разноцветная почва"
+        },
+        "t9SbBSsYt2wSlXww": {
+          "name": "",
+          "description": "Фосфорецирующая вода"
+        },
+        "BMexPmthfplCMDK2": {
+          "name": "",
+          "description": "Зелёное свечение"
+        },
+        "M0QC8eUbuKrILSEF": {
+          "name": "",
+          "description": "Капризная погода"
+        },
+        "sc64CaqxY6eO8ato": {
+          "name": "",
+          "description": "Гниющие растения"
+        },
+        "VZl60Oj5WBH0bITG": {
+          "name": "",
+          "description": "Больные деревья"
+        },
+        "s1ENeJJ7xEuRbZMO": {
+          "name": "",
+          "description": "Тухлая вода"
+        },
+        "Pz66LXZ0ieApOZjF": {
+          "name": "",
+          "description": "Стаи жирных мух"
+        },
+        "rqTaGFhdIgpLvAeh": {
+          "name": "",
+          "description": "Созревшие гнойники"
+        }
+      }
+    },
+    "Ko75bdbmz9HGeCKH": {
+      "sourceName": "Личность фамильяга - Улгу",
+      "name": "Личность фамильяга - Улгу",
+      "results": {
+        "EAzbghLgENoimSCC": {
+          "name": "",
+          "description": "Скрытный"
+        },
+        "FWkdYtFw5KpSAQDw": {
+          "name": "",
+          "description": "Сдержанный"
+        },
+        "c3cn1Mf6uoIBt4jN": {
+          "name": "",
+          "description": "Осторожный"
+        },
+        "cI0uhaeHRV0Vs2wb": {
+          "name": "",
+          "description": "Застенчивый"
+        },
+        "3ZqBGrvVnmb2V5Zl": {
+          "name": "",
+          "description": "Циничный"
+        },
+        "hOwHZys7NI8OylCv": {
+          "name": "",
+          "description": "Хитрый"
+        },
+        "6OrNP9HgDdXk60ED": {
+          "name": "",
+          "description": "Коварный"
+        },
+        "FUVx0T6TK52XI8E3": {
+          "name": "",
+          "description": "Проницательный"
+        },
+        "3PPEHY9Lm9GnsD7U": {
+          "name": "",
+          "description": "Ироничный"
+        },
+        "QlyHxBMOJDk6XhJU": {
+          "name": "",
+          "description": "Отчуждённый"
+        }
+      }
+    },
+    "L02vxFtPJXr87rha": {
+      "sourceName": "Болезни проклятых кастетов",
+      "name": "Болезни проклятых кастетов",
+      "results": {
+        "poTlxk5RhhQMOVfi": {
+          "name": "Festering Wound",
+          "description": "Нагноение"
+        },
+        "tOtegSd5r5YAAhZz": {
+          "name": "Itching Pox",
+          "description": "Сыпучая чесотка"
+        },
+        "RqUVhc0lGMG9u1jI": {
+          "name": "Galloping Trots",
+          "description": "Бешеная золотуха"
+        },
+        "a9G2QoBveBfy4nHy": {
+          "name": "Packer's Pox",
+          "description": "Скорняжная оспа"
+        },
+        "e4OaaNus23vDx3q5": {
+          "name": "The Bloody Flux",
+          "description": "Кровавый понос"
+        }
+      }
+    },
+    "LOtdw5B4Txg6h42D": {
+      "sourceName": "Potion Spoilage Effects - Moderate",
+      "name": "Эффекты испорченных зелий — средняя порча",
+      "results": {
+        "dXb8LbJEyUKK9HiK": {
+          "name": "",
+          "description": "Нет эффекта"
+        },
+        "gc5RiG3h7H8Ny5qX": {
+          "name": "",
+          "description": "Нет эффекта"
+        },
+        "VbcNqJ7kteV09jek": {
+          "name": "",
+          "description": "Нет эффекта"
+        },
+        "803NBELg64KKN6zC": {
+          "name": "",
+          "description": "Плохое дыхание"
+        },
+        "Z9RuOWRoDwi7UzZU": {
+          "name": "",
+          "description": "Шишки"
+        },
+        "AGqvXcMD1aNtqQ8f": {
+          "name": "",
+          "description": "Изменение цвета"
+        },
+        "VqokH7OGKX4oJQkq": {
+          "name": "",
+          "description": "Потение"
+        },
+        "loOELbTFkDjlQMLc": {
+          "name": "",
+          "description": "Извержение"
+        },
+        "xX76hUKK2vL8kPIA": {
+          "name": "",
+          "description": "Зоб"
+        },
+        "3xGuu7ZNmNbQ3aOz": {
+          "name": "",
+          "description": "Резь в животе"
+        },
+        "4GbLgjFvtfuCTmiS": {
+          "name": "",
+          "description": "Выпадение волос"
+        },
+        "rmO8k12gjbNV9dLN": {
+          "name": "",
+          "description": "Галлюцинации"
+        },
+        "4iixYgqdwSzaocS5": {
+          "name": "",
+          "description": "Зуд"
+        },
+        "1qulT5nT4TD6yY9T": {
+          "name": "",
+          "description": "Водопад слёз"
+        },
+        "yTqvpCWlvLBTkOee": {
+          "name": "",
+          "description": "Зловоние"
+        },
+        "gFVr8pTLwwRJA2W8": {
+          "name": "",
+          "description": "Жутко голоден"
+        },
+        "XMgSgapXMIJutwo8": {
+          "name": "",
+          "description": "Пятна"
+        },
+        "qUwD8AAsoAz7PIS9": {
+          "name": "",
+          "description": "Покалывание"
+        },
+        "yBCfewpBrdGlDwv1": {
+          "name": "",
+          "description": "Меланхолия"
+        },
+        "8MnZPciO83eD3ctZ": {
+          "name": "",
+          "description": "Жестокие ветра"
+        },
+        "osAKyf0b7gFAVssc": {
+          "name": "",
+          "description": "Смена голоса"
+        },
+        "vejPVA9aOe7HmbAo": {
+          "name": "",
+          "description": "Бородавки"
+        },
+        "aDL5kzhIlbFCfgD1": {
+          "name": "",
+          "description": "Жировые шишки"
+        },
+        "ywdibc6FvNC1bAQ0": {
+          "name": "",
+          "description": "Бубоны"
+        },
+        "wyHt0qrwd4vQsOxn": {
+          "name": "",
+          "description": "Водянка"
+        },
+        "hDF9uzXsl7ud1gTW": {
+          "name": "",
+          "description": "Разжижение крови"
+        },
+        "2HIjS7DHdCWIovm5": {
+          "name": "",
+          "description": "Грибок"
+        },
+        "dPGtNyZFeEoSZE6m": {
+          "name": "",
+          "description": "Резь в животе"
+        },
+        "UupxS5r5pMadGqu4": {
+          "name": "",
+          "description": "Галлюцинации"
+        },
+        "FQXbiJUWdqPRRwU7": {
+          "name": "",
+          "description": "Помутнение мыслей"
+        },
+        "AM2NXndDoE6YSVLu": {
+          "name": "",
+          "description": "Зловоние"
+        },
+        "QqCiphoN5hxWXhpe": {
+          "name": "",
+          "description": "Ядовитый"
+        },
+        "R77wQzTIkOkwidmK": {
+          "name": "",
+          "description": "Алкогольное зелье"
+        },
+        "5OCLae3LehKoMN86": {
+          "name": "",
+          "description": "Чесотка"
+        },
+        "0Rirlorr4ER2285x": {
+          "name": "",
+          "description": "Потеря чувств"
+        },
+        "307EVv4HxMHRl7uU": {
+          "name": "",
+          "description": "Визги"
+        },
+        "LjF32VE5h8SmZxiu": {
+          "name": "",
+          "description": "Гнойные язвы"
+        },
+        "GyRtSyeih9I48vCj": {
+          "name": "",
+          "description": "Покалывание"
+        },
+        "pk8U5rhfdSIwWww2": {
+          "name": "",
+          "description": "Жестокие ветра"
+        },
+        "pPPgBn6AvQLHbraE": {
+          "name": "",
+          "description": "Бородавки"
+        },
+        "2ovX7QTFNHBt9YNR": {
+          "name": "",
+          "description": "Жировые шишки"
+        },
+        "b230LUhzI7NEiLxV": {
+          "name": "",
+          "description": "Рвота"
+        },
+        "dOEsroLBY04RtbVp": {
+          "name": "",
+          "description": "Рвота"
+        },
+        "9kJi8qIEFEFCzWQ3": {
+          "name": "",
+          "description": "Изжога (2)"
+        },
+        "nbGGCDYngqI9pF0q": {
+          "name": "",
+          "description": "Бросок по слабой порче"
+        },
+        "Q7jTROqKj8AJd5DN": {
+          "name": "",
+          "description": "Бросок по сильной порче"
+        },
+        "QsqDMxsxncCR4ZFX": {
+          "name": "",
+          "description": "Бросьте ещё дважды"
+        },
+        "2TpW81DzcpxMaTl0": {
+          "name": "",
+          "description": "Бросьте ещё дважды"
+        },
+        "PhZ12ugaxRORsYOf": {
+          "name": "",
+          "description": "Бросьте ещё трижды"
+        }
+      }
+    },
+    "NXeKAuXyv8BOf1Gy": {
+      "sourceName": "Магические метки Шаиша",
+      "name": "Магические метки Шаиша",
+      "results": {
+        "iFnTzFC8vMY9poQY": {
+          "name": "Skeletal Frame",
+          "description": "Костлявость"
+        },
+        "SiPh2ZxyZ1ymrQGi": {
+          "name": "Cataracts",
+          "description": "Катаракта"
+        },
+        "qMafYxGvNQcsRHuo": {
+          "name": "Cold Dead Hand",
+          "description": "Хладная рука мертвеца"
+        },
+        "0H5yO6X9AZtbAToQ": {
+          "name": "Curse of Age",
+          "description": "Проклятие старения"
+        },
+        "ed7tLgNDVNO5fjsS": {
+          "name": "Voice of the Dead",
+          "description": "Голос мертвеца"
+        },
+        "wEDpDtu9ns6FkUyJ": {
+          "name": "Grave Stench",
+          "description": "Могильный дух"
+        },
+        "WFUxajfO9DqT0GcX": {
+          "name": "Grim Determination",
+          "description": ""
+        },
+        "iCCWe21BBiPIJJJJ": {
+          "name": "I Hear Dead People",
+          "description": "Я слышу мертвецов"
+        },
+        "c0rlJSRSEpUiRJgt": {
+          "name": "Siphon",
+          "description": "Поглощение"
+        },
+        "t1ig3auzpsgsyimC": {
+          "name": "Mark of Shyish",
+          "description": "Метка Шаиша"
+        }
+      }
+    },
+    "NyD5FOkL6ysD1485": {
+      "sourceName": "Символы (перевёрнутые)",
+      "name": "Символы (перевёрнутые)",
+      "results": {
+        "lAyAfPKuyC93Zd3F": {
+          "name": "Morrslieb (Reversed)",
+          "description": "Моррслиб (перевёрнутый)"
+        },
+        "7OyZUptV35YAMnBh": {
+          "name": "Morr (Reversed)",
+          "description": "Морр (перевёрнутый)"
+        },
+        "5dNUg3nB8p796MUd": {
+          "name": "Ulric (Reversed)",
+          "description": "Ульрик (перевёрнутый)"
+        },
+        "I6VEzDl6VX2lDdas": {
+          "name": "The Tower (Reversed)",
+          "description": "Башня (перевёрнутая)"
+        },
+        "Mo5uGMCoUeNQdBPb": {
+          "name": "Sigmar (Reversed)",
+          "description": "Сигмар (перевёрнутый)"
+        },
+        "BZLCZzVsEb0QQPjT": {
+          "name": "Ace of Hammers (Reversed)",
+          "description": "Туз молотов (перевёрнутый)"
+        },
+        "MQXNQE5bFpKySBdh": {
+          "name": "Verena (Reversed)",
+          "description": ""
+        },
+        "y8WgDh9kYnts762e": {
+          "name": "Blitzbeil (Reversed)",
+          "description": "Блитцбейл (перевёрнутый)"
+        },
+        "TApM2hXOBC3vJrKr": {
+          "name": "The Fortress (Reversed)",
+          "description": "Крепость (перевёрнутая)"
+        },
+        "d8mNXYF7IU2xWTmU": {
+          "name": "The Daemon (Reversed)",
+          "description": "Демон (перевёрнутый)"
+        }
+      }
+    },
+    "OF5eCtl72jRqhn09": {
+      "sourceName": "Эффект некромантической скверны",
+      "name": "Эффект некромантической скверны",
+      "results": {
+        "tSlMlEu7mNDmSqBq": {
+          "name": "",
+          "description": "Оцепеневший лес"
+        },
+        "VRQi0AXFGELh3YaA": {
+          "name": "",
+          "description": "Бесплодные посевы"
+        },
+        "ZVYuYD1wO5SpOTw3": {
+          "name": "",
+          "description": "Ужасные волки"
+        },
+        "VFHih7kcneSU223J": {
+          "name": "",
+          "description": "Летучие мыши-кровососы"
+        },
+        "32UdA6CZf6UvVeqF": {
+          "name": "",
+          "description": "Отравленная вода"
+        },
+        "D9AIwpnSKMAWJ9oN": {
+          "name": "",
+          "description": "Ходячие мертвецы"
+        },
+        "CvXrTtPuxdmsgEpv": {
+          "name": "",
+          "description": "Почерневшая земля"
+        },
+        "0uAlrhERjIEwBlTg": {
+          "name": "",
+          "description": "Увядшие растения"
+        },
+        "XQfgGFdp56GoITmE": {
+          "name": "",
+          "description": "Тучи насекомых"
+        },
+        "EVw0Hn85ahlV5Nld": {
+          "name": "",
+          "description": "Птицы-падальщики"
+        },
+        "AOLyrNHxHWC6Nymd": {
+          "name": "",
+          "description": "Груды костей"
+        },
+        "v5q2hSkaamVPe9Zf": {
+          "name": "",
+          "description": "Небо без солнца"
+        },
+        "t9SbBSsYt2wSlXww": {
+          "name": "",
+          "description": "Пепельный дождь"
+        },
+        "BMexPmthfplCMDK2": {
+          "name": "",
+          "description": "Призрачные толпы"
+        },
+        "M0QC8eUbuKrILSEF": {
+          "name": "",
+          "description": "Групп гулей"
+        },
+        "sc64CaqxY6eO8ato": {
+          "name": "",
+          "description": "Зловонное болото"
+        },
+        "VZl60Oj5WBH0bITG": {
+          "name": "",
+          "description": "Пробирающий озноб"
+        },
+        "s1ENeJJ7xEuRbZMO": {
+          "name": "",
+          "description": "Скелетные животные"
+        },
+        "Pz66LXZ0ieApOZjF": {
+          "name": "",
+          "description": "Стаи летучих мышей"
+        },
+        "rqTaGFhdIgpLvAeh": {
+          "name": "",
+          "description": "Ужасный туман"
+        }
+      }
+    },
+    "QDQjS2y6csQo17bX": {
+      "sourceName": "Таблица движения Вихря - абстрактная",
+      "name": "Таблица движения Вихря - абстрактная",
+      "results": {
+        "RTzj3En9ujA1sr5x": {
+          "name": "",
+          "description": "Вихрь исчезает"
+        },
+        "j9dvJnGozGXqytvg": {
+          "name": "",
+          "description": "Заклинатель выбирает направление"
+        },
+        "D9zeum0YnSQcryFS": {
+          "name": "",
+          "description": "Заклинатель выбирает направление"
+        },
+        "hxho6zrblIxu1qIE": {
+          "name": "",
+          "description": "Заклинатель выбирает направление"
+        },
+        "Gvz3b0wkcNrWjA8x": {
+          "name": "",
+          "description": "Заклинатель выбирает направление"
+        },
+        "dgDgNb4TVi7P0Pwk": {
+          "name": "",
+          "description": "Вихрь остается на месте"
+        },
+        "ypkGRry5lQhOCAZN": {
+          "name": "",
+          "description": "Ведущий выбирает направление"
+        },
+        "dbovyg2SyJWkrO7P": {
+          "name": "",
+          "description": "Ведущий выбирает направление"
+        },
+        "CyIzNvGDaz1ypZLm": {
+          "name": "",
+          "description": "Ведущий выбирает направление"
+        },
+        "mhnpOd8PwgdRUKzT": {
+          "name": "",
+          "description": "Ведущий выбирает направление"
+        }
+      }
+    },
+    "RcRMtjc6O0KZP09A": {
+      "sourceName": "Магические метки Азира",
+      "name": "Магические метки Азира",
+      "results": {
+        "es93QyPMoDcdqGdf": {
+          "name": "Troubling Foresight",
+          "description": "Видения бед"
+        },
+        "ObbDo3hZKuOyVzgH": {
+          "name": "Cerulean Eyes",
+          "description": "Лазурные глаза"
+        },
+        "yjZ1kaCK9OpP0rcG": {
+          "name": "Whispery Voice",
+          "description": "Шепчущий голос"
+        },
+        "9t0XXiRvQSauTW9Y": {
+          "name": "Insubstantial",
+          "description": "Иллюзорность"
+        },
+        "kxWZ9JekinSA2KqW": {
+          "name": "High-minded",
+          "description": "Отвлечённый разум"
+        },
+        "RA8csFfYC9SqqnD5": {
+          "name": "Aura of Tranquility",
+          "description": "Аура спокойствия"
+        },
+        "9B7UpTHjBKkJyaKb": {
+          "name": "Wandering Consciousness",
+          "description": ""
+        },
+        "j9WX46mUTPkfKCUL": {
+          "name": "Scentless",
+          "description": "Лишенный запаха"
+        },
+        "pvRDDqMO1J4UYuuE": {
+          "name": "Stargazer",
+          "description": "Звездочёт"
+        },
+        "xLToFpYv8Jcv3caH": {
+          "name": "Mark of Azyr",
+          "description": "Метка Азира"
+        }
+      }
+    },
+    "UB8hRrBmijmQyZeT": {
+      "sourceName": "Личность фамильяра - Гарр",
+      "name": "Личность фамильяра - Гарр",
+      "results": {
+        "EAzbghLgENoimSCC": {
+          "name": "",
+          "description": "Дикий"
+        },
+        "FWkdYtFw5KpSAQDw": {
+          "name": "",
+          "description": "Застенчивый"
+        },
+        "c3cn1Mf6uoIBt4jN": {
+          "name": "",
+          "description": "Хищный"
+        },
+        "cI0uhaeHRV0Vs2wb": {
+          "name": "",
+          "description": "Отчуждённый"
+        },
+        "3ZqBGrvVnmb2V5Zl": {
+          "name": "",
+          "description": "Тревожный"
+        },
+        "hOwHZys7NI8OylCv": {
+          "name": "",
+          "description": "Свирепый"
+        },
+        "6OrNP9HgDdXk60ED": {
+          "name": "",
+          "description": "Боязливый"
+        },
+        "FUVx0T6TK52XI8E3": {
+          "name": "",
+          "description": "Чувственный"
+        },
+        "3PPEHY9Lm9GnsD7U": {
+          "name": "",
+          "description": "Поспешный"
+        },
+        "QlyHxBMOJDk6XhJU": {
+          "name": "",
+          "description": "Грубый"
+        }
+      }
+    },
+    "UBStehgyR7pNHuxc": {
+      "sourceName": "Слабая магическая отдача (Ветра магии)",
+      "name": "Слабая магическая отдача (Ветра магии)",
+      "results": {
+        "bnmJ0p6wOVXizAIT": {
+          "name": "",
+          "description": "<b>Ведьмовская метка</b>: Следующее живое существо, родившееся в радиусе 1 мили, окажется мутантом."
+        },
+        "YekaOhff2tW8zLUp": {
+          "name": "",
+          "description": "<b>Скисшее молоко</b>: Всё молоко в радиусе [[1d100]] ярдов мгновенно скисает."
+        },
+        "VnhMUUvjF3F0wzvQ": {
+          "name": "",
+          "description": "<b>Парша</b>: [Рейтинг силы воли] полей в радиусе [сила воли] миль поражает парша, и уже к рассвету все больные растения сгнивают на корню."
+        },
+        "41Zx9OrjvqwMsofG": {
+          "name": "",
+          "description": "<b>Ушная сера</b>: Уши персонажа в мгновение ока забиваются липкой ушной серой. Персонаж @Condition[оглушён] сможет избавиться от этого состояния, только если кто‑нибудь пройдёт <strong>Заурядную (+20) проверку лечения</strong> и выскоблит всю скопившуюся серу."
+        },
+        "7S4365pCFxkcAl5w": {
+          "name": "",
+          "description": "Леденящее дыхание. Температура в непосредственной близости от персонажа внезапно падает, и в воздухе видно дыхание людей. Люди, находящиеся в пределах [Рейтинга силы воли] ярдов от персонажа, должны пройти <strong>проверку стойкости (+0)</strong> или получить модификатор -10 к Дистанционному бою, Проворству и Ловкости из-за внезапного похолодания, пока они не покинут область воздействия. Эффект длится 1 минуту."
+        },
+        "4Ugc8tem8L7hSzgi": {
+          "name": "",
+          "description": "<b>Разъединение</b>: Все имеющиеся на одежде и снаряжении персонажа пуговицы и застёжки расстёгиваются, шнурки развязываются; соответственно, ремни, штаны, сумки и кошели (тоже расстёгнутые и развязанные) соскальзывают на землю, а доспехи рассыпаются на составные части."
+        },
+        "k7oFryxQt1byzGYi": {
+          "name": "",
+          "description": "<b>Непослушная одежда</b>: Одежда персонажа, похоже, живёт собственной жизнью. Персонаж @Condition[обездвижен] но может избавиться от этого состояния, если пройдёт встречную проверку силы (считай, что сила одежды равна [[1d10*5]]."
+        },
+        "Qyxlq1e3Xo3SFbGh": {
+          "name": "",
+          "description": "<b>Проклятие трезвости</b>: Весь алкоголь в радиусе [[1d100]] ярдов от персонажа портится, горкнет и протухает."
+        },
+        "c35pB2kCrp0OZeJt": {
+          "name": "",
+          "description": "<b>Непослушный язык</b>: На протяжении [[1d10]] раундов персонаж получает модификатор –10 ко всем проверкам языка (в том числе магического)."
+        },
+        "OzyZCw88yUqwqyH7": {
+          "name": "",
+          "description": "<b>Отвлечение внимания</b>: Если дело происходит в сражении, персонаж оказывается @Condition[застигнут врасплох]. В противном случае его сердце начинает бешено колотиться, внимание рассеивается, и персонаж на несколько секунд впадает в ступор."
+        },
+        "CJx8jPjgOLtetJlq": {
+          "name": "",
+          "description": "<b>Нечестивые видения</b>: Перед взором персонажа проносятся мимолётные видения зловещей, нечестивой природы. Персонаж должен успешно пройти <b>проверку хладнокровия (+0)</b>. В случае успеха он будет @Condition[ослеплён]; в случае провала — ослеплён (2)."
+        },
+        "K4IO8Ou9ovXxPzlM": {
+          "name": "",
+          "description": "<b>Ведьмовские глаза</b>: Глаза персонажа на [[1d10]] часов окрашиваются в цвет его магической Школы. Кроме того, персонаж получает состояние @Condition[ослеплён], которое не может быть убрано никакими средствами, кроме времени. В течение действия этого эффекта вы теряете способность использовать таланты Второе зрение и Магическое чутье."
+        },
+        "88SM2CDbC9ziKNeO": {
+          "name": "",
+          "description": "<b>Кровавый поток</b>: Из носа, глаз и ушей персонажа начинает идти кровь. Персонаж @Condition[истекает кровью]."
+        },
+        "0zhUaVthBkgDN9xs": {
+          "name": "",
+          "description": "<b>Зловещий шёпот</b>: Ведущий может выбрать два перевёрнутых символа из таблицы Символов. Персонаж должен пройти <b>проверку силы воли (+20)</b> — в противном случае он получит 1 пункт скверны."
+        },
+        "Cuke8r6uTHjniK7z": {
+          "name": "",
+          "description": "<b>Ужас. Персонаж встревожен внезапным потоком тревожных видений Царства Хаоса. Ведущий может выбрать перевернутый символ из таблицы символов. Персонаж должен успешно пройти <b>проверку хладнокровия (–20)</b> чтобы не оказаться @Condition[в панике]."
+        },
+        "Zz3XbgS9FRNpdcZk": {
+          "name": "",
+          "description": "<b>Осквернение</b>: Персонаж получает 1 пункт скверны."
+        },
+        "Gx8F2FkgZ8QaJAT0": {
+          "name": "",
+          "description": "<b>Внутреннее расстройство</b>: Нутро персонажа устраивает бунт и извергает своё содержимое наружу из всех доступных отверстий. Персонаж получает состояние @Condition[устал], от которого сможет избавиться только после того, как вымоется и сменит одежду."
+        },
+        "BsbK5IC3MfIF3oXW": {
+          "name": "",
+          "description": "Магическая метка. Персонаж получает магическую метку Ветра магии, с которым он взаимодействовал. В таблицах можно найти таблицу меток. Если для вашей магической традиции не существует таблицы магических меток, повторите бросок по таблице сильной магической отдачи"
+        },
+        "jWBdMvmAUit4peJs": {
+          "name": "",
+          "description": "<b>Двойная отдача</b>: Брось @Table[minormis]{1d100}, дважды, сверься с этой таблицей и примени оба результата (при результате от 91 до 00 проигнорируй его и брось игральные кости ещё раз)."
+        },
+        "3XlU4AwTTN5PTPkc": {
+          "name": "",
+          "description": "<b>Каскад Хаоса</b>: Брось 1d100 ещё раз и обратись к таблице сильной магической отдачи @Table[majormis]."
+        }
+      }
+    },
+    "UbzjTjV7WnuVz0Pf": {
+      "sourceName": "Свиток - максимальный ПС",
+      "name": "Свиток - максимальный ПС",
+      "results": {
+        "tgO2RW6zWiC3kA0t": {
+          "name": "",
+          "description": "0"
+        },
+        "dZrNjS8R2OlF8Fno": {
+          "name": "",
+          "description": "1"
+        },
+        "PBlAF8AlG3HzEAXB": {
+          "name": "",
+          "description": "2"
+        },
+        "MziaGEJzeIYsgxVJ": {
+          "name": "",
+          "description": "3"
+        },
+        "dSQ3xRNraoWfhGeh": {
+          "name": "",
+          "description": "4"
+        },
+        "VP9DotBwTRUzCaSe": {
+          "name": "",
+          "description": "5"
+        },
+        "ENeuvQ7wL62IPoGI": {
+          "name": "",
+          "description": "5"
+        },
+        "IIN19XUWEQPy1mtM": {
+          "name": "",
+          "description": "6"
+        },
+        "1uXsD6a31mGg3Yx1": {
+          "name": "",
+          "description": "7"
+        },
+        "bUDtcvI9SDiO6MGe": {
+          "name": "",
+          "description": "8"
+        },
+        "5E6UjgwqfJ0chDLP": {
+          "name": "",
+          "description": "0"
+        },
+        "Ois90UWaZPQEm3Od": {
+          "name": "",
+          "description": "9"
+        },
+        "prq6NcoQSkvfNcnu": {
+          "name": "",
+          "description": "10"
+        },
+        "P4uqZ4ASmFTEaysZ": {
+          "name": "",
+          "description": "11"
+        },
+        "yBgdqxSwGw0U8P0Y": {
+          "name": "",
+          "description": "12"
+        }
+      }
+    },
+    "V9FBJfBkECNTY7y1": {
+      "sourceName": "Потеря чувств",
+      "name": "Потеря чувств",
+      "results": {
+        "YESHxya5YZNdp1Yz": {
+          "name": "",
+          "description": "Пьющий слепнет"
+        },
+        "yGNgEjomfg7241xE": {
+          "name": "",
+          "description": "Пьющий глохнет"
+        },
+        "yqMwXRz7lvjurFDp": {
+          "name": "",
+          "description": "Пьющий теряет обоняние"
+        },
+        "akG82TInGRXHPfrH": {
+          "name": "",
+          "description": "Пьющий ничего не может почувствовать"
+        },
+        "R2xd3wDsSL578raV": {
+          "name": "",
+          "description": "Пьющий не чувствует вкусов"
+        }
+      }
+    },
+    "VpkMQq6lIszPYAYf": {
+      "sourceName": "Свиток - Школа",
+      "name": "Свиток - Школа",
+      "results": {
+        "tgO2RW6zWiC3kA0t": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.JournalEntry.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#petty-spells]{Простейшее}</p>"
+        },
+        "dZrNjS8R2OlF8Fno": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.JournalEntry.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#arcane-spells]{Общее}</p>"
+        },
+        "PBlAF8AlG3HzEAXB": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.JournalEntry.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-beasts]{Звери}</p>"
+        },
+        "MziaGEJzeIYsgxVJ": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.JournalEntry.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-death]{Смерть}</p>"
+        },
+        "dSQ3xRNraoWfhGeh": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.JournalEntry.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-fire]{Огонь}</p>"
+        },
+        "VP9DotBwTRUzCaSe": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.JournalEntry.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-heavens]{Небеса}</p>"
+        },
+        "ENeuvQ7wL62IPoGI": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.JournalEntry.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-metal]{Металл}</p>"
+        },
+        "IIN19XUWEQPy1mtM": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.JournalEntry.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-life]{Жизнь}</p>"
+        },
+        "1uXsD6a31mGg3Yx1": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.JournalEntry.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-light]{Свет}</p>"
+        },
+        "bUDtcvI9SDiO6MGe": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.JournalEntry.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-shadow]{Тени}</p>"
+        },
+        "5E6UjgwqfJ0chDLP": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.JournalEntry.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-hedgecraft]{Знахарство}</p>"
+        },
+        "Ois90UWaZPQEm3Od": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.JournalEntry.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-witchcraft]{Ведьмовство}</p>"
+        },
+        "prq6NcoQSkvfNcnu": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.JournalEntry.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-daemonology]{Демонология}</p>"
+        },
+        "P4uqZ4ASmFTEaysZ": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.JournalEntry.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-necromancy]{Некромантия}</p>"
+        },
+        "yBgdqxSwGw0U8P0Y": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.JournalEntry.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#chaos-magic]{Магия Хаоса (любого бога Хаоса)}</p>"
+        }
+      }
+    },
+    "WuUlZximtmoiOh6E": {
+      "sourceName": "Случайный гримуар - Особенность 1",
+      "name": "Случайный гримуар - Особенность 1",
+      "results": {
+        "WSrQRW64Gfbgp1nV": {
+          "name": "",
+          "description": "Содержит Общие и/или простейшие заклинания"
+        },
+        "UnHNrPBmxoNyjpeM": {
+          "name": "",
+          "description": "Содержит Общие и/или простейшие заклинания"
+        },
+        "pM1DsVjUNyg0JaX6": {
+          "name": "",
+          "description": "Грязное письмо - текст трудно читается. Увеличьте порог сотворения заклинаний на 1."
+        },
+        "EBIZ2wEwxWaoSLiw": {
+          "name": "",
+          "description": "Ужасное письмо - текст трудно читается. Увеличьте порог сотворения заклинаний на 1, и их запоминание будет стоить дополнительно 50 очков опыта."
+        },
+        "ct68YfmpqToL4lEy": {
+          "name": "",
+          "description": "Заклинание записано элегантно и разборчиво, и читать его легко. Уменьшите порог сотворения на 1, после удвоения при сотворении из гримуара."
+        },
+        "zhLoBL0AG9DARvO9": {
+          "name": "",
+          "description": "Волшебник вёл аккуратные записи о процессах, составляющих основу изучения заклинаний. Уменьшите количество опыта, необходимого для запоминания заклинаний, на 50 очков."
+        },
+        "XBKSjLiLIkOAVx15": {
+          "name": "",
+          "description": "Содержит множество сторонних заметок - тайны, ключи к сокровищам, ну или просто бессмысленный бред."
+        },
+        "H1OpSwcu7TFASrQW": {
+          "name": "",
+          "description": "Шифры - заклинания записаны с помощью шифра, который необходимо расшифровать перед произнесением или запоминанием(<strong>Продолжительная проверка тайных знаков</strong> с целевым количеством УУ 40 за заклинание)."
+        },
+        "23Gmh0QkFZtZMExj": {
+          "name": "",
+          "description": "Фальшивка - гримуар выглядит настоящим, но написан мошенником."
+        },
+        "4obgAqlqm3Jj7nPX": {
+          "name": "",
+          "description": "Неполный - некоторые или все заклинания недописаны или отсутствует часть записи. Они могут быть закончены с помощью <strong>Продолжительной проверка книжных изысканий (+)</strong>, с целевым количеством УУ 20 за заклинание"
+        },
+        "LH7Pqew5XNlIoeu8": {
+          "name": "",
+          "description": "Повреждён - можно разобрать только заклинания"
+        }
+      }
+    },
+    "ZVwNSlXmg9KllolZ": {
+      "sourceName": "Таблица движения Вихря - по карте",
+      "name": "Таблица движения Вихря - по карте",
+      "results": {
+        "RTzj3En9ujA1sr5x": {
+          "name": "",
+          "description": "Вихрь исчезает"
+        },
+        "j9dvJnGozGXqytvg": {
+          "name": "",
+          "description": "<table class=\"vortex-table\">     <tbody><tr>         <td></td>         <td class=\"selected-position\">[[2d10]] ярд.</td>         <td></td>     </tr>     <tr>         <td>         </td>         <td>         </td>         <td>         </td>     </tr>     <tr>         <td>         </td>         <td>         </td>         <td>         </td>     </tr> </tbody></table>"
+        },
+        "D9zeum0YnSQcryFS": {
+          "name": "",
+          "description": "<table class=\"vortex-table\">     <tbody><tr>         <td></td>         <td></td>         <td class=\"selected-position\">[[2d10]] ярд.</td>     </tr>     <tr>         <td>         </td>         <td>         </td>         <td>         </td>     </tr>     <tr>         <td>         </td>         <td>         </td>         <td>         </td>     </tr> </tbody></table>"
+        },
+        "hxho6zrblIxu1qIE": {
+          "name": "",
+          "description": "<table class=\"vortex-table\">     <tbody><tr>         <td></td>         <td></td>         <td></td>     </tr>     <tr>         <td></td>         <td></td>         <td class=\"selected-position\">[[2d10]] ярд.</td>     </tr>     <tr>         <td>         </td>         <td>         </td>         <td>         </td>     </tr> </tbody></table>"
+        },
+        "Gvz3b0wkcNrWjA8x": {
+          "name": "",
+          "description": "Вихрь остается на месте"
+        },
+        "dgDgNb4TVi7P0Pwk": {
+          "name": "",
+          "description": "<table class=\"vortex-table\">     <tbody><tr>         <td></td>         <td></td>         <td></td>     </tr>     <tr>         <td></td>         <td></td>         <td></td>     </tr>     <tr>         <td></td>         <td></td>         <td class=\"selected-position\">[[2d10]] ярд.</td>     </tr> </tbody></table>"
+        },
+        "ypkGRry5lQhOCAZN": {
+          "name": "",
+          "description": "<table class=\"vortex-table\">     <tbody><tr>         <td></td>         <td></td>         <td></td>     </tr>     <tr>         <td></td>         <td></td>         <td></td>     </tr>     <tr>         <td></td>         <td class=\"selected-position\">[[2d10]] ярд.</td>         <td></td>     </tr> </tbody></table>"
+        },
+        "dbovyg2SyJWkrO7P": {
+          "name": "",
+          "description": "<table class=\"vortex-table\">     <tbody><tr>         <td></td>         <td></td>         <td></td>     </tr>     <tr>         <td></td>         <td></td>         <td></td>     </tr>     <tr>         <td class=\"selected-position\">[[2d10]] ярд.</td>         <td></td>         <td></td>     </tr> </tbody></table>"
+        },
+        "CyIzNvGDaz1ypZLm": {
+          "name": "",
+          "description": "<table class=\"vortex-table\">     <tbody><tr>         <td></td>         <td></td>         <td></td>     </tr>     <tr>         <td class=\"selected-position\">[[2d10]] ярд.</td>         <td></td>         <td></td>     </tr>     <tr>         <td></td>         <td></td>         <td></td>     </tr> </tbody></table>"
+        },
+        "mhnpOd8PwgdRUKzT": {
+          "name": "",
+          "description": "<table class=\"vortex-table\">     <tbody><tr>         <td class=\"selected-position\">[[2d10]] ярд.</td>         <td></td>         <td></td>     </tr>     <tr>         <td></td>         <td></td>         <td></td>     </tr>     <tr>         <td></td>         <td></td>         <td></td>     </tr> </tbody></table>"
+        }
+      }
+    },
+    "beY83AHBoR10ROce": {
+      "sourceName": "Случайный гримуар - Особенность 2",
+      "name": "Случайный гримуар - Особенность 2",
+      "results": {
+        "WSrQRW64Gfbgp1nV": {
+          "name": "",
+          "description": "Завернут в хорошую кожу для защиты от огня, воды и прочих опасностей."
+        },
+        "UnHNrPBmxoNyjpeM": {
+          "name": "",
+          "description": "Гримуар заперт."
+        },
+        "pM1DsVjUNyg0JaX6": {
+          "name": "",
+          "description": "Гримуар заперт и защищён сигнальными чарами."
+        },
+        "EBIZ2wEwxWaoSLiw": {
+          "name": "",
+          "description": "Обложка богато украшена драгоценными камнями, гравюрами, узорами и т.д."
+        },
+        "ct68YfmpqToL4lEy": {
+          "name": "",
+          "description": "Краденый - за гримуаром охотится его хозяин."
+        },
+        "zhLoBL0AG9DARvO9": {
+          "name": "",
+          "description": "Переплёт из необычного материала - кожи или шкура необычного существа."
+        },
+        "XBKSjLiLIkOAVx15": {
+          "name": "",
+          "description": "Листы сделаны из необычного материала, не бумаги. Это может быть пергамент, металл или чья-то кожа."
+        },
+        "H1OpSwcu7TFASrQW": {
+          "name": "",
+          "description": "Известный - гримуар знаменит либо своим содержание или своим владельцем."
+        },
+        "23Gmh0QkFZtZMExj": {
+          "name": "",
+          "description": "Оскверняющее влияние - в корешок вшито немного порошка злого камня."
+        },
+        "4obgAqlqm3Jj7nPX": {
+          "name": "",
+          "description": "Ловушка - яд мог быть нанесён на маленькие иглы в корешке или нанесён на страницы.Чтобы обнаружить ловушку до срабатывания, необходимо пройти Безумную (-30) проверку наблюдательности."
+        },
+        "LH7Pqew5XNlIoeu8": {
+          "name": "",
+          "description": "Совершите еще два броска."
+        }
+      }
+    },
+    "efMy07mQn1M7mlwk": {
+      "sourceName": "Случайный гримуар - заклинания",
+      "name": "Случайный гримуар - заклинания",
+      "results": {
+        "WSrQRW64Gfbgp1nV": {
+          "name": "",
+          "description": "3"
+        },
+        "UnHNrPBmxoNyjpeM": {
+          "name": "",
+          "description": "3"
+        },
+        "pM1DsVjUNyg0JaX6": {
+          "name": "",
+          "description": "3"
+        },
+        "EBIZ2wEwxWaoSLiw": {
+          "name": "",
+          "description": "4"
+        },
+        "ct68YfmpqToL4lEy": {
+          "name": "",
+          "description": "4"
+        },
+        "zhLoBL0AG9DARvO9": {
+          "name": "",
+          "description": "4"
+        },
+        "XBKSjLiLIkOAVx15": {
+          "name": "",
+          "description": "4"
+        },
+        "H1OpSwcu7TFASrQW": {
+          "name": "",
+          "description": "5"
+        },
+        "23Gmh0QkFZtZMExj": {
+          "name": "",
+          "description": "5"
+        },
+        "4obgAqlqm3Jj7nPX": {
+          "name": "",
+          "description": "5"
+        },
+        "LH7Pqew5XNlIoeu8": {
+          "name": "",
+          "description": "6"
+        }
+      }
+    },
+    "fASaD7ucOjgKeYDk": {
+      "sourceName": "Магический сифон",
+      "name": "Магический сифон",
+      "results": {
+        "MAGNjsvhCHskXKXz": {
+          "name": "",
+          "description": "<strong>Эффект отсутствует</strong>: Магическая энергия распыляется в безвреной, но впечатляющей вспышке."
+        },
+        "DZNUx1PjXa2nJUWo": {
+          "name": "",
+          "description": "<strong>Заклинание перехвачено</strong>: Голубые писцы произносят заклинание вместо заклинателя. Это дополнительно к любым другим заклинаниям, которые они могут применить в этом раунде."
+        },
+        "UtB6FSAeSD9xQJam": {
+          "name": "",
+          "description": "<strong>Заклинание в отражении</strong>: И заклинатель и Голубые писцы произносят это заклинание. Голубые писцы могут сотворить дополнительное заклинание в этом раунде."
+        },
+        "wdZXmqrgoC8ZRHVN": {
+          "name": "",
+          "description": "<strong>Утечка силы</strong>: Течение магии в заклинании нарушено. И заклинатель, и Голубые писцы оказываются в эпицентре Взрыва 5 с уроном +6."
+        }
+      }
+    },
+    "jGLOkU1TDfCPuA4d": {
+      "sourceName": "Хрустальный лабиринт",
+      "name": "Хрустальный лабиринт",
+      "results": {
+        "Cj7nxYTK2o7eWZXZ": {
+          "name": "",
+          "description": "Побег: Цель возвращается в материальное царство, где она исчезла."
+        },
+        "AwmgfNHFFN84Ngu1": {
+          "name": "",
+          "description": "Сумбур: Цель повторяет бросок в следующем раунде."
+        },
+        "nTGC21ee5IxoV7f1": {
+          "name": "",
+          "description": "Потеря: Цель теряется на [[/r 1d10]] часов и по возвращении бросает бросок на сопротивление @Corruption[moderate]{сильному осверняющему воздействию}."
+        },
+        "EcIpPJDQY4jQQmcf": {
+          "name": "",
+          "description": "Обреченность: Цель навсегда потеряна в царстве Тзинча."
+        }
+      }
+    },
+    "jgyQzfR3UsVx7gM3": {
+      "sourceName": "Личность фамильяра - Шаиш",
+      "name": "Личность фамильяра - Шаиш",
+      "results": {
+        "EAzbghLgENoimSCC": {
+          "name": "",
+          "description": "Болезненный"
+        },
+        "FWkdYtFw5KpSAQDw": {
+          "name": "",
+          "description": "Угрюмый"
+        },
+        "c3cn1Mf6uoIBt4jN": {
+          "name": "",
+          "description": "Сардонический"
+        },
+        "cI0uhaeHRV0Vs2wb": {
+          "name": "",
+          "description": "Мрачный"
+        },
+        "3ZqBGrvVnmb2V5Zl": {
+          "name": "",
+          "description": "Угрюмый"
+        },
+        "hOwHZys7NI8OylCv": {
+          "name": "",
+          "description": "Отчуждённый"
+        },
+        "6OrNP9HgDdXk60ED": {
+          "name": "",
+          "description": "Ленивый"
+        },
+        "FUVx0T6TK52XI8E3": {
+          "name": "",
+          "description": "Стойкий"
+        },
+        "3PPEHY9Lm9GnsD7U": {
+          "name": "",
+          "description": "Фаталистичный"
+        },
+        "QlyHxBMOJDk6XhJU": {
+          "name": "",
+          "description": "Обречённый"
+        }
+      }
+    },
+    "lfuvN3PQNbYNoO0O": {
+      "sourceName": "Личность фамильяра - Гайран",
+      "name": "Личность фамильяра - Гайран",
+      "results": {
+        "EAzbghLgENoimSCC": {
+          "name": "",
+          "description": "Грубый"
+        },
+        "FWkdYtFw5KpSAQDw": {
+          "name": "",
+          "description": "Общительный"
+        },
+        "c3cn1Mf6uoIBt4jN": {
+          "name": "",
+          "description": "Заботливый"
+        },
+        "cI0uhaeHRV0Vs2wb": {
+          "name": "",
+          "description": "Мягкий"
+        },
+        "3ZqBGrvVnmb2V5Zl": {
+          "name": "",
+          "description": "Прилежный"
+        },
+        "hOwHZys7NI8OylCv": {
+          "name": "",
+          "description": "Дружелюбный"
+        },
+        "6OrNP9HgDdXk60ED": {
+          "name": "",
+          "description": "Пасторальный"
+        },
+        "FUVx0T6TK52XI8E3": {
+          "name": "",
+          "description": "Твердый"
+        },
+        "3PPEHY9Lm9GnsD7U": {
+          "name": "",
+          "description": "Многословный"
+        },
+        "QlyHxBMOJDk6XhJU": {
+          "name": "",
+          "description": "Вульгарный"
+        }
+      }
+    },
+    "mT0xTkZTfIGweTTe": {
+      "sourceName": "Магические метки Гайрана",
+      "name": "Магические метки Гайрана",
+      "results": {
+        "2TZJOyu9QgDsdqQZ": {
+          "name": "Rapid Growth",
+          "description": "Быстрый рост"
+        },
+        "CsbULh2KN0XSXy71": {
+          "name": "Barefoot",
+          "description": "Босоногий"
+        },
+        "bqoT4VPk5jrjKDvq": {
+          "name": "Winter's Nadir",
+          "description": "Зимний упадок"
+        },
+        "2vqSqV8qsFIu08WV": {
+          "name": "Whiff of Ghyran",
+          "description": "Дуновение Гайрана"
+        },
+        "foL6KPQDfmDjPtAk": {
+          "name": "Ghyran Face",
+          "description": "Лицо Гайрана"
+        },
+        "OcVgIwLvsa8YL8ia": {
+          "name": "Vulnerability to Fire",
+          "description": "Уязвимость к огню"
+        },
+        "whStVDjBvPFPYehl": {
+          "name": "Catalyst",
+          "description": ""
+        },
+        "tlfcUXVT4XzejEk4": {
+          "name": "Aura of Growth",
+          "description": "Аура роста"
+        },
+        "sR5WRH3R3YzKVoD1": {
+          "name": "Nemophilist",
+          "description": "Немофилист"
+        },
+        "zt5T930qkUcHvDTi": {
+          "name": "Mark of Ghyran",
+          "description": "Метка Гайрана"
+        }
+      }
+    },
+    "nhuJ4dvBy5JWcOG0": {
+      "sourceName": "Магические метки Шамона",
+      "name": "Магические метки Шамона",
+      "results": {
+        "V6WivY1kNxPrBpA0": {
+          "name": "Quicksilver Tears",
+          "description": "Ртутные слёзы"
+        },
+        "u6EkERich8CkZWoN": {
+          "name": "Mechanical",
+          "description": "Механический"
+        },
+        "Cq0RHt2ilb5oIUhj": {
+          "name": "Forge's Glow",
+          "description": "Свечение кузни"
+        },
+        "HfxquLFbTx7A9jAt": {
+          "name": "Thieves!",
+          "description": "Воры!"
+        },
+        "Bl48CalbeEIRWqQq": {
+          "name": "Leaden Tongue",
+          "description": "Свинцовый язык"
+        },
+        "lT4DjLgNQz6QyTkl": {
+          "name": "Feeling A Bit Stiff",
+          "description": "Чувство легкой скованности"
+        },
+        "nchgmpEMyDHKb2aP": {
+          "name": "Shining Orbs",
+          "description": ""
+        },
+        "fMDKSI1cfwEE3DTW": {
+          "name": "Hardness",
+          "description": "Твердость"
+        },
+        "rEyQUnuJQygl7puK": {
+          "name": "Metallic Affinity",
+          "description": "Сродство с металлом"
+        },
+        "LPlvt9lf74McJyfW": {
+          "name": "Mark of Chamon",
+          "description": "Метка Шамона"
+        }
+      }
+    },
+    "pX9ajC8SGdyT4pNM": {
+      "sourceName": "Potion Spoilage Effects - Major",
+      "name": "Эффекты испорченных зелий — сильная порча",
+      "results": {
+        "dXb8LbJEyUKK9HiK": {
+          "name": "",
+          "description": "Нет эффекта"
+        },
+        "gc5RiG3h7H8Ny5qX": {
+          "name": "",
+          "description": "Бубоны"
+        },
+        "VbcNqJ7kteV09jek": {
+          "name": "",
+          "description": "Бубоны"
+        },
+        "803NBELg64KKN6zC": {
+          "name": "",
+          "description": "Водянка"
+        },
+        "Z9RuOWRoDwi7UzZU": {
+          "name": "",
+          "description": "Водянка"
+        },
+        "AGqvXcMD1aNtqQ8f": {
+          "name": "",
+          "description": "Разжижение крови"
+        },
+        "VqokH7OGKX4oJQkq": {
+          "name": "",
+          "description": "Разжижение крови"
+        },
+        "loOELbTFkDjlQMLc": {
+          "name": "",
+          "description": "Грибок"
+        },
+        "xX76hUKK2vL8kPIA": {
+          "name": "",
+          "description": "Грибок"
+        },
+        "3xGuu7ZNmNbQ3aOz": {
+          "name": "",
+          "description": "Резь в животе"
+        },
+        "4GbLgjFvtfuCTmiS": {
+          "name": "",
+          "description": "Резь в животе"
+        },
+        "rmO8k12gjbNV9dLN": {
+          "name": "",
+          "description": "Галлюцинации"
+        },
+        "4iixYgqdwSzaocS5": {
+          "name": "",
+          "description": "Галлюцинации"
+        },
+        "1qulT5nT4TD6yY9T": {
+          "name": "",
+          "description": "Помутнение мыслей"
+        },
+        "yTqvpCWlvLBTkOee": {
+          "name": "",
+          "description": "Помутнение мыслей"
+        },
+        "gFVr8pTLwwRJA2W8": {
+          "name": "",
+          "description": "Зловоние"
+        },
+        "XMgSgapXMIJutwo8": {
+          "name": "",
+          "description": "Зловоние"
+        },
+        "qUwD8AAsoAz7PIS9": {
+          "name": "",
+          "description": "Ядовитый"
+        },
+        "yBCfewpBrdGlDwv1": {
+          "name": "",
+          "description": "Ядовитый"
+        },
+        "8MnZPciO83eD3ctZ": {
+          "name": "",
+          "description": "Алкогольное зелье"
+        },
+        "osAKyf0b7gFAVssc": {
+          "name": "",
+          "description": "Алкогольное зелье"
+        },
+        "vejPVA9aOe7HmbAo": {
+          "name": "",
+          "description": "Чесотка"
+        },
+        "aDL5kzhIlbFCfgD1": {
+          "name": "",
+          "description": "Чесотка"
+        },
+        "ywdibc6FvNC1bAQ0": {
+          "name": "",
+          "description": "Потеря чувств"
+        },
+        "wyHt0qrwd4vQsOxn": {
+          "name": "",
+          "description": "Потеря чувств"
+        },
+        "hDF9uzXsl7ud1gTW": {
+          "name": "",
+          "description": "Визги"
+        },
+        "2HIjS7DHdCWIovm5": {
+          "name": "",
+          "description": "Визги"
+        },
+        "dPGtNyZFeEoSZE6m": {
+          "name": "",
+          "description": "Гнойные язвы"
+        },
+        "UupxS5r5pMadGqu4": {
+          "name": "",
+          "description": "Гнойные язвы"
+        },
+        "FQXbiJUWdqPRRwU7": {
+          "name": "",
+          "description": "Покалывание"
+        },
+        "AM2NXndDoE6YSVLu": {
+          "name": "",
+          "description": "Покалывание"
+        },
+        "QqCiphoN5hxWXhpe": {
+          "name": "",
+          "description": "Жестокие ветра"
+        },
+        "R77wQzTIkOkwidmK": {
+          "name": "",
+          "description": "Жестокие ветра"
+        },
+        "5OCLae3LehKoMN86": {
+          "name": "",
+          "description": "Рвота"
+        },
+        "0Rirlorr4ER2285x": {
+          "name": "",
+          "description": "Рвота"
+        },
+        "307EVv4HxMHRl7uU": {
+          "name": "",
+          "description": "Изжога (4)"
+        },
+        "LjF32VE5h8SmZxiu": {
+          "name": "",
+          "description": "Изжога (4)"
+        },
+        "GyRtSyeih9I48vCj": {
+          "name": "",
+          "description": "Изжога (5)"
+        },
+        "pk8U5rhfdSIwWww2": {
+          "name": "",
+          "description": "Изжога (6)"
+        },
+        "pPPgBn6AvQLHbraE": {
+          "name": "",
+          "description": "Изжога (7)"
+        },
+        "2ovX7QTFNHBt9YNR": {
+          "name": "",
+          "description": "Изжога (8)"
+        },
+        "b230LUhzI7NEiLxV": {
+          "name": "",
+          "description": "Помутнение мыслей"
+        },
+        "dOEsroLBY04RtbVp": {
+          "name": "",
+          "description": "Бросок по слабой порче"
+        },
+        "9kJi8qIEFEFCzWQ3": {
+          "name": "",
+          "description": "Бросок по средней порче"
+        },
+        "nbGGCDYngqI9pF0q": {
+          "name": "",
+          "description": "Бросок по крайней порче"
+        },
+        "Q7jTROqKj8AJd5DN": {
+          "name": "",
+          "description": "Бросьте ещё дважды"
+        },
+        "QsqDMxsxncCR4ZFX": {
+          "name": "",
+          "description": "Бросьте ещё дважды"
+        },
+        "2TpW81DzcpxMaTl0": {
+          "name": "",
+          "description": "Бросьте ещё трижды"
+        },
+        "PhZ12ugaxRORsYOf": {
+          "name": "",
+          "description": "Смертельно!"
+        }
+      }
+    },
+    "uBhwHjKEbLJJzf9J": {
+      "sourceName": "Хаотичное сотворение",
+      "name": "Хаотичное сотворение",
+      "results": {
+        "31fjLVT2ExCFoxkI": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#petty-spells]{Простейшая магия}</p>"
+        },
+        "7cBkrPdaYwOMDkQq": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#arcane-spells]{Общие заклинания}</p>"
+        },
+        "Ifkdro23tZyi34S4": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-beasts]{Школа зверей}</p>"
+        },
+        "kxXVOYTgnpabpx64": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-death]{Школа смерти}</p>"
+        },
+        "WCbWA0ZizR3QTAum": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-fire]{Школа огня}</p>"
+        },
+        "1S6gn4wwWFcgKUPs": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-heavens]{Школа небес}</p>"
+        },
+        "w2Zh36LRwtAMdTZl": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-metal]{Школа металла}</p>"
+        },
+        "tsGq5WTBKbEea9uE": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-life]{Школа жизни}</p>"
+        },
+        "FJTXqka6JYxah1bj": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-light]{Школа света}</p>"
+        },
+        "FgIpxY2n7BA04ODA": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-shadow]{Школа теней}</p>"
+        },
+        "sSU9GHKokQMD7zQ8": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-hedgecraft]{Школа знахарства}</p>"
+        },
+        "gjMvW2kklR3FIg3W": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-witchcraft]{Школа ведьмовства}</p>"
+        },
+        "MB6WdUMoi3Nx6wDd": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-daemonology]{Школа демонологии}</p>"
+        },
+        "ygV9zOMHcQt4wWxY": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#the-lore-of-necromancy]{Школа некромантии}</p>"
+        },
+        "3hzWL44j6xEs4pFz": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#lore-of-nurgle]{Школа Нургла}</p>"
+        },
+        "c7zYRdlwFlxub44s": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#lore-of-slaanesh]{Школа Слаанеш}</p>"
+        },
+        "jCAnRWsHeZG6APZu": {
+          "name": "",
+          "description": "<p>@UUID[Compendium.wfrp4e-core.journals.YBVrpUHEjohB1H4f.JournalEntryPage.SCijiCw628GLE2pT#lore-of-tzeentch]{Школа Тзинча}</p>"
+        },
+        "73dk7UTA6wxzjiB4": {
+          "name": "",
+          "description": "Выбор Ведущего"
+        }
+      }
+    },
+    "uCoQGZk3Q0RJbcgm": {
+      "sourceName": "Зверь несломленный - эффект",
+      "name": "Зверь несломленный - эффект",
+      "results": {
+        "mNaqPRDyeMmxVyHy": {
+          "name": "",
+          "description": "<strong>Отвлечённость</strong>: цель почёсывает свою шерсть, испражняется или ковыряет в носу"
+        },
+        "g8yBzVqtvvb9aeZ7": {
+          "name": "",
+          "description": "<strong>Паника</strong>: цель движется в случайном направлении, натыкаясь на препятствия или атакуя существ на своём пути."
+        },
+        "wr5ExuCamMYym9b2": {
+          "name": "",
+          "description": "<strong>Дружелюбие</strong>: Цель неистово хохочет, валясь по земле или танцует, двигаясь к ближайшему персонажу"
+        },
+        "JIyINTHHlEF9QlQS": {
+          "name": "",
+          "description": "<strong>Ярость</strong>: цель издает первобытный вопль, вызывая @Fear[1]{Страх (1)} у любого, не имеющего таланта <em>Школа магии (звери)</em>, кто его слышит."
+        }
+      }
+    },
+    "xElAuYTWza85Xl01": {
+      "sourceName": "Личность фамильяра - Азир",
+      "name": "Личность фамильяра - Азир",
+      "results": {
+        "EAzbghLgENoimSCC": {
+          "name": "",
+          "description": "Высокомерный"
+        },
+        "FWkdYtFw5KpSAQDw": {
+          "name": "",
+          "description": "Мечтатель"
+        },
+        "c3cn1Mf6uoIBt4jN": {
+          "name": "",
+          "description": "Идеалист"
+        },
+        "cI0uhaeHRV0Vs2wb": {
+          "name": "",
+          "description": "Селенофил"
+        },
+        "3ZqBGrvVnmb2V5Zl": {
+          "name": "",
+          "description": "Знающий"
+        },
+        "hOwHZys7NI8OylCv": {
+          "name": "",
+          "description": "Надменный"
+        },
+        "6OrNP9HgDdXk60ED": {
+          "name": "",
+          "description": "Гордый"
+        },
+        "FUVx0T6TK52XI8E3": {
+          "name": "",
+          "description": "Вдоновенный"
+        },
+        "3PPEHY9Lm9GnsD7U": {
+          "name": "",
+          "description": "Претенциозный"
+        },
+        "QlyHxBMOJDk6XhJU": {
+          "name": "",
+          "description": "Изящный"
+        }
+      }
+    },
+    "zExEntIEpY8J0xhE": {
+      "sourceName": "Brewing Disasters",
+      "name": "Катастрофы зельеварения",
+      "results": {
+        "NJdRhGVF80p1e0or": {
+          "name": "",
+          "description": "<strong>Испорчено</strong>: Вы создали зелье, но оно испорчено. Бросьте по таблице @Table[potion-spoilage]{Эффекты испорченных зелий}."
+        },
+        "9qoXodGZl1z7ofTp": {
+          "name": "",
+          "description": "<strong>Дым и вонь</strong>: Из посуды валит густой дым: вы умудрились сжечь зелье. Вы и ваше оборудование ещё много дней сильно пахнете серой. Многие аптекари и алхимики считают это обрядом посвящения."
+        },
+        "CtENGbQTlJfZp8tE": {
+          "name": "",
+          "description": "<strong>Скользкие склянки</strong>: В самый ответственный момент вы опрокинули стеклянную посуду и испортили партию зелья. Ремонт или замена обходится в 5% полной стоимости лаборатории."
+        },
+        "xuqdSMVuSQ4MkmVk": {
+          "name": "",
+          "description": "<strong>Головные боли</strong>: Вы загубили партию и должны пройти <strong>трудную (–10) проверку стойкости</strong> или получить состояние @Condition[Poisoned]{Отравлен}."
+        },
+        "aT1hKobcLfbshwTJ": {
+          "name": "",
+          "description": "<strong>Химические ожоги</strong>: На вас попали едкие реагенты. Вы получаете попадание с уроном [[/r 1d10]]; если в течение часа вас не осмотрит лекарь, шрамы останутся навсегда. Многие аптекари и алхимики считают такие шрамы знаком чести."
+        },
+        "RmRT7RiQ29lkz5eD": {
+          "name": "",
+          "description": "<strong>Лёгкий взрыв!</strong>: Оборудование повреждено; ремонт или замена стоит 10% полной стоимости лаборатории. Вы получаете попадание с уроном [[/r 1d10 + 2]]."
+        },
+        "RStkqn9VfW93AUTb": {
+          "name": "",
+          "description": "<strong>Взрыв!</strong>: Оборудование повреждено; ремонт или замена стоит 20% полной стоимости лаборатории. Вы получаете попадание с уроном [[/r 1d10 + 4]]."
+        },
+        "YHhmcAcobPiDE1Oo": {
+          "name": "",
+          "description": "<strong>Пожар!</strong>: Лаборатория загорается. Оборудование повреждено; ремонт или замена стоит 30% полной стоимости лаборатории."
+        },
+        "qv5vSDAvX3D3WbhQ": {
+          "name": "",
+          "description": "<strong>Большой взрыв!</strong>: Лаборатория уничтожена. Вы получаете попадание с уроном [[/r 1d10 + 6]]."
+        }
+      }
+    }
+  }
+}

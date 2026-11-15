@@ -1,0 +1,814 @@
+{
+  "schemaVersion": 1,
+  "collections": {
+    "wfrp4e-archives1.journals": {
+      "label": "Журналы (Архивы Империи I)",
+      "entries": {
+        "BFPQ1LqmGjaSmoz5": {
+          "pages": {
+            "1DV9PqfwkhmGSUC2": {
+              "sourceName": "Lowhaven",
+              "name": "Лоухевен"
+            },
+            "5ocPcmPB1QFvkrgX": {
+              "sourceName": "Hayfoot-Hollyfoot",
+              "name": "Хайфут-Холлифут"
+            },
+            "DsxKmaEa3fRy4GHc": {
+              "sourceName": "Ashfield",
+              "name": "Эшфилд"
+            },
+            "EBB3NMHcJe1cMM7T": {
+              "sourceName": "Halfling Clans of the Reikland",
+              "name": "Кланы полуросликов Рейкланда"
+            },
+            "EW9yEcpHZTHiUycv": {
+              "sourceName": "Lostpockets",
+              "name": "Лостпокетс"
+            },
+            "ShGIxlTNbsJqpoB9": {
+              "sourceName": "Rumster",
+              "name": "Румстер"
+            },
+            "d0xVdnMOh9nY8URn": {
+              "sourceName": "Hollyfoot",
+              "name": "Холлифут"
+            },
+            "kBDGOwfUeSiqezFr": {
+              "sourceName": "Brandysnap",
+              "name": "Брендиснап"
+            },
+            "mj67PWAwhbEZyL1x": {
+              "sourceName": "Thorncobble",
+              "name": "Торнкоббл"
+            },
+            "nMVgtl0fpBMYwu4f": {
+              "sourceName": "Skelfsider",
+              "name": "Скелфсайдер"
+            },
+            "vZxU3AH0YoKF9zVn": {
+              "sourceName": "Brambledown",
+              "name": "Бремблдаун"
+            },
+            "weQuPwDtmnR3PUfl": {
+              "sourceName": "Tumbleberry",
+              "name": "Тамблберри"
+            },
+            "xLNYyZHZOtTVIZrM": {
+              "sourceName": "Hayfoot",
+              "name": "Хайфут"
+            }
+          },
+          "sourceName": "Halfling Clans of the Reikland",
+          "name": "Кланы полуросликов Рейкланда"
+        },
+        "De6yFCVO4shYbAUx": {
+          "pages": {
+            "2rIaJWFYiIPlfEDb": {
+              "sourceName": "The Kingdom of Karaz Azgaraz",
+              "name": "Королевство Караз Азгараз"
+            },
+            "4iIfBhMT7noqa3Vi": {
+              "sourceName": "Timeline of Karak Azgaraz",
+              "name": "История Карак Азгараза"
+            },
+            "85RDYx2Gfki0Y1MF": {
+              "sourceName": "Karak Azgaraz: A Visitor's Guide",
+              "name": "Карак Азгараз: путеводитель для гостей"
+            },
+            "WIYHSm3D7lQVQaSs": {
+              "sourceName": "Karak Azgaraz",
+              "name": "Карак Азгараз"
+            },
+            "kGXBEEzgBQM1WkNm": {
+              "sourceName": "Karak Azgaraz Today",
+              "name": "Карак Азгараз сегодня"
+            }
+          },
+          "sourceName": "A Guide to Karak Azgaraz",
+          "name": "Путеводитель по Карак Азгаразу"
+        },
+        "Qz6noKBmpHuoVvlU": {
+          "pages": {
+            "0yOvfJ6VnIR4puEd": {
+              "sourceName": "Surrounding Locations",
+              "name": "Окрестности"
+            },
+            "1RRgYzuoXG3KmZDn": {
+              "sourceName": "Ward of Storm",
+              "name": "Штормовые земли"
+            },
+            "1Ts1bTEe1wpTgkOo": {
+              "sourceName": "The Laurelorn Forest: A Visitor's Guide",
+              "name": "Лаурелорнский лес: путеводитель для гостей"
+            },
+            "2X92Olwh3X4qSBqA": {
+              "sourceName": "Ward of the Sun",
+              "name": "Солнечные земли"
+            },
+            "EX6Q9f6tLovTHI0E": {
+              "sourceName": "Ward of Frost",
+              "name": "Морозные земли"
+            },
+            "GiqyZQQdCAg8phdk": {
+              "sourceName": "The Laurelorn",
+              "name": "Лаурелорн"
+            },
+            "K9MPvj0W1ouYfoZH": {
+              "sourceName": "Timeline of the Laurelorn",
+              "name": "История Лаурелорна"
+            },
+            "X8R6pUIuaMbgQeO8": {
+              "sourceName": "Ward of Rain",
+              "name": "Дождливые земли"
+            },
+            "dXGX0h4SIehcklix": {
+              "sourceName": "The Eonir",
+              "name": "Эониры"
+            }
+          },
+          "sourceName": "A Guide to the Laurelorn",
+          "name": "Путеводитель по Лаурелорну"
+        },
+        "S1ONBYW4uxw9POV8": {
+          "pages": {
+            "560B5HOv7H4S976Z": {
+              "sourceName": "Ostland",
+              "name": "Остланд"
+            },
+            "CPkCVIQSJWbTWA9f": {
+              "sourceName": "Stirland",
+              "name": "Штирланд"
+            },
+            "akj97lG42o3ONMPb": {
+              "sourceName": "Middenland",
+              "name": "Мидденланд"
+            },
+            "cr0B8PXx948j7pmE": {
+              "sourceName": "Middenheim",
+              "name": "Мидденхейм"
+            },
+            "dfQbFTT52E2TBIh9": {
+              "sourceName": "Talabecland",
+              "name": "Талабекланд"
+            },
+            "fWdw9lCnaKIkP6tK": {
+              "sourceName": "Nuln",
+              "name": "Нульн"
+            },
+            "iuAzFyF2wS69fcVv": {
+              "sourceName": "The Grand Provinces",
+              "name": "Великие провинции"
+            },
+            "jMPCfpAkxavtt9Ix": {
+              "sourceName": "Sudenland",
+              "name": "Зуденланд"
+            },
+            "llSesDaWN4kVch1E": {
+              "sourceName": "Reikland",
+              "name": "Рейкланд"
+            },
+            "vX5HwJ1RnjLrxduZ": {
+              "sourceName": "Talabheim",
+              "name": "Талабхейм"
+            },
+            "waR2yUa9lYSbEJa3": {
+              "sourceName": "Averland",
+              "name": "Аверланд"
+            }
+          },
+          "sourceName": "The Grand Provinces",
+          "name": "Великие провинции"
+        },
+        "g948GZpNWZCMRFup": {
+          "pages": {
+            "AmhNyDfsH5fr8w6r": {
+              "sourceName": "The Mootland",
+              "name": "Мутланд"
+            },
+            "BMMbqR1xiK6WIBN2": {
+              "sourceName": "External Threats",
+              "name": "Внешние угрозы"
+            },
+            "EyCcahErxbiA5Ovs": {
+              "sourceName": "Major Landmarks",
+              "name": "Главные достопримечательности"
+            },
+            "HV14ahZznHCKezWP": {
+              "sourceName": "Aver March",
+              "name": "Авермарк"
+            },
+            "Kjcn0INWn3Ne9hlV": {
+              "sourceName": "Eicheshatten",
+              "name": "Айхешаттен"
+            },
+            "NITC465dwdDK1EyG": {
+              "sourceName": "The Greenleafs",
+              "name": "Гринлифы"
+            },
+            "R3t9vRk31Tt4FzWn": {
+              "sourceName": "Haffennaff",
+              "name": "Хаффеннафф"
+            },
+            "Tr8baL87xWLoOlNc": {
+              "sourceName": "Saurapfel",
+              "name": "Саурапфель"
+            },
+            "X05blU9qkmD5pLjl": {
+              "sourceName": "Clans Within Clans",
+              "name": "Кланы внутри кланов"
+            },
+            "XG9inu2bjza1nNbk": {
+              "sourceName": "Auld Styrland",
+              "name": "Старый Штирланд"
+            },
+            "c1fhA8MlvgGBqN9S": {
+              "sourceName": "Pfunzig",
+              "name": "Пфунциг"
+            },
+            "fA3pUspAyy2oRSNy": {
+              "sourceName": "Timeline of Halflings in the Old World",
+              "name": "История полуросликов в Старом Свете"
+            }
+          },
+          "sourceName": "A Guide to the Grand County of the Mootland",
+          "name": "Путеводитель по великому графству Мутланд"
+        },
+        "nSfKRqvJbwrxmQrn": {
+          "pages": {
+            "HOV5P6GGrrl4hPMs": {
+              "sourceName": "Imperial Dwarfs",
+              "name": "Гномы Империи"
+            },
+            "Qjp0C7Ssm6mTij0G": {
+              "sourceName": "Dwarf Settlements",
+              "name": "Поселения гномов"
+            },
+            "ue178EYGUuDs9kmt": {
+              "sourceName": "Imperial Dwarf Society",
+              "name": "Общество имперских гномов"
+            }
+          },
+          "sourceName": "Imperial Dwarfs",
+          "name": "Гномы Империи"
+        },
+        "q6lCSarhMecgeiD8": {
+          "pages": {
+            "Et9r32ueiGJeH1OT": {
+              "sourceName": "Weapons",
+              "name": "Оружие"
+            },
+            "GIoxmaazR63VSdBw": {
+              "sourceName": "Karak Ranger",
+              "name": "Егерь карака"
+            },
+            "Ou5Bcnh3D1FWNuvt": {
+              "sourceName": "Careers",
+              "name": "Карьеры"
+            },
+            "W9OXP7I8Y9CX5gvG": {
+              "sourceName": "Badger Rider",
+              "name": "Барсучий наездник"
+            },
+            "qFs945qryMKHavCn": {
+              "sourceName": "Fieldwarden",
+              "name": "Полевой стражник"
+            },
+            "zcIpfDRNoyIl6d9e": {
+              "sourceName": "Ghost Strider",
+              "name": "Призрачный скиталец"
+            }
+          },
+          "sourceName": "Appendix",
+          "name": "Приложение"
+        }
+      }
+    },
+    "wfrp4e-archives2.journals": {
+      "label": "Журналы (Архивы Империи II)",
+      "entries": {
+        "6wAwhxOMLD1B2gIR": {
+          "pages": {
+            "ImRM3TOY9yb3kMmD": {
+              "sourceName": "Options: Environmental Factors",
+              "name": "Дополнительные правила: условия окружающей среды"
+            },
+            "K1debR5XzFvlTA4J": {
+              "sourceName": "Battle Endeavours",
+              "name": "Занятия перед сражением"
+            },
+            "KkIwPui5HJxA0EED": {
+              "sourceName": "The Battle",
+              "name": "Сражение"
+            },
+            "R6NvVpg7KWsRreOM": {
+              "sourceName": "Power",
+              "name": "Мощь"
+            },
+            "RAER6EcMJFfAxlds": {
+              "sourceName": "The Theatre of War",
+              "name": "Театр военных действий"
+            },
+            "gTs7veb7XsVyhruV": {
+              "sourceName": "War Machines",
+              "name": "Военные машины"
+            }
+          },
+          "sourceName": "The Theatre of War",
+          "name": "Театр военных действий"
+        },
+        "NdCkjAamdihWdQqA": {
+          "pages": {
+            "0rVgEeqZWrp8aAPZ": {
+              "sourceName": "The Staff Building",
+              "name": "Корпус для персонала"
+            },
+            "1Y6CsjnCDQlzWAsy": {
+              "sourceName": "Islands of Respite",
+              "name": "Острова покоя"
+            },
+            "50ibhP9uudfTkuN7": {
+              "sourceName": "The Hospice",
+              "name": "Приют"
+            },
+            "72GKwtt5cJGLLdIu": {
+              "sourceName": "The Upper Floor",
+              "name": "Верхний этаж"
+            },
+            "72QVkJGHYqdFDece": {
+              "sourceName": "L: The Library",
+              "name": "L: Библиотека"
+            },
+            "8mVgobmEdUjr4gRg": {
+              "sourceName": "O: The Workshop",
+              "name": "O: Мастерская"
+            },
+            "EzmcbnPIkJXfiW2I": {
+              "sourceName": "The Sanatorium Block",
+              "name": "Лечебный корпус"
+            },
+            "GytBdqnxnsDnw8Na": {
+              "sourceName": "The Stables and Stores",
+              "name": "Конюшни и склады"
+            },
+            "KakVseYdhq5KrOWd": {
+              "sourceName": "The Patients",
+              "name": "Пациенты"
+            },
+            "VGEi0K4nrbX5FJUb": {
+              "sourceName": "P: The Infirmary",
+              "name": "P: Лазарет"
+            },
+            "YEaKvxeabHZpmR9Y": {
+              "sourceName": "J: The High Priestess’s Rooms",
+              "name": "J: Покои верховной жрицы"
+            },
+            "eOmSt4ciBFyYKl3T": {
+              "sourceName": "S: The Secure Cells",
+              "name": "S: Охраняемые палаты"
+            },
+            "ePs7bYxOCOst5NdG": {
+              "sourceName": "G: The Kitchen, H: Refectory, and I: Cellar",
+              "name": "G: Кухня, H: Трапезная и I: Погреб"
+            },
+            "fUoZd17v4j1F5Lhl": {
+              "sourceName": "M: The Dormitories",
+              "name": "M: Спальни"
+            },
+            "gDVews0Rq5JJgeyX": {
+              "sourceName": "K: The Dormitories",
+              "name": "K: Спальни"
+            },
+            "jamL8VccMfA0IHtP": {
+              "sourceName": "C: The Offices and D: Reception Rooms",
+              "name": "C: Кабинеты и D: Приёмные"
+            },
+            "ncjGb432myDbTgS3": {
+              "sourceName": "Q: The Chapel",
+              "name": "Q: Часовня"
+            },
+            "p4gvD5tnSrNq5Z0V": {
+              "sourceName": "N: The Courtyard",
+              "name": "N: Внутренний двор"
+            },
+            "qUS4bOtEwWIQGPmY": {
+              "sourceName": "R: The Cells",
+              "name": "R: Палаты"
+            },
+            "vU0vCfc7nBpaJN2I": {
+              "sourceName": "B: The Visiting Rooms",
+              "name": "B: Комнаты для посетителей"
+            },
+            "vW6B6qfxlafuDHfK": {
+              "sourceName": "E: The Treasury and F: Strongroom",
+              "name": "E: Казначейство и F: Хранилище"
+            },
+            "zBi76CudQFNtkNAP": {
+              "sourceName": "A. The Hall and Lobby",
+              "name": "A. Зал и вестибюль"
+            },
+            "zRzQ98oljMJMBxqV": {
+              "sourceName": "The Staff",
+              "name": "Персонал"
+            }
+          },
+          "sourceName": "The Great Hospice",
+          "name": "Великий приют"
+        },
+        "OYPrls5HZ3Lo8IdO": {
+          "pages": {
+            "4vZLoQT16kfklQwW": {
+              "sourceName": "Timeline of Signifcant Events Concerning Ogre Mercenaries",
+              "name": "Важнейшие события истории наёмников-огров"
+            },
+            "PJO4eOI9YKCcUozc": {
+              "sourceName": "Ogre Mercenaries in the Old World",
+              "name": "Наёмники-огры в Старом Свете"
+            },
+            "qXatO8zGPiMqXXKH": {
+              "sourceName": "Toothsome Compensation",
+              "name": "Вкусное вознаграждение"
+            }
+          },
+          "sourceName": "Gold and Grub: Ogres of the Empire",
+          "name": "Золото и жратва: огры Империи"
+        },
+        "S7vMviNshIrqOuRq": {
+          "pages": {
+            "7PqAdiqEyKtt9kuR": {
+              "sourceName": "Rhinox",
+              "name": "Ринокс"
+            },
+            "9ErIhGucFeF30Z8c": {
+              "sourceName": "Ogre Equipment",
+              "name": "Снаряжение огров"
+            },
+            "A7nxzQxdtfdgQnhU": {
+              "sourceName": "Ogre Characters",
+              "name": "Персонажи-огры"
+            },
+            "CqlUy1Bi3QSInGVR": {
+              "sourceName": "Notes for the Gamemaster",
+              "name": "Заметки для ведущего"
+            },
+            "PTBOAPVIfELtQOgE": {
+              "sourceName": "Ogres",
+              "name": "Огры"
+            },
+            "RL8HfEdiYRdLv306": {
+              "sourceName": "Advancing Ogre Characters",
+              "name": "Развитие персонажей-огров"
+            },
+            "VG6hzml2D3Oe7PYX": {
+              "sourceName": "Rhinox Herder",
+              "name": "Погонщик риноксов"
+            },
+            "d3F34HR4EBZCIUdx": {
+              "sourceName": "Ogre Magic",
+              "name": "Магия огров"
+            },
+            "kxcmiebXRV7PPs8Y": {
+              "sourceName": "Maneater",
+              "name": "Людоед"
+            },
+            "oHnxmjA1CtIhumiz": {
+              "sourceName": "Ogre Butcher",
+              "name": "Огр-мясник"
+            }
+          },
+          "sourceName": "Grabbing A Bite: Ogre Player Characters",
+          "name": "Перекусим: огры-персонажи"
+        },
+        "hCDofMZ5QV2Y7z6r": {
+          "pages": {
+            "0Bi2wpb4uAFwDDNE": {
+              "sourceName": "Commissioning a Magical Artefact",
+              "name": "Заказ магического артефакта"
+            },
+            "0X79eVjQ8MsvKiY2": {
+              "sourceName": "Magical Weapons",
+              "name": "Магическое оружие"
+            },
+            "2okitMmhh3TJDsyZ": {
+              "sourceName": "Magical Items and Artifice",
+              "name": "Волшебные предметы и их создание"
+            },
+            "Od6D3zUoZLFRbiUu": {
+              "sourceName": "Finding a Magical Artefact",
+              "name": "Поиск магического артефакта"
+            },
+            "RGH1nCa3Ca1UEBm7": {
+              "sourceName": "Oddities",
+              "name": "Диковинки"
+            },
+            "UbmMSnV5bURQ6Sjj": {
+              "sourceName": "Talismans",
+              "name": "Талисманы"
+            },
+            "XcPzYdJYkwok4tlC": {
+              "sourceName": "Scrolls",
+              "name": "Свитки"
+            },
+            "aNhPG0ljjzatNkGU": {
+              "sourceName": "Magical Armour",
+              "name": "Магические доспехи"
+            },
+            "djBMBWWeA15Lzfv6": {
+              "sourceName": "Wands",
+              "name": "Волшебные палочки"
+            },
+            "eC5xq8GPQjsFs4po": {
+              "sourceName": "Magical Shields",
+              "name": "Магические щиты"
+            },
+            "eVatWnZupJns1zX6": {
+              "sourceName": "Staffs",
+              "name": "Посохи"
+            },
+            "eYV6wT6eImFjZg08": {
+              "sourceName": "Rings",
+              "name": "Кольца"
+            }
+          },
+          "sourceName": "A Touch of Magic: Magical Items and Artifice",
+          "name": "Прикосновение магии: волшебные предметы и их создание"
+        },
+        "lJxxBA0XWNrtd42e": {
+          "pages": {
+            "7kWt3MKc6jhg1Ha5": {
+              "sourceName": "Recuperation",
+              "name": "Восстановление"
+            },
+            "eCBSDkPuP1Sbm2oQ": {
+              "sourceName": "Psychological Disorders",
+              "name": "Психические расстройства"
+            }
+          },
+          "sourceName": "Appendix",
+          "name": "Приложение"
+        },
+        "rwldURPIV6B6iNBT": {
+          "pages": {
+            "4YTy5aFSws7SkqUz": {
+              "sourceName": "Star Signs and Astrology",
+              "name": "Созвездия и астрология"
+            },
+            "8qPjEjwsYYkOkGKo": {
+              "sourceName": "The Signs",
+              "name": "Созвездия"
+            },
+            "f3S1nEPoIbTbzIoV": {
+              "sourceName": "Astrology in the Empire",
+              "name": "Астрология в Империи"
+            },
+            "fznKbHtkiCXchcDg": {
+              "sourceName": "Star Signs and Character Creation",
+              "name": "Созвездия при создании персонажа"
+            }
+          },
+          "sourceName": "Signs in the Sky: Star Signs and Astrology",
+          "name": "Знаки в небесах: созвездия и астрология"
+        }
+      }
+    },
+    "wfrp4e-archives3.journals": {
+      "label": "Журналы (Архивы Империи III)",
+      "entries": {
+        "0uiwqT5RsmljTvKo": {
+          "pages": {
+            "KB2vMbjF9BOnYGuM": {
+              "sourceName": "Miracles of Handrich",
+              "name": "Чудеса Хандриха"
+            },
+            "NVVpgTfPQ0IHLzm1": {
+              "sourceName": "Priest of Handrich",
+              "name": "Жрец Хандриха"
+            },
+            "mizLW3En39sY4kJT": {
+              "sourceName": "The Cult of Handrich",
+              "name": "Культ Хандриха"
+            }
+          },
+          "sourceName": "The Cult of Handrich",
+          "name": "Культ Хандриха"
+        },
+        "1kUJHcsKktuv41Eh": {
+          "pages": {
+            "FLW1il7Kpjd9ev8n": {
+              "sourceName": "Suits of Steel",
+              "name": "Стальные доспехи"
+            }
+          },
+          "sourceName": "Suits of Steel",
+          "name": "Стальные доспехи"
+        },
+        "6Fybt19OH4MNwheb": {
+          "pages": {
+            "5avwb9XgFNfxBBiE": {
+              "sourceName": "Cult of the Old Faith",
+              "name": "Культ Старой веры"
+            },
+            "BJJnaWAN1dNSyuFp": {
+              "sourceName": "Miracles of Solkan",
+              "name": "Чудеса Солкана"
+            },
+            "Jglk0bwOD4YHODZU": {
+              "sourceName": "Magic and Knowledge",
+              "name": "Магия и знания"
+            },
+            "NJ7BQuvhipyXgZWq": {
+              "sourceName": "The Cult of Khaine",
+              "name": "Культ Кхаина"
+            },
+            "PTzzWnRCjReZTagc": {
+              "sourceName": "Lore of Hedgecraft",
+              "name": "Школа знахарства"
+            },
+            "bMQeTUbKYy56Il1j": {
+              "sourceName": "The Cult of Solkan",
+              "name": "Культ Солкана"
+            },
+            "kuIDXvb6b8ZmSqqT": {
+              "sourceName": "Minor Gods, Folk Worship & Hedgecraft",
+              "name": "Малые боги, народные верования и знахарство"
+            },
+            "mBuAHsEnDRVQBSt5": {
+              "sourceName": "Priest of Solkan",
+              "name": "Жрец Солкана"
+            }
+          },
+          "sourceName": "Minor Gods, Folk Worship & Hedgecraft",
+          "name": "Малые боги, народные верования и знахарство"
+        },
+        "DZeKsIsHBlnzz9RB": {
+          "pages": {
+            "2nvuPKfW7eFmNtFs": {
+              "sourceName": "Relations with Others",
+              "name": "Отношения с другими культами"
+            },
+            "6dbCzlb8AvsoG1Db": {
+              "sourceName": "Strictures and Beliefs",
+              "name": "Заповеди и верования"
+            },
+            "7ofF9uDQlRM9G1uO": {
+              "sourceName": "Personalities Associated with the Cult",
+              "name": "Личности, связанные с культом"
+            },
+            "AS2yZMcS61ZWHhSS": {
+              "sourceName": "Priestess of Rhya",
+              "name": "Жрица Рии"
+            },
+            "GLQhIn0zbhXKM0o2": {
+              "sourceName": "Sacred Sites and Relics",
+              "name": "Священные места и реликвии"
+            },
+            "PhLLDhcvhV7GxMZ3": {
+              "sourceName": "The Cult in the Empire",
+              "name": "Культ в Империи"
+            },
+            "dDMAzTRpqRrufFyn": {
+              "sourceName": "The Cult of Rhya",
+              "name": "Культ Рии"
+            },
+            "fUwx5x6uSMATx18P": {
+              "sourceName": "Major Festivals",
+              "name": "Главные праздники"
+            },
+            "sx5VrI4pyjNIKctm": {
+              "sourceName": "Foundation of the Cult",
+              "name": "Основание культа"
+            },
+            "t1K6gS8CneImV4vL": {
+              "sourceName": "Worship",
+              "name": "Поклонение"
+            },
+            "utKuHwtIclZ7Jp0e": {
+              "sourceName": "Miracles",
+              "name": "Чудеса"
+            }
+          },
+          "sourceName": "The Cult of Rhya",
+          "name": "Культ Рии"
+        },
+        "NPbrVQtius0NCMo8": {
+          "pages": {
+            "ec9QohVlOjSX1wOM": {
+              "sourceName": "Lord Adalbert Knopp-Inzel",
+              "name": "Лорд Адальберт Кнопп-Инцель"
+            }
+          },
+          "sourceName": "Lord Adalbert Knopp-Inzel",
+          "name": "Лорд Адальберт Кнопп-Инцель"
+        },
+        "NWzhaiypXzhAMsnk": {
+          "pages": {
+            "D3I7uUKlPqi2fiOo": {
+              "sourceName": "Alternative Channelling",
+              "name": "Альтернативные правила концентрации"
+            },
+            "fm2iVaWZPl4P4FDR": {
+              "sourceName": "Cants",
+              "name": "Напевы"
+            }
+          },
+          "sourceName": "Alternative Channelling",
+          "name": "Альтернативные правила концентрации"
+        },
+        "jnN5JqDCI8T1epzs": {
+          "pages": {
+            "3wk748ZMvIoSvrwp": {
+              "sourceName": "Finding a Gifted Animal",
+              "name": "Поиск одарённого животного"
+            },
+            "8szsB2pSwQWqBXhm": {
+              "sourceName": "Animal Familiars",
+              "name": "Фамильяры-животные"
+            },
+            "atNF2pbUW3Tamsvc": {
+              "sourceName": "NPC Animal Familiars",
+              "name": "Фамильяры персонажей ведущего"
+            },
+            "uSoZPM3X3W7TjxKK": {
+              "sourceName": "Magical Traditions",
+              "name": "Магические традиции"
+            },
+            "yByG9MMGFjml7sRQ": {
+              "sourceName": "Power Familiar",
+              "name": "Фамильяр силы"
+            }
+          },
+          "sourceName": "Animal Familiars",
+          "name": "Фамильяры-животные"
+        },
+        "qFZhBq0y2KkZmLi0": {
+          "pages": {
+            "66gcvX7y50umVlJG": {
+              "sourceName": "Courier Service",
+              "name": "Курьерская служба"
+            },
+            "7efnQRMUlcD1iaZv": {
+              "sourceName": "Publishing House",
+              "name": "Издательский дом"
+            },
+            "9TX6opDyp38an3lM": {
+              "sourceName": "Market Parlour",
+              "name": "Торговая контора"
+            },
+            "GfQloIES6aetm3Y5": {
+              "sourceName": "Knightly Order",
+              "name": "Рыцарский орден"
+            },
+            "Qqb5Bqq8cHn6n3tw": {
+              "sourceName": "Criminal Gang",
+              "name": "Преступная банда"
+            },
+            "UpoqflCltVqAaIsv": {
+              "sourceName": "Tavern",
+              "name": "Таверна"
+            },
+            "V33RneO3a6DUlDkx": {
+              "sourceName": "Three Unusual Shops",
+              "name": "Три необычных магазина"
+            },
+            "VQnSLluEzLqYPRQK": {
+              "sourceName": "Legitimate Business Enterprises",
+              "name": "Законные предприятия"
+            },
+            "XqbOBdtQLkBXZQPd": {
+              "sourceName": "Example Creditor",
+              "name": "Пример кредитора"
+            },
+            "dzYq3FgrNEn2qMo2": {
+              "sourceName": "Holy Temple",
+              "name": "Священный храм"
+            },
+            "pAAtO4CPIJlkm06p": {
+              "sourceName": "Performance Troupe",
+              "name": "Театральная труппа"
+            },
+            "pV2Qqw6qj2LSKCjS": {
+              "sourceName": "Crafting Workshop",
+              "name": "Ремесленная мастерская"
+            },
+            "wmH8Usn0t6roi694": {
+              "sourceName": "Noble Estate",
+              "name": "Дворянское поместье"
+            }
+          },
+          "sourceName": "Legitimate Business Enterprises",
+          "name": "Законные предприятия"
+        },
+        "tebc8Lvo9OwR9Idd": {
+          "pages": {
+            "t8oPPVbenpLYORn2": {
+              "sourceName": "Altdorf — A World to Itself",
+              "name": "Альтдорф — целый мир"
+            }
+          },
+          "sourceName": "Altdorf — A World to Itself",
+          "name": "Альтдорф — целый мир"
+        }
+      }
+    }
+  }
+}

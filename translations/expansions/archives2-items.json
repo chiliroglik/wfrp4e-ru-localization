@@ -1,0 +1,2654 @@
+{
+  "collection": "wfrp4e-archives2.items",
+  "entries": {
+    "0zR4ad8MoQMSJ99y": {
+      "sourceName": "The Bonesaw",
+      "preparedName": "Костяная пила",
+      "name": "Костяная пила",
+      "description": "<h4>Знак умения и учения</h4><p><strong>Классическое название</strong>: Алиой</p><p><strong>Восход</strong>: Зима</p><p><strong>Даты</strong>: Ульрикцайт 17 – Ульрикцайт 31</p><p><strong>Бог-покровитель</strong>: Шаллия</p><p><strong>Вид</strong>: Нож</p><p><strong>Бонус</strong>: +2 интеллект, +2 харизма</p><p><strong>Штраф</strong>: −3 ближний бой</p><p>Костяная пила — это знак философов; превыше всего они жаждут знаний. Они живут для того, чтобы исследовать и экспериментировать. Однако, в отличие от других любознательных знаков, они не накапливают знания ради самого процесса и не замыкаются в себе. Человек, рожденный под Костяной пилой, хочет как можно шире поделиться своими знаниями. Однако из-за этого они могут казаться властными всезнайками, а не пылкими учеными.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "0zR4ad8MoQMSJ99y",
+        "effects": {
+          "0NzjWUWGqu4gZUvg": {
+            "sourceName": "The Bonesaw",
+            "name": "Костяная пила",
+            "scripts": []
+          }
+        }
+      }
+    },
+    "1t0CinuTJ6MD3GeI": {
+      "sourceName": "Rhinox Herder",
+      "preparedName": "Заводчик носорогов",
+      "name": "Заводчик носорогов",
+      "description": "<p>@UUID[Compendium.wfrp4e-archives2.journals.S7vMviNshIrqOuRq.JournalEntryPage.VG6hzml2D3Oe7PYX]{Заводчик носорогов}</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "1t0CinuTJ6MD3GeI",
+        "effects": {}
+      },
+      "skills": [
+        "Атлетика",
+        "Подкуп",
+        "Кутёж",
+        "Уклонение",
+        "Стойкость",
+        "Рукопашный бой (основное)",
+        "Наблюдательность",
+        "Стрельба (ловчее)",
+        "Обращение с ловушками",
+        "Скрытность (дикая природа)",
+        "Обращение с животными",
+        "Дрессировка (ринокс)",
+        "Усмирение животных",
+        "Знание (риноксы)",
+        "Стойкость",
+        "Стрельба (метательное)"
+      ],
+      "talents": [
+        "Бесстрашие (крупные звери)",
+        "Отважное сердце",
+        "Бугай",
+        "Выездка"
+      ],
+      "trappings": [
+        "Гарпун или большое метательное копьё",
+        "Шкуры риноксов"
+      ],
+      "sourceArrays": {
+        "skills": [
+          "Athletics",
+          "Bribery",
+          "Consume Alcohol",
+          "Dodge",
+          "Endurance",
+          "Melee (Basic)",
+          "Perception",
+          "Ranged (Entangling)",
+          "Set Trap",
+          "Stealth (Rural)",
+          "Animal Care",
+          "Animal Training (Rhinox)",
+          "Charm Animal",
+          "Lore (Rhinox)",
+          "Endurance",
+          "Ranged (Throwing)"
+        ],
+        "talents": [
+          "Fearless (Large Beasts)",
+          "Stout-hearted",
+          "Sturdy",
+          "Roughrider"
+        ],
+        "trappings": [
+          "Harpoon or Great Throwing Spear",
+          "Rhinox Furs"
+        ]
+      }
+    },
+    "1zd9fisOIIHQc8EG": {
+      "sourceName": "Mummit the Fool",
+      "preparedName": "Муммит Глупец",
+      "name": "Муммит Глупец",
+      "description": "<h4>Знак неясности</h4><p><strong>Классическое название</strong>: Дурак</p><p><strong>Восход</strong>: Лето</p><p><strong>Даты</strong>: Соммерцайт 12 – Соммерцайт 29</p><p><strong>Бог-покровитель</strong>: Ранальд</p><p><strong>Вид</strong>: Улыбающееся лицо</p><p><strong>Бонус</strong>: Получите один уровень таланта @UUID[Compendium.wfrp4e-core.items.u0CFf3xwiyidD9T5]{фортуна}</p><p><strong>Штраф</strong>: −4 сила воли</p><p>Муммит Глупец улыбается миру с ночного неба и предвещает новые начинания. Люди, рожденные под знаком Муммита Глупца, разумны, обладают хорошей интуицией, а еще невероятно удачливы. У них все получается само собой - ну или кажется, что получается. Как знает каждый, они борются с импульсивностью и страстью к путешествиям — желанием оставить все это позади и избегать ответственности столько, сколько смогут.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "1zd9fisOIIHQc8EG",
+        "effects": {
+          "GaXR4e9EtlVqRoao": {
+            "sourceName": "Mummit the Fool",
+            "name": "Муммит Глупец",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Mummit the Fool",
+                "label": "Муммит Глупец",
+                "trigger": "immediate",
+                "script": "[Script.MCK6WyjwYT28lsTN]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "22JaiATCMQusX6HQ": {
+      "sourceName": "Ogre Pistol",
+      "preparedName": "Огрский пистолет",
+      "name": "Огрский пистолет",
+      "description": "<p>Пистолет огра являается усиленным имперским оружием и может использовать те-же дробь и порох, что и прочее пороховое оружие. Одноко оно достаточно крепкое, чтобы выступать Ручным оружием, ломаясь только при Неудаче.</p><p>* Доступность дана для Империи. В Империи часть вещей менее доступна, чем в Горах скорби.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "22JaiATCMQusX6HQ",
+        "effects": {}
+      }
+    },
+    "2MpNIjAFXnRnZZdL": {
+      "sourceName": "Ogre Club",
+      "preparedName": "Огрова дубина",
+      "name": "Огрова дубина",
+      "description": "<p>Огры любят свои дубины. Это самый простой вид оружия, который огры находят превосходным. Они рыщут по полям сражений, лесам и кладбищам в поисках хорошей крепкой дубины, а также материалов, чтобы отделать дубину на свой вкус. Если вы хотите, то можно модернизировать огрову дубину или большую огрову дубину, добавив одно из Достоинств.</p><p>@UUID[Compendium.wfrp4e-archives2.items.n1fVud1csGlzM9fI]{Металические накладки}: Оружие приобретает достоинство @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8#pummel]{ошеломляющее}.</p><p>@UUID[Compendium.wfrp4e-archives2.items.6jnKkzFvQKrI7iCo]{Ржавые шипы}: Оружие приобретает достоинство @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8#penetrating]{бронебойное}.</p><p>@UUID[Compendium.wfrp4e-archives2.items.gnDvFsTIenXj9TBP]{Щербатые лезвия}: Оружие приобретает достоинство @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8#hack]{разрубающее}.</p><p>* Доступность дана для Империи. В Империи часть вещей менее доступна, чем в Горах скорби.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "2MpNIjAFXnRnZZdL",
+        "effects": {}
+      }
+    },
+    "2bLk7maxtelX6lJ3": {
+      "sourceName": "Great Throwing Spear",
+      "preparedName": "Большое метательное копье",
+      "name": "Большое метательное копье",
+      "description": "<p>Эти большие,грубые, ужасно эффективные дротики используются огровскими охотниками, выслеживающими огромных зверей в горах Скорби.</p><p>* Доступность дана для Империи. В Империи часть вещей менее доступна, чем в Горах скорби.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "2bLk7maxtelX6lJ3",
+        "effects": {}
+      }
+    },
+    "2qaHyzA6UsKJ042h": {
+      "sourceName": "Shinsmasher's Club",
+      "preparedName": "Голенобойная дубина",
+      "name": "Голенобойная дубина",
+      "description": "<p>Судьба этой грубо выглядящей дубины неизвестна. Она оказалась в @UUID[Compendium.wfrp4e-core.journals.ozE2DMCMK64eE5pD.JournalEntryPage.V6tkgQ9A2skppjyl]{Альтдорфе} в руках @UUID[Compendium.wfrp4e-altdorf.journals.rSRadYoaNXkEq8gs.JournalEntryPage.jisr4ys6obOel7r1#the-hooks]{одного из Крюков}, но с тех пор еще дюжину раз менял владельца. Любые Травмы, нанесённые им по ногам противника, получают +20 к броску по таблице Травм. В остальном она работает как обычное @UUID[Compendium.wfrp4e-core.items.1zaqojk0Oq1m8vYv]{ручное оружие}.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "2qaHyzA6UsKJ042h",
+        "effects": {
+          "bDvs5urfGLCnJmDk": {
+            "sourceName": "Shinsmasher's Club",
+            "name": "Голенобойная дубина",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Shinsmasher's Club",
+                "label": "Голенобойная дубина",
+                "trigger": "rollWeaponTest",
+                "script": "[Script.jLsL4KRI6LEG9Ii2]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "3EtMk8Gu9Qu6Gm0Q": {
+      "sourceName": "Gnuthus the Ox",
+      "preparedName": "Бык Гнатус",
+      "name": "Бык Гнатус",
+      "description": "<h4>Знак добросовестного служения </h4><p><strong>Классическое название</strong>: Нутлос</p><p><strong>Восход</strong>: Ранняя весна</p><p><strong>Даты</strong>: Нахексен 29 – Ярдрунг 16 </p><p><strong>Бог-покровитель</strong>: Гуваур (быки (Остланд))</p><p><strong>Вид</strong>: Бык</p><p><strong>Бонус</strong>: +2 выносливость, +2 сила воли</p><p><strong>Штраф</strong>: − 3 интеллект</p><p>Рождённые под знаком Быка - преданные союзники и верные друзья. Когда они посвящают себя человеку, идее или делу, они становятся непоколебимы. Если они дают обещание, то выполняют его. Если они перед кем-то в долгу, они найдут способ расплатиться, чего бы это им ни стоило. Их честность нередко бывает наивной, и им стоит быть настороже, чтобы другие не смогли этим воспользоваться. Кроме того, они посвящают себя дурным делам и становятся на сторону проигравших так же часто, как оказываются на стороне праведности.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "3EtMk8Gu9Qu6Gm0Q",
+        "effects": {
+          "Zvd2SRhlPUQsVm5s": {
+            "sourceName": "Gnuthus the Ox",
+            "name": "Бык Гнатус",
+            "scripts": []
+          }
+        }
+      }
+    },
+    "3dQNE54s7ojwwqWG": {
+      "sourceName": "Quietened Mail Coif",
+      "preparedName": "Утихомиренный кольчужный койф",
+      "name": "Утихомиренный кольчужный койф",
+      "description": "<p>Впервые заказанные покойным герцогом Карробургским для того же умелого убийцы, который в конечном итоге убьет самого герцога, этот кольчужный набор (@UUID[Compendium.wfrp4e-archives2.items.Cya63L5XXQQgphhR]{шоссы}, @UUID[Compendium.wfrp4e-archives2.items.BDbQ70J9MM8mdxxo]{рубаха} и койф) были зачарованы так, чтобы убрать шум, издаваемым металлическими кольцами. Обычный штраф -10 к скрытности для кольчужной брони не применяется. Однако заклинания, использованные для зачарования, не были доведены до совершенства, и носящие койф могут говорить только шёпотом.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "3dQNE54s7ojwwqWG",
+        "effects": {
+          "ojbR5FsOggxEcM6L": {
+            "sourceName": "Quietened Mail Coif",
+            "name": "Утихомиренный кольчужный койф",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Quietened Mail Coif",
+                "label": "Утихомиренный кольчужный койф",
+                "trigger": "dialog",
+                "script": "[Script.09sSpnW8z2zcVEdf]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "3z5aMDwIxJ7J9YWZ": {
+      "sourceName": "Spell Ring",
+      "preparedName": "Заклинательное кольцо",
+      "name": "Заклинательное кольцо",
+      "description": "<p>Заклинательное кольцо работает аналогично свитку, позволяя владельцу сотворить одно заклинание. В отличие от свитка, кольцо не уничтожается после сотворения, а владельцу не нужно проходить проверку сотворения. Определите какое заклинание заключено в кольце, используя тот-же метод, что и для свитка. Когда владелец творит заклинание, кольцо можно использовать снова только через 24 часа. Заклинательные кольца редки в Империи, и, к разочарованию знающих о них больше волшебников, они всегда называются 'Кольцом Волана', поскольку техники, необходимые человеческим магам для создания этих колец, впервые были открыты под руководством Волана.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "3z5aMDwIxJ7J9YWZ",
+        "effects": {}
+      }
+    },
+    "41kyo3HcglJVr2vE": {
+      "sourceName": "The Witchling Star",
+      "preparedName": "Ведьмина звезда",
+      "name": "Ведьмина звезда",
+      "description": "<h4>Знак магии</h4><p><strong>Классическое название</strong>: Солькиос</p><p><strong>Восход</strong>: Зима</p><p><strong>Даты</strong>: Ульрикцайт 32 – Форхексен 11 </p><p><strong>Бог-покровитель</strong>: Солл</p><p><strong>Вид</strong>: Одинокая яркая звезда</p><p><strong>Бонус: </strong>Получите один уровень уровень таланта @UUID[Compendium.wfrp4e-core.items.mdPGZsn2396dEpOf]{простейшая магия}</p><p><strong>Штраф</strong>: −3 сила</p><p>Волшебная и загадочная, Ведьмина звезда считается большинством астрологов зловещим знаком. Находящиеся под его властью обладают большим мужеством. Они обладают своего рода ветренностью, которое почти граничит с нечестностью или непостоянством, иногда создающим проблемы для окружающих. В какие бы передряги они ни попадали, как правило из них находится выход. Временами их очарование может казаться почти мистическим, будто они сами были благословлены ветрами магии.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "41kyo3HcglJVr2vE",
+        "effects": {
+          "4xALzEGzG6wVp9xP": {
+            "sourceName": "The Witchling Star",
+            "name": "Ведьмина звезда",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "The Witchling Star",
+                "label": "Ведьмина звезда",
+                "trigger": "immediate",
+                "script": "[Script.S1QihXuvdEVzeRtB]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "48DQiVHo9DtmRrX1": {
+      "sourceName": "Slaughtermaster",
+      "preparedName": "Забойщик",
+      "name": "Забойщик",
+      "description": "<p>@UUID[Compendium.wfrp4e-archives2.journals.S7vMviNshIrqOuRq.JournalEntryPage.oHnxmjA1CtIhumiz]{Огр-мясник}</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "48DQiVHo9DtmRrX1",
+        "effects": {}
+      },
+      "skills": [
+        "Лазание",
+        "Кутёж",
+        "Стойкость",
+        "Сплетничество",
+        "Запугивание",
+        "Язык (магический)",
+        "Рукопашный бой (основное)",
+        "Молитвословие",
+        "Ремесло (мясник)",
+        "Выживание",
+        "Искусство (разделка туш)",
+        "Концентрация (Великая пасть)",
+        "Запугивание",
+        "Стрельба (метательное)",
+        "Знание (Великая пасть)",
+        "Тайнопись (Великая пасть)",
+        "Артистизм (речи)",
+        "Лечение",
+        "Интуиция",
+        "Наблюдательность",
+        "Знание (магия)",
+        "Язык (любой)"
+      ],
+      "talents": [
+        "Распознание артефакта",
+        "Страстное рвение",
+        "Воодушевление",
+        "Магическое чутьё"
+      ],
+      "trappings": [
+        "Пещера или другое логово",
+        "Верные культисты Пасти",
+        "Бездонный голод"
+      ],
+      "sourceArrays": {
+        "skills": [
+          "Climb",
+          "Consume Alcohol",
+          "Endurance",
+          "Gossip",
+          "Intimidate",
+          "Язык (магический)",
+          "Melee (Basic)",
+          "Pray",
+          "Trade (Butcher)",
+          "Outdoor Survival",
+          "Art (Butchery)",
+          "Channelling (Great Maw)",
+          "Intimidate",
+          "Ranged (Throwing)",
+          "Lore (The Great Maw)",
+          "Secret Signs (The Great Maw)",
+          "Entertain (Speeches)",
+          "Heal",
+          "Intuition",
+          "Perception",
+          "Lore (Magick)",
+          "Language (any)"
+        ],
+        "talents": [
+          "Detect Artefact",
+          "Impassioned Zeal",
+          "Inspiring",
+          "Magical Sense"
+        ],
+        "trappings": [
+          "Cave or Other Lair",
+          "Loyal Cultists of the Maw",
+          "Bottomless Hunger"
+        ]
+      },
+      "sourceArrayAliases": {
+        "skills": {
+          "5": [
+            "Language (Magick)"
+          ]
+        }
+      }
+    },
+    "4mTsdXeaoRuctTcv": {
+      "sourceName": "Magical Arrow",
+      "preparedName": "Магическая стрела",
+      "name": "Магическая стрела",
+      "description": "<p>Стрела способна наносить урон существам, невосприимчивым к немагическим атакам и наносит +1 урон, но не обладает другими особыми способностями.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "4mTsdXeaoRuctTcv",
+        "effects": {}
+      }
+    },
+    "5f2bVvbYnrrpMBWs": {
+      "sourceName": "Harpoon Launcher",
+      "preparedName": "Гарпуномёт",
+      "name": "Гарпуномёт",
+      "description": "<p>Гарпуномёт стреляет массивным болтом, размером с копье, связанным с гарпуномётом длинной верёвкой и используется для охоты. Нет никакого натяжителя верёвки, чтобы притянуть добычу - огр просто хватает верёвку и руками подтаскивает к себе жертву. Гарпуномёты можно использовать как с навыком Стрельба (арбалеты), так и с навыком Стрельба (ловчее) без штрафов. Если снять верёвку с гарпуна, дальнобойность увеличивается до 60 и не имеет достоинства <em>Обездвиживающее</em>.</p><blockquote><p>Не забудьте убрать \"Расходует боеприпас\" в разделе Детали, если верёвка снята, что значит что пользователь не может наматывать вервёвку, притягивая жертву.</p></blockquote><p>* Доступность дана для Империи. В Империи часть вещей менее доступна, чем в Горах скорби.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "5f2bVvbYnrrpMBWs",
+        "effects": {}
+      }
+    },
+    "6jnKkzFvQKrI7iCo": {
+      "sourceName": "Big Ogre Club (Rusty Spikes)",
+      "preparedName": "Большая огрова дубина (ржавые шипы)",
+      "name": "Большая огрова дубина (ржавые шипы)",
+      "description": "<p>Огры любят свои дубины. Это самый простой вид оружия, который огры находят превосходным. Они рыщут по полям сражений, лесам и кладбищам в поисках хорошей крепкой дубины, а также материалов, чтобы отделать дубину на свой вкус. Если вы хотите, то можно модернизировать огрову дубину или большую огрову дубину, добавив одно из Достоинств.</p><p><strong>Ржавые шипы</strong>: Оружие приобретает достоинство @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8#penetrating]{бронебойное}.</p><p>* Доступность дана для Империи. В Империи часть вещей менее доступна, чем в Горах скорби.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "6jnKkzFvQKrI7iCo",
+        "effects": {}
+      }
+    },
+    "7VZcetAkflRAvi7B": {
+      "sourceName": "Writ of the Fifth Lore",
+      "preparedName": "Свиток пятого знания",
+      "name": "Свиток пятого знания",
+      "description": "<p>Когда этот маленький свиток вручается кому-либо с пояснением что это такое - лицензия, устав, рекомендательное письмо - получивший свиток должен пройти <strong>Безумную (–30) проверку наблюдательности</strong>. В случае провала свиток окажется именно таким, каким его описал предъявитель.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "7VZcetAkflRAvi7B",
+        "effects": {}
+      }
+    },
+    "7XGp36xXkZ4hPa0b": {
+      "sourceName": "Helstorm Rocket Battery",
+      "preparedName": "Ракетная батарея 'Адский шторм'",
+      "name": "Ракетная батарея 'Адский шторм'",
+      "description": "<p><strong>Расчёт</strong>: 4</p><p>@UUID[Compendium.wfrp4e-altdorf.journals.85UN6bKPTfGEBtBb.JournalEntryPage.HYkHeQZtD2AML3oG]{Имперская инженерная школа} создала это чрезвычайно опасное, но безумное неточное оружие, основываясь всего лишь на фейерверках. Адский шторм знаменит пронзительным звуком, издаваемым при хаотичном полёте в воздухе и разрушительными взрывами. </p><p>* Не может использоваться на дистанции В упор.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "7XGp36xXkZ4hPa0b",
+        "effects": {}
+      }
+    },
+    "8z2GxwRjjITJw4av": {
+      "sourceName": "Trebuchet",
+      "preparedName": "Требушет",
+      "name": "Требушет",
+      "description": "<p><strong>Расчёт:</strong> 8</p><p>Усовершенствованный по сравнению с @UUID[Compendium.wfrp4e-archives2.items.y7ki6uSBiFKkooV9]{онагром}, бретонский требушет использует противовес вместо кручения для высвобождения энергии пращи, что делает его более дальнобойным.</p><p>*Не может использоваться если расстояние до цели меньше Короткой дистанции.</p><p>* Не может использоваться на дистанции В упор.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "8z2GxwRjjITJw4av",
+        "effects": {}
+      }
+    },
+    "A8JyuDvs1USOoTlG": {
+      "sourceName": "Rhinox Master",
+      "preparedName": "Повелитель носорогов",
+      "name": "Повелитель носорогов",
+      "description": "<p>@UUID[Compendium.wfrp4e-archives2.journals.S7vMviNshIrqOuRq.JournalEntryPage.VG6hzml2D3Oe7PYX]{Заводчик носорогов}</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "A8JyuDvs1USOoTlG",
+        "effects": {}
+      },
+      "skills": [
+        "Атлетика",
+        "Подкуп",
+        "Кутёж",
+        "Уклонение",
+        "Стойкость",
+        "Рукопашный бой (основное)",
+        "Наблюдательность",
+        "Стрельба (ловчее)",
+        "Обращение с ловушками",
+        "Скрытность (дикая природа)",
+        "Обращение с животными",
+        "Дрессировка (ринокс)",
+        "Усмирение животных",
+        "Знание (риноксы)",
+        "Стойкость",
+        "Стрельба (метательное)",
+        "Хладнокровие",
+        "Запугивание",
+        "Выживание",
+        "Верховая езда (ринокс)",
+        "Интуиция",
+        "Лидерство"
+      ],
+      "talents": [
+        "Заядлый кутила",
+        "Устрашающий вид",
+        "Воодушевление",
+        "Безжалостный удар"
+      ],
+      "trappings": [
+        "Стадо риноксов или других крупных зверей",
+        "Ферма или право выпаса в большом поместье"
+      ],
+      "sourceArrays": {
+        "skills": [
+          "Athletics",
+          "Bribery",
+          "Consume Alcohol",
+          "Dodge",
+          "Endurance",
+          "Melee (Basic)",
+          "Perception",
+          "Ranged (Entangling)",
+          "Set Trap",
+          "Stealth (Rural)",
+          "Animal Care",
+          "Animal Training (Rhinox)",
+          "Charm Animal",
+          "Lore (Rhinox)",
+          "Endurance",
+          "Ranged (Throwing)",
+          "Cool",
+          "Intimidate",
+          "Outdoor Survival",
+          "Ride (Rhinox)",
+          "Intuition",
+          "Leadership"
+        ],
+        "talents": [
+          "Carouser",
+          "Frightening",
+          "Inspiring",
+          "Strike to Injure"
+        ],
+        "trappings": [
+          "Herd of Rhinox or Other Large Beasts",
+          "Farmstead or Grazing Rights on a Large Estate"
+        ]
+      }
+    },
+    "AzR6aMNcx6BuOFHU": {
+      "sourceName": "Maneater Captain",
+      "preparedName": "Вожак людоедов",
+      "name": "Вожак людоедов",
+      "description": "<p>@UUID[Compendium.wfrp4e-archives2.journals.S7vMviNshIrqOuRq.JournalEntryPage.kxcmiebXRV7PPs8Y]{Людоед}</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "AzR6aMNcx6BuOFHU",
+        "effects": {}
+      },
+      "skills": [
+        "Атлетика",
+        "Кутёж",
+        "Хладнокровие",
+        "Уклонение",
+        "Стойкость",
+        "Азартные игры",
+        "Запугивание",
+        "Язык (боевой арго)",
+        "Рукопашный бой (основное)",
+        "Выживание",
+        "Артистизм (рёв)",
+        "Сплетничество",
+        "Знание (местные края)",
+        "Рукопашный бой (двуручное)",
+        "Стрельба (пороховое)",
+        "Рукопашный бой (любое)",
+        "Интуиция",
+        "Лидерство",
+        "Стрельба (любое)",
+        "Язык (любой)"
+      ],
+      "talents": [
+        "Бывалый воин",
+        "Свирепый натиск",
+        "Командир",
+        "Упреждающий удар"
+      ],
+      "trappings": [
+        "Наёмный контракт",
+        "Испытанная в бою брюшная пластина"
+      ],
+      "sourceArrays": {
+        "skills": [
+          "Athletics",
+          "Consume Alcohol",
+          "Cool",
+          "Dodge",
+          "Endurance",
+          "Gamble",
+          "Intimidate",
+          "Язык (боевой арго)",
+          "Melee (Basic)",
+          "Outdoor Survival",
+          "Entertain (Bellow)",
+          "Gossip",
+          "Lore (Local)",
+          "Melee (Two-handed)",
+          "Ranged (Blackpowder)",
+          "Melee (Any)",
+          "Intuition",
+          "Leadership",
+          "Ranged (Any)",
+          "Language (Any)"
+        ],
+        "talents": [
+          "Combat Master",
+          "Furious Assault",
+          "War Leader",
+          "Reaction Strike"
+        ],
+        "trappings": [
+          "Mercenary Contract",
+          "Battle-Tested Gutplate"
+        ]
+      },
+      "sourceArrayAliases": {
+        "skills": {
+          "7": [
+            "Language (Battle)"
+          ]
+        }
+      }
+    },
+    "BDbQ70J9MM8mdxxo": {
+      "sourceName": "Quietened Mail Coat",
+      "preparedName": "Утихомиренная кольчужная рубаха",
+      "name": "Утихомиренная кольчужная рубаха",
+      "description": "<p>Впервые заказанные покойным герцогом Карробургским для того же умелого убийцы, который в конечном итоге убьет самого герцога, этот кольчужный набор (@UUID[Compendium.wfrp4e-archives2.items.Cya63L5XXQQgphhR]{шоссы}, рубаха и @UUID[Compendium.wfrp4e-archives2.items.3dQNE54s7ojwwqWG]{койф}) были зачарованы так, чтобы убрать шум, издаваемым металлическими кольцами. Обычный штраф -10 к скрытности для кольчужной брони не применяется. Однако заклинания, использованные для зачарования, не были доведены до совершенства, и носящие койф могут говорить только шёпотом.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "BDbQ70J9MM8mdxxo",
+        "effects": {
+          "SL4QHMqKajdb3chx": {
+            "sourceName": "Quietened Mail Coat",
+            "name": "Утихомиренная кольчужная рубаха",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Quietened Mail Coat",
+                "label": "Утихомиренная кольчужная рубаха",
+                "trigger": "dialog",
+                "script": "[Script.09sSpnW8z2zcVEdf]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "BYNFX39QkBl1ZMJ0": {
+      "sourceName": "Sand of Flinging",
+      "preparedName": "Песок для швыряния",
+      "name": "Песок для швыряния",
+      "description": "<p>По слухам этот мелкий абразив изготовлен в Инде. Он привозится маленькими кисетами, содержащими достаточно песка для 4 применений. Песок можно бросить, с характеристиками дротика. Он не наносит урона, но если попадёт цели в голову, она получает 1 состояние @Condition[ослеплён].</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "BYNFX39QkBl1ZMJ0",
+        "effects": {
+          "m7HLj6KmWL3gvZPT": {
+            "sourceName": "Sand of Flinging",
+            "name": "Песок для швыряния",
+            "scripts": []
+          }
+        }
+      }
+    },
+    "CQgyORymDpWMnMpg": {
+      "sourceName": "The Dancer",
+      "preparedName": "Танцор",
+      "name": "Танцор",
+      "description": "<h4>Знак любви и привлекательности</h4><p><strong>Классическое название</strong>: Адамнос</p><p><strong>Восход</strong>: Позднее лето</p><p><strong>Даты</strong>: Форгехайм 14 – Нахгехайм 2 </p><p><strong>Бог-покровитель</strong>: Миллавог (танцы (Виссенланд)) Вид: Кружащийся танцор</p><p><strong>Бонус</strong>: Получите один уровень таланта @UUID[Compendium.wfrp4e-core.items.oGbDwnLOn3isPJpO]{Страстное рвение}. (Вам не нужно выбирать предмет рвения при создании персонажа, вы можете найти его прямо в процессе игры.)</p><p><strong>Штраф</strong>: −3 инициатива</p><p>Танцор это знак страсти - и знак одержимости. К чему бы ни стремились рожденные под этим знаком, они делают это с завидным упорством. Независимо от того, сосредоточено ли их внимание на возлюбленном или на ждущей разгадки тайне, мир рушится перед лицом их решимости. Они плохо переносят презрение и могут излишне бурно отреагировать на него.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "CQgyORymDpWMnMpg",
+        "effects": {
+          "DnkKEMBoRSic9zMC": {
+            "sourceName": "The Dancer",
+            "name": "Танцор",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "The Dancer",
+                "label": "Танцор",
+                "trigger": "immediate",
+                "script": "[Script.EJaBfqADqlo92Fx6]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "CfkoFKpzq1JSJtM3": {
+      "sourceName": "The Greased Goat",
+      "preparedName": "Грязный козёл",
+      "name": "Грязный козёл",
+      "description": "<h4>Знак отказа от мирского</h4><p><strong>Классическое название</strong>: Талиос</p><p><strong>Восход</strong>: Поздняя осень</p><p><strong>Даты</strong>: Брауцайт 28 – Кальдцайт 17 </p><p><strong>Бог-покровитель</strong>: Таал</p><p><strong>Вид</strong>: Козёл</p><p><strong>Бонус</strong>: Получите один уровень таланта @UUID[Compendium.wfrp4e-core.items.9fq6p9Q6H02LjaSi]{Сродство с животными}</p><p><strong>Штраф</strong>: −3 выносливости</p><p>Люди, рожденные под знаком Грязного козла, не подпускают никого слишком близко. Они могут казаться отчужденными и апатичными, но это попытка убедиться, что они не пострадают от разочарований, несомненно ожидающих их впереди. Будучи сбитыми с ног, они барахтаются в своей боли. В тех редких случаях, когда они позволяют себе испытывать радость, их радость заразительна. </p><p>Дети, рожденные под знаком Грязного козла и обладающие способностями к магии, часто обнаруживают в себе тягу к Янтарному ветру Гарру. Рождённым под знаком Грязного Козла было бы разумно помнить, что мир не служит единственной цели сделать их жертвами. У каждого иногда случается полоса невезения, но это не определяющая вещь в жизни.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "CfkoFKpzq1JSJtM3",
+        "effects": {
+          "OBVvEN8yJlnjRt7I": {
+            "sourceName": "The Greased Goat",
+            "name": "Грязный козёл",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "The Greased Goat",
+                "label": "Грязный козёл",
+                "trigger": "immediate",
+                "script": "[Script.8jvEVPUCg3rKG48Y]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "Cya63L5XXQQgphhR": {
+      "sourceName": "Quietened Mail Chausses",
+      "preparedName": "Утихомиренные кольчужные шоссы",
+      "name": "Утихомиренные кольчужные шоссы",
+      "description": "<p>Впервые заказанные покойным герцогом Карробургским для того же умелого убийцы, который в конечном итоге убьет самого герцога, этот кольчужный набор (Шоссы, @UUID[Compendium.wfrp4e-archives2.items.BDbQ70J9MM8mdxxo]{рубаха} и @UUID[Compendium.wfrp4e-archives2.items.3dQNE54s7ojwwqWG]{койф}) были зачарованы так, чтобы убрать шум, издаваемым металлическими кольцами. Обычный штраф -10 к скрытности для кольчужной брони не применяется. Однако заклинания, использованные для зачарования, не были доведены до совершенства, и носящие койф могут говорить только шёпотом.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "Cya63L5XXQQgphhR",
+        "effects": {
+          "6asE5QGVt1Dgj7Y3": {
+            "sourceName": "Quietened Mail Chausses",
+            "name": "Утихомиренные кольчужные шоссы",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Quietened Mail Chausses",
+                "label": "Утихомиренные кольчужные шоссы",
+                "trigger": "dialog",
+                "script": "[Script.09sSpnW8z2zcVEdf]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "DEiAjXk2xWJ64Ef9": {
+      "sourceName": "Wand of the Winds",
+      "preparedName": "Жезл ветров",
+      "name": "Жезл ветров",
+      "description": "<p>Жезл сконструирован таким образом, чтобы компенсировать слабо дующие Ветра магии. Если заклинатель находится в ситуации, когда он получает отрицательный модификатор из-за @Table[wintds]{изменчивых ветров}, он может игнорировать эти модификаторы [[/r 1d10]] По истечении этого времени жезл исчерпан. Ему требуется 24 часа, чтобы восполнить запас своей магической силы.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "DEiAjXk2xWJ64Ef9",
+        "effects": {}
+      }
+    },
+    "Fm5fBasT0SWfiEYP": {
+      "sourceName": "Big Ogre Club",
+      "preparedName": "Большая огрова дубина",
+      "name": "Большая огрова дубина",
+      "description": "<p>Огры любят свои дубины. Это самый простой вид оружия, который огры находят превосходным. Они рыщут по полям сражений, лесам и кладбищам в поисках хорошей крепкой дубины, а также материалов, чтобы отделать дубину на свой вкус. Если вы хотите, то можно модернизировать огрову дубину или большую огрову дубину, добавив одно из достоинств.</p><p>@UUID[Compendium.wfrp4e-archives2.items.n1fVud1csGlzM9fI]{Металические накладки}: Оружие приобретает достоинство @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8#pummel]{ошеломляющее}.</p><p>@UUID[Compendium.wfrp4e-archives2.items.6jnKkzFvQKrI7iCo]{Ржавые шипы}: Оружие приобретает достоинство @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8#penetrating]{бронебойное}.</p><p>@UUID[Compendium.wfrp4e-archives2.items.gnDvFsTIenXj9TBP]{Щербатые лезвия}: Оружие приобретает достоинство @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8#hack]{разрубающее}.</p><p>* Доступность дана для Империи. В Империи часть вещей менее доступна, чем в Горах скорби.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "Fm5fBasT0SWfiEYP",
+        "effects": {}
+      }
+    },
+    "HFeQboOQ7NkJmEVt": {
+      "sourceName": "Fresh Meat",
+      "preparedName": "Свежее мясо",
+      "name": "Свежее мясо",
+      "description": "<p>@UUID[Compendium.wfrp4e-archives2.journals.S7vMviNshIrqOuRq.JournalEntryPage.kxcmiebXRV7PPs8Y]{Людоед}</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "HFeQboOQ7NkJmEVt",
+        "effects": {}
+      },
+      "skills": [
+        "Атлетика",
+        "Кутёж",
+        "Хладнокровие",
+        "Уклонение",
+        "Стойкость",
+        "Азартные игры",
+        "Запугивание",
+        "Язык (боевой арго)",
+        "Рукопашный бой (основное)",
+        "Выживание"
+      ],
+      "talents": [
+        "Грязные приёмы",
+        "Грозный вид",
+        "Бугай",
+        "Сильная спина"
+      ],
+      "trappings": [
+        "Кинжал",
+        "Кусок мяса",
+        "Жажда странствий"
+      ],
+      "sourceArrays": {
+        "skills": [
+          "Athletics",
+          "Consume Alcohol",
+          "Cool",
+          "Dodge",
+          "Endurance",
+          "Gamble",
+          "Intimidate",
+          "Язык (боевой арго)",
+          "Melee (Basic)",
+          "Outdoor Survival"
+        ],
+        "talents": [
+          "Dirty Fighting",
+          "Menacing",
+          "Sturdy",
+          "Strong Back"
+        ],
+        "trappings": [
+          "Dagger",
+          "Hunk of Meat",
+          "Wanderlust"
+        ]
+      },
+      "sourceArrayAliases": {
+        "skills": {
+          "7": [
+            "Language (Battle)"
+          ]
+        }
+      }
+    },
+    "Hsc3Z7zkvLdUoSC5": {
+      "sourceName": "The Broken Cart",
+      "preparedName": "Сломанная повозка",
+      "name": "Сломанная повозка",
+      "description": "<h4>Знак гордости</h4><p><strong>Классическое название</strong>: Кхарнос</p><p><strong>Восход</strong>: Осень</p><p><strong>Даты</strong>: Брауцайт 7 – Брауцайт 27</p><p><strong>Бог-покровитель</strong>: Нургл</p><p><strong>Вид</strong>: Повозка со сломанным колесом</p><p><strong>Бонус</strong>: Получите один уровень таланта @UUID[Compendium.wfrp4e-core.items.vMYEkrWj0ip6ZOdv]{Устойчивость (болезни)} </p><p><strong>Штраф</strong>: −3 сила воли</p><p>Временами люди, рожденные под Сломанной повозкой, могут быть излишне горды и чрезмерно озабочены своей внешностью. Они могут потратить свою последнюю монету в погоне за прекрасными вещами или броситься на скалы в поисках одобрения в глазах тех, кто выше их. Когда они могут обуздать эту черты — когда они примиряются с неуверенностью, заставляющей их тратить свою жизнь на поиски того, что могло бы их удовлетворить, — их гордость превращается в уверенность, а самомнение смягчается до притягательности. Связь Сломанной повозки с Нурглом признается очень неохотно, поскольку поклонение любой из Разрушительных сил является основанием для недолгого путешествия к высокому погребальному костру почти везде в этом мире. Однако все знают, что в этом знаке есть что-то темное и первобытное, и его ассоциации с болезнями распространены во многих культурах. Многие люди знают, что Отец болезней - это сила в мире, и когда болезнь опустошает земли, отчаявшиеся часто вспоминают старые сказки и запрещенные обряды, принося жертвы так-же, как это описано там.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "Hsc3Z7zkvLdUoSC5",
+        "effects": {
+          "eCiD1H2lSpgqZnXY": {
+            "sourceName": "The Broken Cart",
+            "name": "Сломанная повозка",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "The Broken Cart",
+                "label": "Сломанная повозка",
+                "trigger": "immediate",
+                "script": "[Script.xIRU2SaqLeWmqGDI]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "IhyZAbMf1XdQoEqN": {
+      "sourceName": "Ogre Club (Metal Plates)",
+      "preparedName": "Огрова дубина (металлические накладки)",
+      "name": "Огрова дубина (металлические накладки)",
+      "description": "<p>Огры любят свои дубины. Это самый простой вид оружия, который огры находят превосходным. Они рыщут по полям сражений, лесам и кладбищам в поисках хорошей крепкой дубины, а также материалов, чтобы отделать дубину на свой вкус. Если вы хотите, то можно модернизировать огрову дубину или большую огрову дубину, добавив одно из Достоинств.</p><p><strong>Металлические накладки</strong>: Оружие приобретает достоинство @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8#pummel]{ошеломляющее}.</p><p>* Доступность дана для Империи. В Империи часть вещей менее доступна, чем в Горах скорби.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "IhyZAbMf1XdQoEqN",
+        "effects": {}
+      }
+    },
+    "In1DfArrLI7dlK6p": {
+      "sourceName": "Cannon",
+      "preparedName": "Пушка",
+      "name": "Пушка",
+      "description": "<p><strong>Расчёт</strong>: 4</p><p>Используя те-же принципы, что и пороховое оружие, пушки заряжаются порохом и большими ядрами. Силы, с которой бьет пушечное ядро, достаточно чтобы разрушить большинство стен и разорвать на части чужих солдат на поле боя.</p><p>*Нельзя использовать на дистанции В упор.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "In1DfArrLI7dlK6p",
+        "effects": {}
+      }
+    },
+    "IpzDjA8XwnMq09yw": {
+      "sourceName": "Ogre Club (Scavenged Blades)",
+      "preparedName": "Огрова дубина (щербатые лезвия)",
+      "name": "Огрова дубина (щербатые лезвия)",
+      "description": "<p>Огры любят свои дубины. Это самый простой вид оружия, который огры находят превосходным. Они рыщут по полям сражений, лесам и кладбищам в поисках хорошей крепкой дубины, а также материалов, чтобы отделать дубину на свой вкус. Если вы хотите, то можно модернизировать огрову дубину или большую огрову дубину, добавив одно из Достоинств.</p><p><strong>Щербатые лезвия</strong>: Оружие приобретает достоинство @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8#hack]{разрубающее}.</p><p>* Доступность дана для Империи. В Империи часть вещей менее доступна, чем в Горах скорби.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "IpzDjA8XwnMq09yw",
+        "effects": {}
+      }
+    },
+    "IuHhCdjjx9hphJlI": {
+      "sourceName": "Vobist the Faint",
+      "preparedName": "Вобист Слабый",
+      "name": "Вобист Слабый",
+      "description": "<h4>Знак тьмы и непредсказуемости</h4><p><strong>Классическое название</strong>: Вобист</p><p><strong>Восход</strong>: Осень</p><p><strong>Даты</strong>: Эрнтцайт 17 – Брауцайт 6</p><p><strong>Бог-покровитель</strong>: Ранальд</p><p><strong>Вид</strong>: Нет звёзд</p><p><strong>Бонус</strong>: Получите один уровень таланта @UUID[Compendium.wfrp4e-core.items.mNoCuaVbFBflfO6X]{шестое чувство}</p><p><strong>Штраф</strong>: −3 инициатива</p><p>Звездная пустота. Пустое место на небосклоне. Рождённые под знаком Вобиста Слабого временами кажутся неустойчивыми и неуверенными в себе; в конце концов, они родился под знаком чистой тьмы. Временами они могут быть излишне осторожными, но также они могут быть смелы и отважны тогда, когда другие меньше всего этого ждут; вы бросаетесь в бой раньше даже своих самых храбрых друзей. То, что кажется фундаментальной неопределенностью, также является острым ощущением того, когда и как стоит сражаться. Восход полного Моррслиба, Луны Хаоса, тогда-же, когда как восходит Вобист Слабый, является особенно плохим предзнаменованием.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "IuHhCdjjx9hphJlI",
+        "effects": {
+          "42trmsMPcpndvjuV": {
+            "sourceName": "Vobist the Faint",
+            "name": "Вобист Слабый",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Vobist the Faint",
+                "label": "Вобист Слабый",
+                "trigger": "immediate",
+                "script": "[Script.t8LYOuN5peEdWeXP]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "JtMXS3dqeCVego1x": {
+      "sourceName": "Leadbelcher Ball",
+      "preparedName": "Ядро свинцемёта",
+      "name": "Ядро свинцемёта",
+      "description": "<p> Пушечное ядро. Цена, указанная за ядро в 2 шиллинга, включает в себя порох, достаточный для одного выстрела. Ядро может быть найдено и использовано для выстрела снова всего лишь за цену пороха.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "JtMXS3dqeCVego1x",
+        "effects": {}
+      }
+    },
+    "KObT9JXe0DbLbGRO": {
+      "sourceName": "Slopscooper",
+      "preparedName": "Бурдовар",
+      "name": "Бурдовар",
+      "description": "<p>@UUID[Compendium.wfrp4e-archives2.journals.S7vMviNshIrqOuRq.JournalEntryPage.oHnxmjA1CtIhumiz]{Огр-мясник}</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "KObT9JXe0DbLbGRO",
+        "effects": {}
+      },
+      "skills": [
+        "Лазание",
+        "Кутёж",
+        "Стойкость",
+        "Сплетничество",
+        "Запугивание",
+        "Язык (магический)",
+        "Рукопашный бой (основное)",
+        "Молитвословие",
+        "Ремесло (мясник)",
+        "Выживание"
+      ],
+      "talents": [
+        "Суровый",
+        "Простейшая магия",
+        "Шестое чувство",
+        "Сильная спина"
+      ],
+      "trappings": [
+        "Фартук мясника",
+        "Одноручное оружие (тесак или колотушка)"
+      ],
+      "sourceArrays": {
+        "skills": [
+          "Climb",
+          "Consume Alcohol",
+          "Endurance",
+          "Gossip",
+          "Intimidate",
+          "Язык (магический)",
+          "Melee (Basic)",
+          "Pray",
+          "Trade (Butcher)",
+          "Outdoor Survival"
+        ],
+        "talents": [
+          "Implacable",
+          "Petty Magic",
+          "Sixth Sense",
+          "Strong Back"
+        ],
+        "trappings": [
+          "Butchers Apron",
+          "Hand Weapon (Cleaver or Mallet)"
+        ]
+      },
+      "sourceArrayAliases": {
+        "skills": {
+          "5": [
+            "Language (Magick)"
+          ]
+        }
+      }
+    },
+    "Ln6R645e20DfgiFN": {
+      "sourceName": "Mawsage",
+      "preparedName": "Мудрец Пасти",
+      "name": "Мудрец Пасти",
+      "description": "<p>@UUID[Compendium.wfrp4e-archives2.journals.S7vMviNshIrqOuRq.JournalEntryPage.oHnxmjA1CtIhumiz]{Огр-мясник}</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "Ln6R645e20DfgiFN",
+        "effects": {}
+      },
+      "skills": [
+        "Лазание",
+        "Кутёж",
+        "Стойкость",
+        "Сплетничество",
+        "Запугивание",
+        "Язык (магический)",
+        "Рукопашный бой (основное)",
+        "Молитвословие",
+        "Ремесло (мясник)",
+        "Выживание",
+        "Искусство (разделка туш)",
+        "Концентрация (Великая пасть)",
+        "Запугивание",
+        "Стрельба (метательное)",
+        "Знание (Великая пасть)",
+        "Тайнопись (Великая пасть)",
+        "Артистизм (речи)",
+        "Лечение",
+        "Интуиция",
+        "Наблюдательность"
+      ],
+      "talents": [
+        "Устрашающий вид",
+        "Второе зрение",
+        "Могучий удар",
+        "Боевой маг"
+      ],
+      "trappings": [
+        "Ученик мясника",
+        "Окровавленный мешок с 10 колдовскими ингредиентами",
+        "Собрание черепов"
+      ],
+      "sourceArrays": {
+        "skills": [
+          "Climb",
+          "Consume Alcohol",
+          "Endurance",
+          "Gossip",
+          "Intimidate",
+          "Язык (магический)",
+          "Melee (Basic)",
+          "Pray",
+          "Trade (Butcher)",
+          "Outdoor Survival",
+          "Art (Butchery)",
+          "Channelling (Great Maw)",
+          "Intimidate",
+          "Ranged (Throwing)",
+          "Lore (The Great Maw)",
+          "Secret Signs (The Great Maw)",
+          "Entertain (Speeches)",
+          "Heal",
+          "Intuition",
+          "Perception"
+        ],
+        "talents": [
+          "Frightening",
+          "Second Sight",
+          "Strike Mighty Blow",
+          "War Wizard"
+        ],
+        "trappings": [
+          "Apprentice Butcher",
+          "Bloody sack of 10 Esoteric Ingredients",
+          "Collection of Skulls"
+        ]
+      },
+      "sourceArrayAliases": {
+        "skills": {
+          "5": [
+            "Language (Magick)"
+          ]
+        }
+      }
+    },
+    "MZgvFc3M2EIAPcaJ": {
+      "sourceName": "Opal Amulet",
+      "preparedName": "Опаловый амулет",
+      "name": "Опаловый амулет",
+      "description": "<p>Опаловый амулет зачарован мощным заклинанием исцеления. Уменьшите урон на [[/r 1d10]] от первого попадания, полученного владельцем. Амулет может использоваться один раз в течение 24 часов.</p><blockquote class=\"foundry-note\"><p>Опаловый амулет активируется автоматически и уменьшает входящий урон от встречной проверки, а затем автоматически выключается. Затем его необходимо включить вручную.</p></blockquote>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "MZgvFc3M2EIAPcaJ",
+        "effects": {
+          "xhj5z3LdGzqGEReZ": {
+            "sourceName": "Opal Amulet",
+            "name": "Опаловый амулет",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Opal Amulet",
+                "label": "Опаловый амулет",
+                "trigger": "takeDamage",
+                "script": "[Script.Bj6bxItlgtI2sXVN]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "N30wojpqngD5fh8j": {
+      "sourceName": "Mammit the Wise",
+      "preparedName": "Маммит Мудрый",
+      "name": "Маммит Мудрый",
+      "description": "<h4>Знак мудрости</h4><p><strong>Классическое название</strong>: Маммиус</p><p><strong>Восход</strong>: Раннее лето</p><p><strong>Даты</strong>: Сигмарцайт 23 – Соммерцайт 11 </p><p><strong>Бог-покровитель</strong>: Верена</p><p><strong>Вид</strong>: Сова</p><p><strong>Бонус</strong>: +2 инициатива, +2 интеллект</p><p><strong>Штраф</strong>: −3 харизма</p><p>Для рожденного под светом Маммита Мудрого все является возможностью для обучения. Эта склонность к самоанализу делает их умными, справедливыми и добрыми, но это-же может привести и к тому, что они станут рассматривать несчастья других просто как еще один предмет для изучения. Это позволяет им действовать отстраненно, когда требуется, но может перерасти в безразличие и жестокость, если зайдет слишком далеко.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "N30wojpqngD5fh8j",
+        "effects": {
+          "CrsOPwG6OHDOlQoy": {
+            "sourceName": "Mammit the Wise",
+            "name": "Маммит Мудрый",
+            "scripts": []
+          }
+        }
+      }
+    },
+    "NCZeWjZ8oaE1NQJE": {
+      "sourceName": "Obsidian Lodestone",
+      "preparedName": "Обсидиановый магнит",
+      "name": "Обсидиановый магнит",
+      "description": "<p>Эти амулеты зачарованы на разрушение враждебной магии, пытающейся навредить носящему. Владелец может предпринять попытку развеять любое заклинание, направленное в него (считайте что носящий владеет языком (магический), равным 30, при попытке рассеять заклинание).</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "NCZeWjZ8oaE1NQJE",
+        "effects": {}
+      }
+    },
+    "OBCnIMMSqt1pSfFY": {
+      "sourceName": "Amulet of Thrice-Blessed Copper",
+      "preparedName": "Амулет триблагословенной меди",
+      "name": "Амулет триблагословенной меди",
+      "description": "<p>Этот амулет уменьшает урон от всех атак против владельца на -1. Владелец амулета также получает бонус +30 к проверкам на стойкость, проводимым для избавления от состояния @Condition[отравлен]. Амулет также становится зелёным в присутстивии ядов.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "OBCnIMMSqt1pSfFY",
+        "effects": {
+          "zYghjiEHkeOK1zfS": {
+            "sourceName": "Amulet of Thrice-Blessed Copper",
+            "name": "Амулет триблагословенной меди",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Amulet of Thrice-Blessed Copper",
+                "label": "Амулет триблагословенной меди",
+                "trigger": "takeDamage",
+                "script": "[Script.vvVhAqreedtmOR9b]"
+              },
+              {
+                "index": 1,
+                "sourceLabel": "Bonus to Endurance Tests made to remove Poisoned Conditions",
+                "label": "Бонус к Стойкости для снятия Отравления",
+                "trigger": "dialog",
+                "script": "[Script.fY0TsQwnU14fdPl2]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "OFGqFjdk9rpRJcMT": {
+      "sourceName": "Screaming Stone",
+      "preparedName": "Кричащий камень",
+      "name": "Кричащий камень",
+      "description": "<p>Необычная вещь даже по меркам магических диковинок, Кричащий камень представляет собой небольшой череп, вырезанный из белого полированного гранита. Всякий раз, когда Небольшое или больше существо оказывается в поле зрения Камня, тот начинает громко кричать. Этот крик прекращается, как только череп больше не может видеть это существо - оно исчезает из поля зрения черепа или глаза черепа закрыты. Если кто-то пытается проскользнуть мимо черепа, считайте что его наблюдательность равна 75.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "OFGqFjdk9rpRJcMT",
+        "effects": {}
+      }
+    },
+    "OjyMTXX7qGBBdBUF": {
+      "sourceName": "The Maw",
+      "preparedName": "Пасть",
+      "name": "Пасть",
+      "description": "<p>Персонаж пожирает большую часть туши большого зверя, проявляя саму Великую пасть, явить частичку её сущности. Земля раскалывается и тысячи скрежещущих зубов ждут в расщелине своих жертв. Яма бездонна, голод неутолим, зубы остры, как бритва, а звук скрежещущих челюстей подобен скрежету стекла о камень.</p><p>Любой, находящийся в области воздействия, должен пройти <strong>Сложную (+0) проверку уклонения</strong>, чтобы выбраться наружу. Если ему это удается, цель получает урон +8, когда выбирается из пасти; урон уменьшается на 1 за каждый УУ при проверке уклонения. </p><p>Любой, проваливший проверку, погружается в Пасть, которая методично начинает глотать его заживо. Жертва получает урон +10 в случайно выбранное место и 3 состояния @Condition[обездвижен]. При попытке освободится сила Пасти считается как 60. Жертва не может выбраться из Пасти, пока не избавится от всех 3 состояний Обездвижен. В конце каждого своего хода существо внутри Пасти получает еще урон +10 в случайно выбранное место.</p><p>Зубы Пасти остры и она неохотно расстаётся с добычей. Как только заклинание заканчивается, Пасть исчезает, пытаясь забрать с собой все пожираемые ею конечности. Если существо на момент исчезновения Пасти не выбралось, оно немедленно получает Травму в случайно выбранную зону попадания.\n\n<p> <b>Школа:</b> Всякий раз, когда огр-мясник успешное применяет заклинания Великой пасти, съеденное им подношение может восстановить его здоровье. Совершите бросок [[/r 1d10]]. Если результат 10 или равен или превышает ПС произносимого заклинания, Мясник восстанавливает раны, равные ПС заклинания.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "OjyMTXX7qGBBdBUF",
+        "effects": {
+          "8NB7uQWjgxT6i4Ph": {
+            "sourceName": "The Maw",
+            "name": "Пасть",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "The Maw",
+                "label": "Пасть",
+                "trigger": "immediate",
+                "script": "[Script.BtyFhdGMKiMamGhM]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "Our332eto9iQSogf": {
+      "sourceName": "The Piper",
+      "preparedName": "Дудочник",
+      "name": "Дудочник",
+      "description": "<h4>Знак обманщика</h4><p><strong>Классическое название</strong>: Сангист</p><p><strong>Восход</strong>: Осень</p><p><strong>Даты</strong>: Нахгехайм 25 – Эрнтезейт 16 </p><p><strong>Бог-покровитель</strong>: Ранальд, Катия (обезоруживающая красота (Рейкланд)) </p><p><strong>Вид</strong>: Приплясывающий дудочник</p><p><strong>Бонус</strong>: +2 харизма, +2 ловкость</p><p><strong>Штраф</strong>: −3 ближний бой</p><p>Под знаком Дудочника рождаются как лучшие воры, так и лучшие дипломаты. Они хитры, изворотливы и чрезвычайно тактичны, когда это необходимо. На переговорах нет никого лучше, кто бы прикрывал спину. Однако они не постесняются и использовать союзников в своих интересах, если считают, что от этого только выиграют. Богословы расходятся во мнениях, какое божество покровительствует Дудочнику. В Мариенбурге это считается особенно хорошим знаком, и некоторые семьи специально пытаются зачать ребёнка за девять месяцев до восхода Дудочника.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "Our332eto9iQSogf",
+        "effects": {
+          "xYZzVVvFWN816NGR": {
+            "sourceName": "The Piper",
+            "name": "Дудочник",
+            "scripts": []
+          }
+        }
+      }
+    },
+    "Qed9RdJnZIwBfXt8": {
+      "sourceName": "Seed of Rebirth",
+      "preparedName": "Семя возрождения",
+      "name": "Семя возрождения",
+      "description": "<p>Этот амулет выглядит как простая резьба по дереву, но на самом деле это мощный артефакт. Владелец считается обладателем черты @UUID[Compendium.wfrp4e-core.items.SfUUdOGjdYpr3KSR]{регенерация}.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "Qed9RdJnZIwBfXt8",
+        "effects": {
+          "3K0angqmcCZ67aD5": {
+            "sourceName": "Seed of Rebirth",
+            "name": "Семя возрождения",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Seed of Rebirth",
+                "label": "Семя возрождения",
+                "trigger": "equipToggle",
+                "script": "[Script.FciJSTq7dZsZIPgl]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "QuFCenSWE3q7wzZ8": {
+      "sourceName": "Vice (Target)",
+      "preparedName": "Порок (цель)",
+      "name": "Порок (цель)",
+      "description": "<p>Персонажа мучает необходимость предаться своему пороку, страдая от черты психики UUID[Compendium.wfrp4e-archives2.items.anIlqJXFOIEzIOo1]{порок}. Каждый раз, когда вы берёте талант еще раз, у вас проявляется новый порок. Примеры, которые могут быть расхожи: алкоголь, еда, наркотики, удовольствия.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "QuFCenSWE3q7wzZ8",
+        "effects": {
+          "zVI3ikcX8UU5iko4": {
+            "sourceName": "Add Pyschology",
+            "name": "Добавить психологию",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Add Pyschology",
+                "label": "Добавить психологию",
+                "trigger": "immediate",
+                "script": "[Script.cEg09bnvZD6Ysnpc]"
+              }
+            ]
+          }
+        }
+      },
+      "tests": "Сила воли (сопротивление цели)"
+    },
+    "RStS68dTN1umVD1a": {
+      "sourceName": "Amulet of Righteous Silver",
+      "preparedName": "Амулет праведного серебра",
+      "name": "Амулет праведного серебра",
+      "description": "<p>Владелец этого амулета не страдает от эффектов Страха и получает +2 УУ к проверкам сопротивления Ужасу.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "RStS68dTN1umVD1a",
+        "effects": {
+          "XvhmGmVqw8ZN2Ok0": {
+            "sourceName": "Amulet of Righteous Silver",
+            "name": "Амулет праведного серебра",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Amulet of Righteous Silver",
+                "label": "Амулет праведного серебра",
+                "trigger": "dialog",
+                "script": "[Script.5IoYTyedCMYwt3ys]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "RZLZheI0c1EJmu8r": {
+      "sourceName": "Throatseeker's Blade",
+      "preparedName": "Шпага 'Горлоискатель'",
+      "name": "Шпага 'Горлоискатель'",
+      "description": "<p>Эти магические шпаги сделаны с присущей им врождённой жаждой крови, благодаря чему остриё проходит даже через лучшую защиту. Горлоискатель игнорирует любой класс брони, предоставляемые броней с @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.yYXaAw24i93B4vzk#weakpoints]{уязвимыми местами}. В остальном это оружие работает как обычная шпага.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "RZLZheI0c1EJmu8r",
+        "effects": {
+          "ATH4RfiMlz5CXWC4": {
+            "sourceName": "Throatseeker's Blade",
+            "name": "Шпага 'Горлоискатель'",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Throatseeker's Blade",
+                "label": "Шпага 'Горлоискатель'",
+                "trigger": "computeApplyDamageModifiers",
+                "script": "[Script.8araLuwmBq8GKEw3]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "RamNIcUSDgLODsZ9": {
+      "sourceName": "Harpoon",
+      "preparedName": "Гарпун",
+      "name": "Гарпун",
+      "description": "",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "RamNIcUSDgLODsZ9",
+        "effects": {}
+      }
+    },
+    "ReOoQcjZVMuOctSG": {
+      "sourceName": "Wand of Jet",
+      "preparedName": "Жезл потока",
+      "name": "Жезл потока",
+      "description": "<p>Этот жезл используется заклинателями для увеличения длительности заклинаний. Длительность заклинаний, произнесённых с помощью этого жезла, удваивается.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "ReOoQcjZVMuOctSG",
+        "effects": {
+          "4IZQqGW7mRbrKgQa": {
+            "sourceName": "Wand of Jet",
+            "name": "Жезл потока",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Wand of Jet",
+                "label": "Жезл потока",
+                "trigger": "prePrepareItem",
+                "script": "[Script.hwHpIunCq3ifk2QU]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "RpBOxmOl8LYHeTPr": {
+      "sourceName": "Hail of Doom Arrow",
+      "preparedName": "Град гибельных стрел",
+      "name": "Град гибельных стрел",
+      "description": "<p>После выстрела этой стрелой она в полёте распадается на [[/r 1d10]] стрел. Совершите бросок поражения и урона за каждую стрелу. Все эти стрелы могут попасть в одну цель или поразить разные, если те не далее 2 ярдов от основной цели и стрелок их ясно видит.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "RpBOxmOl8LYHeTPr",
+        "effects": {}
+      }
+    },
+    "SJFH0FKrgqAWCilh": {
+      "sourceName": "Arrow of Potency",
+      "preparedName": "Стрела могущества",
+      "name": "Стрела могущества",
+      "description": "<p>Если попадание этой стрелой наносит урон, то дополнительно наносится также [[/r 1d10]] урона, игнорирующего класс брони и рейтинг выносливости.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "SJFH0FKrgqAWCilh",
+        "effects": {
+          "Qw4h3VBkSB4xdDpN": {
+            "sourceName": "Arrow of Potency",
+            "name": "Стрела могущества",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Arrow of Potency",
+                "label": "Стрела могущества",
+                "trigger": "applyDamage",
+                "script": "[Script.UH5MIzqi2MvEqTwj]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "SSx68DAzGxEq2mUl": {
+      "sourceName": "Dazh’s Flint",
+      "preparedName": "Огниво Дажа",
+      "name": "Огниво Дажа",
+      "description": "<p>Говорят что эти небольшие кусочки кремня благословлены кислевитским богом огня. Когда кусочек прижимают к легковоспламеняющемуся материалу, он автоматически загорается.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "SSx68DAzGxEq2mUl",
+        "effects": {}
+      }
+    },
+    "Ssxq1OyRNJcx8x8a": {
+      "sourceName": "Ruby Ring of Ruin",
+      "preparedName": "Рубиновое кольцо разрушения",
+      "name": "Рубиновое кольцо разрушения",
+      "description": "<p>Рубиновое кольцо разрушения - это заклинательное кольцо, которое можно использовать для сотворения @UUID[Compendium.wfrp4e-core.items.HpFkVJ2lYPAWumUL]{великого пламени У'Зула} из школы Огня. В отличие от обычных колец с заклинаниями, рубиновое кольцо разрушения можно использовать трижды в течение каждых 24 часов.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "Ssxq1OyRNJcx8x8a",
+        "effects": {
+          "oSBTfYXE8dNSnmtO": {
+            "sourceName": "Ruby Ring of Ruin",
+            "name": "Рубиновое кольцо разрушения",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Ruby Ring of Ruin",
+                "label": "Рубиновое кольцо разрушения",
+                "trigger": "equipToggle",
+                "script": "[Script.F4aGsdzJ9SYcX57F]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "TF3K2MMUszoBvfgu": {
+      "sourceName": "Arrow of True Flight",
+      "preparedName": "Стрела истинного полёта",
+      "name": "Стрела истинного полёта",
+      "description": "<p>Эти стрелы дают +30 к дальнему бою при выстреле.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "TF3K2MMUszoBvfgu",
+        "effects": {
+          "2G6zDe1UPqHZnp7q": {
+            "sourceName": "Arrow of True Flight",
+            "name": "Стрела истинного полёта",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Arrow of True Flight",
+                "label": "Стрела истинного полёта",
+                "trigger": "dialog",
+                "script": "[Script.fY0TsQwnU14fdPl2]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "TU2lsmbtj5VbtUjC": {
+      "sourceName": "The Two Bullocks",
+      "preparedName": "Два вола",
+      "name": "Два вола",
+      "description": "<h4>Знак плодородия и мастерства</h4><p><strong>Классическое название</strong>: Хашур</p><p><strong>Восход</strong>: Середина лета</p><p><strong>Даты</strong>: Соммерцайт 30 – Воргехайм 13 </p><p><strong>Бог-покровитель</strong>: Ахалт (охота, плодородие и жертвоприношение (Виссенланд))</p><p><strong>Вид</strong>: Два вола</p><p><strong>Бонус</strong>: Получите один уровень таланта @UUID[Compendium.wfrp4e-core.items.GRRN3XAKIpEVCY7z]{Умелец}. (Вам не нужно выбирать ремесло сейчас, но вам необходимо определить его после выбора стартовой карьеры.)</p><p><strong>Штраф</strong>: −3 интеллект</p><p>Рожденные под знаком Двух волов стремятся к новаторству; они прилежны, изобретательны и могут создать практически все, если приложат достаточно усилий. К счастью для всего мира, больше всего они хотят помогать другим, будь то усовершенствование печатного станка или разработка более совершенного плуга для полей односельчан. К сожалению, проекты, в которые они погружаются, могут быть причудливыми и непрактичными, и злоумышленники могут использовать этот идеализм в опасных или неправедных целях.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "TU2lsmbtj5VbtUjC",
+        "effects": {
+          "UHOmywDTb4r5AK5V": {
+            "sourceName": "The Two Bullocks",
+            "name": "Два вола",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "The Two Bullocks",
+                "label": "Два вола",
+                "trigger": "immediate",
+                "script": "[Script.mRvLsSVxNyt8LVZb]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "TjcW0Kzd3XYf8Lrx": {
+      "sourceName": "Striking Ring",
+      "preparedName": "Убойное кольцо",
+      "name": "Убойное кольцо",
+      "description": "<p>Владелец этого кольца может использовать каждую из его сил по очереди в ход на протяжении каждых 24 часов. Силы повторяют эффект одного из следующих талантов: @UUID[Compendium.wfrp4e-core.items.4MJJCiOKPkBByYwW]{могучий удар}, @UUID[Compendium.wfrp4e-core.items.RWJrupj9seau0w31]{безжалостный удар}, @UUID[Compendium.wfrp4e-core.items.jt0DmVK9IiF6Sd2h]{ошеломляющий удар}</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "TjcW0Kzd3XYf8Lrx",
+        "effects": {
+          "sUhqPCvGRifp2tL0": {
+            "sourceName": "Strike Mighty Blow",
+            "name": "Могучий удар",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Strike Mighty Blow",
+                "label": "Могучий удар",
+                "trigger": "addItems",
+                "script": "[Script.9nroaZDkW3WXNkB7]"
+              }
+            ]
+          },
+          "cGQU5TADp8mQSnVm": {
+            "sourceName": "Strike to Injure",
+            "name": "Безжалостный удар",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Strike to Injure",
+                "label": "Безжалостный удар",
+                "trigger": "addItems",
+                "script": "[Script.KT670CjGBEprx2fO]"
+              }
+            ]
+          },
+          "qhEn1yA6xikAhDLo": {
+            "sourceName": "Strike to Stun",
+            "name": "Ошеломляющий удар",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Strike to Stun",
+                "label": "Ошеломляющий удар",
+                "trigger": "addItems",
+                "script": "[Script.I93i49wI9ZrDHT4n]"
+              }
+            ]
+          },
+          "P9AsHGVUw2TgUV2H": {
+            "sourceName": "Striking Ring",
+            "name": "Убойное кольцо",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Gain Power",
+                "label": "Получить силу",
+                "trigger": "manual",
+                "script": "[Script.GjkxWj9wCAclM9WA]"
+              },
+              {
+                "index": 1,
+                "sourceLabel": "Reset",
+                "label": "Сбросить",
+                "trigger": "manual",
+                "script": "[Script.gKIPujyuFSn0No9v]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "TvsOVV6vF3oN3KK6": {
+      "sourceName": "Trackless Boots",
+      "preparedName": "Легкоходные ботинки",
+      "name": "Легкоходные ботинки",
+      "description": "<p>Эти ботинки не оставляют за собой следов, что делает отслеживание носящего их очень сложным. Все проверки Выслеживания, проведённые против носителя ботинок, проходят со штрафом -20.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "TvsOVV6vF3oN3KK6",
+        "effects": {}
+      }
+    },
+    "VeYQsSq3ffm76OCh": {
+      "sourceName": "Taste Death",
+      "preparedName": "Вкус смерти",
+      "name": "Вкус смерти",
+      "description": "<p>Пожирая часть трупа, персонаж узнает о том, когда и как умерло это существо - была ли она заколота кинжалом, отравлена, умерщвлена магией, умерла своей смертью и т.д. Информация, которую персонаж получает, носит весьма общий характер. Например, можно узнать что жертва была убита мечом, но нельзя узнать каким именно мечом. Также нельзя узнать, кто мог быть ответственнен за это, за исключением использованного убийцей способа. Если цель умерла ‘чистой’ смертью, то-есть не от яда или болезни, считается правильным съесть оставшуюся часть трупа.\n\n<p> <b>Школа:</b> Всякий раз, когда огр-мясник успешное применяет заклинания Великой пасти, съеденное им подношение может восстановить его здоровье. Совершите бросок [[/r 1d10]]. Если результат 10 или равен или превышает ПС произносимого заклинания, Мясник восстанавливает раны, равные ПС заклинания.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "VeYQsSq3ffm76OCh",
+        "effects": {}
+      }
+    },
+    "W5YzvyqqdQbV0R8T": {
+      "sourceName": "Wand of Jade",
+      "preparedName": "Нефритовый жезл",
+      "name": "Нефритовый жезл",
+      "description": "<p>Этот жезл увеличивает дальность действия заклинаний. Удваивает дальность любых заклинаний, сотворённых при помощи этого жезла.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "W5YzvyqqdQbV0R8T",
+        "effects": {
+          "LFriHJGb2JUMfRdh": {
+            "sourceName": "Wand of Jade",
+            "name": "Нефритовый жезл",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Wand of Jade",
+                "label": "Нефритовый жезл",
+                "trigger": "prePrepareItem",
+                "script": "[Script.8WeYU5e5LN9UeWFs]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "XLIqdS5ERC5Q00CP": {
+      "sourceName": "Elven Cloak",
+      "preparedName": "Эльфийский плащ",
+      "name": "Эльфийский плащ",
+      "description": "<p>Эти плащи созданы магами лесных эльфов и делают владельца куда незаметнее в дикой местности. Любые проверки наблюдительности, основанные на зрении, или Дальнего боя, проведённые против носителя, проводятся с модификатором -20.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "XLIqdS5ERC5Q00CP",
+        "effects": {
+          "rK10cco7lCiLiaCc": {
+            "sourceName": "Elven Cloak",
+            "name": "Эльфийский плащ",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Ballistic Skill Penalty",
+                "label": "Штраф к Дальнему бою",
+                "trigger": "dialog",
+                "script": "[Script.16nCOByUaSFDym1V]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "XOjdu81SBJhspGJ0": {
+      "sourceName": "Dawnstone",
+      "preparedName": "Рассветный камень",
+      "name": "Рассветный камень",
+      "description": "<p>Рассветный камень часто инкрустируют в доспех, придавая ему дополнительную степень защиты. Если часть брони повреждается, рассветный камень разбивается, игнорируя урон.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "XOjdu81SBJhspGJ0",
+        "effects": {}
+      }
+    },
+    "XW2NvNanJFFm25kn": {
+      "sourceName": "Dragomas the Drake",
+      "preparedName": "Дракон Драгомас",
+      "name": "Дракон Драгомас",
+      "description": "<h4>Знак храбрости</h4><p><strong>Классическое название</strong>: Драконос</p><p><strong>Восход</strong>: Весна</p><p><strong>Даты</strong>: Ярдрунг 17 – Пфлугцайт 7</p><p><strong>Бог-покровитель</strong>: Кхейн</p><p><strong>Вид</strong>: Вздыбившийся дракон</p><p><strong>Бонус</strong>: +2 сила воли, +2 харизма</p><p><strong>Штраф</strong>: −3 Ловкость</p><p>Смелые, напористые и сильные люди, рожденные под знаком дракона Драгомаса - они просто прирождённые лидеры. Они излучают вокруг уверенность, и люди просто хотят следовать за ними. Эта харизма может быстро перейти грань непреклонного высокомерия, и то, что начинается с мягкого руководства, может закончиться тиранией. Лидерство сопряжено с ответственностью перед своими последователями, и рождённые под знаком дракона достаточно мудры, чтобы не забывать об этом.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "XW2NvNanJFFm25kn",
+        "effects": {
+          "JdfjRv02MNW2Jsgj": {
+            "sourceName": "Dragomas the Drake",
+            "name": "Дракон Драгомас",
+            "scripts": []
+          }
+        }
+      }
+    },
+    "YBNeaZ0Wt30jTWrD": {
+      "sourceName": "Mangonel Catapult",
+      "preparedName": "Мангонель (катапульта)",
+      "name": "Мангонель (катапульта)",
+      "description": "<p><strong>Расчёт</strong>: 6</p><p>Мангонель заряжается камнями или обломками, помещаемыми в большой ковш. Мангонель запускает свои боеприпасы, сгибая рычаг, удерживающий ковш, назад, а затем резко отпуская. </p><p>* Не может использоваться на дистанции В упор.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "YBNeaZ0Wt30jTWrD",
+        "effects": {}
+      }
+    },
+    "YGhl3ssslHwSFvhF": {
+      "sourceName": "Ogre Gutplate",
+      "preparedName": "Огровский набрюшник",
+      "name": "Огровский набрюшник",
+      "description": "<p>Массивная пластина из металла, твёрдого дерева, кости или кожи, набрюшник ценится ограми выше любой дубины. Пластина защищает живот огра, где расположено большинство его жизненно важных органов, и служит одновременно защитой и полотнищем подвигов носителя. На многих пластинах изображен символ Великой пасти - кольцо зазубренных зубов, символизирующих как голодного огрового бога, так и ненасытный аппетит самих огров.</p><p>* Огровские набрюшники для огров особенно подходят к их необычной анатомии, и уменьшенные, они обеспечат лишь неполную защиту представителям народов, у которых жизненно важные органы не сконцентрированы в животе.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "YGhl3ssslHwSFvhF",
+        "effects": {}
+      }
+    },
+    "ZUUXOvXrFOrxiKjs": {
+      "sourceName": "Ballista",
+      "preparedName": "Баллиста",
+      "name": "Баллиста",
+      "description": "<p><strong>Расчёт: </strong>4</p><p>Похожая на очень большой арбалет, баллиста может стрелять огромными болтами на дальние дистанции Она слишком тяжела для переноски, поэтому обычно крепится к неподвижной поверхности или использует колёсную платформу для перемещения по полю боя.</p><p>*Не может быть использована на дистанции В упор.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "ZUUXOvXrFOrxiKjs",
+        "effects": {}
+      }
+    },
+    "ZVCxV4ZCFR0uKhCd": {
+      "sourceName": "The Big Cross",
+      "preparedName": "Большой крест",
+      "name": "Большой крест",
+      "description": "<h4>Знак ясности</h4><p><strong>Классическое название</strong>: Азуриос</p><p><strong>Восход</strong>: Середина зимы</p><p><strong>Даты</strong>: Форхексен 28 – Нахексен 8</p><p><strong>Бог-покровитель</strong>: Ульрик</p><p><strong>Вид</strong>: Х</p><p><strong>Бонус</strong>: +2 сила, +2 сила воли</p><p><strong>Штраф</strong>: −3 инициатива</p><p>В сердце рождённых под Крестом нет места сомнениям. Путь, по которому им надо идти в этой жизни, кажется им очевидным и они разумно выбирают способы его придерживаться. Но эта рациональность может привести к предсказуемой пассивности и даже отрешённости от мира.</p><p>Если путь уже определён, зачем от него отклоняться? Важно, чтобы они находили, за что им стоит бороться в этой жизни, а не просто плыли по волнам судьбы куда угодно.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "ZVCxV4ZCFR0uKhCd",
+        "effects": {
+          "uzad2uO5yUawrLvF": {
+            "sourceName": "The Big Cross",
+            "name": "Большой крест",
+            "scripts": []
+          }
+        }
+      }
+    },
+    "aNKqLoQpyaGZubuB": {
+      "sourceName": "Self-Tuning Lute",
+      "preparedName": "Самонастраивающаяся лютня",
+      "name": "Самонастраивающаяся лютня",
+      "description": "<p>Музыкальные пуристы могут придираться, но менестрель с такой лютней может сосредоточится на выступлении, не переживая что инструмент фальшивит. Музыкант с такой лютней получает бонус +10 к проверкам Музицирования (лютня).</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "aNKqLoQpyaGZubuB",
+        "effects": {
+          "ZGUvseO2RFlneBuq": {
+            "sourceName": "Self-Tuning Lute",
+            "name": "Самонастраивающаяся лютня",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Self-Tuning Lute",
+                "label": "Самонастраивающаяся лютня",
+                "trigger": "dialog",
+                "script": "[Script.xPDMpOvC1ZBVxrNg]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "aTjsxMoe5NS45CHg": {
+      "sourceName": "Dwarf Flame Cannon",
+      "preparedName": "Гномская огнемётная пушка",
+      "name": "Гномская огнемётная пушка",
+      "description": "<p><strong>Расчёт</strong>: 4</p><p>Заряженная алхимической смесью в стволе, это оружие использует давление, чтобы выпустить обжигающую струю масла в ряду противника. Гномская огнемётная пушка дает каждой пораженной цели 2 + УУ @Condition[охвачен огнём]{горения}.</p><p>*Не может быть использована на дистанции В упор.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "aTjsxMoe5NS45CHg",
+        "effects": {
+          "Qik0iPs9QWCzLl7M": {
+            "sourceName": "Dwarf Flame Cannon",
+            "name": "Гномская огнемётная пушка",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Dwarf Flame Cannon",
+                "label": "Гномская огнемётная пушка",
+                "trigger": "applyDamage",
+                "script": "args.actor.addCondition(\"ablaze\", 2 + Number(args.opposedTest.attackerTest.result.SL))"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "anIlqJXFOIEzIOo1": {
+      "sourceName": "Vice",
+      "preparedName": "Порок",
+      "name": "Порок",
+      "description": "<p>Персонажа мучает необходимость предаться своему пороку, все его мысли постоянно крутятся вокруг предмета вожделения. Потакание пороку всегда достигает нездоровых величин - потакание еде значит не просто есть, а обжираться и есть всё, что можно, пока вас не разопрёт и не стошнит обратно. Всякий раз, сталкиваясь с объектом порока, персонаж должен пройти @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.5w5YLPNd6AaU4f85#psychology-test]{проверку психики}. Если персонаж проваливает проверку, он немедленно предаётся пороку, отказавшись от всех других действий и обязанностей. Потакание происходит до тех пор, пока это не доведёт до изнемождения,получая одну @Condition[устал]{усталость}. В конце каждого следующего раунда вы можете пройти еще одну проверку психики, чтоб избавится от состояния предавания пороку. Персонаж получает - 20 ко всем проверкам Харизмы и основанных на ней навыках с любыми персонажами, ставшись свидетелями вашего обжорства, так как ваше поведение вызывает отвращение. За каждый полный день, который вы проводите, воздерживаясь от порока, вы получаете накапливающийся модификатор -20 на все проверки психологии , пока снова не отдадитесь своему пороку.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "anIlqJXFOIEzIOo1",
+        "effects": {}
+      }
+    },
+    "bdfADP1yorlxEeo8": {
+      "sourceName": "Bonecrusher",
+      "preparedName": "Костедробилка",
+      "name": "Костедробилка",
+      "description": "<p>Персонаж громко хрустит костями, набивающими его рот, и одновременно изрыгает проклятия в адрес ближайшего врага. <em>Костедробилка</em> - <em>магический снаряд</em> с уроном +4, игнорирующий Класс брони цели, но не рейтинг выносливости. Кроме того, если атака наносит Травму, добавьте +20 к броску по таблице травм, чтобы определить её серьезность. \n\n<p> <b>Школа:</b> Всякий раз, когда огр-мясник успешное применяет заклинания Великой пасти, съеденное им подношение может восстановить его здоровье. Совершите бросок [[/r 1d10]]. Если результат 10 или равен или превышает ПС произносимого заклинания, Мясник восстанавливает раны, равные ПС заклинания.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "bdfADP1yorlxEeo8",
+        "effects": {
+          "xMA2O63Ra00d5SH9": {
+            "sourceName": "Bonecrusher",
+            "name": "Костедробилка",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Bonecrusher",
+                "label": "Костедробилка",
+                "trigger": "rollCastTest",
+                "script": "[Script.ngMm7SgtVqVovFJG]"
+              },
+              {
+                "index": 1,
+                "sourceLabel": "Ignore AP",
+                "label": "Игнорировать ОБ",
+                "trigger": "preApplyDamage",
+                "script": "[Script.KyswmGj1uG3QS3ng]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "bpXL5PpzkBkodsvU": {
+      "sourceName": "Self-Cleaning Commode",
+      "preparedName": "Самоочищающийся туалет",
+      "name": "Самоочищающийся туалет",
+      "description": "<p>Эта лёгкая керамика больше всего ассоциируется с Мариенбургом, где эльфийская община преподносит такие в качестве подарков своим соседям-людям. Персонаж, регулярно пользующийся этим устройством, получает +10 к проверкам стойкости для сопротивления заражения болезнью.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "bpXL5PpzkBkodsvU",
+        "effects": {
+          "xr84hkaQ3fHVis0Q": {
+            "sourceName": "Self-Cleaning Commode",
+            "name": "Самоочищающийся туалет",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Endurance to resist contracting a disease",
+                "label": "Стойкость против заражения болезнью",
+                "trigger": "dialog",
+                "script": "[Script.xPDMpOvC1ZBVxrNg]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "bzkfIM0QME7r5dVA": {
+      "sourceName": "The Limner's Line",
+      "preparedName": "Линия художника",
+      "name": "Линия художника",
+      "description": "<h4>Знак аккуратности</h4><p><strong>Классическое название</strong>: Веррос</p><p><strong>Восход</strong>: Поздняя зима/ранняя весна</p><p><strong>Даты</strong>: Нахексен 9 – Нахексен 28 </p><p><strong>Бог-покровитель</strong>: Валлих (кузнечество и кораблестроение (Нордланд))</p><p><strong>Вид</strong>: Лучник с натянутым луком</p><p><strong>Бонус</strong>: +2 дальний бой, +2 проворство</p><p><strong>Штраф</strong>: −3 ближний бой</p><p>Рождённые под Линией художника появились на свет, чтобы стать поэтами, живописцами, скульпторами - творцами всех мастей. Они создают красоту, куда бы они не пошли, и даже не нашедшие себя в сфере искусства всё равно находят способ превратить своё дело в некоторого рода искусство. Если они врачи, то хирурги. Если они солдаты, то мастера тактики. Эти люди должны позаботиться о том, чтобы не быть излишне придирчивыми по отношению к себе или своим творениям.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "bzkfIM0QME7r5dVA",
+        "effects": {
+          "htN5GfxFvijdjCrS": {
+            "sourceName": "The Limner's Line",
+            "name": "Линия художника",
+            "scripts": []
+          }
+        }
+      }
+    },
+    "cabZ5ORtrR4pUw9u": {
+      "sourceName": "Hellblaster Volley Cannon",
+      "preparedName": "Залповая пушка 'Адострел'",
+      "name": "Залповая пушка 'Адострел'",
+      "description": "<p><strong>Расчёт</strong>: 4</p><p>Адострел имеет девять стволов, разделённых на секции по три, расположенных треугольником вокруг вала. Пушка может стрелять каждой секцией по отдельности или всеми треми, быстро чередуя их, уничтожая таким образом множество врагов.</p><p>* Не может использоваться на дистанции В упор.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "cabZ5ORtrR4pUw9u",
+        "effects": {}
+      }
+    },
+    "d9JEfRKOfPoxeGI8": {
+      "sourceName": "Leadbelcher Gun",
+      "preparedName": "Свинцемёт",
+      "name": "Свинцемёт",
+      "description": "<p> Свинцемёт - вершина технической мысли огров, по сути являющийся пушкой. Казнозарядное, очень трудное в обращении и поджигающееся простым фитильным запалом, свинцемёт обычно заряжается всем, что есть под рукой у огра: цепи, кирпичи, свинцовая дробь, камни, гвозди и подобные вещи. Иногда их заряжают найденными на поле боя настоящими пушечными ядрами, которые огры не чураются забрать с поля боя после использования. Особо удачливые ядра получают имена и носятся как ценные товарищи.</p><p>* Доступность дана для Империи. В Империи часть вещей менее доступна, чем в Горах скорби.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "d9JEfRKOfPoxeGI8",
+        "effects": {}
+      }
+    },
+    "eLlWpeWCct2BDNU2": {
+      "sourceName": "Braingobbler",
+      "preparedName": "Мозгожор",
+      "name": "Мозгожор",
+      "description": "<p>Персонаж съедает целиком голову с мозгами и прочим содержимым. Его чувствительный пищевод извлекает сущность ночных кошмаров прямо из недр пожранного разума и проецирует на вас волной тошнотворного страха. Персонаж получает черту @UUID[Compendium.wfrp4e-core.items.pTorrE0l3VybAbtn]{аура страха 2}. Если покойный владелец съеденной головы состоял с кем-либо в близких отношениях, кто подвергается действию этой ауры страха, то этот близкий человек проходит проверки сопротивления страху со штрафом -20. \n\n<p> <b>Школа:</b> Всякий раз, когда огр-мясник успешное применяет заклинания Великой пасти, съеденное им подношение может восстановить его здоровье. Совершите бросок [[/r 1d10]]. Если результат 10 или равен или превышает ПС произносимого заклинания, Мясник восстанавливает раны, равные ПС заклинания.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "eLlWpeWCct2BDNU2",
+        "effects": {
+          "sNlzXgOLrjedaod5": {
+            "sourceName": "Braingobbler",
+            "name": "Мозгожор",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Braingobbler",
+                "label": "Мозгожор",
+                "trigger": "rollCastTest",
+                "script": "[Script.Bv3431tnG3VKaTJr]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "es7QOSaTG0hT2Qe5": {
+      "sourceName": "Large",
+      "preparedName": "Большой",
+      "name": "Большой",
+      "description": "<p>Персонаж несколько больше многих прочих жителей Старого Света. Полные правила для разницы @UUID[Compendium.wfrp4e-core.items.8slW8CJ2oVTxeQ6q]{размеров}.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "es7QOSaTG0hT2Qe5",
+        "effects": {
+          "VBi2XOeiW75gQ1g7": {
+            "sourceName": "Large",
+            "name": "Большой размер",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Large",
+                "label": "Большой размер",
+                "trigger": "calculateSize",
+                "script": "[Script.zphxI8VSWbNQCMBy]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "gnDvFsTIenXj9TBP": {
+      "sourceName": "Big Ogre Club (Scavenged Blades)",
+      "preparedName": "Большая огрова дубина (щербатые лезвия)",
+      "name": "Большая огрова дубина (щербатые лезвия)",
+      "description": "<p>Огры любят свои дубины. Это самый простой вид оружия, который огры находят превосходным. Они рыщут по полям сражений, лесам и кладбищам в поисках хорошей крепкой дубины, а также материалов, чтобы отделать дубину на свой вкус. Если вы хотите, то можно модернизировать огрову дубину или большую огрову дубину, добавив одно из Достоинств.</p><p><strong>Щербатые лезвия</strong>: Оружие приобретает достоинство @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8#hack]{разрубающее}.</p><p>* Доступность дана для Империи. В Империи часть вещей менее доступна, чем в Горах скорби.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "gnDvFsTIenXj9TBP",
+        "effects": {}
+      }
+    },
+    "hD51Sh89tq9DcOpQ": {
+      "sourceName": "Leadbelcher Shot",
+      "preparedName": "Заряд свинцемёта",
+      "name": "Заряд свинцемёта",
+      "description": "",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "hD51Sh89tq9DcOpQ",
+        "effects": {}
+      }
+    },
+    "hH7PB0Fus8z1TyZy": {
+      "sourceName": "Wanderer’s Charm",
+      "preparedName": "Оберег путника",
+      "name": "Оберег путника",
+      "description": "<p>Эти обереги часто делаются знахарями и очень любимы путниками, коробейниками, солдатами и бродягами. Носящие этот оберег могут игнорировать первое состояние @Condition[устал]{усталости}, получаемым каждый день.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "hH7PB0Fus8z1TyZy",
+        "effects": {
+          "sQFW7JK6hAHRXFH0": {
+            "sourceName": "Wanderer’s Charm",
+            "name": "Оберег странника",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Wanderer’s Charm",
+                "label": "Оберег странника",
+                "trigger": "update",
+                "script": "[Script.3IGO7xEjRjat937X]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "hn7HlJ1PjRJNxO3B": {
+      "sourceName": "Feast of the Fallen",
+      "preparedName": "Пирование павшими",
+      "name": "Пирование павшими",
+      "description": "<p>Персонаж омывает свой клинок в крови поверженного врага, притягивая силу и пробуждая жажду крови в союзниках. Любые существа по вашему выбору в области воздействия получают черту @UUID[Compendium.wfrp4e-core.items.3MDwUi7BVxwWVI2V]{вампир} на время действия заклинания. Цели не нужно кусать своих противников, чтобы воспользоваться преимуществами этой черты - достаточно просто ранить их в ближнем бою. Кроме того, они продолжают извлекать пользу от лечения из других источников. Если цель желает отклонить дар, она может пройти <strong>Заурядную (+20) проверку стойкости</strong>, чтобы проигнорировать эффект.</p><p>На время действия этого заклинания кровь врагов фонтанирует в сторону целей заклинания, стекая по клинкам, поднимаясь по рукам к их ртам. Огров не беспокоит этот эффект, большая часть этим лишь наслаждается, но не-огры обычно считают что это очень выбивает из колеи. Когда действие заклинания заканчивается, не-огры, ранившие хотя бы одного противника в ближнем бою, будучи под действие заклинания, должны пройти <strong>Сложную (+0) проверку хладнокровия</strong> или получить состояние @Condition[ошеломлён]. Кроме того, если они ранили противника с чертами @UUID[Compendium.wfrp4e-core.items.V0c3qBU1CMm8bmsW]{Заразный} или @UUID[Compendium.wfrp4e-core.items.PaW8i6JOxWyzAZCz]{Разносчик}, любая проверка, чтобы избежать негативных последствий этих черт, проходит с штрафом -30.\n\n<p> <b>Школа:</b> Всякий раз, когда огр-мясник успешное применяет заклинания Великой пасти, съеденное им подношение может восстановить его здоровье. Совершите бросок [[/r 1d10]]. Если результат 10 или равен или превышает ПС произносимого заклинания, Мясник восстанавливает раны, равные ПС заклинания.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "hn7HlJ1PjRJNxO3B",
+        "effects": {
+          "xB15bhzuTBRBzSSl": {
+            "sourceName": "Feast of the Fallen",
+            "name": "Пирование павшими",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Feast of the Fallen",
+                "label": "Пирование павшими",
+                "trigger": "applyDamage",
+                "script": "[Script.iMu8BZ7eHMAbPEO1]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "iProkviesGNgdJoA": {
+      "sourceName": "The Drummer",
+      "preparedName": "Барабанщик",
+      "name": "Барабанщик",
+      "description": "<h4>Знак излишеств и гедонизма</h4><p><strong>Классическое название</strong>: Лупиос</p><p><strong>Восход</strong>: Позднее лето/ранняя осень</p><p><strong>Даты</strong>: Нахгехайм 3 – Нахгехайм 24</p><p><strong>Бог-покровитель</strong>: Лупос (хищники (Хохланд))</p><p><strong>Вид</strong>: Барабан</p><p><strong>Бонус</strong>: Получите один уровень таланта @UUID[Compendium.wfrp4e-core.items.hTgrGkWnmIR4xhVe]{Заядлый кутила}</p><p><strong>Штраф</strong>: −3 силы воли</p><p>Человека, рожденного под знаком Барабанщика, отличает экспансивный, излишний кураж. Они ничего не делают в меру, а если отдают, то отдают все без остатка. Барабанщик никогда не забывает раздавать милостыню бедным или заботиться о больных членах семьи. Они также никогда не отказываются от приглашений в таверну или на вечеринку. С ними приятно находиться рядом, но эта радость может быстро превратиться в губительный избыток и гедонизм, если ее не контролировать.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "iProkviesGNgdJoA",
+        "effects": {
+          "5IdLOVKLEpGfscaO": {
+            "sourceName": "The Drummer",
+            "name": "Барабанщик",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "The Drummer",
+                "label": "Барабанщик",
+                "trigger": "immediate",
+                "script": "[Script.alJgj25l3239h2SW]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "jNMG59h9Oi4GW8WY": {
+      "sourceName": "Crown of Command",
+      "preparedName": "Корона командования",
+      "name": "Корона командования",
+      "description": "<p>Эти золотые обручи были созданы волшебниками, чтобы помогать командирам вдохновлять солдат. Владелец Короны командования получает +20 к проверкам Лидерства.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "jNMG59h9Oi4GW8WY",
+        "effects": {
+          "RM7hed7dGzRtXwuT": {
+            "sourceName": "Crown of Command",
+            "name": "Корона командования",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Crown of Command",
+                "label": "Корона командования",
+                "trigger": "dialog",
+                "script": "[Script.9ZFPDCk8M2TQxh7x]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "lT2gWAGQTH4yS5Kw": {
+      "sourceName": "Earthing Rod",
+      "preparedName": "Заземляющий жезл",
+      "name": "Заземляющий жезл",
+      "description": "<p>Жезл помогает управлять рассеиванием магической силы. При использовании палочки заклинатель может проигнорировать одну малую магическую отдачу при проверке Сотворения или Концентрации. Неистовая магия задерживается в жезле и медленно утекает в земли на протяжении следующих 24 часов. В течение этого времени жезл не может быть использовать для игнорирования отдачи.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "lT2gWAGQTH4yS5Kw",
+        "effects": {}
+      }
+    },
+    "mO9mo7PXRebbT2aO": {
+      "sourceName": "Rhinox Rustler",
+      "preparedName": "Носорогокрад",
+      "name": "Носорогокрад",
+      "description": "<p>@UUID[Compendium.wfrp4e-archives2.journals.S7vMviNshIrqOuRq.JournalEntryPage.VG6hzml2D3Oe7PYX]{Заводчик носорогов}</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "mO9mo7PXRebbT2aO",
+        "effects": {}
+      },
+      "skills": [
+        "Атлетика",
+        "Подкуп",
+        "Кутёж",
+        "Уклонение",
+        "Стойкость",
+        "Рукопашный бой (основное)",
+        "Наблюдательность",
+        "Стрельба (ловчее)",
+        "Обращение с ловушками",
+        "Скрытность (дикая природа)"
+      ],
+      "talents": [
+        "Поспешное бегство",
+        "Меткость",
+        "Скиталец",
+        "Проходимец (горы)"
+      ],
+      "trappings": [
+        "Рюкзак",
+        "Ручное оружие",
+        "Кожаная куртка",
+        "Сеть/лассо"
+      ],
+      "sourceArrays": {
+        "skills": [
+          "Athletics",
+          "Bribery",
+          "Consume Alcohol",
+          "Dodge",
+          "Endurance",
+          "Melee (Basic)",
+          "Perception",
+          "Ranged (Entangling)",
+          "Set Trap",
+          "Stealth (Rural)"
+        ],
+        "talents": [
+          "Flee!",
+          "Marksman",
+          "Rover",
+          "Strider (Mountains)"
+        ],
+        "trappings": [
+          "Backpack",
+          "Hand Weapon",
+          "Leather Jack",
+          "Lasso"
+        ]
+      }
+    },
+    "moUZGlSpRbBHoIOx": {
+      "sourceName": "Protection Ring",
+      "preparedName": "Кольцо защиты",
+      "name": "Кольцо защиты",
+      "description": "<p>Эти кольца зачарованы на защиту владельца от определённого вида существ. Чтобы определить от какого, совершите бросок по @Table[random-creature]{таблице случайных существ}. Владелец уменьшает вдвое весь урон, полученный от соответствующего существа.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "moUZGlSpRbBHoIOx",
+        "effects": {}
+      }
+    },
+    "n1fVud1csGlzM9fI": {
+      "sourceName": "Big Ogre Club (Metal Plates)",
+      "preparedName": "Большая огрова дубина (металлические накладки)",
+      "name": "Большая огрова дубина (металлические накладки)",
+      "description": "<p>Огры любят свои дубины. Это самый простой вид оружия, который огры находят превосходным. Они рыщут по полям сражений, лесам и кладбищам в поисках хорошей крепкой дубины, а также материалов, чтобы отделать дубину на свой вкус. Если вы хотите, то можно модернизировать огрову дубину или большую огрову дубину, добавив одно из Достоинств.</p><p><strong>Металлические накладки</strong>: Оружие приобретает достоинство @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8#pummel]{ошеломляющее}.</p><p>* Доступность дана для Империи. В Империи часть вещей менее доступна, чем в Горах скорби.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "n1fVud1csGlzM9fI",
+        "effects": {}
+      }
+    },
+    "nAOj5eE2ZiNVjnZu": {
+      "sourceName": "Ogre Club (Rusty Spikes)",
+      "preparedName": "Огрова дубина (ржавые шипы)",
+      "name": "Огрова дубина (ржавые шипы)",
+      "description": "<p>Огры любят свои дубины. Это самый простой вид оружия, который огры находят превосходным. Они рыщут по полям сражений, лесам и кладбищам в поисках хорошей крепкой дубины, а также материалов, чтобы отделать дубину на свой вкус. Если вы хотите, то можно модернизировать огрову дубину или большую огрову дубину, добавив одно из Достоинств.</p><p><strong>Ржавые шипы</strong>: Оружие приобретает достоинство @UUID[JournalEntry.sLomXnc8R8518cWN.JournalEntryPage.wdXywmb7FBVipOw8#penetrating]{бронебойное}.</p><p>* Доступность дана для Империи. В Империи часть вещей менее доступна, чем в Горах скорби.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "nAOj5eE2ZiNVjnZu",
+        "effects": {}
+      }
+    },
+    "p393CzvM6OyRQvzt": {
+      "sourceName": "Trollguts",
+      "preparedName": "Троллиное нутро",
+      "name": "Троллиное нутро",
+      "description": "<p>Персонаж проглатывает небольшое количество Тролльей желчи или чего-то подобного, вбирая в себя и извлекая мощные регенеративные способности существа, а затем передавая их кому-либо. Цель заклинания получает черту @UUID[Compendium.wfrp4e-core.items.SfUUdOGjdYpr3KSR]{регенерация}. Огры не получают дополнительных эффектов от этого заклинания, но другие народы могут быть не так везучи. Любой, кроме огра, восстанавливающий раны под воздействием этого заклинания, должен пройти <strong>Заурядную (+20) проверку стойкости</strong>. В случае провала новая плоть, растущая поверх ран, приобретает пятнистый зелёный или синий цвет, совсем не похожий на кожу тролля. Эффект особенно заметен, если заклинание приводит к отрастанию конченостей. Хотя эффект и не является мутацией, любой увидевший его, скорее всего, воспримет его как мутацию со всеми возможными неприятными последствиями.\n\n<p> <b>Школа:</b> Всякий раз, когда огр-мясник успешное применяет заклинания Великой пасти, съеденное им подношение может восстановить его здоровье. Совершите бросок [[/r 1d10]]. Если результат 10 или равен или превышает ПС произносимого заклинания, Мясник восстанавливает раны, равные ПС заклинания.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "p393CzvM6OyRQvzt",
+        "effects": {
+          "iSs8OeNpPic81sTN": {
+            "sourceName": "Trollguts",
+            "name": "Троллиное нутро",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Trollguts",
+                "label": "Троллиное нутро",
+                "trigger": "endRound",
+                "script": "[Script.Z6OmmC0irJzxSnMH]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "pcSjsH0aQmpFtbS1": {
+      "sourceName": "Butcher",
+      "preparedName": "Мясник",
+      "name": "Мясник",
+      "description": "<p>@UUID[Compendium.wfrp4e-archives2.journals.S7vMviNshIrqOuRq.JournalEntryPage.oHnxmjA1CtIhumiz]{Огр-мясник}</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "pcSjsH0aQmpFtbS1",
+        "effects": {}
+      },
+      "skills": [
+        "Лазание",
+        "Кутёж",
+        "Стойкость",
+        "Сплетничество",
+        "Запугивание",
+        "Язык (магический)",
+        "Рукопашный бой (основное)",
+        "Молитвословие",
+        "Ремесло (мясник)",
+        "Выживание",
+        "Искусство (разделка туш)",
+        "Концентрация (Великая пасть)",
+        "Запугивание",
+        "Стрельба (метательное)",
+        "Знание (Великая пасть)",
+        "Тайнопись (Великая пасть)"
+      ],
+      "talents": [
+        "Обострённое восприятие (вкус)",
+        "Школа магии (Великая пасть)",
+        "Эфирный унисон",
+        "Видения свыше"
+      ],
+      "trappings": [
+        "Резные кости животных (гримуар)",
+        "Рабочие инструменты (мясник)"
+      ],
+      "sourceArrays": {
+        "skills": [
+          "Climb",
+          "Consume Alcohol",
+          "Endurance",
+          "Gossip",
+          "Intimidate",
+          "Язык (магический)",
+          "Melee (Basic)",
+          "Pray",
+          "Trade (Butcher)",
+          "Outdoor Survival",
+          "Art (Butchery)",
+          "Channelling (Great Maw)",
+          "Intimidate",
+          "Ranged (Throwing)",
+          "Lore (The Great Maw)",
+          "Secret Signs (The Great Maw)"
+        ],
+        "talents": [
+          "Acute Sense (Taste)",
+          "Arcane Magick (Great Maw)",
+          "Aethyric Attunement",
+          "Holy Visions"
+        ],
+        "trappings": [
+          "Carved Animal Bones (Grimoire)",
+          "Trade Tools (Butcher)"
+        ]
+      },
+      "sourceArrayAliases": {
+        "skills": {
+          "5": [
+            "Language (Magick)"
+          ]
+        }
+      }
+    },
+    "piUKD8eK4NDX2XIh": {
+      "sourceName": "Cacklefax the Cockerel",
+      "preparedName": "Петушок Какельфакс",
+      "name": "Петушок Какельфакс",
+      "description": "<h4>Знак денег и купцов</h4><p><strong>Имя на классическом</strong>: Какерос</p><p><strong>Восход</strong>: Зима</p><p><strong>Календарные даты</strong>: Ульрикцайт 1 – Ульрикцайт 16</p><p><strong>Бог-покровитель</strong>: Какарол (лошади (Остланд))</p><p><strong>Вид</strong>: Две монеты</p><p><strong>Бонус</strong>: Получите один уровень таланта @UUID[Compendium.wfrp4e-core.items.epPBu7x6BRWp2PHG]{Коммерсант}</p><p><strong>Штраф</strong>: −3 Харизмы</p><p>Рождённые под знаком петушка Какельфакса имеют высокие цели и смотрят в будущее. Вы редко встретите среди них расточительную личность. Они добиваются своих целей самыми прямолинейными методами, а это значит приобретение связей, собственности, покровителей, навыков, а главное денег. Уймы денег. Поднимаясь, они заботятся о тех, кто заботился о них. Многие знаменитые и честолюбивые политики Старого Света родились под этим знаком, или, по крайней мере, утверждают это. Другие знаки могут считать петушка жадным или безжалостным, но они не знают правды: успеха в этом мире не достается самым достойным. Он покупается - за золото или кровь.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "piUKD8eK4NDX2XIh",
+        "effects": {
+          "Fa1lq3QrE69pmbnt": {
+            "sourceName": "Cacklefax the Cockerel",
+            "name": "Петушок Какельфакс",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Dealmaker",
+                "label": "Коммерсант",
+                "trigger": "immediate",
+                "script": "[Script.HX6CjNapYdC0VmQ8]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "pqaG2eGAts2LEEy9": {
+      "sourceName": "Bellicose Cup",
+      "preparedName": "Кубок воинственности",
+      "name": "Кубок воинственности",
+      "description": "<p>Мрачная утварь для питья, родом из Норски, чьи редкие экземпляры иногда добираются и до Империи. Они бывают разных форм - некоторые вырезаны из дерева, другие представляют из себя черепа, залепленные смолой и обмазанные глиной. Обычно их используют в ритуальном бою, до начала или после окончания; нередко погибшие в таких схватках пожертвовали свои черепа на создание новой чаши.</p><p>Один человек может испить из кубка раз в день. Употребление воды из кубка позволяет испившему игнорировать первое за день состояние @Condition[истекает кровью]{кровотечения}. Употребление крепкого алкоголя из кубка позволяет испившему игнорировать первую Травму, полученную в этот день. Испив свежей крови поверженного врага из кубка, персонаж получает @Exp[100, Drank the blood of a fallen enemy]{100 опыта} и один пункт Скверны.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "pqaG2eGAts2LEEy9",
+        "effects": {}
+      }
+    },
+    "r5Aip7SJmOSWI6ur": {
+      "sourceName": "All-Seeing Mirror",
+      "preparedName": "Всевидящее зеркало",
+      "name": "Всевидящее зеркало",
+      "description": "<p>Эти зеркала сделаны парами. Вместо того, чтобы видеть своё отражение в зеркале, персонаж видит всё, что находится перед связанным зеркалом. Эффект теряется, если зеркала разделяет более 500 миль. Если персонажи найдут всевидящее зеркало, вероятность того что связанное зеркало находится у кого-то другого, составляет 70%.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "r5Aip7SJmOSWI6ur",
+        "effects": {}
+      }
+    },
+    "rdyMwX9lrSSkM4QY": {
+      "sourceName": "Rhinox Breaker",
+      "preparedName": "Объездчик носорогов",
+      "name": "Объездчик носорогов",
+      "description": "<p>@UUID[Compendium.wfrp4e-archives2.journals.S7vMviNshIrqOuRq.JournalEntryPage.VG6hzml2D3Oe7PYX]{Заводчик носорогов}</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "rdyMwX9lrSSkM4QY",
+        "effects": {}
+      },
+      "skills": [
+        "Атлетика",
+        "Подкуп",
+        "Кутёж",
+        "Уклонение",
+        "Стойкость",
+        "Рукопашный бой (основное)",
+        "Наблюдательность",
+        "Стрельба (ловчее)",
+        "Обращение с ловушками",
+        "Скрытность (дикая природа)",
+        "Обращение с животными",
+        "Дрессировка (ринокс)",
+        "Усмирение животных",
+        "Знание (риноксы)",
+        "Стойкость",
+        "Стрельба (метательное)",
+        "Хладнокровие",
+        "Запугивание",
+        "Выживание",
+        "Верховая езда (ринокс)"
+      ],
+      "talents": [
+        "Отвлекающий манёвр",
+        "Целеустремлённость",
+        "Бывалый путешественник",
+        "Лихой наездник"
+      ],
+      "trappings": [
+        "Ринокс",
+        "Брюшная пластина из черепа ринокса",
+        "Перемётные сумки"
+      ],
+      "sourceArrays": {
+        "skills": [
+          "Athletics",
+          "Bribery",
+          "Consume Alcohol",
+          "Dodge",
+          "Endurance",
+          "Melee (Basic)",
+          "Perception",
+          "Ranged (Entangling)",
+          "Set Trap",
+          "Stealth (Rural)",
+          "Animal Care",
+          "Animal Training (Rhinox)",
+          "Charm Animal",
+          "Lore (Rhinox)",
+          "Endurance",
+          "Ranged (Throwing)",
+          "Cool",
+          "Intimidate",
+          "Outdoor Survival",
+          "Ride (Rhinox)"
+        ],
+        "talents": [
+          "Distract",
+          "Resolute",
+          "Seasoned Traveller",
+          "Trick Riding"
+        ],
+        "trappings": [
+          "Rhinox",
+          "Rhinox Skull Gutplate",
+          "Saddlebags"
+        ]
+      }
+    },
+    "rksId8SL22pwZT76": {
+      "sourceName": "Chain Trap",
+      "preparedName": "Цепная ловушка",
+      "name": "Цепная ловушка",
+      "description": "<p>Набор капканов на длинной и крепкой цепи это часто используемый ограми охотниками инструмент. Первоначально задуманная для закрепления на камнях и деревьях в надежде, что жертва попадётся, однако большинству огров не достаёт терпения для такого подхода. Рни считают более целесообразным просто бросить ловушку в цель.</p><p>*Доступность дана для Империи. В Империи часть вещей менее доступна, чем в Горах скорби.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "rksId8SL22pwZT76",
+        "effects": {}
+      }
+    },
+    "rvytpiONITDAq49X": {
+      "sourceName": "Mortar",
+      "preparedName": "Мортира",
+      "name": "Мортира",
+      "description": "<p><strong>Расчёт</strong>: 6</p><p>Специально спроектированные для непрямой стрельбы, мортиры используются для обстрелов по большой дуге, идущей над стенами замка, и поражения находящихся внутри солдат разрывными снарядами со шрапнелью. </p><p>*Не может использоваться если расстояние до цели меньше Короткой дистанции.</p><p>* Не может использоваться на дистанции В упор..</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "rvytpiONITDAq49X",
+        "effects": {}
+      }
+    },
+    "ry3jgN7jds1ii5ft": {
+      "sourceName": "Ironfist",
+      "preparedName": "Железный кулак",
+      "name": "Железный кулак",
+      "description": "<p>Железный кулак - это массивная перчатка, используемая ограми для отражения ударов и проламывания голов, она слово дань священному искусству бойцовских ям. Железные кулаки крепко зафиксированы на руке огра - его невозможно обезоружить. Огры могут использовать руку, на которую надет железный кулак, для удержания оружия или выполнения простых действий.</p><p>* Доступность дана для Империи. В Империи часть вещей менее доступна, чем в Горах скорби.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "ry3jgN7jds1ii5ft",
+        "effects": {}
+      }
+    },
+    "tQBZbnYky5Y3gRVa": {
+      "sourceName": "Grungni's Baldric",
+      "preparedName": "Перевязь Грунгни",
+      "name": "Перевязь Грунгни",
+      "description": "<h4>Знак воинского стремления</h4><p><strong>Классическое название</strong>: Гилеон</p><p><strong>Восход</strong>: Поздняя весна/раннее лето</p><p><strong>Даты</strong>: Пфлугцайт 32 – Сигмарцайт 22 </p><p><strong>Бог-покровитель</strong>: Грунгни (гномы, кузня (Штирланд)), Маргилео (Честь (Аверланд))</p><p><strong>Вид</strong>: Гном с перевязью</p><p><strong>Бонус</strong>: +2 ближний бой, +2 сила воли</p><p><strong>Штраф</strong>: −3 харизма</p><p>Перевязь Грунгни священна для гномов и солдат, и поэтому родившиеся под её сиянием благородны, дисциплинированны и от природы склонны к солдатской жизни. Даже те, кто не стал солдатами, склонны подходить к своей личной жизни с военной строгостью. Людям, рожденным под знаком Перевязи, трудно расслабляться и получать удовольствие от простых жизненных радостей. Люди, рожденные под более спокойными знаками, могут счесть их излишне целеустремленными и лишенными чувства юмора.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "tQBZbnYky5Y3gRVa",
+        "effects": {
+          "MN4CqqeEg9h1U99a": {
+            "sourceName": "Grungni's Baldric",
+            "name": "Перевязь Грунгни",
+            "scripts": []
+          }
+        }
+      }
+    },
+    "v6aCGTymcoYctvK4": {
+      "sourceName": "The Gloaming",
+      "preparedName": "Сумерки",
+      "name": "Сумерки",
+      "description": "<h4>Знак иллюзий и тайн</h4><p><strong>Классическое название</strong>: Тартотес</p><p><strong>Восход</strong>: Весна</p><p><strong>Даты</strong>: Пфлугцайт 8 – Пфлугцайт 31</p><p><strong>Бог-покровитель</strong>: Морр</p><p><strong>Вид</strong>: Скопление красных и голубых звезд, проявляющееся только в сумерках</p><p><strong>Бонус</strong>: +2 интеллек, +2 инициатива</p><p><strong>Штраф</strong>: −3 сила воли</p><p>Звезды, образующие Сумерки, видны при определенных условиях - в сумерках. Люди, рожденные во мраке, - сомневающиеся и скептичные. Этот скептицизм может перерасти в паранойю и необоснованную подозрительность ко всему, чего они не могут увидеть или потрогать. Метафизическое, теоретическое — ничто из этого не вызывает доверия. Надежна только осязаемая, физическая реальность мира. В своих лучших проявлениях уроженцы Сумрака - блестящие исследователи и ученые. Они часто склонны к колдовству, несмотря на свое недоверие ко всему мистическому.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "v6aCGTymcoYctvK4",
+        "effects": {
+          "9DCH6UVK1FkJGdeH": {
+            "sourceName": "The Gloaming",
+            "name": "Сумерки",
+            "scripts": []
+          }
+        }
+      }
+    },
+    "v6tDcZ2DoGfpqdbN": {
+      "sourceName": "Battering Ram",
+      "preparedName": "Таран",
+      "name": "Таран",
+      "description": "<p><strong>Расчёт</strong>: 6</p><p>Таран состоит из тяжелого ствола дерева, подвешенного на деревянную раму с колёсами цепями или канатами и используется для снова дверей и ворот. Некоторые имеют металлическое оголовье с шипами, другие же наконечники бывают выкованы в виде бараньей головы.</p><p>*Тараны наносят урон только дверям и воротам. В противном случае они считаются импровизированным оружием.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "v6tDcZ2DoGfpqdbN",
+        "effects": {}
+      }
+    },
+    "vaYrY4LZL0VcYwh9": {
+      "sourceName": "Rhya's Cauldron",
+      "preparedName": "Котёл Райи",
+      "name": "Котёл Райи",
+      "description": "<h4>Знак милосердия, смерти и созидания</h4><p><strong>Классическое название</strong>: Рионес</p><p><strong>Восход</strong>: Ранняя зима</p><p><strong>Даты</strong>: Кальдцайт 18 – Кальдцайт 33</p><p><strong>Бог-покровитель</strong>: Райя</p><p><strong>Вид</strong>: Котёл</p><p><strong>Бонус</strong>: Получите один уровень таланта @UUID[Compendium.wfrp4e-core.items.mgeiaDZXei7JBEgo]{железная воля}</p><p><strong>Штраф</strong>: −3 проворство</p><p>Котел Райи почитается астромантами, волшебниками Нефритового и Аметистового орденов, а также астрологами. Это связано с зарождением нового в природе, а также неизбежной гибелью. Известно, что люди, рожденные под его светом, праведны в своих идеалах и милосердны к невинным. Независимо от своего положения в жизни, они безжалостны в своем стремлении к справедливости. Эта безжалостность, если ее не контролировать, может сделать их беспечными и даже черствыми по отношению к жизни и благополучию других.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "vaYrY4LZL0VcYwh9",
+        "effects": {
+          "fqjWefy5ioHT8PUq": {
+            "sourceName": "Rhya's Cauldron",
+            "name": "Котёл Райи",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Rhya's Cauldron",
+                "label": "Котёл Райи",
+                "trigger": "immediate",
+                "script": "[Script.pG5OVokZzCRHIrwz]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "x7fwZKSYo0QCpdkh": {
+      "sourceName": "Maneater",
+      "preparedName": "Людоед",
+      "name": "Людоед",
+      "description": "<p>@UUID[Compendium.wfrp4e-archives2.journals.S7vMviNshIrqOuRq.JournalEntryPage.kxcmiebXRV7PPs8Y]{Людоед}</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "x7fwZKSYo0QCpdkh",
+        "effects": {}
+      },
+      "skills": [
+        "Атлетика",
+        "Кутёж",
+        "Хладнокровие",
+        "Уклонение",
+        "Стойкость",
+        "Азартные игры",
+        "Запугивание",
+        "Язык (боевой арго)",
+        "Рукопашный бой (основное)",
+        "Выживание",
+        "Артистизм (рёв)",
+        "Сплетничество",
+        "Знание (местные края)",
+        "Рукопашный бой (двуручное)",
+        "Стрельба (пороховое)"
+      ],
+      "talents": [
+        "Могучий удар",
+        "Этикет (худышки)",
+        "Бывалый путешественник",
+        "Быстрая перезарядка"
+      ],
+      "trappings": [
+        "Местная одежда",
+        "Брюшная пластина",
+        "Двуручное оружие или огрский пистолет"
+      ],
+      "sourceArrays": {
+        "skills": [
+          "Athletics",
+          "Consume Alcohol",
+          "Cool",
+          "Dodge",
+          "Endurance",
+          "Gamble",
+          "Intimidate",
+          "Язык (боевой арго)",
+          "Melee (Basic)",
+          "Outdoor Survival",
+          "Entertain (Bellow)",
+          "Gossip",
+          "Lore (Local)",
+          "Melee (Two-handed)",
+          "Ranged (Blackpowder)"
+        ],
+        "talents": [
+          "Strike Mighty Blow",
+          "Etiquette (Slims)",
+          "Seasoned Traveller",
+          "Rapid Reload"
+        ],
+        "trappings": [
+          "Local Clothing",
+          "Gutplate",
+          "Two-handed Weapon or Ogre Pistol"
+        ]
+      },
+      "sourceArrayAliases": {
+        "skills": {
+          "7": [
+            "Language (Battle)"
+          ]
+        }
+      }
+    },
+    "xTHpFWq5ZBFFgXQ7": {
+      "sourceName": "Forbidden Rod",
+      "preparedName": "Запретный жезл",
+      "name": "Запретный жезл",
+      "description": "<p>Этот опасный волшебный артефакт помогает направлять Ветра магии, истощая жизненные силы владельца. Если заклинатель пытается произнести заклинание, но проваливает сотворение, он может потерять до трёх пунктов здоровья, добавляя +1 УУ к проверке сотворения за каждый пункт. После использования этой способности Запретный жезл нельзя использовать в течение 24 часов.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "xTHpFWq5ZBFFgXQ7",
+        "effects": {
+          "1IFii1BcDwkZARst": {
+            "sourceName": "Forbidden Rod",
+            "name": "Запретный жезл",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Casting Test",
+                "label": "Проверка сотворения",
+                "trigger": "rollCastTest",
+                "script": "[Script.7F6aGxZJjwxm5e5P]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "xjFhIjFcu1i373L1": {
+      "sourceName": "Wymund the Anchorite",
+      "preparedName": "Отшельник Вимунд",
+      "name": "Отшельник Вимунд",
+      "description": "<h4>Знак стойкости</h4><p><strong>Классическое название</strong>: Вименос</p><p><strong>Восход</strong>: Середина зимы</p><p><strong>Даты</strong>: Форхексен 12 – Форхексен 27 </p><p><strong>Бог-покровитель</strong>: Мананн</p><p><strong>Вид</strong>: Суровое лицо</p><p><strong>Бонус</strong>: +2 харизма, +2 инициатива</p><p><strong>Штраф</strong>: −3 интеллект</p><p>Люди, рожденные под светом Вимунда Отшельника терпеливы и методичны. Они предпочитают тщательно изучить каждую деталь ситуации, прежде чем решить, как действовать дальше.</p><p>Их медлительность в вынесении суждений и терпимость к слабостям других делают их добрыми, преданными друзьями — иногда в ущерб себе. Часто они прощают другим непростительное в ущерб себе. Но когда они решают, что человек больше не достоин их милости, они становятся суровыми, непримиримыми врагами.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "xjFhIjFcu1i373L1",
+        "effects": {
+          "kPIrE5q9SO3qKATX": {
+            "sourceName": "Wymund the Anchorite",
+            "name": "Отшельник Вимунд",
+            "scripts": []
+          }
+        }
+      }
+    },
+    "xruLI0215Nnbm5NX": {
+      "sourceName": "Maneater Crusher",
+      "preparedName": "Крушитель-людоед",
+      "name": "Крушитель-людоед",
+      "description": "<p>@UUID[Compendium.wfrp4e-archives2.journals.S7vMviNshIrqOuRq.JournalEntryPage.kxcmiebXRV7PPs8Y]{Людоед}</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "xruLI0215Nnbm5NX",
+        "effects": {}
+      },
+      "skills": [
+        "Атлетика",
+        "Кутёж",
+        "Хладнокровие",
+        "Уклонение",
+        "Стойкость",
+        "Азартные игры",
+        "Запугивание",
+        "Язык (боевой арго)",
+        "Рукопашный бой (основное)",
+        "Выживание",
+        "Артистизм (рёв)",
+        "Сплетничество",
+        "Знание (местные края)",
+        "Рукопашный бой (двуручное)",
+        "Стрельба (пороховое)",
+        "Рукопашный бой (любое)",
+        "Интуиция",
+        "Лидерство"
+      ],
+      "talents": [
+        "Точный выстрел",
+        "Быстрая реакция",
+        "Здоровяк",
+        "Устрашающий вид"
+      ],
+      "trappings": [
+        "Отряд наёмников",
+        "Уважение"
+      ],
+      "sourceArrays": {
+        "skills": [
+          "Athletics",
+          "Consume Alcohol",
+          "Cool",
+          "Dodge",
+          "Endurance",
+          "Gamble",
+          "Intimidate",
+          "Язык (боевой арго)",
+          "Melee (Basic)",
+          "Outdoor Survival",
+          "Entertain (Bellow)",
+          "Gossip",
+          "Lore (Local)",
+          "Melee (Two-handed)",
+          "Ranged (Blackpowder)",
+          "Melee (Any)",
+          "Intuition",
+          "Leadership"
+        ],
+        "talents": [
+          "Accurate Shot",
+          "Combat Reflexes",
+          "Hardy",
+          "Frightening"
+        ],
+        "trappings": [
+          "Unit of Mercenaries",
+          "Respect"
+        ]
+      },
+      "sourceArrayAliases": {
+        "skills": {
+          "7": [
+            "Language (Battle)"
+          ]
+        }
+      }
+    },
+    "xsDIH1uFeG9ztXx7": {
+      "sourceName": "Illusory Weapon",
+      "preparedName": "Мнимое оружие",
+      "name": "Мнимое оружие",
+      "description": "<p>Это оружие выглядит как настоящее, но не наносит никакого урона; его иногда делают для бандитов и актёров. Мнимое оружие - это обычно кинжалы, но иногда делается и более крупное. Известны даже мнимые колчаны со стрелами.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "xsDIH1uFeG9ztXx7",
+        "effects": {}
+      }
+    },
+    "y7ki6uSBiFKkooV9": {
+      "sourceName": "Onager Catapult",
+      "preparedName": "Онагр (катапульта)",
+      "name": "Онагр (катапульта)",
+      "description": "<p><strong>Расчёт</strong>:<strong> </strong>6</p><p>Аналогичен @UUID[Compendium.wfrp4e-archives2.items.YBNeaZ0Wt30jTWrD]{мангонели}, это осадное орудие использует ремень для увеличения эффективной дальности стрельбы.</p><p>* Не может использоваться на дистанции В упор..</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "y7ki6uSBiFKkooV9",
+        "effects": {}
+      }
+    },
+    "yfAXmT1CbJspQSU9": {
+      "sourceName": "Bullgorger",
+      "preparedName": "Быкожор",
+      "name": "Быкожор",
+      "description": "<p>Персонаж пожирает сердце могучего зверя, проецируя его силу на ближайшее существо. На время действия заклинания цель добавляет +2 к своему рейтингу силы при наносимом уроне или других соответствующих проявлениях силы.Однако, когда действие заклинания заканчивается, цель обнаруживает что испытывает сильный голод и ей надо немедленно наесться, иначе она почувствует @Condition[устал]{усталость}.</p><p>Если цель желает отклонить дар, она может пройти <strong> Заурядную (+20) проверку хладнокровия</strong>, чтобы проигнорировать эффекты.\n\n<p> <b>Школа:</b> Всякий раз, когда огр-мясник успешное применяет заклинания Великой пасти, съеденное им подношение может восстановить его здоровье. Совершите бросок [[/r 1d10]]. Если результат 10 или равен или превышает ПС произносимого заклинания, Мясник восстанавливает раны, равные ПС заклинания.</p>",
+      "effects": {
+        "collection": "wfrp4e-archives2.items",
+        "item": "yfAXmT1CbJspQSU9",
+        "effects": {
+          "rrRymOJIPn8XA1tK": {
+            "sourceName": "Bullgorger",
+            "name": "Быкожор",
+            "scripts": [
+              {
+                "index": 0,
+                "sourceLabel": "Bullgorger",
+                "label": "Быкожор",
+                "trigger": "deleteEffect",
+                "script": "[Script.JwgFQmPQtXWAP94i]"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "counts": {
+    "items": 107,
+    "effects": 54,
+    "scriptLabels": 46
+  }
+}

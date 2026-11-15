@@ -1,0 +1,50 @@
+{
+  "id": "wfrp4e-ru-overlay",
+  "title": "WFRP4e — Русская локализация",
+  "description": "Русская локализация WFRP4e, Core Rulebook, Archives I–III, Winds of Magic и High Elf Bundle.",
+  "version": "0.3.0-dev.39",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.368",
+    "maximum": "14"
+  },
+  "authors": [
+    {
+      "name": "WFRP4e RU project"
+    }
+  ],
+  "esmodules": [
+    "main.mjs"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {
+          "minimum": "2.9.1"
+        }
+      },
+      {
+        "id": "ru-wfrp4e",
+        "type": "module"
+      }
+    ],
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "type": "system"
+      }
+    ]
+  },
+  "languages": [
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "lang/helf-ru.json"
+    }
+  ],
+  "url": "https://github.com/chiliroglik/wfrp4e-ru-localization",
+  "manifest": "https://github.com/chiliroglik/wfrp4e-ru-localization/releases/download/v0.3.0-dev.39/module.json",
+  "download": "https://github.com/chiliroglik/wfrp4e-ru-localization/releases/download/v0.3.0-dev.39/wfrp4e-ru-overlay-0.3.0-dev.39.zip"
+}
